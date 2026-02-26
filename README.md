@@ -23,6 +23,29 @@ npx tsx src/index.ts --validate IN/
 npx tsx src/index.ts --list
 ```
 
+### Recursive Crawl
+
+Crawl all ~249 countries recursively (country → state → city), with resumable progress:
+
+```bash
+# Full crawl — all countries, max depth 3
+npx tsx src/index.ts --crawl
+
+# Crawl a single country
+npx tsx src/index.ts --crawl --country IN
+
+# Country + state only (no city)
+npx tsx src/index.ts --crawl --depth 2
+
+# Preview what would be generated
+npx tsx src/index.ts --crawl --dry-run
+
+# Check progress
+npx tsx src/index.ts --status
+```
+
+Priority countries (India, Ethiopia, Kenya) are processed first. Progress is saved to `data/progress.json` after each step — Ctrl+C to stop, re-run the same command to resume.
+
 ## Prerequisites
 
 - Node.js 18+
@@ -41,17 +64,22 @@ Generated files follow the [DIGIT Boundary Service V2](https://digit-discuss.atl
 
 ```
 data/
-├── catalog.json          # Index of all generated data
-└── IN/                   # ISO 3166-1 alpha-2 country code
+├── catalog.json                    # Index of all generated data
+├── progress.json                   # Crawl progress (resumable)
+└── IN/                             # ISO 3166-1 alpha-2 country code
     ├── metadata.json
     ├── hierarchy-definition.json
     ├── boundaries-flat.json
     ├── boundary-relationships.json
-    └── KA/               # ISO 3166-2 state code
+    ├── boundaries-polygons.geojson  # Polygon shapes (geoBoundaries)
+    ├── boundaries-polygons.shp.zip  # Shapefile ZIP
+    └── KA/                          # ISO 3166-2 state code
         ├── metadata.json
         ├── boundaries-flat.json
         ├── boundary-relationships.json
-        └── BLR/           # City code
+        ├── boundaries-polygons.geojson
+        ├── boundaries-polygons.shp.zip
+        └── BLR/                     # City code
             ├── metadata.json
             ├── boundaries-flat.json
             └── boundary-relationships.json

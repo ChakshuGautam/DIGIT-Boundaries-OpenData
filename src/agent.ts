@@ -11,7 +11,8 @@ import { getCountryPrompt } from "./prompts/scrape-country.js";
 import { getStatePrompt } from "./prompts/scrape-state.js";
 import { getCityPrompt } from "./prompts/scrape-city.js";
 import { updateCatalog } from "./catalog.js";
-import type { Level, GenerateOptions } from "./types.js";
+import type { Level, GenerateOptions, GenerateResult, BoundaryEntity } from "./types.js";
+import fs from "node:fs/promises";
 
 const MODEL = process.env.AGENT_MODEL ?? "claude-sonnet-4-5-20250929";
 const DATA_DIR = path.resolve(import.meta.dirname ?? ".", "../data");
@@ -50,7 +51,7 @@ function buildPrompt(opts: GenerateOptions): string {
   }
 }
 
-export async function generate(opts: GenerateOptions): Promise<void> {
+export async function generate(opts: GenerateOptions): Promise<GenerateResult> {
   logInfo(`Generating ${opts.level}-level boundaries for "${opts.target}"...`);
   logInfo(`Model: ${MODEL}`);
   logInfo(`Data directory: ${DATA_DIR}`);
@@ -114,4 +115,28 @@ export async function generate(opts: GenerateOptions): Promise<void> {
     console.log("\n--- Agent Summary ---");
     console.log(result.text);
   }
+
+  // Count boundaries from generated data
+  let boundaryCount = 0;
+  try {
+    // Scan data dir for the most recently modified boundaries-flat.json
+    const entries = await fs.readdir(DATA_DIR, { withFileTypes: true, recursive: true });
+    for (const entry of entries) {
+      if (entry.name === "boundaries-flat.json") {
+        const fullPath = path.join(entry.parentPath ?? entry.path, entry.name);
+        const raw = await fs.readFile(fullPath, "utf-8");
+        const arr = JSON.parse(raw) as BoundaryEntity[];
+        if (Array.isArray(arr)) boundaryCount = Math.max(boundaryCount, arr.length);
+      }
+    }
+  } catch {
+    // best effort
+  }
+
+  return {
+    costUsd: result.costUsd,
+    durationMs: result.durationMs,
+    numTurns: result.numTurns,
+    boundaryCount,
+  };
 }

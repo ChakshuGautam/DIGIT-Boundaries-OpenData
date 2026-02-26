@@ -27,6 +27,21 @@ npx tsx src/index.ts --validate IN/KA
 
 # List all generated data
 npx tsx src/index.ts --list
+
+# Recursive crawl — all countries, depth 3
+npx tsx src/index.ts --crawl
+
+# Crawl single country
+npx tsx src/index.ts --crawl --country IN
+
+# Crawl with limited depth (1=country, 2=+state, 3=+city)
+npx tsx src/index.ts --crawl --depth 2
+
+# Dry run — show what would be generated
+npx tsx src/index.ts --crawl --dry-run
+
+# Show crawl progress
+npx tsx src/index.ts --status
 ```
 
 ## Code Conventions
@@ -48,6 +63,12 @@ Each level produces:
 | File | Purpose |
 |------|---------|
 | `src/agent.ts` | Core agent — builds prompt, calls `query()`, parses output |
+| `src/crawl.ts` | Recursive crawl orchestrator |
+| `src/progress.ts` | Progress tracker (`data/progress.json`) |
+| `src/discover.ts` | Child boundary discovery from relationships |
+| `src/shapes.ts` | Polygon downloader (geoBoundaries / GADM) |
+| `src/countries.ts` | ISO 3166-1 country list with alpha-2/alpha-3 codes |
+| `src/status.ts` | Crawl progress display |
 | `src/prompts/system-prompt.ts` | DIGIT format rules, source priorities |
 | `src/prompts/scrape-*.ts` | Level-specific prompt templates |
 | `src/helpers.ts` | SDK message parsing |
@@ -55,3 +76,4 @@ Each level produces:
 | `src/catalog.ts` | Manages `data/catalog.json` |
 | `src/validate.ts` | Post-generation validation |
 | `data/catalog.json` | Index of all generated data |
+| `data/progress.json` | Crawl progress state (resumable) |

@@ -97,3 +97,14 @@ export interface GenerateOptions {
 export interface ValidateOptions {
   path: string;
 }
+
+// ---------------------------------------------------------------------------
+// Generation result (returned by agent)
+// ---------------------------------------------------------------------------
+
+export interface GenerateResult {
+  costUsd: number;
+  durationMs: number;
+  numTurns: number;
+  boundaryCount: number;
+}
