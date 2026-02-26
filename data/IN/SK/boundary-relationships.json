@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "in.sikkim",
+    "code": "IN_SK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IN"
+  },
+  {
+    "tenantId": "in.sikkim.east",
+    "code": "SK_EAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IN_SK"
+  },
+  {
+    "tenantId": "in.sikkim.south",
+    "code": "SK_SOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IN_SK"
+  },
+  {
+    "tenantId": "in.sikkim.north",
+    "code": "SK_NOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IN_SK"
+  },
+  {
+    "tenantId": "in.sikkim.west",
+    "code": "SK_WES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IN_SK"
+  }
+]

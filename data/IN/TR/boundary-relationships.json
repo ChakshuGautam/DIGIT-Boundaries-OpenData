@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "in.tripura",
+    "code": "IN_TR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IN"
+  },
+  {
+    "tenantId": "in.tripura.dhalai",
+    "code": "TR_DHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IN_TR"
+  },
+  {
+    "tenantId": "in.tripura.northtripura",
+    "code": "TR_NTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IN_TR"
+  },
+  {
+    "tenantId": "in.tripura.southtripura",
+    "code": "TR_STR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IN_TR"
+  },
+  {
+    "tenantId": "in.tripura.westtripura",
+    "code": "TR_WTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IN_TR"
+  }
+]

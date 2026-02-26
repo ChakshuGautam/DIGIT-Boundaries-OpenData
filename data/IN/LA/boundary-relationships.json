@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "in.ladakh",
+    "code": "IN_LA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IN"
+  },
+  {
+    "tenantId": "in.ladakh.leh",
+    "code": "IN_LA_LEH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IN_LA"
+  },
+  {
+    "tenantId": "in.ladakh.kargil",
+    "code": "IN_LA_KAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IN_LA"
+  }
+]

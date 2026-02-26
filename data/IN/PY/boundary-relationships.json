@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "in.puducherry",
+    "code": "IN_PY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IN"
+  },
+  {
+    "tenantId": "in.puducherry.yanam",
+    "code": "PY_YAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IN_PY"
+  },
+  {
+    "tenantId": "in.puducherry.karaikal",
+    "code": "PY_KAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IN_PY"
+  },
+  {
+    "tenantId": "in.puducherry.mahe",
+    "code": "PY_MAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IN_PY"
+  },
+  {
+    "tenantId": "in.puducherry.puducherry",
+    "code": "PY_PUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IN_PY"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "in.damananddiu",
+    "code": "IN_DD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IN"
+  },
+  {
+    "tenantId": "in.damananddiu.daman",
+    "code": "DD_DAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IN_DD"
+  },
+  {
+    "tenantId": "in.damananddiu.diu",
+    "code": "DD_DIU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IN_DD"
+  }
+]
