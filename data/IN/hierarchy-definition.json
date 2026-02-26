@@ -1,0 +1,26 @@
+{
+  "tenantId": "in",
+  "hierarchyType": "ADMIN",
+  "boundaryHierarchy": [
+    {
+      "boundaryType": "Country",
+      "parentBoundaryType": null,
+      "active": true
+    },
+    {
+      "boundaryType": "State",
+      "parentBoundaryType": "Country",
+      "active": true
+    },
+    {
+      "boundaryType": "District",
+      "parentBoundaryType": "State",
+      "active": true
+    },
+    {
+      "boundaryType": "City",
+      "parentBoundaryType": "District",
+      "active": true
+    }
+  ]
+}
