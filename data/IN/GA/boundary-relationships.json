@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "in.goa",
+    "code": "IN_GA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IN"
+  },
+  {
+    "tenantId": "in.goa.northgoa",
+    "code": "IN_GA_NGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IN_GA"
+  },
+  {
+    "tenantId": "in.goa.southgoa",
+    "code": "IN_GA_SGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IN_GA"
+  }
+]

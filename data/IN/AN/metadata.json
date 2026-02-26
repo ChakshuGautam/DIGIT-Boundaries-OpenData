@@ -1,0 +1,62 @@
+{
+  "name": "Andaman and Nicobar Islands",
+  "code": "IN_AN",
+  "level": "state",
+  "isoCode": "IN-AN",
+  "parentCode": "IN",
+  "tenantId": "in.andamanandnicobarislands",
+  "generatedAt": "2026-02-26T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "Wikipedia - List of districts of the Andaman and Nicobar Islands",
+      "url": "https://en.wikipedia.org/wiki/List_of_districts_of_the_Andaman_and_Nicobar_Islands",
+      "accessedAt": "2026-02-26T00:00:00.000Z"
+    },
+    {
+      "name": "Wikipedia - Andaman and Nicobar Islands",
+      "url": "https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands",
+      "accessedAt": "2026-02-26T00:00:00.000Z"
+    },
+    {
+      "name": "Wikipedia - ISO 3166-2:IN",
+      "url": "https://en.wikipedia.org/wiki/ISO_3166-2:IN",
+      "accessedAt": "2026-02-26T00:00:00.000Z"
+    },
+    {
+      "name": "Maps of India - Port Blair Coordinates",
+      "url": "https://www.mapsofindia.com/lat_long/andaman-and-nicobar-islands/port-blair.html",
+      "accessedAt": "2026-02-26T00:00:00.000Z"
+    },
+    {
+      "name": "Maps of India - Mayabunder Coordinates",
+      "url": "https://www.mapsofindia.com/lat_long/andaman-and-nicobar-islands/mayabunder.html",
+      "accessedAt": "2026-02-26T00:00:00.000Z"
+    },
+    {
+      "name": "Maps of India - Car Nicobar Coordinates",
+      "url": "https://www.mapsofindia.com/lat_long/andaman-and-nicobar-islands/car-nicobar.html",
+      "accessedAt": "2026-02-26T00:00:00.000Z"
+    }
+  ],
+  "districtCount": 3,
+  "districts": [
+    {
+      "name": "North and Middle Andaman",
+      "code": "IN_AN_NMA",
+      "headquarters": "Mayabunder",
+      "tenantId": "in.andamanandnicobarislands.northandmiddleandaman"
+    },
+    {
+      "name": "South Andaman",
+      "code": "IN_AN_SA",
+      "headquarters": "Port Blair",
+      "tenantId": "in.andamanandnicobarislands.southandaman"
+    },
+    {
+      "name": "Nicobar",
+      "code": "IN_AN_NIC",
+      "headquarters": "Car Nicobar",
+      "tenantId": "in.andamanandnicobarislands.nicobar"
+    }
+  ]
+}

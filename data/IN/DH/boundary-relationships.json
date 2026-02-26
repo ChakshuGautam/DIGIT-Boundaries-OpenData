@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "in.dadraandnagarhaveliandamananddiu",
+    "code": "IN_DH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "UnionTerritory",
+    "parent": "IN"
+  },
+  {
+    "tenantId": "in.dadraandnagarhaveliandamananddiu.dadraandnagarhaveli",
+    "code": "IN_DH_DNH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IN_DH"
+  },
+  {
+    "tenantId": "in.dadraandnagarhaveliandamananddiu.daman",
+    "code": "IN_DH_DMN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IN_DH"
+  },
+  {
+    "tenantId": "in.dadraandnagarhaveliandamananddiu.diu",
+    "code": "IN_DH_DIU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IN_DH"
+  }
+]

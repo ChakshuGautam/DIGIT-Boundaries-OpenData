@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "in.chandigarh",
+    "code": "IN_CH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "UnionTerritory",
+    "parent": "IN"
+  },
+  {
+    "tenantId": "in.chandigarh.central",
+    "code": "IN_CH_CEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Subdivision",
+    "parent": "IN_CH"
+  },
+  {
+    "tenantId": "in.chandigarh.east",
+    "code": "IN_CH_EST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Subdivision",
+    "parent": "IN_CH"
+  },
+  {
+    "tenantId": "in.chandigarh.south",
+    "code": "IN_CH_STH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Subdivision",
+    "parent": "IN_CH"
+  }
+]
