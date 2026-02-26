@@ -289,21 +289,6 @@ def main():
 
         state_name, state_tenant = state_info
 
-        # Check if already has agent-generated data (with sources)
-        meta_path = os.path.join(state_dir, "metadata.json")
-        if os.path.exists(meta_path):
-            try:
-                with open(meta_path) as f:
-                    meta = json.load(f)
-                sources = meta.get("sources", [])
-                # If has multiple sources (agent-generated), skip
-                if len(sources) > 1:
-                    print(f"  SKIP {state_iso} ({state_name}): already has agent-generated data")
-                    skipped_existing += 1
-                    continue
-            except (json.JSONDecodeError, KeyError):
-                pass
-
         # Find district GeoJSON
         district_dir = os.path.join(DATAMEET_SHAPES, "state_ut", folder_name, "district")
         if not os.path.isdir(district_dir):
@@ -366,7 +351,7 @@ def main():
             continue
 
         # Read per-state district file
-        json_files = [f for f in os.listdir(district_dir) if f.endswith(".json")]
+        json_files = [f for f in os.listdir(district_dir) if f.endswith(".json") or f.endswith(".geojson")]
         if not json_files:
             print(f"  SKIP {state_iso} ({state_name}): no JSON in district dir")
             skipped_nodata += 1

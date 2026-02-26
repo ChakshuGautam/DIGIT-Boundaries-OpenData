@@ -3,28 +3,14 @@
     "tenantId": "in.chandigarh",
     "code": "IN_CH",
     "hierarchyType": "ADMIN",
-    "boundaryType": "UnionTerritory",
+    "boundaryType": "State",
     "parent": "IN"
   },
   {
-    "tenantId": "in.chandigarh.central",
-    "code": "IN_CH_CEN",
+    "tenantId": "in.chandigarh.chandigarh",
+    "code": "CH_CHA",
     "hierarchyType": "ADMIN",
-    "boundaryType": "Subdivision",
-    "parent": "IN_CH"
-  },
-  {
-    "tenantId": "in.chandigarh.east",
-    "code": "IN_CH_EST",
-    "hierarchyType": "ADMIN",
-    "boundaryType": "Subdivision",
-    "parent": "IN_CH"
-  },
-  {
-    "tenantId": "in.chandigarh.south",
-    "code": "IN_CH_STH",
-    "hierarchyType": "ADMIN",
-    "boundaryType": "Subdivision",
+    "boundaryType": "District",
     "parent": "IN_CH"
   }
 ]
