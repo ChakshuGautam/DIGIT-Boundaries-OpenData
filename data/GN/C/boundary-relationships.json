@@ -1,0 +1,51 @@
+[
+  {
+    "tenantId": "guinea.conakry",
+    "code": "GN_C",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GN"
+  },
+  {
+    "tenantId": "guinea.conakry.conakry",
+    "code": "GN_C_CONA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GN_C"
+  },
+  {
+    "tenantId": "guinea.conakry.conakry.dixinn",
+    "code": "GN_C_CONA_DIXI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_C_CONA"
+  },
+  {
+    "tenantId": "guinea.conakry.conakry.kaloum",
+    "code": "GN_C_CONA_KALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_C_CONA"
+  },
+  {
+    "tenantId": "guinea.conakry.conakry.matam",
+    "code": "GN_C_CONA_MATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_C_CONA"
+  },
+  {
+    "tenantId": "guinea.conakry.conakry.ratoma",
+    "code": "GN_C_CONA_RATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_C_CONA"
+  },
+  {
+    "tenantId": "guinea.conakry.conakry.matoto",
+    "code": "GN_C_CONA_MATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_C_CONA"
+  }
+]

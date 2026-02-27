@@ -1,0 +1,58 @@
+[
+  {
+    "tenantId": "france.corse",
+    "code": "FR_20R",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "FR"
+  },
+  {
+    "tenantId": "france.corse.corsedusud",
+    "code": "FR_20R_CORS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_20R"
+  },
+  {
+    "tenantId": "france.corse.hautecorse",
+    "code": "FR_20R_HAUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_20R"
+  },
+  {
+    "tenantId": "france.corse.corsedusud.sartne",
+    "code": "FR_20R_CORS_SART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_20R_CORS"
+  },
+  {
+    "tenantId": "france.corse.corsedusud.ajaccio",
+    "code": "FR_20R_CORS_AJAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_20R_CORS"
+  },
+  {
+    "tenantId": "france.corse.hautecorse.bastia",
+    "code": "FR_20R_HAUT_BAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_20R_HAUT"
+  },
+  {
+    "tenantId": "france.corse.hautecorse.corte",
+    "code": "FR_20R_HAUT_CORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_20R_HAUT"
+  },
+  {
+    "tenantId": "france.corse.hautecorse.calvi",
+    "code": "FR_20R_HAUT_CALV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_20R_HAUT"
+  }
+]

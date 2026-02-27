@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "pakistan.islamabadcapitalterritory",
+    "code": "PK_IS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PK"
+  },
+  {
+    "tenantId": "pakistan.islamabadcapitalterritory.islamabadcapitalterritory",
+    "code": "PK_IS_ICT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PK_IS"
+  },
+  {
+    "tenantId": "pakistan.islamabadcapitalterritory.islamabadcapitalterritory.islamabad",
+    "code": "PK_IS_ICT_ISLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Tehsil",
+    "parent": "PK_IS_ICT"
+  }
+]

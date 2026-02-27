@@ -1,0 +1,65 @@
+[
+  {
+    "tenantId": "centralafricanrepublic.sanghambar",
+    "code": "CF_HS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CF"
+  },
+  {
+    "tenantId": "centralafricanrepublic.sanghambar.bambio",
+    "code": "CF_HS_BAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CF_HS"
+  },
+  {
+    "tenantId": "centralafricanrepublic.sanghambar.bayanga",
+    "code": "CF_HS_BAYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CF_HS"
+  },
+  {
+    "tenantId": "centralafricanrepublic.sanghambar.nola",
+    "code": "CF_HS_NOLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CF_HS"
+  },
+  {
+    "tenantId": "centralafricanrepublic.sanghambar.bambio.mbaere",
+    "code": "CF_HS_BAMB_MBAE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CF_HS_BAMB"
+  },
+  {
+    "tenantId": "centralafricanrepublic.sanghambar.bayanga.yobesangha",
+    "code": "CF_HS_BAYA_YOBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CF_HS_BAYA"
+  },
+  {
+    "tenantId": "centralafricanrepublic.sanghambar.nola.bilolo",
+    "code": "CF_HS_NOLA_BILO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CF_HS_NOLA"
+  },
+  {
+    "tenantId": "centralafricanrepublic.sanghambar.nola.salo",
+    "code": "CF_HS_NOLA_SALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CF_HS_NOLA"
+  },
+  {
+    "tenantId": "centralafricanrepublic.sanghambar.nola.nola",
+    "code": "CF_HS_NOLA_NOLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CF_HS_NOLA"
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "tenantId": "sweden.norrbottensln",
+    "code": "SE_BD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SE"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.kiruna",
+    "code": "SE_BD_KIRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_BD"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.pajala",
+    "code": "SE_BD_PAJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_BD"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.arjeplog",
+    "code": "SE_BD_ARJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_BD"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.vertorne",
+    "code": "SE_BD_VER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_BD"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.haparanda",
+    "code": "SE_BD_HAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_BD"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.kalix",
+    "code": "SE_BD_KALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_BD"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.verkalix",
+    "code": "SE_BD_VER2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_BD"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.lvsbyn",
+    "code": "SE_BD_LVS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_BD"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.pite",
+    "code": "SE_BD_PITE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_BD"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.lule",
+    "code": "SE_BD_LULE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_BD"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.boden",
+    "code": "SE_BD_BODE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_BD"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.gllivare",
+    "code": "SE_BD_GLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_BD"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.jokkmokk",
+    "code": "SE_BD_JOKK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_BD"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.arvidsjaur",
+    "code": "SE_BD_ARVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_BD"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.kiruna.vittangi",
+    "code": "SE_BD_KIRU_VITT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_KIRU"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.kiruna.jukkasjrvi",
+    "code": "SE_BD_KIRU_JUKK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_KIRU"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.kiruna.karesuando",
+    "code": "SE_BD_KIRU_KARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_KIRU"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.pajala.muonionalusta",
+    "code": "SE_BD_PAJA_MUON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_PAJA"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.pajala.junosuando",
+    "code": "SE_BD_PAJA_JUNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_PAJA"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.pajala.pajala",
+    "code": "SE_BD_PAJA_PAJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_PAJA"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.pajala.trend",
+    "code": "SE_BD_PAJA_TR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_PAJA"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.pajala.korpilombolo",
+    "code": "SE_BD_PAJA_KORP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_PAJA"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.arjeplog.arjeplog",
+    "code": "SE_BD_ARJE_ARJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_ARJE"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.vertorne.svanstein",
+    "code": "SE_BD_VER_SVAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_VER"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.vertorne.hietaniemi",
+    "code": "SE_BD_VER_HIET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_VER"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.vertorne.svanstein",
+    "code": "SE_BD_VER_SVAN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_VER"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.vertorne.vertorne",
+    "code": "SE_BD_VER_VE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_VER"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.vertorne.hietaniemi",
+    "code": "SE_BD_VER_HIET2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_VER"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.haparanda.karlgustav",
+    "code": "SE_BD_HAPA_KAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_HAPA"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.haparanda.nedertornehaparanda",
+    "code": "SE_BD_HAPA_NEDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_HAPA"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.kalix.tre",
+    "code": "SE_BD_KALI_TR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_KALI"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.kalix.nederkalix",
+    "code": "SE_BD_KALI_NEDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_KALI"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.kalix.rnset",
+    "code": "SE_BD_KALI_RN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_KALI"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.verkalix.verkalix",
+    "code": "SE_BD_VER2_VE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_VER2"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.lvsbyn.lvsby",
+    "code": "SE_BD_LVS_LV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_LVS"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.pite.norrfjrden",
+    "code": "SE_BD_PITE_NORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_PITE"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.pite.pitelandsdistrikt",
+    "code": "SE_BD_PITE_PILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_PITE"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.pite.pitelandsdistrikt",
+    "code": "SE_BD_PITE_PILA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_PITE"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.pite.pitestadsdistrikt",
+    "code": "SE_BD_PITE_PIST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_PITE"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.pite.hortlax",
+    "code": "SE_BD_PITE_HORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_PITE"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.pite.pitestadsdistrikt",
+    "code": "SE_BD_PITE_PIST2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_PITE"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.lule.rne",
+    "code": "SE_BD_LULE_RN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_LULE"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.lule.nederlule",
+    "code": "SE_BD_LULE_NEDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_LULE"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.lule.luledomkyrkodistrikt",
+    "code": "SE_BD_LULE_LUDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_LULE"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.lule.rnset",
+    "code": "SE_BD_LULE_RN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_LULE"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.lule.pitestadsdistrikt",
+    "code": "SE_BD_LULE_PIST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_LULE"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.lule.pitestadsdistrikt",
+    "code": "SE_BD_LULE_PIST2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_LULE"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.boden.gunnarsbyn",
+    "code": "SE_BD_BODE_GUNN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_BODE"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.boden.edefors",
+    "code": "SE_BD_BODE_EDEF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_BODE"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.boden.verlule",
+    "code": "SE_BD_BODE_VE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_BODE"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.boden.svast",
+    "code": "SE_BD_BODE_SV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_BODE"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.gllivare.gllivare",
+    "code": "SE_BD_GLL_GL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_GLL"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.gllivare.nilivaara",
+    "code": "SE_BD_GLL_NILI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_GLL"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.gllivare.malmberget",
+    "code": "SE_BD_GLL_MALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_GLL"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.gllivare.hakkas",
+    "code": "SE_BD_GLL_HAKK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_GLL"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.jokkmokk.porjus",
+    "code": "SE_BD_JOKK_PORJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_JOKK"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.jokkmokk.jokkmokk",
+    "code": "SE_BD_JOKK_JOKK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_JOKK"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.jokkmokk.vuollerim",
+    "code": "SE_BD_JOKK_VUOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_JOKK"
+  },
+  {
+    "tenantId": "sweden.norrbottensln.arvidsjaur.arvidsjaur",
+    "code": "SE_BD_ARVI_ARVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_BD_ARVI"
+  }
+]

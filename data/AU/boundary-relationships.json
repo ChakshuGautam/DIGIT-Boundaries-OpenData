@@ -1,0 +1,72 @@
+[
+  {
+    "tenantId": "australia",
+    "code": "AU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "australia.newsouthwales",
+    "code": "AU_NSW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "AU"
+  },
+  {
+    "tenantId": "australia.victoria",
+    "code": "AU_VIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "AU"
+  },
+  {
+    "tenantId": "australia.queensland",
+    "code": "AU_QLD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "AU"
+  },
+  {
+    "tenantId": "australia.southaustralia",
+    "code": "AU_SA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "AU"
+  },
+  {
+    "tenantId": "australia.westernaustralia",
+    "code": "AU_WA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "AU"
+  },
+  {
+    "tenantId": "australia.tasmania",
+    "code": "AU_TAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "AU"
+  },
+  {
+    "tenantId": "australia.northernterritory",
+    "code": "AU_NT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "AU"
+  },
+  {
+    "tenantId": "australia.australiancapitalterritory",
+    "code": "AU_ACT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "AU"
+  },
+  {
+    "tenantId": "australia.otherterritories",
+    "code": "AU_OTTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "AU"
+  }
+]

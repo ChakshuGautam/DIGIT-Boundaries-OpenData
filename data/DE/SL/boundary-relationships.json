@@ -1,0 +1,58 @@
+[
+  {
+    "tenantId": "germany.saarland",
+    "code": "DE_SL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "DE"
+  },
+  {
+    "tenantId": "germany.saarland.saarland",
+    "code": "DE_SL_SAAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DE_SL"
+  },
+  {
+    "tenantId": "germany.saarland.saarland.regionalverbandsaarbrcken",
+    "code": "DE_SL_SAAR_RESA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_SL_SAAR"
+  },
+  {
+    "tenantId": "germany.saarland.saarland.merzigwadern",
+    "code": "DE_SL_SAAR_MERZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_SL_SAAR"
+  },
+  {
+    "tenantId": "germany.saarland.saarland.neunkirchen",
+    "code": "DE_SL_SAAR_NEUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_SL_SAAR"
+  },
+  {
+    "tenantId": "germany.saarland.saarland.saarlouis",
+    "code": "DE_SL_SAAR_SAAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_SL_SAAR"
+  },
+  {
+    "tenantId": "germany.saarland.saarland.saarpfalzkreis",
+    "code": "DE_SL_SAAR_SAAR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_SL_SAAR"
+  },
+  {
+    "tenantId": "germany.saarland.saarland.stwendel",
+    "code": "DE_SL_SAAR_STWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_SL_SAAR"
+  }
+]

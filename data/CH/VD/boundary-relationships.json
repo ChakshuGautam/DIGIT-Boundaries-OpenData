@@ -1,0 +1,2312 @@
+[
+  {
+    "tenantId": "switzerland.vaud",
+    "code": "CH_VD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CH"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve",
+    "code": "CH_VD_GEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_VD"
+  },
+  {
+    "tenantId": "switzerland.vaud.aigle",
+    "code": "CH_VD_AIGL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_VD"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud",
+    "code": "CH_VD_GROS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_VD"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois",
+    "code": "CH_VD_JUVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_VD"
+  },
+  {
+    "tenantId": "switzerland.vaud.lausanne",
+    "code": "CH_VD_LAUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_VD"
+  },
+  {
+    "tenantId": "switzerland.vaud.lavauxoron",
+    "code": "CH_VD_LAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_VD"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges",
+    "code": "CH_VD_MORG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_VD"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon",
+    "code": "CH_VD_NYON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_VD"
+  },
+  {
+    "tenantId": "switzerland.vaud.ouestlausannois",
+    "code": "CH_VD_OULA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_VD"
+  },
+  {
+    "tenantId": "switzerland.vaud.paysdenhaut",
+    "code": "CH_VD_PAYS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_VD"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.satigny",
+    "code": "CH_VD_GEN_SATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.versoix",
+    "code": "CH_VD_GEN_VERS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.bernex",
+    "code": "CH_VD_GEN_BERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.jussy",
+    "code": "CH_VD_GEN_JUSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.collongebellerive",
+    "code": "CH_VD_GEN_COLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.meyrin",
+    "code": "CH_VD_GEN_MEYR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.anires",
+    "code": "CH_VD_GEN_ANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.dardagny",
+    "code": "CH_VD_GEN_DARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.cligny",
+    "code": "CH_VD_GEN_CLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.vernier",
+    "code": "CH_VD_GEN_VERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.cologny",
+    "code": "CH_VD_GEN_COLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.meinier",
+    "code": "CH_VD_GEN_MEIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.collexbossy",
+    "code": "CH_VD_GEN_COLL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.veyrier",
+    "code": "CH_VD_GEN_VEYR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.bellevue",
+    "code": "CH_VD_GEN_BELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.pregnychambsy",
+    "code": "CH_VD_GEN_PREG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.planlesouates",
+    "code": "CH_VD_GEN_PLAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.chancy",
+    "code": "CH_VD_GEN_CHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.genthod",
+    "code": "CH_VD_GEN_GENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.avusy",
+    "code": "CH_VD_GEN_AVUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.bardonnex",
+    "code": "CH_VD_GEN_BARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.russin",
+    "code": "CH_VD_GEN_RUSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.hermance",
+    "code": "CH_VD_GEN_HERM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.lancy",
+    "code": "CH_VD_GEN_LANC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.presinge",
+    "code": "CH_VD_GEN_PRES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.avully",
+    "code": "CH_VD_GEN_AVUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.vandoeuvres",
+    "code": "CH_VD_GEN_VAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.cartigny",
+    "code": "CH_VD_GEN_CART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.legrandsaconnex",
+    "code": "CH_VD_GEN_LEGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.corsierge",
+    "code": "CH_VD_GEN_COG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.chnebougeries",
+    "code": "CH_VD_GEN_CHN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.choulex",
+    "code": "CH_VD_GEN_CHOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.laconnex",
+    "code": "CH_VD_GEN_LACO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.thnex",
+    "code": "CH_VD_GEN_THN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.troinex",
+    "code": "CH_VD_GEN_TROI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.soral",
+    "code": "CH_VD_GEN_SORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.airelaville",
+    "code": "CH_VD_GEN_AIRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.onex",
+    "code": "CH_VD_GEN_ONEX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.confignon",
+    "code": "CH_VD_GEN_CONF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.puplinge",
+    "code": "CH_VD_GEN_PUPL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.perlycertoux",
+    "code": "CH_VD_GEN_PERL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.chnebourg",
+    "code": "CH_VD_GEN_CHN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.cligny",
+    "code": "CH_VD_GEN_CLI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.genve",
+    "code": "CH_VD_GEN_GEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.carougege",
+    "code": "CH_VD_GEN_CAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.genve.gy",
+    "code": "CH_VD_GEN_GY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GEN"
+  },
+  {
+    "tenantId": "switzerland.vaud.aigle.bex",
+    "code": "CH_VD_AIGL_BEX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_AIGL"
+  },
+  {
+    "tenantId": "switzerland.vaud.aigle.ormontdessous",
+    "code": "CH_VD_AIGL_ORMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_AIGL"
+  },
+  {
+    "tenantId": "switzerland.vaud.aigle.ormontdessus",
+    "code": "CH_VD_AIGL_ORMO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_AIGL"
+  },
+  {
+    "tenantId": "switzerland.vaud.aigle.ollon",
+    "code": "CH_VD_AIGL_OLLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_AIGL"
+  },
+  {
+    "tenantId": "switzerland.vaud.aigle.villeneuvevd",
+    "code": "CH_VD_AIGL_VIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_AIGL"
+  },
+  {
+    "tenantId": "switzerland.vaud.aigle.corbeyrier",
+    "code": "CH_VD_AIGL_CORB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_AIGL"
+  },
+  {
+    "tenantId": "switzerland.vaud.aigle.noville",
+    "code": "CH_VD_AIGL_NOVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_AIGL"
+  },
+  {
+    "tenantId": "switzerland.vaud.aigle.leysin",
+    "code": "CH_VD_AIGL_LEYS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_AIGL"
+  },
+  {
+    "tenantId": "switzerland.vaud.aigle.aigle",
+    "code": "CH_VD_AIGL_AIGL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_AIGL"
+  },
+  {
+    "tenantId": "switzerland.vaud.aigle.gryon",
+    "code": "CH_VD_AIGL_GRYO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_AIGL"
+  },
+  {
+    "tenantId": "switzerland.vaud.aigle.laveymorcles",
+    "code": "CH_VD_AIGL_LAVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_AIGL"
+  },
+  {
+    "tenantId": "switzerland.vaud.aigle.yvorne",
+    "code": "CH_VD_AIGL_YVOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_AIGL"
+  },
+  {
+    "tenantId": "switzerland.vaud.aigle.rochevd",
+    "code": "CH_VD_AIGL_ROV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_AIGL"
+  },
+  {
+    "tenantId": "switzerland.vaud.aigle.chessel",
+    "code": "CH_VD_AIGL_CHES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_AIGL"
+  },
+  {
+    "tenantId": "switzerland.vaud.aigle.rennaz",
+    "code": "CH_VD_AIGL_RENN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_AIGL"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.montanaire",
+    "code": "CH_VD_GROS_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.joratmenthue",
+    "code": "CH_VD_GROS_JORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.montilliez",
+    "code": "CH_VD_GROS_MONT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.goumons",
+    "code": "CH_VD_GROS_GOUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.essertinessuryverdon",
+    "code": "CH_VD_GROS_ESSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.vuarrens",
+    "code": "CH_VD_GROS_VUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.assens",
+    "code": "CH_VD_GROS_ASSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.fey",
+    "code": "CH_VD_GROS_FEY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.villarsleterroir",
+    "code": "CH_VD_GROS_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.froideville",
+    "code": "CH_VD_GROS_FROI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.bottens",
+    "code": "CH_VD_GROS_BOTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.echallens",
+    "code": "CH_VD_GROS_ECHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.oulenssousechallens",
+    "code": "CH_VD_GROS_OULE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.pailly",
+    "code": "CH_VD_GROS_PAIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.penthraz",
+    "code": "CH_VD_GROS_PENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.daillens",
+    "code": "CH_VD_GROS_DAIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.vufflenslaville",
+    "code": "CH_VD_GROS_VUFF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.poliezpittet",
+    "code": "CH_VD_GROS_POLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.bercher",
+    "code": "CH_VD_GROS_BERC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.saintbarthlemyvd",
+    "code": "CH_VD_GROS_SAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.bournens",
+    "code": "CH_VD_GROS_BOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.sullens",
+    "code": "CH_VD_GROS_SULL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.penthalaz",
+    "code": "CH_VD_GROS_PENT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.penthaz",
+    "code": "CH_VD_GROS_PENT3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.etagnires",
+    "code": "CH_VD_GROS_ETAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.bettens",
+    "code": "CH_VD_GROS_BETT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.lusseryvillars",
+    "code": "CH_VD_GROS_LUSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.morrensvd",
+    "code": "CH_VD_GROS_MOV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.oppens",
+    "code": "CH_VD_GROS_OPPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.boulens",
+    "code": "CH_VD_GROS_BOUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.ogens",
+    "code": "CH_VD_GROS_OGEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.boussens",
+    "code": "CH_VD_GROS_BOUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.cugyvd",
+    "code": "CH_VD_GROS_CUV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.bretignysurmorrens",
+    "code": "CH_VD_GROS_BRET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.mexvd",
+    "code": "CH_VD_GROS_MEV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.grosdevaud.rueyres",
+    "code": "CH_VD_GROS_RUEY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_GROS"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.lechenit",
+    "code": "CH_VD_JUVA_LECH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.saintecroix",
+    "code": "CH_VD_JUVA_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.labbaye",
+    "code": "CH_VD_JUVA_LAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.lelieu",
+    "code": "CH_VD_JUVA_LELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.provence",
+    "code": "CH_VD_JUVA_PROV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.vallorbe",
+    "code": "CH_VD_JUVA_VALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.baulmes",
+    "code": "CH_VD_JUVA_BAUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.concise",
+    "code": "CH_VD_JUVA_CONC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.yvonand",
+    "code": "CH_VD_JUVA_YVON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.chavornay",
+    "code": "CH_VD_JUVA_CHAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.bullet",
+    "code": "CH_VD_JUVA_BULL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.yverdonlesbains",
+    "code": "CH_VD_JUVA_YVER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.tvenon",
+    "code": "CH_VD_JUVA_TVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.cheseauxnoraz",
+    "code": "CH_VD_JUVA_CHES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.grandson",
+    "code": "CH_VD_JUVA_GRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.vaulion",
+    "code": "CH_VD_JUVA_VAUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.orbe",
+    "code": "CH_VD_JUVA_ORBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.lignerolle",
+    "code": "CH_VD_JUVA_LIGN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.rances",
+    "code": "CH_VD_JUVA_RANC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.juriens",
+    "code": "CH_VD_JUVA_JURI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.bavois",
+    "code": "CH_VD_JUVA_BAVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.ballaigues",
+    "code": "CH_VD_JUVA_BALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.champvent",
+    "code": "CH_VD_JUVA_CHAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.donneloye",
+    "code": "CH_VD_JUVA_DONN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.corcellesprsconcise",
+    "code": "CH_VD_JUVA_CORC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.bonvillars",
+    "code": "CH_VD_JUVA_BONV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.fontainessurgrandson",
+    "code": "CH_VD_JUVA_FONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.arnexsurorbe",
+    "code": "CH_VD_JUVA_ARNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.onnensvd",
+    "code": "CH_VD_JUVA_ONV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.lescles",
+    "code": "CH_VD_JUVA_LECL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.romainmtierenvy",
+    "code": "CH_VD_JUVA_ROMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.suchy",
+    "code": "CH_VD_JUVA_SUCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.mathod",
+    "code": "CH_VD_JUVA_MATH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.cronay",
+    "code": "CH_VD_JUVA_CRON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.belmontsuryverdon",
+    "code": "CH_VD_JUVA_BELM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.valeyressousrances",
+    "code": "CH_VD_JUVA_VALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.premier",
+    "code": "CH_VD_JUVA_PREM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.labergement",
+    "code": "CH_VD_JUVA_LAB2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.pomy",
+    "code": "CH_VD_JUVA_POMY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.mauborget",
+    "code": "CH_VD_JUVA_MAUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.molondin",
+    "code": "CH_VD_JUVA_MOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.agiez",
+    "code": "CH_VD_JUVA_AGIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.bretonnires",
+    "code": "CH_VD_JUVA_BRET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.lapraz",
+    "code": "CH_VD_JUVA_LAPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.vuiteboeuf",
+    "code": "CH_VD_JUVA_VUIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.ependesvd",
+    "code": "CH_VD_JUVA_EPV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.giez",
+    "code": "CH_VD_JUVA_GIEZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.cuarny",
+    "code": "CH_VD_JUVA_CUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.fiez",
+    "code": "CH_VD_JUVA_FIEZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.bioleymagnoux",
+    "code": "CH_VD_JUVA_BIOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.dmoret",
+    "code": "CH_VD_JUVA_DMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.bofflens",
+    "code": "CH_VD_JUVA_BOFF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.orzens",
+    "code": "CH_VD_JUVA_ORZE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.croy",
+    "code": "CH_VD_JUVA_CROY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.suscvaz",
+    "code": "CH_VD_JUVA_SUSC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.orges",
+    "code": "CH_VD_JUVA_ORGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.chavanneslechne",
+    "code": "CH_VD_JUVA_CHAV2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.champagne",
+    "code": "CH_VD_JUVA_CHAM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.montagnyprsyverdon",
+    "code": "CH_VD_JUVA_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.grandevent",
+    "code": "CH_VD_JUVA_GRAN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.ursins",
+    "code": "CH_VD_JUVA_URSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.mutrux",
+    "code": "CH_VD_JUVA_MUTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.rovray",
+    "code": "CH_VD_JUVA_ROVR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.montcherand",
+    "code": "CH_VD_JUVA_MONT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.vugelleslamothe",
+    "code": "CH_VD_JUVA_VUMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.valeyressousursins",
+    "code": "CH_VD_JUVA_VALE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.chamblon",
+    "code": "CH_VD_JUVA_CHAM3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.fiez",
+    "code": "CH_VD_JUVA_FIEZ2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.valeyressousmontagny",
+    "code": "CH_VD_JUVA_VALE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.chnepquier",
+    "code": "CH_VD_JUVA_CHN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.treycovagnes",
+    "code": "CH_VD_JUVA_TREY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.novalles",
+    "code": "CH_VD_JUVA_NOVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.sergey",
+    "code": "CH_VD_JUVA_SERG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.villarsepeney",
+    "code": "CH_VD_JUVA_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.juranorthvaudois.croy",
+    "code": "CH_VD_JUVA_CROY2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_JUVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.lausanne.lausanne",
+    "code": "CH_VD_LAUS_LAUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAUS"
+  },
+  {
+    "tenantId": "switzerland.vaud.lausanne.lemontsurlausanne",
+    "code": "CH_VD_LAUS_LEMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAUS"
+  },
+  {
+    "tenantId": "switzerland.vaud.lausanne.cheseauxsurlausanne",
+    "code": "CH_VD_LAUS_CHES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAUS"
+  },
+  {
+    "tenantId": "switzerland.vaud.lausanne.epalinges",
+    "code": "CH_VD_LAUS_EPAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAUS"
+  },
+  {
+    "tenantId": "switzerland.vaud.lausanne.lausanne",
+    "code": "CH_VD_LAUS_LAUS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAUS"
+  },
+  {
+    "tenantId": "switzerland.vaud.lausanne.romanelsurlausanne",
+    "code": "CH_VD_LAUS_ROMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAUS"
+  },
+  {
+    "tenantId": "switzerland.vaud.lausanne.jouxtensmzery",
+    "code": "CH_VD_LAUS_JOUX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAUS"
+  },
+  {
+    "tenantId": "switzerland.vaud.lavauxoron.puidoux",
+    "code": "CH_VD_LAVA_PUID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.lavauxoron.bourgenlavaux",
+    "code": "CH_VD_LAVA_BOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.lavauxoron.oron",
+    "code": "CH_VD_LAVA_ORON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.lavauxoron.forellavaux",
+    "code": "CH_VD_LAVA_FOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.lavauxoron.pully",
+    "code": "CH_VD_LAVA_PULL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.lavauxoron.lutry",
+    "code": "CH_VD_LAVA_LUTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.lavauxoron.savigny",
+    "code": "CH_VD_LAVA_SAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.lavauxoron.joratmzires",
+    "code": "CH_VD_LAVA_JORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.lavauxoron.servion",
+    "code": "CH_VD_LAVA_SERV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.lavauxoron.saintsaphorinlavaux",
+    "code": "CH_VD_LAVA_SAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.lavauxoron.maracon",
+    "code": "CH_VD_LAVA_MARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.lavauxoron.montpreveyres",
+    "code": "CH_VD_LAVA_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.lavauxoron.paudex",
+    "code": "CH_VD_LAVA_PAUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.lavauxoron.rivaz",
+    "code": "CH_VD_LAVA_RIVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.lavauxoron.belmontsurlausanne",
+    "code": "CH_VD_LAVA_BELM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.lavauxoron.chexbres",
+    "code": "CH_VD_LAVA_CHEX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.lavauxoron.ropraz",
+    "code": "CH_VD_LAVA_ROPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_LAVA"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.hautemorges",
+    "code": "CH_VD_MORG_HAUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.montricher",
+    "code": "CH_VD_MORG_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.saintprex",
+    "code": "CH_VD_MORG_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.bire",
+    "code": "CH_VD_MORG_BIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.buchillon",
+    "code": "CH_VD_MORG_BUCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.montlaville",
+    "code": "CH_VD_MORG_MONT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.gimel",
+    "code": "CH_VD_MORG_GIME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.lisle",
+    "code": "CH_VD_MORG_LIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.aubonne",
+    "code": "CH_VD_MORG_AUBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.morges",
+    "code": "CH_VD_MORG_MORG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.echichens",
+    "code": "CH_VD_MORG_ECHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.allaman",
+    "code": "CH_VD_MORG_ALLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.mollensvd",
+    "code": "CH_VD_MORG_MOV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.prverenges",
+    "code": "CH_VD_MORG_PRV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.berolle",
+    "code": "CH_VD_MORG_BERO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.yens",
+    "code": "CH_VD_MORG_YENS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.ballens",
+    "code": "CH_VD_MORG_BALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.cossonay",
+    "code": "CH_VD_MORG_COSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.saintlivres",
+    "code": "CH_VD_MORG_SAIN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.lasarraz",
+    "code": "CH_VD_MORG_LASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.cuarnens",
+    "code": "CH_VD_MORG_CUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.vullierens",
+    "code": "CH_VD_MORG_VULL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.lachauxcossonay",
+    "code": "CH_VD_MORG_LC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.moiry",
+    "code": "CH_VD_MORG_MOIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.eclpens",
+    "code": "CH_VD_MORG_ECL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.grancy",
+    "code": "CH_VD_MORG_GRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.tolochenaz",
+    "code": "CH_VD_MORG_TOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.orny",
+    "code": "CH_VD_MORG_ORNY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.gollion",
+    "code": "CH_VD_MORG_GOLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.etoy",
+    "code": "CH_VD_MORG_ETOY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.pompaples",
+    "code": "CH_VD_MORG_POMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.lavigny",
+    "code": "CH_VD_MORG_LAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.senarclens",
+    "code": "CH_VD_MORG_SENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.aclens",
+    "code": "CH_VD_MORG_ACLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.chevilly",
+    "code": "CH_VD_MORG_CHEV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.echandens",
+    "code": "CH_VD_MORG_ECHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.lonay",
+    "code": "CH_VD_MORG_LONA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.saubraz",
+    "code": "CH_VD_MORG_SAUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.denens",
+    "code": "CH_VD_MORG_DENE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.ferreyres",
+    "code": "CH_VD_MORG_FERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.saintoyens",
+    "code": "CH_VD_MORG_SAIN3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.villarssousyens",
+    "code": "CH_VD_MORG_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.dizy",
+    "code": "CH_VD_MORG_DIZY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.bremblens",
+    "code": "CH_VD_MORG_BREM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.fchy",
+    "code": "CH_VD_MORG_FCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.chavannesleveyron",
+    "code": "CH_VD_MORG_CHAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.lussysurmorges",
+    "code": "CH_VD_MORG_LUSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.vufflenslechteau",
+    "code": "CH_VD_MORG_VUFF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.vauxsurmorges",
+    "code": "CH_VD_MORG_VAUX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.lullyvd",
+    "code": "CH_VD_MORG_LUV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.bougyvillars",
+    "code": "CH_VD_MORG_BOUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.romanelsurmorges",
+    "code": "CH_VD_MORG_ROMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.denges",
+    "code": "CH_VD_MORG_DENG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.clarmont",
+    "code": "CH_VD_MORG_CLAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.chigny",
+    "code": "CH_VD_MORG_CHIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.morges.mauraz",
+    "code": "CH_VD_MORG_MAUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_MORG"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.arzierlemuids",
+    "code": "CH_VD_NYON_ARMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.saintcergue",
+    "code": "CH_VD_NYON_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.bassins",
+    "code": "CH_VD_NYON_BASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.gland",
+    "code": "CH_VD_NYON_GLAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.larippe",
+    "code": "CH_VD_NYON_LARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.perroy",
+    "code": "CH_VD_NYON_PERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.rolle",
+    "code": "CH_VD_NYON_ROLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.gingins",
+    "code": "CH_VD_NYON_GING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.saintgeorge",
+    "code": "CH_VD_NYON_SAIN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.marchissy",
+    "code": "CH_VD_NYON_MARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.prangins",
+    "code": "CH_VD_NYON_PRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.nyon",
+    "code": "CH_VD_NYON_NYON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.chserex",
+    "code": "CH_VD_NYON_CHS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.longirod",
+    "code": "CH_VD_NYON_LONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.cransvd",
+    "code": "CH_VD_NYON_CRV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.founex",
+    "code": "CH_VD_NYON_FOUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.gilly",
+    "code": "CH_VD_NYON_GILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.bursinel",
+    "code": "CH_VD_NYON_BURS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.essertinessurrolle",
+    "code": "CH_VD_NYON_ESSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.mies",
+    "code": "CH_VD_NYON_MIES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.commugny",
+    "code": "CH_VD_NYON_COMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.coppet",
+    "code": "CH_VD_NYON_COPP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.trlex",
+    "code": "CH_VD_NYON_TRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.dully",
+    "code": "CH_VD_NYON_DULL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.burtigny",
+    "code": "CH_VD_NYON_BURT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.genolier",
+    "code": "CH_VD_NYON_GENO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.begnins",
+    "code": "CH_VD_NYON_BEGN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.duillier",
+    "code": "CH_VD_NYON_DUIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.givrins",
+    "code": "CH_VD_NYON_GIVR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.montsurrolle",
+    "code": "CH_VD_NYON_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.tannay",
+    "code": "CH_VD_NYON_TANN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.bursins",
+    "code": "CH_VD_NYON_BURS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.levaud",
+    "code": "CH_VD_NYON_LEVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.coinsins",
+    "code": "CH_VD_NYON_COIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.chavannesdebogis",
+    "code": "CH_VD_NYON_CHAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.luins",
+    "code": "CH_VD_NYON_LUIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.grens",
+    "code": "CH_VD_NYON_GREN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.bogisbossey",
+    "code": "CH_VD_NYON_BOGI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.eysins",
+    "code": "CH_VD_NYON_EYSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.chavannesdesbois",
+    "code": "CH_VD_NYON_CHAV2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.arnexsurnyon",
+    "code": "CH_VD_NYON_ARNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.crassier",
+    "code": "CH_VD_NYON_CRAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.borex",
+    "code": "CH_VD_NYON_BORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.signyavenex",
+    "code": "CH_VD_NYON_SIGN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.vich",
+    "code": "CH_VD_NYON_VICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.vinzel",
+    "code": "CH_VD_NYON_VINZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.nyon.tartegnin",
+    "code": "CH_VD_NYON_TART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_NYON"
+  },
+  {
+    "tenantId": "switzerland.vaud.ouestlausannois.saintsulpicevd",
+    "code": "CH_VD_OULA_SAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_OULA"
+  },
+  {
+    "tenantId": "switzerland.vaud.ouestlausannois.ecublensvd",
+    "code": "CH_VD_OULA_ECV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_OULA"
+  },
+  {
+    "tenantId": "switzerland.vaud.ouestlausannois.crissier",
+    "code": "CH_VD_OULA_CRIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_OULA"
+  },
+  {
+    "tenantId": "switzerland.vaud.ouestlausannois.bussigny",
+    "code": "CH_VD_OULA_BUSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_OULA"
+  },
+  {
+    "tenantId": "switzerland.vaud.ouestlausannois.renensvd",
+    "code": "CH_VD_OULA_REV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_OULA"
+  },
+  {
+    "tenantId": "switzerland.vaud.ouestlausannois.prilly",
+    "code": "CH_VD_OULA_PRIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_OULA"
+  },
+  {
+    "tenantId": "switzerland.vaud.ouestlausannois.villarssaintecroix",
+    "code": "CH_VD_OULA_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_OULA"
+  },
+  {
+    "tenantId": "switzerland.vaud.ouestlausannois.chavannesprsrenens",
+    "code": "CH_VD_OULA_CHAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_OULA"
+  },
+  {
+    "tenantId": "switzerland.vaud.paysdenhaut.chteaudoex",
+    "code": "CH_VD_PAYS_CHT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_PAYS"
+  },
+  {
+    "tenantId": "switzerland.vaud.paysdenhaut.rougemont",
+    "code": "CH_VD_PAYS_ROUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_PAYS"
+  },
+  {
+    "tenantId": "switzerland.vaud.paysdenhaut.montreux",
+    "code": "CH_VD_PAYS_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_PAYS"
+  },
+  {
+    "tenantId": "switzerland.vaud.paysdenhaut.blonaysaintlgier",
+    "code": "CH_VD_PAYS_BS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_PAYS"
+  },
+  {
+    "tenantId": "switzerland.vaud.paysdenhaut.rossinire",
+    "code": "CH_VD_PAYS_ROSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_PAYS"
+  },
+  {
+    "tenantId": "switzerland.vaud.paysdenhaut.chardonne",
+    "code": "CH_VD_PAYS_CHAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_PAYS"
+  },
+  {
+    "tenantId": "switzerland.vaud.paysdenhaut.latourdepeilz",
+    "code": "CH_VD_PAYS_LATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_PAYS"
+  },
+  {
+    "tenantId": "switzerland.vaud.paysdenhaut.veytaux",
+    "code": "CH_VD_PAYS_VEYT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_PAYS"
+  },
+  {
+    "tenantId": "switzerland.vaud.paysdenhaut.vevey",
+    "code": "CH_VD_PAYS_VEVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_PAYS"
+  },
+  {
+    "tenantId": "switzerland.vaud.paysdenhaut.corseaux",
+    "code": "CH_VD_PAYS_CORS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_PAYS"
+  },
+  {
+    "tenantId": "switzerland.vaud.paysdenhaut.corsiersurvevey",
+    "code": "CH_VD_PAYS_CORS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_PAYS"
+  },
+  {
+    "tenantId": "switzerland.vaud.paysdenhaut.jongny",
+    "code": "CH_VD_PAYS_JONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_VD_PAYS"
+  }
+]

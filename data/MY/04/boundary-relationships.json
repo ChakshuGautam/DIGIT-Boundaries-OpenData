@@ -1,0 +1,779 @@
+[
+  {
+    "tenantId": "malaysia.malacca",
+    "code": "MY_04",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MY"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah",
+    "code": "MY_04_ALGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_04"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah",
+    "code": "MY_04_METE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_04"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin",
+    "code": "MY_04_JASI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_04"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.pekankualasungaibaru",
+    "code": "MY_04_ALGA_PKSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimsungeibuloh",
+    "code": "MY_04_ALGA_MSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.pekanlubokchina",
+    "code": "MY_04_ALGA_PLC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimsungeibarutengah",
+    "code": "MY_04_ALGA_MSBT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimramuanchinakechil",
+    "code": "MY_04_ALGA_MRCK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.bandaralorgajah",
+    "code": "MY_04_ALGA_BAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimtabohnaning",
+    "code": "MY_04_ALGA_MTN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.bandarmasjidtanah",
+    "code": "MY_04_ALGA_BMT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimlendu",
+    "code": "MY_04_ALGA_MULE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimsungeisiput",
+    "code": "MY_04_ALGA_MSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimayerpaabas",
+    "code": "MY_04_ALGA_MAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimpegoh",
+    "code": "MY_04_ALGA_MUPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimbrisu",
+    "code": "MY_04_ALGA_MUBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.pekanrembia",
+    "code": "MY_04_ALGA_PERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimmalakapindah",
+    "code": "MY_04_ALGA_MMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimpadangsebang",
+    "code": "MY_04_ALGA_MPS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimkualasungeibaru",
+    "code": "MY_04_ALGA_MKSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimparitmelana",
+    "code": "MY_04_ALGA_MPM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimmelekek",
+    "code": "MY_04_ALGA_MUME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimsungeibaruulu",
+    "code": "MY_04_ALGA_MSBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimkelemak",
+    "code": "MY_04_ALGA_MUKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimrembia",
+    "code": "MY_04_ALGA_MURE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimpulausebang",
+    "code": "MY_04_ALGA_MPS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimkualalinggi",
+    "code": "MY_04_ALGA_MKL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimduriantunggal",
+    "code": "MY_04_ALGA_MDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimtanjongkling",
+    "code": "MY_04_ALGA_MTK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.pekanduriantunggal",
+    "code": "MY_04_ALGA_PDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimtebong",
+    "code": "MY_04_ALGA_MUTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimsungeipetai",
+    "code": "MY_04_ALGA_MSP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimberingin",
+    "code": "MY_04_ALGA_MUBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimmasjidtanah",
+    "code": "MY_04_ALGA_MMT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimkemuning",
+    "code": "MY_04_ALGA_MUKE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimsungeibaruilir",
+    "code": "MY_04_ALGA_MSBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimgadek",
+    "code": "MY_04_ALGA_MUGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimramuanchinabesar",
+    "code": "MY_04_ALGA_MRCB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.bandarpulausebang",
+    "code": "MY_04_ALGA_BPS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.mukimtanjongrimau",
+    "code": "MY_04_ALGA_MTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.alorgajah.pekanserikendong",
+    "code": "MY_04_ALGA_PSK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_ALGA"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimkrubong",
+    "code": "MY_04_METE_MUKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimcheng",
+    "code": "MY_04_METE_MUCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimpayarumput",
+    "code": "MY_04_METE_MPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.bandarmelaka",
+    "code": "MY_04_METE_BAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimbukitpiatu",
+    "code": "MY_04_METE_MBP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimpadangsemabok",
+    "code": "MY_04_METE_MPS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.pekanbatuberendam",
+    "code": "MY_04_METE_PBB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.pekanayermolek",
+    "code": "MY_04_METE_PAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.pekanklebang",
+    "code": "MY_04_METE_PEKL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimpadangtemu",
+    "code": "MY_04_METE_MPT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimsemabok",
+    "code": "MY_04_METE_MUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimtelokmas",
+    "code": "MY_04_METE_MTM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.pekankandang",
+    "code": "MY_04_METE_PEKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.pekantanjongkling",
+    "code": "MY_04_METE_PTK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimayermolek",
+    "code": "MY_04_METE_MAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimkandang",
+    "code": "MY_04_METE_MUKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimpringgit",
+    "code": "MY_04_METE_MUPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.pekantanggabatu",
+    "code": "MY_04_METE_PTB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.pekanbukitrambai",
+    "code": "MY_04_METE_PBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimtanjongminyak",
+    "code": "MY_04_METE_MTM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimbukitrambai",
+    "code": "MY_04_METE_MBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimbertam",
+    "code": "MY_04_METE_MUBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimduyong",
+    "code": "MY_04_METE_MUDU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimsungeiudang",
+    "code": "MY_04_METE_MSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimbukitbaru",
+    "code": "MY_04_METE_MBB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimklebangbesar",
+    "code": "MY_04_METE_MKB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimbalaipanjang",
+    "code": "MY_04_METE_MBP2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimbatuberendam",
+    "code": "MY_04_METE_MBB2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.pekanpayarumput",
+    "code": "MY_04_METE_PPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimbachang",
+    "code": "MY_04_METE_MUBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.bandarbukitbaru",
+    "code": "MY_04_METE_BBB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.pekansungaiudang",
+    "code": "MY_04_METE_PSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimtanggabatu",
+    "code": "MY_04_METE_MTB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimbukitkatil",
+    "code": "MY_04_METE_MBK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimbukitlintang",
+    "code": "MY_04_METE_MBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimklebangkechil",
+    "code": "MY_04_METE_MKK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimujongpasir",
+    "code": "MY_04_METE_MUP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimalai",
+    "code": "MY_04_METE_MUAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.melakatengah.mukimpernu",
+    "code": "MY_04_METE_MUPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_METE"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.mukimrim",
+    "code": "MY_04_JASI_MURI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.mukimsrimenanti",
+    "code": "MY_04_JASI_MSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.mukimumbai",
+    "code": "MY_04_JASI_MUUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.mukimnyalas",
+    "code": "MY_04_JASI_MUNY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.mukimkundang",
+    "code": "MY_04_JASI_MUKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.mukimsungeirambai",
+    "code": "MY_04_JASI_MSR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.mukimchabau",
+    "code": "MY_04_JASI_MUCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.mukimmerlimau",
+    "code": "MY_04_JASI_MUME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.pekansempangbekoh",
+    "code": "MY_04_JASI_PSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.mukimchohong",
+    "code": "MY_04_JASI_MUCH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.mukimjasin",
+    "code": "MY_04_JASI_MUJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.mukimtedong",
+    "code": "MY_04_JASI_MUTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.mukimsebatu",
+    "code": "MY_04_JASI_MUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.mukimjus",
+    "code": "MY_04_JASI_MUJU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.pekanchinchin",
+    "code": "MY_04_JASI_PCC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.mukimserkam",
+    "code": "MY_04_JASI_MUSE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.mukimbatangmalaka",
+    "code": "MY_04_JASI_MBM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.mukimayerpanas",
+    "code": "MY_04_JASI_MAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.pekansungairambai",
+    "code": "MY_04_JASI_PSR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.mukimselandar",
+    "code": "MY_04_JASI_MUSE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.mukimkesang",
+    "code": "MY_04_JASI_MUKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.pekanselandar",
+    "code": "MY_04_JASI_PESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.bandarmerlimau",
+    "code": "MY_04_JASI_BAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.pekannyalas",
+    "code": "MY_04_JASI_PENY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.mukimsempang",
+    "code": "MY_04_JASI_MUSE4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.pekanbemban",
+    "code": "MY_04_JASI_PEBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.mukimbukitsenggeh",
+    "code": "MY_04_JASI_MBS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.mukimsemujok",
+    "code": "MY_04_JASI_MUSE5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.mukimchinchin",
+    "code": "MY_04_JASI_MCC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  },
+  {
+    "tenantId": "malaysia.malacca.jasin.pekankesangpajak",
+    "code": "MY_04_JASI_PKP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_04_JASI"
+  }
+]

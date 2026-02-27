@@ -1,0 +1,1801 @@
+[
+  {
+    "tenantId": "spain.pasvascoeuskadi",
+    "code": "ES_PAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "ES"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava",
+    "code": "ES_PAVA_ALAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_PAVA"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa",
+    "code": "ES_PAVA_GIPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_PAVA"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia",
+    "code": "ES_PAVA_BIZK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_PAVA"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.alegradulantzi",
+    "code": "ES_PAVA_ALAV_ALEG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.amurrio",
+    "code": "ES_PAVA_ALAV_AMUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.aramaio",
+    "code": "ES_PAVA_ALAV_ARAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.artziniega",
+    "code": "ES_PAVA_ALAV_ARTZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.armin",
+    "code": "ES_PAVA_ALAV_ARMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.arratzuaubarrundia",
+    "code": "ES_PAVA_ALAV_ARRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.asparrena",
+    "code": "ES_PAVA_ALAV_ASPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.ayalaaiara",
+    "code": "ES_PAVA_ALAV_AYAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.baosdeebromaueta",
+    "code": "ES_PAVA_ALAV_BDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.barrundia",
+    "code": "ES_PAVA_ALAV_BARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.berantevilla",
+    "code": "ES_PAVA_ALAV_BERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.bernedo",
+    "code": "ES_PAVA_ALAV_BERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.campezokanpezu",
+    "code": "ES_PAVA_ALAV_CAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.zigoitia",
+    "code": "ES_PAVA_ALAV_ZIGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.kripan",
+    "code": "ES_PAVA_ALAV_KRIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.kuartango",
+    "code": "ES_PAVA_ALAV_KUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.elburgoburgelu",
+    "code": "ES_PAVA_ALAV_ELBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.elciego",
+    "code": "ES_PAVA_ALAV_ELCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.elvillarbilar",
+    "code": "ES_PAVA_ALAV_ELVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.iruraizgauna",
+    "code": "ES_PAVA_ALAV_IRUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.labastidabastida",
+    "code": "ES_PAVA_ALAV_LABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.lagrn",
+    "code": "ES_PAVA_ALAV_LAGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.laguardia",
+    "code": "ES_PAVA_ALAV_LAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.lanciegolantziego",
+    "code": "ES_PAVA_ALAV_LANC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.leza",
+    "code": "ES_PAVA_ALAV_LEZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.laudiollodio",
+    "code": "ES_PAVA_ALAV_LAUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.arraiamaeztu",
+    "code": "ES_PAVA_ALAV_ARRA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.moredadelavamoredaaraba",
+    "code": "ES_PAVA_ALAV_MDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.navaridas",
+    "code": "ES_PAVA_ALAV_NAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.oynoion",
+    "code": "ES_PAVA_ALAV_OYN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.peacerradaurizaharra",
+    "code": "ES_PAVA_ALAV_PEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.erriberagoitiariberaalta",
+    "code": "ES_PAVA_ALAV_ERAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.erriberabeitia",
+    "code": "ES_PAVA_ALAV_ERRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.aana",
+    "code": "ES_PAVA_ALAV_AAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.agurainsalvatierra",
+    "code": "ES_PAVA_ALAV_AGUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.samaniego",
+    "code": "ES_PAVA_ALAV_SAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.sanmillndonemiliaga",
+    "code": "ES_PAVA_ALAV_SAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.urkabustaiz",
+    "code": "ES_PAVA_ALAV_URKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.valdegovagaubea",
+    "code": "ES_PAVA_ALAV_VALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.haranavalledearana",
+    "code": "ES_PAVA_ALAV_HDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.villabuenadelavaeskuernaga",
+    "code": "ES_PAVA_ALAV_VD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.legutio",
+    "code": "ES_PAVA_ALAV_LEGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.vitoriagasteiz",
+    "code": "ES_PAVA_ALAV_VITO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.ycoraiekora",
+    "code": "ES_PAVA_ALAV_YCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.zalduondo",
+    "code": "ES_PAVA_ALAV_ZALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.zambrana",
+    "code": "ES_PAVA_ALAV_ZAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.zuia",
+    "code": "ES_PAVA_ALAV_ZUIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.iruaokairuadeoca",
+    "code": "ES_PAVA_ALAV_IODO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.lantarn",
+    "code": "ES_PAVA_ALAV_LANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.alava.comunidaddelasierrabravadebadaya",
+    "code": "ES_PAVA_ALAV_CDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_ALAV"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.sierradearalar",
+    "code": "ES_PAVA_GIPU_SDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.abaltzisketa",
+    "code": "ES_PAVA_GIPU_ABAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.aduna",
+    "code": "ES_PAVA_GIPU_ADUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.aizarnazabal",
+    "code": "ES_PAVA_GIPU_AIZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.albiztur",
+    "code": "ES_PAVA_GIPU_ALBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.alegia",
+    "code": "ES_PAVA_GIPU_ALEG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.alkiza",
+    "code": "ES_PAVA_GIPU_ALKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.altzo",
+    "code": "ES_PAVA_GIPU_ALTZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.amezketa",
+    "code": "ES_PAVA_GIPU_AMEZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.andoain",
+    "code": "ES_PAVA_GIPU_ANDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.anoeta",
+    "code": "ES_PAVA_GIPU_ANOE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.antzuola",
+    "code": "ES_PAVA_GIPU_ANTZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.arama",
+    "code": "ES_PAVA_GIPU_ARAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.aretxabaleta",
+    "code": "ES_PAVA_GIPU_ARET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.asteasu",
+    "code": "ES_PAVA_GIPU_ASTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.ataun",
+    "code": "ES_PAVA_GIPU_ATAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.aia",
+    "code": "ES_PAVA_GIPU_AIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.azkoitia",
+    "code": "ES_PAVA_GIPU_AZKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.azpeitia",
+    "code": "ES_PAVA_GIPU_AZPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.beasain",
+    "code": "ES_PAVA_GIPU_BEAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.beizama",
+    "code": "ES_PAVA_GIPU_BEIZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.belauntza",
+    "code": "ES_PAVA_GIPU_BELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.berastegi",
+    "code": "ES_PAVA_GIPU_BERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.berrobi",
+    "code": "ES_PAVA_GIPU_BERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.bidaniagoiatz",
+    "code": "ES_PAVA_GIPU_BIDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.zegama",
+    "code": "ES_PAVA_GIPU_ZEGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.zerain",
+    "code": "ES_PAVA_GIPU_ZERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.zestoa",
+    "code": "ES_PAVA_GIPU_ZEST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.zizurkil",
+    "code": "ES_PAVA_GIPU_ZIZU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.deba",
+    "code": "ES_PAVA_GIPU_DEBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.eibar",
+    "code": "ES_PAVA_GIPU_EIBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.elduain",
+    "code": "ES_PAVA_GIPU_ELDU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.elgoibar",
+    "code": "ES_PAVA_GIPU_ELGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.elgeta",
+    "code": "ES_PAVA_GIPU_ELGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.eskoriatza",
+    "code": "ES_PAVA_GIPU_ESKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.ezkioitsaso",
+    "code": "ES_PAVA_GIPU_EZKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.hondarribia",
+    "code": "ES_PAVA_GIPU_HOND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.gaintza",
+    "code": "ES_PAVA_GIPU_GAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.gabiria",
+    "code": "ES_PAVA_GIPU_GABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.getaria",
+    "code": "ES_PAVA_GIPU_GETA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.hernani",
+    "code": "ES_PAVA_GIPU_HERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.hernialde",
+    "code": "ES_PAVA_GIPU_HERN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.ibarra",
+    "code": "ES_PAVA_GIPU_IBAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.idiazabal",
+    "code": "ES_PAVA_GIPU_IDIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.ikaztegieta",
+    "code": "ES_PAVA_GIPU_IKAZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.irun",
+    "code": "ES_PAVA_GIPU_IRUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.irura",
+    "code": "ES_PAVA_GIPU_IRUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.itsasondo",
+    "code": "ES_PAVA_GIPU_ITSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.larraul",
+    "code": "ES_PAVA_GIPU_LARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.lazkao",
+    "code": "ES_PAVA_GIPU_LAZK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.leaburu",
+    "code": "ES_PAVA_GIPU_LEAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.legazpi",
+    "code": "ES_PAVA_GIPU_LEGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.legorreta",
+    "code": "ES_PAVA_GIPU_LEGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.lezo",
+    "code": "ES_PAVA_GIPU_LEZO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.lizartza",
+    "code": "ES_PAVA_GIPU_LIZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.arrasatemondragn",
+    "code": "ES_PAVA_GIPU_ARRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.mutriku",
+    "code": "ES_PAVA_GIPU_MUTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.mutiloa",
+    "code": "ES_PAVA_GIPU_MUTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.olaberria",
+    "code": "ES_PAVA_GIPU_OLAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.oati",
+    "code": "ES_PAVA_GIPU_OAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.orexa",
+    "code": "ES_PAVA_GIPU_OREX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.orio",
+    "code": "ES_PAVA_GIPU_ORIO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.ormaiztegi",
+    "code": "ES_PAVA_GIPU_ORMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.oiartzun",
+    "code": "ES_PAVA_GIPU_OIAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.pasaia",
+    "code": "ES_PAVA_GIPU_PASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.soraluzeplacenciadelasarmas",
+    "code": "ES_PAVA_GIPU_SDLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.errezil",
+    "code": "ES_PAVA_GIPU_ERRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.errenteria",
+    "code": "ES_PAVA_GIPU_ERRE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.leintzgatzaga",
+    "code": "ES_PAVA_GIPU_LEIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.donostiasansebastin",
+    "code": "ES_PAVA_GIPU_DOSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.segura",
+    "code": "ES_PAVA_GIPU_SEGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.tolosa",
+    "code": "ES_PAVA_GIPU_TOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.urnieta",
+    "code": "ES_PAVA_GIPU_URNI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.usurbil",
+    "code": "ES_PAVA_GIPU_USUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.bergara",
+    "code": "ES_PAVA_GIPU_BERG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.villabona",
+    "code": "ES_PAVA_GIPU_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.ordizia",
+    "code": "ES_PAVA_GIPU_ORDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.urretxu",
+    "code": "ES_PAVA_GIPU_URRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.zaldibia",
+    "code": "ES_PAVA_GIPU_ZALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.zarautz",
+    "code": "ES_PAVA_GIPU_ZARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.zumarraga",
+    "code": "ES_PAVA_GIPU_ZUMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.zumaia",
+    "code": "ES_PAVA_GIPU_ZUMA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.mendaro",
+    "code": "ES_PAVA_GIPU_MEND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.lasarteoria",
+    "code": "ES_PAVA_GIPU_LASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.astigarraga",
+    "code": "ES_PAVA_GIPU_ASTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.baliarrain",
+    "code": "ES_PAVA_GIPU_BALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.orendain",
+    "code": "ES_PAVA_GIPU_OREN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.altzaga",
+    "code": "ES_PAVA_GIPU_ALTZ2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.gaztelu",
+    "code": "ES_PAVA_GIPU_GAZT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.parzonerageneraldeguipzcoaylava",
+    "code": "ES_PAVA_GIPU_PGDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.gipuzkoa.mancomunidaddeamezketayordizia",
+    "code": "ES_PAVA_GIPU_MDAY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_GIPU"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.okondo",
+    "code": "ES_PAVA_BIZK_OKON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.abadio",
+    "code": "ES_PAVA_BIZK_ABAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.abantoycirvanaabantozierbena",
+    "code": "ES_PAVA_BIZK_AYCZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.amorebietaetxano",
+    "code": "ES_PAVA_BIZK_AMOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.amoroto",
+    "code": "ES_PAVA_BIZK_AMOR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.arakaldo",
+    "code": "ES_PAVA_BIZK_ARAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.arantzazu",
+    "code": "ES_PAVA_BIZK_ARAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.munitibararbatzegigerrikaitz",
+    "code": "ES_PAVA_BIZK_MUGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.artzentales",
+    "code": "ES_PAVA_BIZK_ARTZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.arrankudiaga",
+    "code": "ES_PAVA_BIZK_ARRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.arrieta",
+    "code": "ES_PAVA_BIZK_ARRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.arrigorriaga",
+    "code": "ES_PAVA_BIZK_ARRI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.bakio",
+    "code": "ES_PAVA_BIZK_BAKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.barakaldo",
+    "code": "ES_PAVA_BIZK_BARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.barrika",
+    "code": "ES_PAVA_BIZK_BARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.basauri",
+    "code": "ES_PAVA_BIZK_BASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.berango",
+    "code": "ES_PAVA_BIZK_BERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.bermeo",
+    "code": "ES_PAVA_BIZK_BERM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.berriatua",
+    "code": "ES_PAVA_BIZK_BERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.berriz",
+    "code": "ES_PAVA_BIZK_BERR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.bilbao",
+    "code": "ES_PAVA_BIZK_BILB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.busturia",
+    "code": "ES_PAVA_BIZK_BUST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.karrantzaharanavalledecarranza",
+    "code": "ES_PAVA_BIZK_KHDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.artea",
+    "code": "ES_PAVA_BIZK_ARTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.zeanuri",
+    "code": "ES_PAVA_BIZK_ZEAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.zeberio",
+    "code": "ES_PAVA_BIZK_ZEBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.dima",
+    "code": "ES_PAVA_BIZK_DIMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.durango",
+    "code": "ES_PAVA_BIZK_DURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.ea",
+    "code": "ES_PAVA_BIZK_EA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.etxebarri",
+    "code": "ES_PAVA_BIZK_ETXE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.etxebarria",
+    "code": "ES_PAVA_BIZK_ETXE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.elantxobe",
+    "code": "ES_PAVA_BIZK_ELAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.elorrio",
+    "code": "ES_PAVA_BIZK_ELOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.ereo",
+    "code": "ES_PAVA_BIZK_ERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.ermua",
+    "code": "ES_PAVA_BIZK_ERMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.fruiz",
+    "code": "ES_PAVA_BIZK_FRUI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.galdakao",
+    "code": "ES_PAVA_BIZK_GALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.galdames",
+    "code": "ES_PAVA_BIZK_GALD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.gamizfika",
+    "code": "ES_PAVA_BIZK_GAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.garai",
+    "code": "ES_PAVA_BIZK_GARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.gatika",
+    "code": "ES_PAVA_BIZK_GATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.gautegizarteaga",
+    "code": "ES_PAVA_BIZK_GAAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.gordexola",
+    "code": "ES_PAVA_BIZK_GORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.gorliz",
+    "code": "ES_PAVA_BIZK_GORL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.getxo",
+    "code": "ES_PAVA_BIZK_GETX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.gees",
+    "code": "ES_PAVA_BIZK_GE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.gernikalumo",
+    "code": "ES_PAVA_BIZK_GERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.gizaburuaga",
+    "code": "ES_PAVA_BIZK_GIZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.ibarrangelu",
+    "code": "ES_PAVA_BIZK_IBAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.ispaster",
+    "code": "ES_PAVA_BIZK_ISPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.izurtza",
+    "code": "ES_PAVA_BIZK_IZUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.larrabetzu",
+    "code": "ES_PAVA_BIZK_LARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.laukiz",
+    "code": "ES_PAVA_BIZK_LAUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.leioa",
+    "code": "ES_PAVA_BIZK_LEIO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.lemoa",
+    "code": "ES_PAVA_BIZK_LEMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.lemoiz",
+    "code": "ES_PAVA_BIZK_LEMO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.lekeitio",
+    "code": "ES_PAVA_BIZK_LEKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.mallabia",
+    "code": "ES_PAVA_BIZK_MALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.maaria",
+    "code": "ES_PAVA_BIZK_MAA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.markinaxemein",
+    "code": "ES_PAVA_BIZK_MARK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.marurijatabe",
+    "code": "ES_PAVA_BIZK_MARU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.mendata",
+    "code": "ES_PAVA_BIZK_MEND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.mendexa",
+    "code": "ES_PAVA_BIZK_MEND2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.meaka",
+    "code": "ES_PAVA_BIZK_MEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.ugaomiraballes",
+    "code": "ES_PAVA_BIZK_UGAO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.morga",
+    "code": "ES_PAVA_BIZK_MORG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.muxika",
+    "code": "ES_PAVA_BIZK_MUXI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.mundaka",
+    "code": "ES_PAVA_BIZK_MUND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.mungia",
+    "code": "ES_PAVA_BIZK_MUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.aulesti",
+    "code": "ES_PAVA_BIZK_AULE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.muskiz",
+    "code": "ES_PAVA_BIZK_MUSK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.otxandio",
+    "code": "ES_PAVA_BIZK_OTXA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.ondarroa",
+    "code": "ES_PAVA_BIZK_ONDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.urduaordua",
+    "code": "ES_PAVA_BIZK_URDU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.orozko",
+    "code": "ES_PAVA_BIZK_OROZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.sukarrieta",
+    "code": "ES_PAVA_BIZK_SUKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.plentzia",
+    "code": "ES_PAVA_BIZK_PLEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.portugalete",
+    "code": "ES_PAVA_BIZK_PORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.errigoiti",
+    "code": "ES_PAVA_BIZK_ERRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.valledetrpagatrapagaran",
+    "code": "ES_PAVA_BIZK_VDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.lezama",
+    "code": "ES_PAVA_BIZK_LEZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.santurtzi",
+    "code": "ES_PAVA_BIZK_SANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.ortuella",
+    "code": "ES_PAVA_BIZK_ORTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.sestao",
+    "code": "ES_PAVA_BIZK_SEST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.sopela",
+    "code": "ES_PAVA_BIZK_SOPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.sopuerta",
+    "code": "ES_PAVA_BIZK_SOPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.truciosturtzioz",
+    "code": "ES_PAVA_BIZK_TRUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.ubide",
+    "code": "ES_PAVA_BIZK_UBID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.urduliz",
+    "code": "ES_PAVA_BIZK_URDU2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.balmaseda",
+    "code": "ES_PAVA_BIZK_BALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.atxondo",
+    "code": "ES_PAVA_BIZK_ATXO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.bedia",
+    "code": "ES_PAVA_BIZK_BEDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.areatza",
+    "code": "ES_PAVA_BIZK_AREA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.igorre",
+    "code": "ES_PAVA_BIZK_IGOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.zaldibar",
+    "code": "ES_PAVA_BIZK_ZALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.zalla",
+    "code": "ES_PAVA_BIZK_ZALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.zaratamo",
+    "code": "ES_PAVA_BIZK_ZARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.derio",
+    "code": "ES_PAVA_BIZK_DERI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.erandio",
+    "code": "ES_PAVA_BIZK_ERAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.loiu",
+    "code": "ES_PAVA_BIZK_LOIU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.sondika",
+    "code": "ES_PAVA_BIZK_SOND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.zamudio",
+    "code": "ES_PAVA_BIZK_ZAMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.forua",
+    "code": "ES_PAVA_BIZK_FORU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.kortezubi",
+    "code": "ES_PAVA_BIZK_KORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.murueta",
+    "code": "ES_PAVA_BIZK_MURU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.nabarniz",
+    "code": "ES_PAVA_BIZK_NABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.iurreta",
+    "code": "ES_PAVA_BIZK_IURR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.ajangiz",
+    "code": "ES_PAVA_BIZK_AJAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.alonsotegi",
+    "code": "ES_PAVA_BIZK_ALON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.zierbena",
+    "code": "ES_PAVA_BIZK_ZIER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.arratzu",
+    "code": "ES_PAVA_BIZK_ARRA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  },
+  {
+    "tenantId": "spain.pasvascoeuskadi.bizkaia.ziortzabolibar",
+    "code": "ES_PAVA_BIZK_ZIOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_PAVA_BIZK"
+  }
+]

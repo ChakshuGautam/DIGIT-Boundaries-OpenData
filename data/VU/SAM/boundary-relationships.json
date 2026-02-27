@@ -1,0 +1,884 @@
+[
+  {
+    "tenantId": "vanuatu.sanma",
+    "code": "VU_SAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "VU"
+  },
+  {
+    "tenantId": "vanuatu.sanma.canalfanafo",
+    "code": "VU_SAM_CF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SAM"
+  },
+  {
+    "tenantId": "vanuatu.sanma.eastmalo",
+    "code": "VU_SAM_EAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SAM"
+  },
+  {
+    "tenantId": "vanuatu.sanma.eastsanto",
+    "code": "VU_SAM_EASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SAM"
+  },
+  {
+    "tenantId": "vanuatu.sanma.northsanto",
+    "code": "VU_SAM_NOSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SAM"
+  },
+  {
+    "tenantId": "vanuatu.sanma.northwestsanto",
+    "code": "VU_SAM_NWS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SAM"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southeastsanto",
+    "code": "VU_SAM_SES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SAM"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southsanto",
+    "code": "VU_SAM_SOSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SAM"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westmalo",
+    "code": "VU_SAM_WEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SAM"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westsanto",
+    "code": "VU_SAM_WESA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SAM"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville",
+    "code": "VU_SAM_LUGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SAM"
+  },
+  {
+    "tenantId": "vanuatu.sanma.canalfanafo.unknown",
+    "code": "VU_SAM_CF_421",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_CF"
+  },
+  {
+    "tenantId": "vanuatu.sanma.canalfanafo.unknown",
+    "code": "VU_SAM_CF_441",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_CF"
+  },
+  {
+    "tenantId": "vanuatu.sanma.canalfanafo.unknown",
+    "code": "VU_SAM_CF_440",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_CF"
+  },
+  {
+    "tenantId": "vanuatu.sanma.canalfanafo.unknown",
+    "code": "VU_SAM_CF_468",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_CF"
+  },
+  {
+    "tenantId": "vanuatu.sanma.canalfanafo.unknown",
+    "code": "VU_SAM_CF_465",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_CF"
+  },
+  {
+    "tenantId": "vanuatu.sanma.canalfanafo.unknown",
+    "code": "VU_SAM_CF_464",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_CF"
+  },
+  {
+    "tenantId": "vanuatu.sanma.canalfanafo.unknown",
+    "code": "VU_SAM_CF_461",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_CF"
+  },
+  {
+    "tenantId": "vanuatu.sanma.canalfanafo.unknown",
+    "code": "VU_SAM_CF_463",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_CF"
+  },
+  {
+    "tenantId": "vanuatu.sanma.eastmalo.unknown",
+    "code": "VU_SAM_EAMA_472",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_EAMA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.eastmalo.unknown",
+    "code": "VU_SAM_EAMA_473",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_EAMA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.eastmalo.unknown",
+    "code": "VU_SAM_EAMA_470",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_EAMA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.eastmalo.unknown",
+    "code": "VU_SAM_EAMA_471",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_EAMA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.eastmalo.unknown",
+    "code": "VU_SAM_EAMA_474",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_EAMA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.eastsanto.unknown",
+    "code": "VU_SAM_EASA_430",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_EASA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.eastsanto.unknown",
+    "code": "VU_SAM_EASA_431",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_EASA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.eastsanto.unknown",
+    "code": "VU_SAM_EASA_426",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_EASA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.eastsanto.unknown",
+    "code": "VU_SAM_EASA_429",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_EASA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.eastsanto.unknown",
+    "code": "VU_SAM_EASA_428",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_EASA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.eastsanto.unknown",
+    "code": "VU_SAM_EASA_425",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_EASA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.eastsanto.unknown",
+    "code": "VU_SAM_EASA_424",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_EASA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.eastsanto.unknown",
+    "code": "VU_SAM_EASA_432",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_EASA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.eastsanto.unknown",
+    "code": "VU_SAM_EASA_427",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_EASA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.northsanto.unknown",
+    "code": "VU_SAM_NOSA_449",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_NOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.northsanto.unknown",
+    "code": "VU_SAM_NOSA_448",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_NOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.northsanto.unknown",
+    "code": "VU_SAM_NOSA_447",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_NOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.northsanto.unknown",
+    "code": "VU_SAM_NOSA_446",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_NOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.northsanto.unknown",
+    "code": "VU_SAM_NOSA_444",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_NOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.northsanto.unknown",
+    "code": "VU_SAM_NOSA_438",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_NOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.northsanto.unknown",
+    "code": "VU_SAM_NOSA_439",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_NOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.northsanto.unknown",
+    "code": "VU_SAM_NOSA_458",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_NOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.northsanto.unknown",
+    "code": "VU_SAM_NOSA_450",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_NOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.northsanto.unknown",
+    "code": "VU_SAM_NOSA_455",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_NOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.northsanto.unknown",
+    "code": "VU_SAM_NOSA_456",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_NOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.northsanto.unknown",
+    "code": "VU_SAM_NOSA_457",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_NOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.northwestsanto.unknown",
+    "code": "VU_SAM_NWS_451",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_NWS"
+  },
+  {
+    "tenantId": "vanuatu.sanma.northwestsanto.unknown",
+    "code": "VU_SAM_NWS_452",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_NWS"
+  },
+  {
+    "tenantId": "vanuatu.sanma.northwestsanto.unknown",
+    "code": "VU_SAM_NWS_453",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_NWS"
+  },
+  {
+    "tenantId": "vanuatu.sanma.northwestsanto.unknown",
+    "code": "VU_SAM_NWS_454",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_NWS"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southeastsanto.unknown",
+    "code": "VU_SAM_SES_422",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SES"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southeastsanto.unknown",
+    "code": "VU_SAM_SES_443",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SES"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southeastsanto.unknown",
+    "code": "VU_SAM_SES_442",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SES"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southeastsanto.unknown",
+    "code": "VU_SAM_SES_418",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SES"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southeastsanto.unknown",
+    "code": "VU_SAM_SES_419",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SES"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southeastsanto.unknown",
+    "code": "VU_SAM_SES_460",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SES"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southeastsanto.unknown",
+    "code": "VU_SAM_SES_423",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SES"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southsanto.unknown",
+    "code": "VU_SAM_SOSA_405",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southsanto.unknown",
+    "code": "VU_SAM_SOSA_404",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southsanto.unknown",
+    "code": "VU_SAM_SOSA_403",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southsanto.unknown",
+    "code": "VU_SAM_SOSA_402",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southsanto.unknown",
+    "code": "VU_SAM_SOSA_401",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southsanto.unknown",
+    "code": "VU_SAM_SOSA_400",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southsanto.unknown",
+    "code": "VU_SAM_SOSA_409",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southsanto.unknown",
+    "code": "VU_SAM_SOSA_399",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southsanto.unknown",
+    "code": "VU_SAM_SOSA_414",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southsanto.unknown",
+    "code": "VU_SAM_SOSA_415",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southsanto.unknown",
+    "code": "VU_SAM_SOSA_416",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southsanto.unknown",
+    "code": "VU_SAM_SOSA_417",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southsanto.unknown",
+    "code": "VU_SAM_SOSA_411",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southsanto.unknown",
+    "code": "VU_SAM_SOSA_412",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southsanto.unknown",
+    "code": "VU_SAM_SOSA_413",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southsanto.unknown",
+    "code": "VU_SAM_SOSA_467",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.southsanto.unknown",
+    "code": "VU_SAM_SOSA_410",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_SOSA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westmalo.unknown",
+    "code": "VU_SAM_WEMA_483",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_WEMA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westmalo.unknown",
+    "code": "VU_SAM_WEMA_482",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_WEMA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westmalo.unknown",
+    "code": "VU_SAM_WEMA_481",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_WEMA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westmalo.unknown",
+    "code": "VU_SAM_WEMA_480",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_WEMA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westmalo.unknown",
+    "code": "VU_SAM_WEMA_476",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_WEMA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westmalo.unknown",
+    "code": "VU_SAM_WEMA_477",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_WEMA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westmalo.unknown",
+    "code": "VU_SAM_WEMA_475",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_WEMA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westmalo.unknown",
+    "code": "VU_SAM_WEMA_478",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_WEMA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westmalo.unknown",
+    "code": "VU_SAM_WEMA_479",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_WEMA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westsanto.unknown",
+    "code": "VU_SAM_WESA_445",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_WESA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westsanto.unknown",
+    "code": "VU_SAM_WESA_436",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_WESA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westsanto.unknown",
+    "code": "VU_SAM_WESA_437",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_WESA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westsanto.unknown",
+    "code": "VU_SAM_WESA_434",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_WESA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westsanto.unknown",
+    "code": "VU_SAM_WESA_435",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_WESA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westsanto.unknown",
+    "code": "VU_SAM_WESA_433",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_WESA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westsanto.unknown",
+    "code": "VU_SAM_WESA_407",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_WESA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westsanto.unknown",
+    "code": "VU_SAM_WESA_406",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_WESA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westsanto.unknown",
+    "code": "VU_SAM_WESA_408",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_WESA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westsanto.unknown",
+    "code": "VU_SAM_WESA_459",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_WESA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westsanto.unknown",
+    "code": "VU_SAM_WESA_626",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_WESA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westsanto.unknown",
+    "code": "VU_SAM_WESA_469",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_WESA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.westsanto.unknown",
+    "code": "VU_SAM_WESA_398",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_WESA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_911",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_910",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_913",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_902",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_903",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_906",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_907",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_904",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_905",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_930",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_928",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_929",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_925",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_920",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_921",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_922",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_923",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_924",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_926",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_927",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_901",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_908",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_909",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_919",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_918",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_915",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_914",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_917",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_916",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_912",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  },
+  {
+    "tenantId": "vanuatu.sanma.luganville.unknown",
+    "code": "VU_SAM_LUGA_420",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SAM_LUGA"
+  }
+]

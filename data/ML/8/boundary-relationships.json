@@ -1,0 +1,107 @@
+[
+  {
+    "tenantId": "mali.kidal",
+    "code": "ML_8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "ML"
+  },
+  {
+    "tenantId": "mali.kidal.abeibara",
+    "code": "ML_8_ABEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ML_8"
+  },
+  {
+    "tenantId": "mali.kidal.kidal",
+    "code": "ML_8_KIDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ML_8"
+  },
+  {
+    "tenantId": "mali.kidal.tessalit",
+    "code": "ML_8_TESS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ML_8"
+  },
+  {
+    "tenantId": "mali.kidal.tinessako",
+    "code": "ML_8_TIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ML_8"
+  },
+  {
+    "tenantId": "mali.kidal.abeibara.abeibara",
+    "code": "ML_8_ABEI_ABEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_8_ABEI"
+  },
+  {
+    "tenantId": "mali.kidal.abeibara.boghassa",
+    "code": "ML_8_ABEI_BOGH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_8_ABEI"
+  },
+  {
+    "tenantId": "mali.kidal.abeibara.tinzawatene",
+    "code": "ML_8_ABEI_TINZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_8_ABEI"
+  },
+  {
+    "tenantId": "mali.kidal.kidal.anefif",
+    "code": "ML_8_KIDA_ANEF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_8_KIDA"
+  },
+  {
+    "tenantId": "mali.kidal.kidal.kidal",
+    "code": "ML_8_KIDA_KIDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_8_KIDA"
+  },
+  {
+    "tenantId": "mali.kidal.tessalit.tessalit",
+    "code": "ML_8_TESS_TESS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_8_TESS"
+  },
+  {
+    "tenantId": "mali.kidal.tessalit.essouk",
+    "code": "ML_8_TESS_ESSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_8_TESS"
+  },
+  {
+    "tenantId": "mali.kidal.tessalit.adjelhoc",
+    "code": "ML_8_TESS_ADJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_8_TESS"
+  },
+  {
+    "tenantId": "mali.kidal.tessalit.timtaghene",
+    "code": "ML_8_TESS_TIMT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_8_TESS"
+  },
+  {
+    "tenantId": "mali.kidal.tinessako.tinessako",
+    "code": "ML_8_TIN_TIES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_8_TIN"
+  }
+]

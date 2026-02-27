@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "singapore",
+    "code": "SG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "singapore.centralregion",
+    "code": "SG_CERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SG"
+  },
+  {
+    "tenantId": "singapore.eastregion",
+    "code": "SG_EARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SG"
+  },
+  {
+    "tenantId": "singapore.northeastregion",
+    "code": "SG_NORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SG"
+  },
+  {
+    "tenantId": "singapore.northregion",
+    "code": "SG_NORE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SG"
+  },
+  {
+    "tenantId": "singapore.westregion",
+    "code": "SG_WERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SG"
+  }
+]

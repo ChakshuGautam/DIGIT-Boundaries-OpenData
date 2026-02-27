@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "samoa.vaisigano",
+    "code": "WS_VAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "WS"
+  },
+  {
+    "tenantId": "samoa.vaisigano.vaisiganoeast",
+    "code": "WS_VAIS_VAEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "WS_VAIS"
+  },
+  {
+    "tenantId": "samoa.vaisigano.falealupo",
+    "code": "WS_VAIS_FALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "WS_VAIS"
+  },
+  {
+    "tenantId": "samoa.vaisigano.alatauawest",
+    "code": "WS_VAIS_ALWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "WS_VAIS"
+  },
+  {
+    "tenantId": "samoa.vaisigano.vaisiganowest",
+    "code": "WS_VAIS_VAWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "WS_VAIS"
+  }
+]

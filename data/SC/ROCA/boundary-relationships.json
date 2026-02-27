@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "seychelles.rochecam",
+    "code": "SC_ROCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SC"
+  },
+  {
+    "tenantId": "seychelles.rochecam.centralmahe",
+    "code": "SC_ROCA_C2M",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SC_ROCA"
+  },
+  {
+    "tenantId": "seychelles.rochecam.centralmahe.lesmamelles",
+    "code": "SC_ROCA_C2M_LEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SC_ROCA_C2M"
+  },
+  {
+    "tenantId": "seychelles.rochecam.centralmahe.plaisance",
+    "code": "SC_ROCA_C2M_PLAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SC_ROCA_C2M"
+  },
+  {
+    "tenantId": "seychelles.rochecam.centralmahe.rochecaiman",
+    "code": "SC_ROCA_C2M_ROCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SC_ROCA_C2M"
+  },
+  {
+    "tenantId": "seychelles.rochecam.centralmahe.montfleuri",
+    "code": "SC_ROCA_C2M_MOFL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SC_ROCA_C2M"
+  }
+]

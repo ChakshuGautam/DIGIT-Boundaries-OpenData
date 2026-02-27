@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "china.macauspecialadministrativeregion",
+    "code": "CN_MSAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "CN"
+  },
+  {
+    "tenantId": "china.macauspecialadministrativeregion.area",
+    "code": "CN_MSAR_AR23",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Prefecture",
+    "parent": "CN_MSAR"
+  },
+  {
+    "tenantId": "china.macauspecialadministrativeregion.area.sofranciscoxavier",
+    "code": "CN_MSAR_AR23_SFX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_MSAR_AR23"
+  },
+  {
+    "tenantId": "china.macauspecialadministrativeregion.area.zonadeaterroentretaipaecoloane",
+    "code": "CN_MSAR_AR23_ZDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_MSAR_AR23"
+  },
+  {
+    "tenantId": "china.macauspecialadministrativeregion.area.nossasenhoradocarmo",
+    "code": "CN_MSAR_AR23_NSD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_MSAR_AR23"
+  },
+  {
+    "tenantId": "china.macauspecialadministrativeregion.area.xiangzhoudistrict",
+    "code": "CN_MSAR_AR23_XIDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_MSAR_AR23"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "centralafricanrepublic.vakaga",
+    "code": "CF_VK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CF"
+  },
+  {
+    "tenantId": "centralafricanrepublic.vakaga.birao",
+    "code": "CF_VK_BIRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CF_VK"
+  },
+  {
+    "tenantId": "centralafricanrepublic.vakaga.ouandadjall",
+    "code": "CF_VK_OUAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CF_VK"
+  },
+  {
+    "tenantId": "centralafricanrepublic.vakaga.birao.ridina",
+    "code": "CF_VK_BIRA_RIDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CF_VK_BIRA"
+  },
+  {
+    "tenantId": "centralafricanrepublic.vakaga.birao.ouandja",
+    "code": "CF_VK_BIRA_OUAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CF_VK_BIRA"
+  },
+  {
+    "tenantId": "centralafricanrepublic.vakaga.ouandadjall.vokouma",
+    "code": "CF_VK_OUAN_VOKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CF_VK_OUAN"
+  }
+]

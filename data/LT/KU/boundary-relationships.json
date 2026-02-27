@@ -1,0 +1,625 @@
+[
+  {
+    "tenantId": "lithuania.kaunascounty",
+    "code": "LT_KU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "LT"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.prienaidistrictmunicipality",
+    "code": "LT_KU_PDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_KU"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.raseinirajonosavivaldyb",
+    "code": "LT_KU_RRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_KU"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunomiestosavivaldyb",
+    "code": "LT_KU_KMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_KU"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.birtonasmunicipality",
+    "code": "LT_KU_BIMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_KU"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality",
+    "code": "LT_KU_KDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_KU"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.jonavosrajonosavivaldyb",
+    "code": "LT_KU_JRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_KU"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kdainirajonosavivaldyb",
+    "code": "LT_KU_KRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_KU"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaiiadorirajonosavivaldyb",
+    "code": "LT_KU_KRS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_KU"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.prienaidistrictmunicipality.balbierikioseninija",
+    "code": "LT_KU_PDM_BASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_PDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.prienaidistrictmunicipality.pakuonioseninija",
+    "code": "LT_KU_PDM_PASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_PDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.prienaidistrictmunicipality.ilavotoseninija",
+    "code": "LT_KU_PDM_ISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_PDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.prienaidistrictmunicipality.prienseninija",
+    "code": "LT_KU_PDM_PRSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_PDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.prienaidistrictmunicipality.amintosseninija",
+    "code": "LT_KU_PDM_ASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_PDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.prienaidistrictmunicipality.ilauoseninija",
+    "code": "LT_KU_PDM_ISE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_PDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.prienaidistrictmunicipality.staklikiseninija",
+    "code": "LT_KU_PDM_STSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_PDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.prienaidistrictmunicipality.veiveriseninija",
+    "code": "LT_KU_PDM_VESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_PDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.prienaidistrictmunicipality.jieznoseninija",
+    "code": "LT_KU_PDM_JISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_PDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.prienaidistrictmunicipality.naujosiostosseninija",
+    "code": "LT_KU_PDM_NS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_PDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.raseinirajonosavivaldyb.paliepiseninija",
+    "code": "LT_KU_RRS_PASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_RRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.raseinirajonosavivaldyb.pagojukseninija",
+    "code": "LT_KU_RRS_PASE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_RRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.raseinirajonosavivaldyb.nemakiseninija",
+    "code": "LT_KU_RRS_NESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_RRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.raseinirajonosavivaldyb.viduklsseninija",
+    "code": "LT_KU_RRS_VISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_RRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.raseinirajonosavivaldyb.raseinimiestoseninija",
+    "code": "LT_KU_RRS_RMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_RRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.raseinirajonosavivaldyb.iluvosseninija",
+    "code": "LT_KU_RRS_ISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_RRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.raseinirajonosavivaldyb.raseiniseninija",
+    "code": "LT_KU_RRS_RASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_RRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.raseinirajonosavivaldyb.ariogalosseninija",
+    "code": "LT_KU_RRS_ARSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_RRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.raseinirajonosavivaldyb.betygalosseninija",
+    "code": "LT_KU_RRS_BESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_RRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.raseinirajonosavivaldyb.girkalnioseninija",
+    "code": "LT_KU_RRS_GISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_RRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.raseinirajonosavivaldyb.kalnujseninija",
+    "code": "LT_KU_RRS_KASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_RRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.raseinirajonosavivaldyb.ariogalosmiestoseninija",
+    "code": "LT_KU_RRS_AMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_RRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunomiestosavivaldyb.kaunascounty",
+    "code": "LT_KU_KMS_KACO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KMS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.birtonasmunicipality.birtonoseninija",
+    "code": "LT_KU_BIMU_BISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_BIMU"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.batniavosseninija",
+    "code": "LT_KU_KDM_BASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.babtseninija",
+    "code": "LT_KU_KDM_BASE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.ekiksseninija",
+    "code": "LT_KU_KDM_ESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.domeikavosseninija",
+    "code": "LT_KU_KDM_DOSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.garliavosapylinkiseninija",
+    "code": "LT_KU_KDM_GAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.garliavosseninija",
+    "code": "LT_KU_KDM_GASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.karmlavosseninija",
+    "code": "LT_KU_KDM_KASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.lapiseninija",
+    "code": "LT_KU_KDM_LASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.rokseninija",
+    "code": "LT_KU_KDM_ROSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.ringaudseninija",
+    "code": "LT_KU_KDM_RISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.raudondvarioseninija",
+    "code": "LT_KU_KDM_RASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.samylseninija",
+    "code": "LT_KU_KDM_SASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.uliediseninija",
+    "code": "LT_KU_KDM_USE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.vandiogalosseninija",
+    "code": "LT_KU_KDM_VASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.vilkijosapylinkiseninija",
+    "code": "LT_KU_KDM_VAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.akademijosseninija",
+    "code": "LT_KU_KDM_AKSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.kaerginsseninija",
+    "code": "LT_KU_KDM_KASE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.zapykioseninija",
+    "code": "LT_KU_KDM_ZASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.vilkijosseninija",
+    "code": "LT_KU_KDM_VISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.neveroniseninija",
+    "code": "LT_KU_KDM_NESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.alnseninija",
+    "code": "LT_KU_KDM_ALSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.linksmakalnioseninija",
+    "code": "LT_KU_KDM_LISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.eerlioseninija",
+    "code": "LT_KU_KDM_ESE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaunasdistrictmunicipality.kulautuvosseninija",
+    "code": "LT_KU_KDM_KUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KDM"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.jonavosrajonosavivaldyb.bukoniseninija",
+    "code": "LT_KU_JRS_BUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_JRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.jonavosrajonosavivaldyb.dumsiseninija",
+    "code": "LT_KU_JRS_DUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_JRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.jonavosrajonosavivaldyb.jonavosmiestoseninija",
+    "code": "LT_KU_JRS_JMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_JRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.jonavosrajonosavivaldyb.kulvosseninija",
+    "code": "LT_KU_JRS_KUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_JRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.jonavosrajonosavivaldyb.ilseninija",
+    "code": "LT_KU_JRS_ISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_JRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.jonavosrajonosavivaldyb.uusaliseninija",
+    "code": "LT_KU_JRS_USE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_JRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.jonavosrajonosavivaldyb.eimiseninija",
+    "code": "LT_KU_JRS_ESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_JRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.jonavosrajonosavivaldyb.ruklosseninija",
+    "code": "LT_KU_JRS_RUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_JRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.jonavosrajonosavivaldyb.upninkseninija",
+    "code": "LT_KU_JRS_UPSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_JRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kdainirajonosavivaldyb.krakiseninija",
+    "code": "LT_KU_KRS_KRSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kdainirajonosavivaldyb.survilikioseninija",
+    "code": "LT_KU_KRS_SUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kdainirajonosavivaldyb.tosseninija",
+    "code": "LT_KU_KRS_SE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kdainirajonosavivaldyb.gudinseninija",
+    "code": "LT_KU_KRS_GUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kdainirajonosavivaldyb.dotnuvosseninija",
+    "code": "LT_KU_KRS_DOSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kdainirajonosavivaldyb.kdainimiestoseninija",
+    "code": "LT_KU_KRS_KMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kdainirajonosavivaldyb.pernaravosseninija",
+    "code": "LT_KU_KRS_PESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kdainirajonosavivaldyb.truskavosseninija",
+    "code": "LT_KU_KRS_TRSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kdainirajonosavivaldyb.josvainiseninija",
+    "code": "LT_KU_KRS_JOSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kdainirajonosavivaldyb.peldnagiseninija",
+    "code": "LT_KU_KRS_PESE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kdainirajonosavivaldyb.vilainiseninija",
+    "code": "LT_KU_KRS_VISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaiiadorirajonosavivaldyb.kaiiadorimiestoseninija",
+    "code": "LT_KU_KRS2_KMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS2"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaiiadorirajonosavivaldyb.kruonioseninija",
+    "code": "LT_KU_KRS2_KRSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS2"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaiiadorirajonosavivaldyb.papariseninija",
+    "code": "LT_KU_KRS2_PASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS2"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaiiadorirajonosavivaldyb.taurakiemioseninija",
+    "code": "LT_KU_KRS2_TASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS2"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaiiadorirajonosavivaldyb.iemariapylinksseninija",
+    "code": "LT_KU_KRS2_AS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS2"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaiiadorirajonosavivaldyb.iemariseninija",
+    "code": "LT_KU_KRS2_ISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS2"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaiiadorirajonosavivaldyb.pravienikiseninija",
+    "code": "LT_KU_KRS2_PRSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS2"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaiiadorirajonosavivaldyb.rumikiseninija",
+    "code": "LT_KU_KRS2_RUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS2"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaiiadorirajonosavivaldyb.asliseninija",
+    "code": "LT_KU_KRS2_ASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS2"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaiiadorirajonosavivaldyb.kaiiadoriapylinksseninija",
+    "code": "LT_KU_KRS2_KAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS2"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaiiadorirajonosavivaldyb.nemaitoniseninija",
+    "code": "LT_KU_KRS2_NESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS2"
+  },
+  {
+    "tenantId": "lithuania.kaunascounty.kaiiadorirajonosavivaldyb.palomensseninija",
+    "code": "LT_KU_KRS2_PASE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KU_KRS2"
+  }
+]

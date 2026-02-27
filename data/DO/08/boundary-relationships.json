@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "dominicanrepublic.elseybo",
+    "code": "DO_08",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "DO"
+  },
+  {
+    "tenantId": "dominicanrepublic.elseybo.miches",
+    "code": "DO_08_MICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DO_08"
+  },
+  {
+    "tenantId": "dominicanrepublic.elseybo.santacruzdelseybo",
+    "code": "DO_08_SCDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DO_08"
+  }
+]

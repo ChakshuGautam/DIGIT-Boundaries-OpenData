@@ -1,0 +1,597 @@
+[
+  {
+    "tenantId": "niger.zinderdiffa",
+    "code": "NE_2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NE"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.belbdji",
+    "code": "NE_2_BELB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NE_2"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.kantch",
+    "code": "NE_2_KANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NE_2"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.takeita",
+    "code": "NE_2_TAKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NE_2"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.magaria",
+    "code": "NE_2_MAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NE_2"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.tanout",
+    "code": "NE_2_TANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NE_2"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.damagaramtakaya",
+    "code": "NE_2_DATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NE_2"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.zinder",
+    "code": "NE_2_ZIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NE_2"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.mirriah",
+    "code": "NE_2_MIRR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NE_2"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.dungass",
+    "code": "NE_2_DUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NE_2"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.gour",
+    "code": "NE_2_GOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NE_2"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.tesker",
+    "code": "NE_2_TESK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NE_2"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.goudoumaria",
+    "code": "NE_2_GOUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NE_2"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.mansoroa",
+    "code": "NE_2_MAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NE_2"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.nguigmi",
+    "code": "NE_2_NGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NE_2"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.ngourti",
+    "code": "NE_2_NGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NE_2"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.diffa",
+    "code": "NE_2_DIFF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NE_2"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.bosso",
+    "code": "NE_2_BOSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NE_2"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.belbdji.tarka",
+    "code": "NE_2_BELB_TARK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_BELB"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.kantch.kantch",
+    "code": "NE_2_KANT_KANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_KANT"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.kantch.daouch",
+    "code": "NE_2_KANT_DAOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_KANT"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.kantch.tsaouni",
+    "code": "NE_2_KANT_TSAO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_KANT"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.kantch.matamye",
+    "code": "NE_2_KANT_MATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_KANT"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.kantch.danbarto",
+    "code": "NE_2_KANT_DAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_KANT"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.kantch.kourni",
+    "code": "NE_2_KANT_KOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_KANT"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.kantch.yaouri",
+    "code": "NE_2_KANT_YAOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_KANT"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.kantch.doungou",
+    "code": "NE_2_KANT_DOUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_KANT"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.kantch.ichirnawa",
+    "code": "NE_2_KANT_ICHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_KANT"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.takeita.garagoumsa",
+    "code": "NE_2_TAKE_GARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_TAKE"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.takeita.tirmini",
+    "code": "NE_2_TAKE_TIRM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_TAKE"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.takeita.dakoussa",
+    "code": "NE_2_TAKE_DAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_TAKE"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.magaria.sassoumbroum",
+    "code": "NE_2_MAGA_SASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_MAGA"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.magaria.ykoua",
+    "code": "NE_2_MAGA_YKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_MAGA"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.magaria.kwaya",
+    "code": "NE_2_MAGA_KWAY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_MAGA"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.magaria.band",
+    "code": "NE_2_MAGA_BAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_MAGA"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.magaria.magaria",
+    "code": "NE_2_MAGA_MAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_MAGA"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.magaria.dantchiao",
+    "code": "NE_2_MAGA_DANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_MAGA"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.magaria.wacha",
+    "code": "NE_2_MAGA_WACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_MAGA"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.tanout.falenko",
+    "code": "NE_2_TANO_FALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_TANO"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.tanout.gangara",
+    "code": "NE_2_TANO_GANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_TANO"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.tanout.olllwa",
+    "code": "NE_2_TANO_OLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_TANO"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.tanout.tanout",
+    "code": "NE_2_TANO_TANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_TANO"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.tanout.tenhya",
+    "code": "NE_2_TANO_TENH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_TANO"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.damagaramtakaya.mazamni",
+    "code": "NE_2_DATA_MAZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_DATA"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.damagaramtakaya.albarkaram",
+    "code": "NE_2_DATA_ALBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_DATA"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.damagaramtakaya.guidimouni",
+    "code": "NE_2_DATA_GUID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_DATA"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.damagaramtakaya.damagaramtakaya",
+    "code": "NE_2_DATA_DATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_DATA"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.damagaramtakaya.wam",
+    "code": "NE_2_DATA_WAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_DATA"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.damagaramtakaya.moa",
+    "code": "NE_2_DATA_MOA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_DATA"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.zinder.zindirv",
+    "code": "NE_2_ZIND_ZIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_ZIND"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.zinder.zinderiv",
+    "code": "NE_2_ZIND_ZIIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_ZIND"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.zinder.zinderi",
+    "code": "NE_2_ZIND_ZII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_ZIND"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.zinder.zinderii",
+    "code": "NE_2_ZIND_ZIII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_ZIND"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.zinder.zinderiii",
+    "code": "NE_2_ZIND_ZIII2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_ZIND"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.mirriah.droum",
+    "code": "NE_2_MIRR_DROU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_MIRR"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.mirriah.dogo",
+    "code": "NE_2_MIRR_DOGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_MIRR"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.mirriah.kollram",
+    "code": "NE_2_MIRR_KOLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_MIRR"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.mirriah.gouna",
+    "code": "NE_2_MIRR_GOUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_MIRR"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.mirriah.mirriah",
+    "code": "NE_2_MIRR_MIRR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_MIRR"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.mirriah.zermou",
+    "code": "NE_2_MIRR_ZERM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_MIRR"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.mirriah.gaffati",
+    "code": "NE_2_MIRR_GAFF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_MIRR"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.mirriah.hamdara",
+    "code": "NE_2_MIRR_HAMD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_MIRR"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.dungass.dogodogo",
+    "code": "NE_2_DUNG_DOGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_DUNG"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.dungass.dungass",
+    "code": "NE_2_DUNG_DUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_DUNG"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.dungass.malawa",
+    "code": "NE_2_DUNG_MALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_DUNG"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.dungass.gouchi",
+    "code": "NE_2_DUNG_GOUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_DUNG"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.gour.alakoss",
+    "code": "NE_2_GOUR_ALAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_GOUR"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.gour.gamou",
+    "code": "NE_2_GOUR_GAMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_GOUR"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.gour.guidiguir",
+    "code": "NE_2_GOUR_GUID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_GOUR"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.gour.kell",
+    "code": "NE_2_GOUR_KELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_GOUR"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.gour.boun",
+    "code": "NE_2_GOUR_BOUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_GOUR"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.gour.gour",
+    "code": "NE_2_GOUR_GOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_GOUR"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.tesker.tesker",
+    "code": "NE_2_TESK_TESK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_TESK"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.goudoumaria.goudoumaria",
+    "code": "NE_2_GOUD_GOUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_GOUD"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.mansoroa.mansoroa",
+    "code": "NE_2_MAN_MAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_MAN"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.mansoroa.foulatari",
+    "code": "NE_2_MAN_FOUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_MAN"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.mansoroa.nguelbly",
+    "code": "NE_2_MAN_NGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_MAN"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.nguigmi.kablewa",
+    "code": "NE_2_NGU_KABL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_NGU"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.nguigmi.nguigmi",
+    "code": "NE_2_NGU_NGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_NGU"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.ngourti.ngourti",
+    "code": "NE_2_NGO_NGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_NGO"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.diffa.chtimari",
+    "code": "NE_2_DIFF_CHT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_DIFF"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.diffa.diffa",
+    "code": "NE_2_DIFF_DIFF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_DIFF"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.diffa.gueskrou",
+    "code": "NE_2_DIFF_GUES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_DIFF"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.bosso.toumour",
+    "code": "NE_2_BOSS_TOUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_BOSS"
+  },
+  {
+    "tenantId": "niger.zinderdiffa.bosso.bosso",
+    "code": "NE_2_BOSS_BOSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NE_2_BOSS"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "serbia.pirotdistrict",
+    "code": "RS_22",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "RS"
+  },
+  {
+    "tenantId": "serbia.pirotdistrict.babusnicamunicipality",
+    "code": "RS_22_BAMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_22"
+  },
+  {
+    "tenantId": "serbia.pirotdistrict.belapalankamunicipality",
+    "code": "RS_22_BPM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_22"
+  },
+  {
+    "tenantId": "serbia.pirotdistrict.dimitrovgradmunicipality",
+    "code": "RS_22_DIMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_22"
+  },
+  {
+    "tenantId": "serbia.pirotdistrict.pirotmunicipality",
+    "code": "RS_22_PIMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_22"
+  }
+]

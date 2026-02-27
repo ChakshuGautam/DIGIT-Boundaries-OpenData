@@ -1,0 +1,611 @@
+[
+  {
+    "tenantId": "sweden.jmtlandsln",
+    "code": "SE_Z",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.strmsund",
+    "code": "SE_Z_STR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_Z"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.re",
+    "code": "SE_Z_RE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_Z"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.hrjedalen",
+    "code": "SE_Z_HRJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_Z"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.berg",
+    "code": "SE_Z_BERG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_Z"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.stersund",
+    "code": "SE_Z_STE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_Z"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.ragunda",
+    "code": "SE_Z_RAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_Z"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.brcke",
+    "code": "SE_Z_BRC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_Z"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.krokom",
+    "code": "SE_Z_KROK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_Z"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.strmsund.frostviken",
+    "code": "SE_Z_STR_FROS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_STR"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.strmsund.strm",
+    "code": "SE_Z_STR_STR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_STR"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.strmsund.tsj",
+    "code": "SE_Z_STR_TS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_STR"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.strmsund.alans",
+    "code": "SE_Z_STR_ALAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_STR"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.strmsund.bodum",
+    "code": "SE_Z_STR_BODU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_STR"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.strmsund.fjllsj",
+    "code": "SE_Z_STR_FJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_STR"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.strmsund.gxsj",
+    "code": "SE_Z_STR_GX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_STR"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.strmsund.hammerdal",
+    "code": "SE_Z_STR_HAMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_STR"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.re.kall",
+    "code": "SE_Z_RE_KALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_RE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.re.re",
+    "code": "SE_Z_RE_RE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_RE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.re.undersker",
+    "code": "SE_Z_RE_UNDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_RE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.re.mattmar",
+    "code": "SE_Z_RE_MATT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_RE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.re.mrsil",
+    "code": "SE_Z_RE_MR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_RE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.re.mattmar",
+    "code": "SE_Z_RE_MATT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_RE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.re.hallen",
+    "code": "SE_Z_RE_HALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_RE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.re.norder",
+    "code": "SE_Z_RE_NORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_RE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.re.marby",
+    "code": "SE_Z_RE_MARB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_RE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.hrjedalen.ljusnedal",
+    "code": "SE_Z_HRJ_LJUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_HRJ"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.hrjedalen.tnns",
+    "code": "SE_Z_HRJ_TN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_HRJ"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.hrjedalen.vemdalen",
+    "code": "SE_Z_HRJ_VEMD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_HRJ"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.hrjedalen.hede",
+    "code": "SE_Z_HRJ_HEDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_HRJ"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.hrjedalen.verhogdal",
+    "code": "SE_Z_HRJ_VE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_HRJ"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.hrjedalen.sveg",
+    "code": "SE_Z_HRJ_SVEG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_HRJ"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.hrjedalen.ytterhogdal",
+    "code": "SE_Z_HRJ_YTTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_HRJ"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.hrjedalen.linsell",
+    "code": "SE_Z_HRJ_LINS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_HRJ"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.hrjedalen.lvros",
+    "code": "SE_Z_HRJ_LV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_HRJ"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.hrjedalen.ngersj",
+    "code": "SE_Z_HRJ_NG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_HRJ"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.hrjedalen.lillhrdal",
+    "code": "SE_Z_HRJ_LILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_HRJ"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.berg.oviken",
+    "code": "SE_Z_BERG_OVIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_BERG"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.berg.hacks",
+    "code": "SE_Z_BERG_HACK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_BERG"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.berg.storsj",
+    "code": "SE_Z_BERG_STOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_BERG"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.berg.myssj",
+    "code": "SE_Z_BERG_MYSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_BERG"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.berg.sarna",
+    "code": "SE_Z_BERG_SA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_BERG"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.berg.berg",
+    "code": "SE_Z_BERG_BERG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_BERG"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.berg.sarna",
+    "code": "SE_Z_BERG_SA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_BERG"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.berg.hacks",
+    "code": "SE_Z_BERG_HACK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_BERG"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.berg.klvsj",
+    "code": "SE_Z_BERG_KL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_BERG"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.berg.rtan",
+    "code": "SE_Z_BERG_RT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_BERG"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.stersund.hggens",
+    "code": "SE_Z_STE_HG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_STE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.stersund.lit",
+    "code": "SE_Z_STE_LIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_STE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.stersund.kyrks",
+    "code": "SE_Z_STE_KYRK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_STE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.stersund.frs",
+    "code": "SE_Z_STE_FR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_STE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.stersund.stersund",
+    "code": "SE_Z_STE_ST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_STE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.stersund.brunflo",
+    "code": "SE_Z_STE_BRUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_STE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.stersund.sunne",
+    "code": "SE_Z_STE_SUNN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_STE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.stersund.marieby",
+    "code": "SE_Z_STE_MARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_STE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.stersund.brunflo",
+    "code": "SE_Z_STE_BRUN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_STE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.stersund.marieby",
+    "code": "SE_Z_STE_MARI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_STE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.stersund.frs",
+    "code": "SE_Z_STE_FR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_STE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.stersund.lockne",
+    "code": "SE_Z_STE_LOCK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_STE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.stersund.ns",
+    "code": "SE_Z_STE_NS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_STE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.stersund.brunflo",
+    "code": "SE_Z_STE_BRUN3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_STE"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.ragunda.borgvattnet",
+    "code": "SE_Z_RAGU_BORG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_RAGU"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.ragunda.ragunda",
+    "code": "SE_Z_RAGU_RAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_RAGU"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.ragunda.stugun",
+    "code": "SE_Z_RAGU_STUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_RAGU"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.ragunda.fors",
+    "code": "SE_Z_RAGU_FORS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_RAGU"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.brcke.sundsj",
+    "code": "SE_Z_BRC_SUND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_BRC"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.brcke.hsj",
+    "code": "SE_Z_BRC_HS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_BRC"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.brcke.nyhem",
+    "code": "SE_Z_BRC_NYHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_BRC"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.brcke.hllesj",
+    "code": "SE_Z_BRC_HL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_BRC"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.brcke.revsund",
+    "code": "SE_Z_BRC_REVS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_BRC"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.brcke.bodsj",
+    "code": "SE_Z_BRC_BODS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_BRC"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.brcke.brcke",
+    "code": "SE_Z_BRC_BR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_BRC"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.brcke.ns",
+    "code": "SE_Z_BRC_NS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_BRC"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.krokom.hotagen",
+    "code": "SE_Z_KROK_HOTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_KROK"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.krokom.offerdal",
+    "code": "SE_Z_KROK_OFFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_KROK"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.krokom.laxsj",
+    "code": "SE_Z_KROK_LAXS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_KROK"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.krokom.fllinge",
+    "code": "SE_Z_KROK_FL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_KROK"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.krokom.nskott",
+    "code": "SE_Z_KROK_NS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_KROK"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.krokom.alsen",
+    "code": "SE_Z_KROK_ALSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_KROK"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.krokom.asps",
+    "code": "SE_Z_KROK_ASP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_KROK"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.krokom.rdn",
+    "code": "SE_Z_KROK_RD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_KROK"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.krokom.nskott",
+    "code": "SE_Z_KROK_NS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_KROK"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.krokom.rdn",
+    "code": "SE_Z_KROK_RD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_KROK"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.krokom.asps",
+    "code": "SE_Z_KROK_ASP2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_KROK"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.krokom.nskott",
+    "code": "SE_Z_KROK_NS3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_KROK"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.krokom.rdn",
+    "code": "SE_Z_KROK_RD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_KROK"
+  },
+  {
+    "tenantId": "sweden.jmtlandsln.krokom.s",
+    "code": "SE_Z_KROK_S",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_Z_KROK"
+  }
+]

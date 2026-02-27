@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "spain.ciudadautnomademelilla",
+    "code": "ES_CADM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "ES"
+  },
+  {
+    "tenantId": "spain.ciudadautnomademelilla.melilla",
+    "code": "ES_CADM_MELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_CADM"
+  },
+  {
+    "tenantId": "spain.ciudadautnomademelilla.melilla.melilla",
+    "code": "ES_CADM_MELI_MELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CADM_MELI"
+  }
+]

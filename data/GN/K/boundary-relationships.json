@@ -1,0 +1,443 @@
+[
+  {
+    "tenantId": "guinea.kankan",
+    "code": "GN_K",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GN"
+  },
+  {
+    "tenantId": "guinea.kankan.kankan",
+    "code": "GN_K_KANK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GN_K"
+  },
+  {
+    "tenantId": "guinea.kankan.kerouane",
+    "code": "GN_K_KERO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GN_K"
+  },
+  {
+    "tenantId": "guinea.kankan.kouroussa",
+    "code": "GN_K_KOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GN_K"
+  },
+  {
+    "tenantId": "guinea.kankan.mandiana",
+    "code": "GN_K_MAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GN_K"
+  },
+  {
+    "tenantId": "guinea.kankan.siguiri",
+    "code": "GN_K_SIGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GN_K"
+  },
+  {
+    "tenantId": "guinea.kankan.kankan.balandougou",
+    "code": "GN_K_KANK_BALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KANK"
+  },
+  {
+    "tenantId": "guinea.kankan.kankan.batenafadji",
+    "code": "GN_K_KANK_BANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KANK"
+  },
+  {
+    "tenantId": "guinea.kankan.kankan.boula",
+    "code": "GN_K_KANK_BOUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KANK"
+  },
+  {
+    "tenantId": "guinea.kankan.kankan.gberedoubaranama",
+    "code": "GN_K_KANK_GBBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KANK"
+  },
+  {
+    "tenantId": "guinea.kankan.kankan.kankanctre",
+    "code": "GN_K_KANK_KACT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KANK"
+  },
+  {
+    "tenantId": "guinea.kankan.kankan.karifamoriah",
+    "code": "GN_K_KANK_KARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KANK"
+  },
+  {
+    "tenantId": "guinea.kankan.kankan.koumban",
+    "code": "GN_K_KANK_KOUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KANK"
+  },
+  {
+    "tenantId": "guinea.kankan.kankan.mamouroudou",
+    "code": "GN_K_KANK_MAMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KANK"
+  },
+  {
+    "tenantId": "guinea.kankan.kankan.missamana",
+    "code": "GN_K_KANK_MISS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KANK"
+  },
+  {
+    "tenantId": "guinea.kankan.kankan.moribayah",
+    "code": "GN_K_KANK_MORI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KANK"
+  },
+  {
+    "tenantId": "guinea.kankan.kankan.sabadoubaranama",
+    "code": "GN_K_KANK_SABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KANK"
+  },
+  {
+    "tenantId": "guinea.kankan.kankan.tintioulen",
+    "code": "GN_K_KANK_TIOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KANK"
+  },
+  {
+    "tenantId": "guinea.kankan.kankan.tokounou",
+    "code": "GN_K_KANK_TOKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KANK"
+  },
+  {
+    "tenantId": "guinea.kankan.kerouane.banankoro",
+    "code": "GN_K_KERO_BANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KERO"
+  },
+  {
+    "tenantId": "guinea.kankan.kerouane.damaro",
+    "code": "GN_K_KERO_DAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KERO"
+  },
+  {
+    "tenantId": "guinea.kankan.kerouane.kerouanectre",
+    "code": "GN_K_KERO_KECT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KERO"
+  },
+  {
+    "tenantId": "guinea.kankan.kerouane.komodou",
+    "code": "GN_K_KERO_KOMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KERO"
+  },
+  {
+    "tenantId": "guinea.kankan.kerouane.konsankoro",
+    "code": "GN_K_KERO_KONS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KERO"
+  },
+  {
+    "tenantId": "guinea.kankan.kerouane.linko",
+    "code": "GN_K_KERO_LINK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KERO"
+  },
+  {
+    "tenantId": "guinea.kankan.kerouane.sibiribaro",
+    "code": "GN_K_KERO_SIBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KERO"
+  },
+  {
+    "tenantId": "guinea.kankan.kerouane.soromaya",
+    "code": "GN_K_KERO_SORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KERO"
+  },
+  {
+    "tenantId": "guinea.kankan.kouroussa.babila",
+    "code": "GN_K_KOUR_BABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KOUR"
+  },
+  {
+    "tenantId": "guinea.kankan.kouroussa.banfele",
+    "code": "GN_K_KOUR_BANF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KOUR"
+  },
+  {
+    "tenantId": "guinea.kankan.kouroussa.balato",
+    "code": "GN_K_KOUR_BALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KOUR"
+  },
+  {
+    "tenantId": "guinea.kankan.kouroussa.baro",
+    "code": "GN_K_KOUR_BARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KOUR"
+  },
+  {
+    "tenantId": "guinea.kankan.kouroussa.cissela",
+    "code": "GN_K_KOUR_CISS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KOUR"
+  },
+  {
+    "tenantId": "guinea.kankan.kouroussa.douako",
+    "code": "GN_K_KOUR_DOUA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KOUR"
+  },
+  {
+    "tenantId": "guinea.kankan.kouroussa.doura",
+    "code": "GN_K_KOUR_DOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KOUR"
+  },
+  {
+    "tenantId": "guinea.kankan.kouroussa.kiniero",
+    "code": "GN_K_KOUR_KINI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KOUR"
+  },
+  {
+    "tenantId": "guinea.kankan.kouroussa.komolakhoura",
+    "code": "GN_K_KOUR_KOKH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KOUR"
+  },
+  {
+    "tenantId": "guinea.kankan.kouroussa.koumana",
+    "code": "GN_K_KOUR_KOUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KOUR"
+  },
+  {
+    "tenantId": "guinea.kankan.kouroussa.kouroussactre",
+    "code": "GN_K_KOUR_KOCT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KOUR"
+  },
+  {
+    "tenantId": "guinea.kankan.kouroussa.sanguiana",
+    "code": "GN_K_KOUR_SANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_KOUR"
+  },
+  {
+    "tenantId": "guinea.kankan.mandiana.balandougouba",
+    "code": "GN_K_MAND_BALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_MAND"
+  },
+  {
+    "tenantId": "guinea.kankan.mandiana.dialokoro",
+    "code": "GN_K_MAND_DIAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_MAND"
+  },
+  {
+    "tenantId": "guinea.kankan.mandiana.faralako",
+    "code": "GN_K_MAND_FARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_MAND"
+  },
+  {
+    "tenantId": "guinea.kankan.mandiana.kantoumanina",
+    "code": "GN_K_MAND_KANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_MAND"
+  },
+  {
+    "tenantId": "guinea.kankan.mandiana.kinieran",
+    "code": "GN_K_MAND_KINI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_MAND"
+  },
+  {
+    "tenantId": "guinea.kankan.mandiana.koundian",
+    "code": "GN_K_MAND_KOUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_MAND"
+  },
+  {
+    "tenantId": "guinea.kankan.mandiana.koundianakoro",
+    "code": "GN_K_MAND_KOUN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_MAND"
+  },
+  {
+    "tenantId": "guinea.kankan.mandiana.mandianactre",
+    "code": "GN_K_MAND_MACT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_MAND"
+  },
+  {
+    "tenantId": "guinea.kankan.mandiana.morodou",
+    "code": "GN_K_MAND_MORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_MAND"
+  },
+  {
+    "tenantId": "guinea.kankan.mandiana.niantanina",
+    "code": "GN_K_MAND_NIAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_MAND"
+  },
+  {
+    "tenantId": "guinea.kankan.mandiana.saladou",
+    "code": "GN_K_MAND_SALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_MAND"
+  },
+  {
+    "tenantId": "guinea.kankan.mandiana.sansando",
+    "code": "GN_K_MAND_SANS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_MAND"
+  },
+  {
+    "tenantId": "guinea.kankan.siguiri.bankon",
+    "code": "GN_K_SIGU_BANK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_SIGU"
+  },
+  {
+    "tenantId": "guinea.kankan.siguiri.doko",
+    "code": "GN_K_SIGU_DOKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_SIGU"
+  },
+  {
+    "tenantId": "guinea.kankan.siguiri.franwalia",
+    "code": "GN_K_SIGU_FRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_SIGU"
+  },
+  {
+    "tenantId": "guinea.kankan.siguiri.kiniebakoura",
+    "code": "GN_K_SIGU_KINI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_SIGU"
+  },
+  {
+    "tenantId": "guinea.kankan.siguiri.kintinian",
+    "code": "GN_K_SIGU_KINT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_SIGU"
+  },
+  {
+    "tenantId": "guinea.kankan.siguiri.malea",
+    "code": "GN_K_SIGU_MALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_SIGU"
+  },
+  {
+    "tenantId": "guinea.kankan.siguiri.naboun",
+    "code": "GN_K_SIGU_NABO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_SIGU"
+  },
+  {
+    "tenantId": "guinea.kankan.siguiri.niagassola",
+    "code": "GN_K_SIGU_NIAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_SIGU"
+  },
+  {
+    "tenantId": "guinea.kankan.siguiri.niandankoro",
+    "code": "GN_K_SIGU_NIAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_SIGU"
+  },
+  {
+    "tenantId": "guinea.kankan.siguiri.norassoba",
+    "code": "GN_K_SIGU_NORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_SIGU"
+  },
+  {
+    "tenantId": "guinea.kankan.siguiri.siguirictre",
+    "code": "GN_K_SIGU_SICT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_SIGU"
+  },
+  {
+    "tenantId": "guinea.kankan.siguiri.siguirini",
+    "code": "GN_K_SIGU_SIGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_K_SIGU"
+  }
+]

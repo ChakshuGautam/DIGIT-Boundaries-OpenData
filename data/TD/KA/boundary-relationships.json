@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "chad.kanem",
+    "code": "TD_KA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TD"
+  },
+  {
+    "tenantId": "chad.kanem.kanem",
+    "code": "TD_KA_KANE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_KA"
+  },
+  {
+    "tenantId": "chad.kanem.nordkanem",
+    "code": "TD_KA_NOKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_KA"
+  },
+  {
+    "tenantId": "chad.kanem.wadibissam",
+    "code": "TD_KA_WABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_KA"
+  }
+]

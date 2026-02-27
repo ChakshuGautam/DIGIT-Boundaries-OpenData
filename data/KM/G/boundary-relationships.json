@@ -1,0 +1,275 @@
+[
+  {
+    "tenantId": "comoros.grandecomore",
+    "code": "KM_G",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "KM"
+  },
+  {
+    "tenantId": "comoros.grandecomore.hambou",
+    "code": "KM_G_HAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KM_G"
+  },
+  {
+    "tenantId": "comoros.grandecomore.itsandrahamanvou",
+    "code": "KM_G_ITSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KM_G"
+  },
+  {
+    "tenantId": "comoros.grandecomore.kartala",
+    "code": "KM_G_KART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KM_G"
+  },
+  {
+    "tenantId": "comoros.grandecomore.mbadjiniest",
+    "code": "KM_G_MBES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KM_G"
+  },
+  {
+    "tenantId": "comoros.grandecomore.mbadjiniouest",
+    "code": "KM_G_MBOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KM_G"
+  },
+  {
+    "tenantId": "comoros.grandecomore.mitsamioulimboud",
+    "code": "KM_G_MITS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KM_G"
+  },
+  {
+    "tenantId": "comoros.grandecomore.moronibambao",
+    "code": "KM_G_MORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KM_G"
+  },
+  {
+    "tenantId": "comoros.grandecomore.hamahametmboinkou",
+    "code": "KM_G_HAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KM_G"
+  },
+  {
+    "tenantId": "comoros.grandecomore.oichilidimani",
+    "code": "KM_G_OICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KM_G"
+  },
+  {
+    "tenantId": "comoros.grandecomore.hambou.djoumoipangua",
+    "code": "KM_G_HAMB_DJOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_HAMB"
+  },
+  {
+    "tenantId": "comoros.grandecomore.hambou.tsinimoipangua",
+    "code": "KM_G_HAMB_TSIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_HAMB"
+  },
+  {
+    "tenantId": "comoros.grandecomore.itsandrahamanvou.bangaani",
+    "code": "KM_G_ITSA_BANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_ITSA"
+  },
+  {
+    "tenantId": "comoros.grandecomore.itsandrahamanvou.djoumoichongo",
+    "code": "KM_G_ITSA_DJOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_ITSA"
+  },
+  {
+    "tenantId": "comoros.grandecomore.itsandrahamanvou.hamanvou",
+    "code": "KM_G_ITSA_HAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_ITSA"
+  },
+  {
+    "tenantId": "comoros.grandecomore.itsandrahamanvou.isahari",
+    "code": "KM_G_ITSA_ISAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_ITSA"
+  },
+  {
+    "tenantId": "comoros.grandecomore.itsandrahamanvou.mbadani",
+    "code": "KM_G_ITSA_MBAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_ITSA"
+  },
+  {
+    "tenantId": "comoros.grandecomore.kartala.cratredukarthala",
+    "code": "KM_G_KART_CDK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_KART"
+  },
+  {
+    "tenantId": "comoros.grandecomore.mbadjiniest.domba",
+    "code": "KM_G_MBES_DOMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_MBES"
+  },
+  {
+    "tenantId": "comoros.grandecomore.mbadjiniest.itsahidi",
+    "code": "KM_G_MBES_ITSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_MBES"
+  },
+  {
+    "tenantId": "comoros.grandecomore.mbadjiniest.pimba",
+    "code": "KM_G_MBES_PIMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_MBES"
+  },
+  {
+    "tenantId": "comoros.grandecomore.mbadjiniouest.ngouengoe",
+    "code": "KM_G_MBOU_NGOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_MBOU"
+  },
+  {
+    "tenantId": "comoros.grandecomore.mbadjiniouest.nioumagama",
+    "code": "KM_G_MBOU_NIOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_MBOU"
+  },
+  {
+    "tenantId": "comoros.grandecomore.mitsamioulimboud.cembenoilacsal",
+    "code": "KM_G_MITS_CLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_MITS"
+  },
+  {
+    "tenantId": "comoros.grandecomore.mitsamioulimboud.cembenoisadadjoulamlima",
+    "code": "KM_G_MITS_CSD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_MITS"
+  },
+  {
+    "tenantId": "comoros.grandecomore.mitsamioulimboud.mitsamiouli",
+    "code": "KM_G_MITS_MITS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_MITS"
+  },
+  {
+    "tenantId": "comoros.grandecomore.mitsamioulimboud.nyumakomo",
+    "code": "KM_G_MITS_NYKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_MITS"
+  },
+  {
+    "tenantId": "comoros.grandecomore.mitsamioulimboud.nyumamrokiblani",
+    "code": "KM_G_MITS_NYKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_MITS"
+  },
+  {
+    "tenantId": "comoros.grandecomore.mitsamioulimboud.nyumamrosouheili",
+    "code": "KM_G_MITS_NYSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_MITS"
+  },
+  {
+    "tenantId": "comoros.grandecomore.moronibambao.bambaoyahari",
+    "code": "KM_G_MORO_BYH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_MORO"
+  },
+  {
+    "tenantId": "comoros.grandecomore.moronibambao.bambaoyadjou",
+    "code": "KM_G_MORO_BAYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_MORO"
+  },
+  {
+    "tenantId": "comoros.grandecomore.moronibambao.bambaoyamboini",
+    "code": "KM_G_MORO_BYM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_MORO"
+  },
+  {
+    "tenantId": "comoros.grandecomore.moronibambao.moroni",
+    "code": "KM_G_MORO_MORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_MORO"
+  },
+  {
+    "tenantId": "comoros.grandecomore.hamahametmboinkou.mboinkou",
+    "code": "KM_G_HAMA_MBOI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_HAMA"
+  },
+  {
+    "tenantId": "comoros.grandecomore.hamahametmboinkou.nyumamro",
+    "code": "KM_G_HAMA_NYMR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_HAMA"
+  },
+  {
+    "tenantId": "comoros.grandecomore.hamahametmboinkou.nyumamsiru",
+    "code": "KM_G_HAMA_NYMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_HAMA"
+  },
+  {
+    "tenantId": "comoros.grandecomore.oichilidimani.dimani",
+    "code": "KM_G_OICH_DIMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_OICH"
+  },
+  {
+    "tenantId": "comoros.grandecomore.oichilidimani.oichiliyadjou",
+    "code": "KM_G_OICH_OIYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_OICH"
+  },
+  {
+    "tenantId": "comoros.grandecomore.oichilidimani.oichiliyamboini",
+    "code": "KM_G_OICH_OIYA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_G_OICH"
+  }
+]

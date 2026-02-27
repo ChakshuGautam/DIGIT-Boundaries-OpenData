@@ -1,0 +1,737 @@
+[
+  {
+    "tenantId": "malaysia.terengganu",
+    "code": "MY_11",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MY"
+  },
+  {
+    "tenantId": "malaysia.terengganu.huluterengganu",
+    "code": "MY_11_HUTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_11"
+  },
+  {
+    "tenantId": "malaysia.terengganu.setiu",
+    "code": "MY_11_SETI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_11"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualaterengganu",
+    "code": "MY_11_KUTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_11"
+  },
+  {
+    "tenantId": "malaysia.terengganu.dungun",
+    "code": "MY_11_DUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_11"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kemaman",
+    "code": "MY_11_KEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_11"
+  },
+  {
+    "tenantId": "malaysia.terengganu.marang",
+    "code": "MY_11_MARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_11"
+  },
+  {
+    "tenantId": "malaysia.terengganu.besut",
+    "code": "MY_11_BESU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_11"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualanerus",
+    "code": "MY_11_KUNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_11"
+  },
+  {
+    "tenantId": "malaysia.terengganu.huluterengganu.mukimhuluterengganu",
+    "code": "MY_11_HUTE_MHT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_HUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.huluterengganu.mukimkualatelemung",
+    "code": "MY_11_HUTE_MKT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_HUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.huluterengganu.mukimjenagur",
+    "code": "MY_11_HUTE_MUJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_HUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.huluterengganu.pekankualaberang",
+    "code": "MY_11_HUTE_PKB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_HUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.huluterengganu.mukimtersat",
+    "code": "MY_11_HUTE_MUTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_HUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.huluterengganu.mukimtanggul",
+    "code": "MY_11_HUTE_MUTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_HUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.huluterengganu.mukimkualaberang",
+    "code": "MY_11_HUTE_MKB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_HUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.huluterengganu.mukimpenghuludiman",
+    "code": "MY_11_HUTE_MPD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_HUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.huluterengganu.mukimhulutelemung",
+    "code": "MY_11_HUTE_MHT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_HUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.huluterengganu.mukimhuluberang",
+    "code": "MY_11_HUTE_MHB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_HUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.setiu.mukimmerang",
+    "code": "MY_11_SETI_MUME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_SETI"
+  },
+  {
+    "tenantId": "malaysia.terengganu.setiu.mukimhulunerus",
+    "code": "MY_11_SETI_MHN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_SETI"
+  },
+  {
+    "tenantId": "malaysia.terengganu.setiu.mukimcaluk",
+    "code": "MY_11_SETI_MUCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_SETI"
+  },
+  {
+    "tenantId": "malaysia.terengganu.setiu.mukimguntung",
+    "code": "MY_11_SETI_MUGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_SETI"
+  },
+  {
+    "tenantId": "malaysia.terengganu.setiu.mukimhulusetiu",
+    "code": "MY_11_SETI_MHS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_SETI"
+  },
+  {
+    "tenantId": "malaysia.terengganu.setiu.mukimbinjai",
+    "code": "MY_11_SETI_MUBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_SETI"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualaterengganu.mukimcabangtiga",
+    "code": "MY_11_KUTE_MCT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualaterengganu.mukimkubangparit",
+    "code": "MY_11_KUTE_MKP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualaterengganu.mukimgelugurkedai",
+    "code": "MY_11_KUTE_MGK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualaterengganu.mukimbatuburuk",
+    "code": "MY_11_KUTE_MBB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualaterengganu.pekancabangtiga",
+    "code": "MY_11_KUTE_PCT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualaterengganu.mukimlosong",
+    "code": "MY_11_KUTE_MULO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualaterengganu.mukimatastol",
+    "code": "MY_11_KUTE_MAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualaterengganu.mukimpengadangbuluh",
+    "code": "MY_11_KUTE_MPB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualaterengganu.mukimbukitbesar",
+    "code": "MY_11_KUTE_MBB2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualaterengganu.bandarkualaterengganu",
+    "code": "MY_11_KUTE_BKT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualaterengganu.mukimrengas",
+    "code": "MY_11_KUTE_MURE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualaterengganu.mukimpaluh",
+    "code": "MY_11_KUTE_MUPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualaterengganu.mukimbelara",
+    "code": "MY_11_KUTE_MUBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualaterengganu.mukimcenering",
+    "code": "MY_11_KUTE_MUCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualaterengganu.mukimgelugurraja",
+    "code": "MY_11_KUTE_MGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualaterengganu.mukimkualaibai",
+    "code": "MY_11_KUTE_MKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualaterengganu.mukimtukjamal",
+    "code": "MY_11_KUTE_MTJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualaterengganu.mukimkepung",
+    "code": "MY_11_KUTE_MUKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualaterengganu.mukimmanir",
+    "code": "MY_11_KUTE_MUMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualaterengganu.mukimserada",
+    "code": "MY_11_KUTE_MUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUTE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.dungun.mukimpasirraja",
+    "code": "MY_11_DUNG_MPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_DUNG"
+  },
+  {
+    "tenantId": "malaysia.terengganu.dungun.mukimhulupaka",
+    "code": "MY_11_DUNG_MHP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_DUNG"
+  },
+  {
+    "tenantId": "malaysia.terengganu.dungun.mukimjerangau",
+    "code": "MY_11_DUNG_MUJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_DUNG"
+  },
+  {
+    "tenantId": "malaysia.terengganu.dungun.mukimjengai",
+    "code": "MY_11_DUNG_MUJE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_DUNG"
+  },
+  {
+    "tenantId": "malaysia.terengganu.dungun.mukimkualaabang",
+    "code": "MY_11_DUNG_MKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_DUNG"
+  },
+  {
+    "tenantId": "malaysia.terengganu.dungun.mukimsura",
+    "code": "MY_11_DUNG_MUSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_DUNG"
+  },
+  {
+    "tenantId": "malaysia.terengganu.dungun.mukimkumpal",
+    "code": "MY_11_DUNG_MUKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_DUNG"
+  },
+  {
+    "tenantId": "malaysia.terengganu.dungun.bandardungun",
+    "code": "MY_11_DUNG_BADU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_DUNG"
+  },
+  {
+    "tenantId": "malaysia.terengganu.dungun.pekankualapaka",
+    "code": "MY_11_DUNG_PKP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_DUNG"
+  },
+  {
+    "tenantId": "malaysia.terengganu.dungun.mukimbesul",
+    "code": "MY_11_DUNG_MUBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_DUNG"
+  },
+  {
+    "tenantId": "malaysia.terengganu.dungun.mukimrasau",
+    "code": "MY_11_DUNG_MURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_DUNG"
+  },
+  {
+    "tenantId": "malaysia.terengganu.dungun.mukimkualapaka",
+    "code": "MY_11_DUNG_MKP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_DUNG"
+  },
+  {
+    "tenantId": "malaysia.terengganu.dungun.mukimkualadungun",
+    "code": "MY_11_DUNG_MKD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_DUNG"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kemaman.mukimkertih",
+    "code": "MY_11_KEMA_MUKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KEMA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kemaman.mukimbanggul",
+    "code": "MY_11_KEMA_MUBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KEMA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kemaman.mukimhulujabur",
+    "code": "MY_11_KEMA_MHJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KEMA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kemaman.mukimtelukkalung",
+    "code": "MY_11_KEMA_MTK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KEMA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kemaman.mukimkijal",
+    "code": "MY_11_KEMA_MUKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KEMA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kemaman.mukimcukai",
+    "code": "MY_11_KEMA_MUCU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KEMA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kemaman.mukimkemasik",
+    "code": "MY_11_KEMA_MUKE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KEMA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kemaman.pekanairputih",
+    "code": "MY_11_KEMA_PAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KEMA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kemaman.mukimbandi",
+    "code": "MY_11_KEMA_MUBA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KEMA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kemaman.bandarcukai",
+    "code": "MY_11_KEMA_BACU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KEMA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kemaman.mukimhulucukai",
+    "code": "MY_11_KEMA_MHC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KEMA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kemaman.mukimpasirsemut",
+    "code": "MY_11_KEMA_MPS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KEMA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kemaman.pekankemasik",
+    "code": "MY_11_KEMA_PEKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KEMA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kemaman.pekankijal",
+    "code": "MY_11_KEMA_PEKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KEMA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kemaman.pekanairjernih",
+    "code": "MY_11_KEMA_PAJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KEMA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kemaman.mukimtebak",
+    "code": "MY_11_KEMA_MUTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KEMA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.marang.mukimbukitpayung",
+    "code": "MY_11_MARA_MBP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_MARA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.marang.pekanbukitpayung",
+    "code": "MY_11_MARA_PBP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_MARA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.marang.pekanmarang",
+    "code": "MY_11_MARA_PEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_MARA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.marang.mukimalurlimbat",
+    "code": "MY_11_MARA_MAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_MARA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.marang.mukimjerung",
+    "code": "MY_11_MARA_MUJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_MARA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.marang.mukimpulaukerengga",
+    "code": "MY_11_MARA_MPK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_MARA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.marang.mukimmercang",
+    "code": "MY_11_MARA_MUME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_MARA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.marang.mukimrusila",
+    "code": "MY_11_MARA_MURU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_MARA"
+  },
+  {
+    "tenantId": "malaysia.terengganu.besut.mukimkualabesut",
+    "code": "MY_11_BESU_MKB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_BESU"
+  },
+  {
+    "tenantId": "malaysia.terengganu.besut.mukimkerandang",
+    "code": "MY_11_BESU_MUKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_BESU"
+  },
+  {
+    "tenantId": "malaysia.terengganu.besut.pekanjertih",
+    "code": "MY_11_BESU_PEJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_BESU"
+  },
+  {
+    "tenantId": "malaysia.terengganu.besut.mukimhulubesut",
+    "code": "MY_11_BESU_MHB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_BESU"
+  },
+  {
+    "tenantId": "malaysia.terengganu.besut.mukimpangkalannangka",
+    "code": "MY_11_BESU_MPN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_BESU"
+  },
+  {
+    "tenantId": "malaysia.terengganu.besut.mukimbukitpeteri",
+    "code": "MY_11_BESU_MBP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_BESU"
+  },
+  {
+    "tenantId": "malaysia.terengganu.besut.mukimkeluang",
+    "code": "MY_11_BESU_MUKE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_BESU"
+  },
+  {
+    "tenantId": "malaysia.terengganu.besut.mukimtenang",
+    "code": "MY_11_BESU_MUTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_BESU"
+  },
+  {
+    "tenantId": "malaysia.terengganu.besut.pekankualabesut",
+    "code": "MY_11_BESU_PKB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_BESU"
+  },
+  {
+    "tenantId": "malaysia.terengganu.besut.mukimpelagat",
+    "code": "MY_11_BESU_MUPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_BESU"
+  },
+  {
+    "tenantId": "malaysia.terengganu.besut.mukimkampungraja",
+    "code": "MY_11_BESU_MKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_BESU"
+  },
+  {
+    "tenantId": "malaysia.terengganu.besut.mukimlubukkawah",
+    "code": "MY_11_BESU_MLK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_BESU"
+  },
+  {
+    "tenantId": "malaysia.terengganu.besut.pekankampungraja",
+    "code": "MY_11_BESU_PKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_BESU"
+  },
+  {
+    "tenantId": "malaysia.terengganu.besut.mukimpasirakar",
+    "code": "MY_11_BESU_MPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_BESU"
+  },
+  {
+    "tenantId": "malaysia.terengganu.besut.mukimbukitkenak",
+    "code": "MY_11_BESU_MBK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_BESU"
+  },
+  {
+    "tenantId": "malaysia.terengganu.besut.mukimtasik",
+    "code": "MY_11_BESU_MUTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_BESU"
+  },
+  {
+    "tenantId": "malaysia.terengganu.besut.mukimtembila",
+    "code": "MY_11_BESU_MUTE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_BESU"
+  },
+  {
+    "tenantId": "malaysia.terengganu.besut.mukimpulauperhentian",
+    "code": "MY_11_BESU_MPP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_BESU"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualanerus.mukimkualanerus",
+    "code": "MY_11_KUNE_MKN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUNE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualanerus.mukimbaturakit",
+    "code": "MY_11_KUNE_MBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUNE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualanerus.mukimpulaupulau",
+    "code": "MY_11_KUNE_MUPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUNE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualanerus.mukimpakoh",
+    "code": "MY_11_KUNE_MUPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUNE"
+  },
+  {
+    "tenantId": "malaysia.terengganu.kualanerus.mukimpulauredang",
+    "code": "MY_11_KUNE_MPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_11_KUNE"
+  }
+]

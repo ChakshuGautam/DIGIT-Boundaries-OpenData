@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "caboverde.ribeiragrandedesantiago",
+    "code": "CV_RS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CV"
+  },
+  {
+    "tenantId": "caboverde.ribeiragrandedesantiago.santissimonomedejesus",
+    "code": "CV_RS_SNDJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CV_RS"
+  },
+  {
+    "tenantId": "caboverde.ribeiragrandedesantiago.saojoaobaptista",
+    "code": "CV_RS_SJB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CV_RS"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "tenantId": "tuvalu",
+    "code": "TV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "tuvalu.nanumanga",
+    "code": "TV_NMG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TV"
+  },
+  {
+    "tenantId": "tuvalu.nanumea",
+    "code": "TV_NMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TV"
+  },
+  {
+    "tenantId": "tuvalu.niutao",
+    "code": "TV_NIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TV"
+  },
+  {
+    "tenantId": "tuvalu.nui",
+    "code": "TV_NUI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TV"
+  },
+  {
+    "tenantId": "tuvalu.vaitupu",
+    "code": "TV_VAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TV"
+  },
+  {
+    "tenantId": "tuvalu.nukufetau",
+    "code": "TV_NKF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TV"
+  },
+  {
+    "tenantId": "tuvalu.funafuti",
+    "code": "TV_FUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TV"
+  },
+  {
+    "tenantId": "tuvalu.nukulaelae",
+    "code": "TV_NKL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TV"
+  }
+]

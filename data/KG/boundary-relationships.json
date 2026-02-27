@@ -1,0 +1,58 @@
+[
+  {
+    "tenantId": "kyrgyzstan",
+    "code": "KG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "kyrgyzstan.batkenregion",
+    "code": "KG_B",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "KG"
+  },
+  {
+    "tenantId": "kyrgyzstan.oshregion",
+    "code": "KG_O",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "KG"
+  },
+  {
+    "tenantId": "kyrgyzstan.talasregion",
+    "code": "KG_T",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "KG"
+  },
+  {
+    "tenantId": "kyrgyzstan.jalalabadregion",
+    "code": "KG_J",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "KG"
+  },
+  {
+    "tenantId": "kyrgyzstan.issykkulregion",
+    "code": "KG_Y",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "KG"
+  },
+  {
+    "tenantId": "kyrgyzstan.chuyregion",
+    "code": "KG_C",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "KG"
+  },
+  {
+    "tenantId": "kyrgyzstan.narynregion",
+    "code": "KG_N",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "KG"
+  }
+]

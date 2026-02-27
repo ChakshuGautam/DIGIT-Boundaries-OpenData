@@ -1,0 +1,478 @@
+[
+  {
+    "tenantId": "hungary.csongrdcsand",
+    "code": "HU_CS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "HU"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.csongrd",
+    "code": "HU_CS_CSON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HU_CS"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.hdmezvsrhely",
+    "code": "HU_CS_HDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HU_CS"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.kistelek",
+    "code": "HU_CS_KIST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HU_CS"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mak",
+    "code": "HU_CS_MAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HU_CS"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mrahalom",
+    "code": "HU_CS_MRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HU_CS"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szeged",
+    "code": "HU_CS_SZEG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HU_CS"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szentes",
+    "code": "HU_CS_SZEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HU_CS"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.csongrd.t",
+    "code": "HU_CS_CSON_T",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_CSON"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.csongrd.felgyo",
+    "code": "HU_CS_CSON_FELG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_CSON"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.csongrd.csongrsd",
+    "code": "HU_CS_CSON_CSON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_CSON"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.csongrd.csanytelek",
+    "code": "HU_CS_CSON_CSAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_CSON"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.hdmezvsrhely.m",
+    "code": "HU_CS_HDM_M",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_HDM"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.hdmezvsrhely.szkkutas",
+    "code": "HU_CS_HDM_SZK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_HDM"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.hdmezvsrhely.h",
+    "code": "HU_CS_HDM_H",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_HDM"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.hdmezvsrhely.mindszent",
+    "code": "HU_CS_HDM_MIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_HDM"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.kistelek.balistya",
+    "code": "HU_CS_KIST_BALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_KIST"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.kistelek.csengele",
+    "code": "HU_CS_KIST_CSEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_KIST"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.kistelek.kistelek",
+    "code": "HU_CS_KIST_KIST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_KIST"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.kistelek.baks",
+    "code": "HU_CS_KIST_BAKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_KIST"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.kistelek.pusztaszer",
+    "code": "HU_CS_KIST_PUSZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_KIST"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.kistelek.pusztaszer",
+    "code": "HU_CS_KIST_PUSZ2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_KIST"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mak.pitvaros",
+    "code": "HU_CS_MAK_PITV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MAK"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mak.makm",
+    "code": "HU_CS_MAK_MAKM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MAK"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mak.csanndalberti",
+    "code": "HU_CS_MAK_CSAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MAK"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mak.magyarcsan",
+    "code": "HU_CS_MAK_MAGY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MAK"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mak.maroslele",
+    "code": "HU_CS_MAK_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MAK"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mak.ambrazfalva",
+    "code": "HU_CS_MAK_AMBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MAK"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mak.csansdpalota",
+    "code": "HU_CS_MAK_CSAN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MAK"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mak.nagylak",
+    "code": "HU_CS_MAK_NAGY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MAK"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mak.k",
+    "code": "HU_CS_MAK_K",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MAK"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mak.kiszombor",
+    "code": "HU_CS_MAK_KISZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MAK"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mak.aptfalva",
+    "code": "HU_CS_MAK_APT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MAK"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mak.kiralyhegyes",
+    "code": "HU_CS_MAK_KIRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MAK"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mak.fldesk",
+    "code": "HU_CS_MAK_FLD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MAK"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mak.f",
+    "code": "HU_CS_MAK_F",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MAK"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mak.nagysr",
+    "code": "HU_CS_MAK_NAGY2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MAK"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mrahalom.llps",
+    "code": "HU_CS_MRA_LLPS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MRA"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mrahalom.z",
+    "code": "HU_CS_MRA_Z",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MRA"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mrahalom.forrsskgt",
+    "code": "HU_CS_MRA_FORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MRA"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mrahalom.sotthalom",
+    "code": "HU_CS_MRA_SOTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MRA"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mrahalom.m",
+    "code": "HU_CS_MRA_M",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MRA"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mrahalom.ttbmks",
+    "code": "HU_CS_MRA_TTBM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MRA"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mrahalom.zsombn",
+    "code": "HU_CS_MRA_ZSOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MRA"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mrahalom.borddny",
+    "code": "HU_CS_MRA_BORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MRA"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mrahalom.pusztamzrges",
+    "code": "HU_CS_MRA_PUSZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MRA"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.mrahalom.ruzsa",
+    "code": "HU_CS_MRA_RUZS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_MRA"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szeged.k",
+    "code": "HU_CS_SZEG_K",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_SZEG"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szeged.tiszasziget",
+    "code": "HU_CS_SZEG_TISZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_SZEG"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szeged.klrafalva",
+    "code": "HU_CS_SZEG_KLR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_SZEG"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szeged.deszk",
+    "code": "HU_CS_SZEG_DESZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_SZEG"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szeged.jszentivan",
+    "code": "HU_CS_SZEG_JSZE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_SZEG"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szeged.algyo",
+    "code": "HU_CS_SZEG_ALGY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_SZEG"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szeged.szatymaz",
+    "code": "HU_CS_SZEG_SZAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_SZEG"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szeged.r",
+    "code": "HU_CS_SZEG_R",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_SZEG"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szeged.ferencszellis",
+    "code": "HU_CS_SZEG_FERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_SZEG"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szeged.d",
+    "code": "HU_CS_SZEG_D",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_SZEG"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szeged.domaszsk",
+    "code": "HU_CS_SZEG_DOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_SZEG"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szeged.s",
+    "code": "HU_CS_SZEG_S",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_SZEG"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szeged.szeged",
+    "code": "HU_CS_SZEG_SZEG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_SZEG"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szentes.szegvar",
+    "code": "HU_CS_SZEN_SZEG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_SZEN"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szentes.nagymugocs",
+    "code": "HU_CS_SZEN_NAGY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_SZEN"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szentes.derekegyhgz",
+    "code": "HU_CS_SZEN_DERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_SZEN"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szentes.eperjes",
+    "code": "HU_CS_SZEN_EPER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_SZEN"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szentes.szentes",
+    "code": "HU_CS_SZEN_SZEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_SZEN"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szentes.rpcdhalom",
+    "code": "HU_CS_SZEN_RPCD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_SZEN"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szentes.nagytoke",
+    "code": "HU_CS_SZEN_NAGY2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_SZEN"
+  },
+  {
+    "tenantId": "hungary.csongrdcsand.szentes.f",
+    "code": "HU_CS_SZEN_F",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_CS_SZEN"
+  }
+]

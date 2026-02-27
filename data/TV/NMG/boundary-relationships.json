@@ -1,0 +1,51 @@
+[
+  {
+    "tenantId": "tuvalu.nanumanga",
+    "code": "TV_NMG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TV"
+  },
+  {
+    "tenantId": "tuvalu.nanumanga.tonga",
+    "code": "TV_NMG_TONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TV_NMG"
+  },
+  {
+    "tenantId": "tuvalu.nanumanga.tokelau",
+    "code": "TV_NMG_TOKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TV_NMG"
+  },
+  {
+    "tenantId": "tuvalu.nanumanga.tonga.unknown",
+    "code": "TV_NMG_TONG_2201",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NMG_TONG"
+  },
+  {
+    "tenantId": "tuvalu.nanumanga.tonga.unknown",
+    "code": "TV_NMG_TONG_22012",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NMG_TONG"
+  },
+  {
+    "tenantId": "tuvalu.nanumanga.tokelau.unknown",
+    "code": "TV_NMG_TOKE_2202",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NMG_TOKE"
+  },
+  {
+    "tenantId": "tuvalu.nanumanga.tokelau.unknown",
+    "code": "TV_NMG_TOKE_22022",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NMG_TOKE"
+  }
+]

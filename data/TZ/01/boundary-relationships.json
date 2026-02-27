@@ -1,0 +1,898 @@
+[
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha",
+    "code": "TZ_01",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "TZ"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arusha",
+    "code": "TZ_01_ARUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TZ_01"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arushaurban",
+    "code": "TZ_01_ARUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TZ_01"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.karatu",
+    "code": "TZ_01_KARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TZ_01"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.longido",
+    "code": "TZ_01_LONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TZ_01"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.meru",
+    "code": "TZ_01_MERU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TZ_01"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.monduli",
+    "code": "TZ_01_MOND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TZ_01"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.ngorongoro",
+    "code": "TZ_01_NGOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TZ_01"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arusha.olkokola",
+    "code": "TZ_01_ARUS_OLKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUS"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arusha.bangata",
+    "code": "TZ_01_ARUS_BANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUS"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arusha.bwawani",
+    "code": "TZ_01_ARUS_BWAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUS"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arusha.ilkidinga",
+    "code": "TZ_01_ARUS_ILKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUS"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arusha.kimnyaki",
+    "code": "TZ_01_ARUS_KIMN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUS"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arusha.olmotonyi",
+    "code": "TZ_01_ARUS_OLMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUS"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arusha.kiranyi",
+    "code": "TZ_01_ARUS_KIRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUS"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arusha.kisongo",
+    "code": "TZ_01_ARUS_KISO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUS"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arusha.mateves",
+    "code": "TZ_01_ARUS_MATE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUS"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arusha.olorieni",
+    "code": "TZ_01_ARUS_OLOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUS"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arusha.mlangarini",
+    "code": "TZ_01_ARUS_MLAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUS"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arusha.moivo",
+    "code": "TZ_01_ARUS_MOIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUS"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arusha.mussa",
+    "code": "TZ_01_ARUS_MUSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUS"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arusha.mwandeti",
+    "code": "TZ_01_ARUS_MWAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUS"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arusha.nduruma",
+    "code": "TZ_01_ARUS_NDUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUS"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arusha.oldonyosambu",
+    "code": "TZ_01_ARUS_OLDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUS"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arusha.oljoro",
+    "code": "TZ_01_ARUS_OLJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUS"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arusha.oltoroto",
+    "code": "TZ_01_ARUS_OLTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUS"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arusha.oltrumet",
+    "code": "TZ_01_ARUS_OLTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUS"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arusha.sambasha",
+    "code": "TZ_01_ARUS_SAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUS"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arusha.sokonii",
+    "code": "TZ_01_ARUS_SOII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUS"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arushaurban.baraa",
+    "code": "TZ_01_ARUR_BARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arushaurban.darajambili",
+    "code": "TZ_01_ARUR_DAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arushaurban.elerai",
+    "code": "TZ_01_ARUR_ELER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arushaurban.engutoto",
+    "code": "TZ_01_ARUR_ENGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arushaurban.kaloleni",
+    "code": "TZ_01_ARUR_KALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arushaurban.kati",
+    "code": "TZ_01_ARUR_KATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arushaurban.kimandolu",
+    "code": "TZ_01_ARUR_KIMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arushaurban.lemara",
+    "code": "TZ_01_ARUR_LEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arushaurban.levolosi",
+    "code": "TZ_01_ARUR_LEVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arushaurban.moshono",
+    "code": "TZ_01_ARUR_MOSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arushaurban.ngarenaro",
+    "code": "TZ_01_ARUR_NGAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arushaurban.olasiti",
+    "code": "TZ_01_ARUR_OLAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arushaurban.oloirieni",
+    "code": "TZ_01_ARUR_OLOI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arushaurban.sekei",
+    "code": "TZ_01_ARUR_SEKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arushaurban.sokonii",
+    "code": "TZ_01_ARUR_SOI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arushaurban.sombetini",
+    "code": "TZ_01_ARUR_SOMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arushaurban.terrat",
+    "code": "TZ_01_ARUR_TERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arushaurban.themi",
+    "code": "TZ_01_ARUR_THEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.arushaurban.ungaltd",
+    "code": "TZ_01_ARUR_UNLT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_ARUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.karatu.mangola",
+    "code": "TZ_01_KARA_MANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_KARA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.karatu.baray",
+    "code": "TZ_01_KARA_BARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_KARA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.karatu.buger",
+    "code": "TZ_01_KARA_BUGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_KARA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.karatu.daa",
+    "code": "TZ_01_KARA_DAA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_KARA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.karatu.endabash",
+    "code": "TZ_01_KARA_ENDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_KARA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.karatu.endamarariek",
+    "code": "TZ_01_KARA_ENDA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_KARA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.karatu.ganako",
+    "code": "TZ_01_KARA_GANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_KARA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.karatu.kansay",
+    "code": "TZ_01_KARA_KANS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_KARA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.karatu.karatu",
+    "code": "TZ_01_KARA_KARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_KARA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.karatu.mbulumbulu",
+    "code": "TZ_01_KARA_MBUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_KARA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.karatu.oldean",
+    "code": "TZ_01_KARA_OLDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_KARA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.karatu.qurus",
+    "code": "TZ_01_KARA_QURU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_KARA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.karatu.rhotia",
+    "code": "TZ_01_KARA_RHOT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_KARA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.karatu.endamaghang",
+    "code": "TZ_01_KARA_ENDA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_KARA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.longido.kimokouwa",
+    "code": "TZ_01_LONG_KIMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_LONG"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.longido.elengatadapash",
+    "code": "TZ_01_LONG_ELDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_LONG"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.longido.engarenaibor",
+    "code": "TZ_01_LONG_ENGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_LONG"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.longido.engikaret",
+    "code": "TZ_01_LONG_ENGI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_LONG"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.longido.gelailumbwa",
+    "code": "TZ_01_LONG_GELU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_LONG"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.longido.kitumbeine",
+    "code": "TZ_01_LONG_KITU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_LONG"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.longido.longido",
+    "code": "TZ_01_LONG_LONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_LONG"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.longido.gelaimeirugoi",
+    "code": "TZ_01_LONG_GEME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_LONG"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.longido.ilorienito",
+    "code": "TZ_01_LONG_ILOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_LONG"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.longido.matale",
+    "code": "TZ_01_LONG_MATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_LONG"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.longido.mundarara",
+    "code": "TZ_01_LONG_MUND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_LONG"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.longido.namanga",
+    "code": "TZ_01_LONG_NAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_LONG"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.longido.orbomba",
+    "code": "TZ_01_LONG_ORBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_LONG"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.longido.tingatinga",
+    "code": "TZ_01_LONG_TING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_LONG"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.meru.akheri",
+    "code": "TZ_01_MERU_AKHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MERU"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.meru.kikatiti",
+    "code": "TZ_01_MERU_KIKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MERU"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.meru.kingori",
+    "code": "TZ_01_MERU_KING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MERU"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.meru.kikwe",
+    "code": "TZ_01_MERU_KIKW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MERU"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.meru.leguruki",
+    "code": "TZ_01_MERU_LEGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MERU"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.meru.majiyachai",
+    "code": "TZ_01_MERU_MYC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MERU"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.meru.makiba",
+    "code": "TZ_01_MERU_MAKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MERU"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.meru.maroroni",
+    "code": "TZ_01_MERU_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MERU"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.meru.mbuguni",
+    "code": "TZ_01_MERU_MBUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MERU"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.meru.nkoanrua",
+    "code": "TZ_01_MERU_NKOA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MERU"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.meru.ngarenanyuki",
+    "code": "TZ_01_MERU_NGAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MERU"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.meru.nkoaranga",
+    "code": "TZ_01_MERU_NKOA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MERU"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.meru.nkoarisambu",
+    "code": "TZ_01_MERU_NKOA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MERU"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.meru.poli",
+    "code": "TZ_01_MERU_POLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MERU"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.meru.seelasingisi",
+    "code": "TZ_01_MERU_SESI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MERU"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.meru.songoro",
+    "code": "TZ_01_MERU_SONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MERU"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.meru.usariver",
+    "code": "TZ_01_MERU_USAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MERU"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.monduli.engutoto",
+    "code": "TZ_01_MOND_ENGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MOND"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.monduli.esilalei",
+    "code": "TZ_01_MOND_ESIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MOND"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.monduli.lepurko",
+    "code": "TZ_01_MOND_LEPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MOND"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.monduli.engaruka",
+    "code": "TZ_01_MOND_ENGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MOND"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.monduli.majengo",
+    "code": "TZ_01_MOND_MAJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MOND"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.monduli.makuyuni",
+    "code": "TZ_01_MOND_MAKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MOND"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.monduli.mswakini",
+    "code": "TZ_01_MOND_MSWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MOND"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.monduli.meserani",
+    "code": "TZ_01_MOND_MESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MOND"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.monduli.moita",
+    "code": "TZ_01_MOND_MOIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MOND"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.monduli.mondulijuu",
+    "code": "TZ_01_MOND_MOJU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MOND"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.monduli.mondulimjini",
+    "code": "TZ_01_MOND_MOMJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MOND"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.monduli.mtowambu",
+    "code": "TZ_01_MOND_MWM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MOND"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.monduli.selela",
+    "code": "TZ_01_MOND_SELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MOND"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.monduli.sepeko",
+    "code": "TZ_01_MOND_SEPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_MOND"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.ngorongoro.alailelai",
+    "code": "TZ_01_NGOR_ALAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_NGOR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.ngorongoro.arash",
+    "code": "TZ_01_NGOR_ARAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_NGOR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.ngorongoro.digodigo",
+    "code": "TZ_01_NGOR_DIGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_NGOR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.ngorongoro.naiyobi",
+    "code": "TZ_01_NGOR_NAIY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_NGOR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.ngorongoro.endulen",
+    "code": "TZ_01_NGOR_ENDU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_NGOR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.ngorongoro.enguserosambu",
+    "code": "TZ_01_NGOR_ENSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_NGOR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.ngorongoro.sale",
+    "code": "TZ_01_NGOR_SALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_NGOR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.ngorongoro.kakesio",
+    "code": "TZ_01_NGOR_KAKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_NGOR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.ngorongoro.maalon",
+    "code": "TZ_01_NGOR_MAAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_NGOR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.ngorongoro.malambo",
+    "code": "TZ_01_NGOR_MALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_NGOR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.ngorongoro.nainokanoka",
+    "code": "TZ_01_NGOR_NAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_NGOR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.ngorongoro.ngorongoro",
+    "code": "TZ_01_NGOR_NGOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_NGOR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.ngorongoro.samunge",
+    "code": "TZ_01_NGOR_SAMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_NGOR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.ngorongoro.olbalbal",
+    "code": "TZ_01_NGOR_OLBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_NGOR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.ngorongoro.oldonyosambu",
+    "code": "TZ_01_NGOR_OLSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_NGOR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.ngorongoro.oloipiri",
+    "code": "TZ_01_NGOR_OLOI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_NGOR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.ngorongoro.oloirien",
+    "code": "TZ_01_NGOR_OLOI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_NGOR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.ngorongoro.ololosokwan",
+    "code": "TZ_01_NGOR_OLOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_NGOR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.ngorongoro.orgosorok",
+    "code": "TZ_01_NGOR_ORGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_NGOR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.ngorongoro.pinyinyi",
+    "code": "TZ_01_NGOR_PINY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_NGOR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.arusha.ngorongoro.soitsambu",
+    "code": "TZ_01_NGOR_SOIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_01_NGOR"
+  }
+]

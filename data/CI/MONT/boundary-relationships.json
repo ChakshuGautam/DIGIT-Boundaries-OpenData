@@ -1,0 +1,541 @@
+[
+  {
+    "tenantId": "ctedivoire.montagnes",
+    "code": "CI_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CI"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.cavally",
+    "code": "CI_MONT_CAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CI_MONT"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon",
+    "code": "CI_MONT_GUEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CI_MONT"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi",
+    "code": "CI_MONT_TONK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CI_MONT"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.cavally.bakoubly",
+    "code": "CI_MONT_CAVA_BAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_CAVA"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.cavally.bdigaozon",
+    "code": "CI_MONT_CAVA_BD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_CAVA"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.cavally.blolquin",
+    "code": "CI_MONT_CAVA_BLOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_CAVA"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.cavally.dibok",
+    "code": "CI_MONT_CAVA_DIBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_CAVA"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.cavally.dok",
+    "code": "CI_MONT_CAVA_DOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_CAVA"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.cavally.guiglo",
+    "code": "CI_MONT_CAVA_GUIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_CAVA"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.cavally.kaad",
+    "code": "CI_MONT_CAVA_KAAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_CAVA"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.cavally.mo",
+    "code": "CI_MONT_CAVA_MO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_CAVA"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.cavally.nzobly",
+    "code": "CI_MONT_CAVA_NZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_CAVA"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.cavally.nizahon",
+    "code": "CI_MONT_CAVA_NIZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_CAVA"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.cavally.ph",
+    "code": "CI_MONT_CAVA_PH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_CAVA"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.cavally.ta",
+    "code": "CI_MONT_CAVA_TA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_CAVA"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.cavally.tinhou",
+    "code": "CI_MONT_CAVA_TINH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_CAVA"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.cavally.tiobly",
+    "code": "CI_MONT_CAVA_TIOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_CAVA"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.cavally.toulepleu",
+    "code": "CI_MONT_CAVA_TOUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_CAVA"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.cavally.zagn",
+    "code": "CI_MONT_CAVA_ZAGN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_CAVA"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.cavally.zaglo",
+    "code": "CI_MONT_CAVA_ZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_CAVA"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.bagohouo",
+    "code": "CI_MONT_GUEM_BAGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.bangolo",
+    "code": "CI_MONT_GUEM_BANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.bouzibiao",
+    "code": "CI_MONT_GUEM_BO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.blnimouin",
+    "code": "CI_MONT_GUEM_BL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.diouzon",
+    "code": "CI_MONT_GUEM_DI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.dukou",
+    "code": "CI_MONT_GUEM_DU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.facobly",
+    "code": "CI_MONT_GUEM_FACO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.gbapleu",
+    "code": "CI_MONT_GUEM_GBAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.gohouozagna",
+    "code": "CI_MONT_GUEM_GOHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.guhibly",
+    "code": "CI_MONT_GUEM_GU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.guzon",
+    "code": "CI_MONT_GUEM_GU2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.guzon",
+    "code": "CI_MONT_GUEM_GU3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.guinglotahouak",
+    "code": "CI_MONT_GUEM_GUIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.kahinzarabaon",
+    "code": "CI_MONT_GUEM_KAHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.koua",
+    "code": "CI_MONT_GUEM_KOUA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.kouibly",
+    "code": "CI_MONT_GUEM_KOUI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.nidrou",
+    "code": "CI_MONT_GUEM_NIDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.ouyablygnondrou",
+    "code": "CI_MONT_GUEM_OUYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.smien",
+    "code": "CI_MONT_GUEM_SM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.tinysably",
+    "code": "CI_MONT_GUEM_TI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.totrodrou",
+    "code": "CI_MONT_GUEM_TOTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.zo",
+    "code": "CI_MONT_GUEM_ZO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.guemon.zou",
+    "code": "CI_MONT_GUEM_ZOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_GUEM"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.banneu",
+    "code": "CI_MONT_TONK_BANN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.biankouma",
+    "code": "CI_MONT_TONK_BIAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.binhouy",
+    "code": "CI_MONT_TONK_BIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.blapleu",
+    "code": "CI_MONT_TONK_BLAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.bogouin",
+    "code": "CI_MONT_TONK_BOGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.daleu",
+    "code": "CI_MONT_TONK_DALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.danan",
+    "code": "CI_MONT_TONK_DANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.fagnampleu",
+    "code": "CI_MONT_TONK_FAGN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.gbangbgouin",
+    "code": "CI_MONT_TONK_GBAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.gbangbegouinyati",
+    "code": "CI_MONT_TONK_GBAN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.gbonhouy",
+    "code": "CI_MONT_TONK_GBON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.gbonn",
+    "code": "CI_MONT_TONK_GBON2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.gouin",
+    "code": "CI_MONT_TONK_GOUI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.goulaleu",
+    "code": "CI_MONT_TONK_GOUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.kouanhoul",
+    "code": "CI_MONT_TONK_KOUA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.kpata",
+    "code": "CI_MONT_TONK_KPAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.logoual",
+    "code": "CI_MONT_TONK_LOGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.mahapleu",
+    "code": "CI_MONT_TONK_MAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.man",
+    "code": "CI_MONT_TONK_MAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.podiagouin",
+    "code": "CI_MONT_TONK_PODI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.sandougousoba",
+    "code": "CI_MONT_TONK_SAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.sangouin",
+    "code": "CI_MONT_TONK_SANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.santa",
+    "code": "CI_MONT_TONK_SANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.seileu",
+    "code": "CI_MONT_TONK_SEIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.sipilou",
+    "code": "CI_MONT_TONK_SIPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.tapleu",
+    "code": "CI_MONT_TONK_TA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.yapleu",
+    "code": "CI_MONT_TONK_YAPL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.yelleu",
+    "code": "CI_MONT_TONK_YELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.yorodougou",
+    "code": "CI_MONT_TONK_YORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.zagou",
+    "code": "CI_MONT_TONK_ZAGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.ziogouin",
+    "code": "CI_MONT_TONK_ZIOG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.zonneu",
+    "code": "CI_MONT_TONK_ZONN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  },
+  {
+    "tenantId": "ctedivoire.montagnes.tonkpi.zouanhounien",
+    "code": "CI_MONT_TONK_ZOHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_MONT_TONK"
+  }
+]

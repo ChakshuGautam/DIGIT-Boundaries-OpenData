@@ -1,0 +1,667 @@
+[
+  {
+    "tenantId": "sweden.kronobergsln",
+    "code": "SE_G",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SE"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.markaryd",
+    "code": "SE_G_MARK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_G"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.ljungby",
+    "code": "SE_G_LJUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_G"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.lmhult",
+    "code": "SE_G_LMH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_G"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.alvesta",
+    "code": "SE_G_ALVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_G"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.tingsryd",
+    "code": "SE_G_TING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_G"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.lessebo",
+    "code": "SE_G_LESS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_G"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.uppvidinge",
+    "code": "SE_G_UPPV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_G"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj",
+    "code": "SE_G_VXJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_G"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.markaryd.hinneryd",
+    "code": "SE_G_MARK_HINN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_MARK"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.markaryd.traryd",
+    "code": "SE_G_MARK_TRAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_MARK"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.markaryd.markaryd",
+    "code": "SE_G_MARK_MARK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_MARK"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.ljungby.drarp",
+    "code": "SE_G_LJUN_DR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LJUN"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.ljungby.bolms",
+    "code": "SE_G_LJUN_BOLM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LJUN"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.ljungby.vittaryd",
+    "code": "SE_G_LJUN_VITT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LJUN"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.ljungby.berga",
+    "code": "SE_G_LJUN_BERG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LJUN"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.ljungby.tannker",
+    "code": "SE_G_LJUN_TANN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LJUN"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.ljungby.ryssby",
+    "code": "SE_G_LJUN_RYSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LJUN"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.ljungby.angelstad",
+    "code": "SE_G_LJUN_ANGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LJUN"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.ljungby.odensj",
+    "code": "SE_G_LJUN_ODEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LJUN"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.ljungby.lidhult",
+    "code": "SE_G_LJUN_LIDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LJUN"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.ljungby.tutaryd",
+    "code": "SE_G_LJUN_TUTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LJUN"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.ljungby.ljungby",
+    "code": "SE_G_LJUN_LJUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LJUN"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.ljungby.annerstad",
+    "code": "SE_G_LJUN_ANNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LJUN"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.ljungby.knna",
+    "code": "SE_G_LJUN_KN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LJUN"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.ljungby.sdraljunga",
+    "code": "SE_G_LJUN_SLJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LJUN"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.ljungby.vr",
+    "code": "SE_G_LJUN_VR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LJUN"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.ljungby.agunnaryd",
+    "code": "SE_G_LJUN_AGUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LJUN"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.ljungby.torpa",
+    "code": "SE_G_LJUN_TORP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LJUN"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.ljungby.hamneda",
+    "code": "SE_G_LJUN_HAMN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LJUN"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.ljungby.nttja",
+    "code": "SE_G_LJUN_NT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LJUN"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.lmhult.virestad",
+    "code": "SE_G_LMH_VIRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LMH"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.lmhult.stenbrohult",
+    "code": "SE_G_LMH_STEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LMH"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.lmhult.pjtteryd",
+    "code": "SE_G_LMH_PJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LMH"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.lmhult.gteryd",
+    "code": "SE_G_LMH_GT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LMH"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.lmhult.hrlunda",
+    "code": "SE_G_LMH_HR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LMH"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.lmhult.hallaryd",
+    "code": "SE_G_LMH_HALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LMH"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.alvesta.r",
+    "code": "SE_G_ALVE_R",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_ALVE"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.alvesta.hjortsbergakvenneberga",
+    "code": "SE_G_ALVE_HJOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_ALVE"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.alvesta.lekaryd",
+    "code": "SE_G_ALVE_LEKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_ALVE"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.alvesta.hrlv",
+    "code": "SE_G_ALVE_HR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_ALVE"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.alvesta.sltthg",
+    "code": "SE_G_ALVE_SL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_ALVE"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.alvesta.moheda",
+    "code": "SE_G_ALVE_MOHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_ALVE"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.alvesta.alvesta",
+    "code": "SE_G_ALVE_ALVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_ALVE"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.alvesta.bldinge",
+    "code": "SE_G_ALVE_BL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_ALVE"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.alvesta.vislanda",
+    "code": "SE_G_ALVE_VISL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_ALVE"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.alvesta.skatelv",
+    "code": "SE_G_ALVE_SKAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_ALVE"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.alvesta.vstratorss",
+    "code": "SE_G_ALVE_VTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_ALVE"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.alvesta.skatelv",
+    "code": "SE_G_ALVE_SKAT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_ALVE"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.tingsryd.linneryd",
+    "code": "SE_G_TING_LINN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_TING"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.tingsryd.vckelsng",
+    "code": "SE_G_TING_VC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_TING"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.tingsryd.urshult",
+    "code": "SE_G_TING_URSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_TING"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.tingsryd.lmeboda",
+    "code": "SE_G_TING_LM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_TING"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.tingsryd.almundsryd",
+    "code": "SE_G_TING_ALMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_TING"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.tingsryd.tingss",
+    "code": "SE_G_TING_TING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_TING"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.tingsryd.sdrasandsj",
+    "code": "SE_G_TING_SSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_TING"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.lessebo.ekeberga",
+    "code": "SE_G_LESS_EKEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LESS"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.lessebo.hovmantorp",
+    "code": "SE_G_LESS_HOVM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LESS"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.lessebo.lessebo",
+    "code": "SE_G_LESS_LESS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LESS"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.lessebo.ljuder",
+    "code": "SE_G_LESS_LJUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_LESS"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.uppvidinge.nshult",
+    "code": "SE_G_UPPV_NS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_UPPV"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.uppvidinge.nottebck",
+    "code": "SE_G_UPPV_NOTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_UPPV"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.uppvidinge.seda",
+    "code": "SE_G_UPPV_SE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_UPPV"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.uppvidinge.lghult",
+    "code": "SE_G_UPPV_LG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_UPPV"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.uppvidinge.lenhovda",
+    "code": "SE_G_UPPV_LENH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_UPPV"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.ddesj",
+    "code": "SE_G_VXJ_DD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.ormesberga",
+    "code": "SE_G_VXJ_ORME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.grdsby",
+    "code": "SE_G_VXJ_GR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.vxjmaria",
+    "code": "SE_G_VXJ_VMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.jaby",
+    "code": "SE_G_VXJ_JA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.herrkra",
+    "code": "SE_G_VXJ_HERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.asa",
+    "code": "SE_G_VXJ_ASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.aneboda",
+    "code": "SE_G_VXJ_ANEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.sjss",
+    "code": "SE_G_VXJ_SJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.berg",
+    "code": "SE_G_VXJ_BERG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.tolg",
+    "code": "SE_G_VXJ_TOLG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.hornaryd",
+    "code": "SE_G_VXJ_HORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.drev",
+    "code": "SE_G_VXJ_DREV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.sraby",
+    "code": "SE_G_VXJ_SR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.tjureda",
+    "code": "SE_G_VXJ_TJUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.furuby",
+    "code": "SE_G_VXJ_FURU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.bergunda",
+    "code": "SE_G_VXJ_BERG2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.hemmesjtegnaby",
+    "code": "SE_G_VXJ_HEMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.ja",
+    "code": "SE_G_VXJ_JA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.skogslyckan",
+    "code": "SE_G_VXJ_SKOG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.vxjdomkyrkodistrikt",
+    "code": "SE_G_VXJ_VDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.teleborg",
+    "code": "SE_G_VXJ_TELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.dnningelanda",
+    "code": "SE_G_VXJ_DN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.vederslv",
+    "code": "SE_G_VXJ_VEDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.tvelss",
+    "code": "SE_G_VXJ_TV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.stratorss",
+    "code": "SE_G_VXJ_TO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.nbbele",
+    "code": "SE_G_VXJ_NB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.kalvsvik",
+    "code": "SE_G_VXJ_KALV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.ursa",
+    "code": "SE_G_VXJ_UR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  },
+  {
+    "tenantId": "sweden.kronobergsln.vxj.jt",
+    "code": "SE_G_VXJ_JT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_G_VXJ"
+  }
+]

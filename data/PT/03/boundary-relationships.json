@@ -1,0 +1,2228 @@
+[
+  {
+    "tenantId": "portugal.braga",
+    "code": "PT_03",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PT"
+  },
+  {
+    "tenantId": "portugal.braga.esposende",
+    "code": "PT_03_ESPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_03"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao",
+    "code": "PT_03_VNDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_03"
+  },
+  {
+    "tenantId": "portugal.braga.vizela",
+    "code": "PT_03_VIZE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_03"
+  },
+  {
+    "tenantId": "portugal.braga.celoricodebasto",
+    "code": "PT_03_CDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_03"
+  },
+  {
+    "tenantId": "portugal.braga.cabeceirasdebasto",
+    "code": "PT_03_CDB2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_03"
+  },
+  {
+    "tenantId": "portugal.braga.fafe",
+    "code": "PT_03_FAFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_03"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes",
+    "code": "PT_03_GUIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_03"
+  },
+  {
+    "tenantId": "portugal.braga.vieiradominho",
+    "code": "PT_03_VDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_03"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa",
+    "code": "PT_03_PDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_03"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos",
+    "code": "PT_03_BARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_03"
+  },
+  {
+    "tenantId": "portugal.braga.braga",
+    "code": "PT_03_BRAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_03"
+  },
+  {
+    "tenantId": "portugal.braga.amares",
+    "code": "PT_03_AMAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_03"
+  },
+  {
+    "tenantId": "portugal.braga.terrasdebouro",
+    "code": "PT_03_TDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_03"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde",
+    "code": "PT_03_VIVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_03"
+  },
+  {
+    "tenantId": "portugal.braga.esposende.antas",
+    "code": "PT_03_ESPO_ANTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_ESPO"
+  },
+  {
+    "tenantId": "portugal.braga.esposende.forj",
+    "code": "PT_03_ESPO_FORJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_ESPO"
+  },
+  {
+    "tenantId": "portugal.braga.esposende.gemeses",
+    "code": "PT_03_ESPO_GEME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_ESPO"
+  },
+  {
+    "tenantId": "portugal.braga.esposende.sdoromodeneiva",
+    "code": "PT_03_ESPO_SRDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_ESPO"
+  },
+  {
+    "tenantId": "portugal.braga.esposende.uniodasfreguesiasdeaptliaefo",
+    "code": "PT_03_ESPO_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_ESPO"
+  },
+  {
+    "tenantId": "portugal.braga.esposende.uniodasfreguesiasdebelinhoemar",
+    "code": "PT_03_ESPO_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_ESPO"
+  },
+  {
+    "tenantId": "portugal.braga.esposende.uniodasfreguesiasdeesposendemarinhasegan",
+    "code": "PT_03_ESPO_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_ESPO"
+  },
+  {
+    "tenantId": "portugal.braga.esposende.uniodasfreguesiasdefonteboaeriotinto",
+    "code": "PT_03_ESPO_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_ESPO"
+  },
+  {
+    "tenantId": "portugal.braga.esposende.uniodasfreguesiasdepalmeiradefaroecurvos",
+    "code": "PT_03_ESPO_UDFD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_ESPO"
+  },
+  {
+    "tenantId": "portugal.braga.esposende.uniodasfreguesiasdevilacovaefeitos",
+    "code": "PT_03_ESPO_UDFD6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_ESPO"
+  },
+  {
+    "tenantId": "portugal.braga.esposende.castelodoneiva",
+    "code": "PT_03_ESPO_CDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_ESPO"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.balazar",
+    "code": "PT_03_VNDF_BALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.brufe",
+    "code": "PT_03_VNDF_BRUF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.cristelo",
+    "code": "PT_03_VNDF_CRIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.cruz",
+    "code": "PT_03_VNDF_CRUZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.fradelos",
+    "code": "PT_03_VNDF_FRAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.gavi",
+    "code": "PT_03_VNDF_GAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.joane",
+    "code": "PT_03_VNDF_JOAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.louro",
+    "code": "PT_03_VNDF_LOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.macieiraderates",
+    "code": "PT_03_VNDF_MDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.mogege",
+    "code": "PT_03_VNDF_MOGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.nine",
+    "code": "PT_03_VNDF_NINE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.pousadadesaramagos",
+    "code": "PT_03_VNDF_PDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.requido",
+    "code": "PT_03_VNDF_REQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.ruilhe",
+    "code": "PT_03_VNDF_RUIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.tebosa",
+    "code": "PT_03_VNDF_TEBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.uniodasfreguesiasdeairiosantamariaairc",
+    "code": "PT_03_VNDF_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.uniodasfreguesiasdeantaseabadedevermoim",
+    "code": "PT_03_VNDF_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.uniodasfreguesiasdearentimecunha",
+    "code": "PT_03_VNDF_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.uniodasfreguesiasdearnososantamariaesan",
+    "code": "PT_03_VNDF_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.uniodasfreguesiasdecarreiraefontecoberta",
+    "code": "PT_03_VNDF_UDFD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.uniodasfreguesiasdegondifeloscavaldeseo",
+    "code": "PT_03_VNDF_UDFD6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.uniodasfreguesiasdeguisandeeoliveirasio",
+    "code": "PT_03_VNDF_UDFD7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.uniodasfreguesiasdelemenhemouquimejesufr",
+    "code": "PT_03_VNDF_UDFD8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.uniodasfreguesiasdenegreirosechavvo",
+    "code": "PT_03_VNDF_UDFD9",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.uniodasfreguesiasderuiviesenovais",
+    "code": "PT_03_VNDF_UDFD10",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.uniodasfreguesiasdeseide",
+    "code": "PT_03_VNDF_UDFD11",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.uniodasfreguesiasdevalesocosmetelhad",
+    "code": "PT_03_VNDF_UDFD12",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.uniodasfreguesiasdeviatodosgrimancelosmi",
+    "code": "PT_03_VNDF_UDFD13",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.uniodasfreguesiasdevilanovadefamalicaoe",
+    "code": "PT_03_VNDF_UDFD14",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.valesomartinho",
+    "code": "PT_03_VNDF_VM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.vermoim",
+    "code": "PT_03_VNDF_VERM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vilanovadefamalicao.vilarinhodascambas",
+    "code": "PT_03_VNDF_VDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VNDF"
+  },
+  {
+    "tenantId": "portugal.braga.vizela.galegos",
+    "code": "PT_03_VIZE_GALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIZE"
+  },
+  {
+    "tenantId": "portugal.braga.vizela.moreiradecnegos",
+    "code": "PT_03_VIZE_MDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIZE"
+  },
+  {
+    "tenantId": "portugal.braga.vizela.polvoreira",
+    "code": "PT_03_VIZE_POLV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIZE"
+  },
+  {
+    "tenantId": "portugal.braga.vizela.uniodasfreguesiasdeabaosoegameos",
+    "code": "PT_03_VIZE_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIZE"
+  },
+  {
+    "tenantId": "portugal.braga.vizela.uniodasfreguesiasdecondeegandarela",
+    "code": "PT_03_VIZE_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIZE"
+  },
+  {
+    "tenantId": "portugal.braga.vizela.uniodasfreguesiasdetabuadeloeseofaustino",
+    "code": "PT_03_VIZE_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIZE"
+  },
+  {
+    "tenantId": "portugal.braga.celoricodebasto.agilde",
+    "code": "PT_03_CDB_AGIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB"
+  },
+  {
+    "tenantId": "portugal.braga.celoricodebasto.arnia",
+    "code": "PT_03_CDB_ARN3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB"
+  },
+  {
+    "tenantId": "portugal.braga.celoricodebasto.bastosoclemente",
+    "code": "PT_03_CDB_BC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB"
+  },
+  {
+    "tenantId": "portugal.braga.celoricodebasto.borbademontanha",
+    "code": "PT_03_CDB_BDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB"
+  },
+  {
+    "tenantId": "portugal.braga.celoricodebasto.fervenma",
+    "code": "PT_03_CDB_FERV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB"
+  },
+  {
+    "tenantId": "portugal.braga.celoricodebasto.moreiradocastelo",
+    "code": "PT_03_CDB_MDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB"
+  },
+  {
+    "tenantId": "portugal.braga.celoricodebasto.regadas",
+    "code": "PT_03_CDB_REGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB"
+  },
+  {
+    "tenantId": "portugal.braga.celoricodebasto.rego",
+    "code": "PT_03_CDB_REGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB"
+  },
+  {
+    "tenantId": "portugal.braga.celoricodebasto.ribas",
+    "code": "PT_03_CDB_RIBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB"
+  },
+  {
+    "tenantId": "portugal.braga.celoricodebasto.rossas",
+    "code": "PT_03_CDB_ROSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB"
+  },
+  {
+    "tenantId": "portugal.braga.celoricodebasto.sdogens",
+    "code": "PT_03_CDB_SDGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB"
+  },
+  {
+    "tenantId": "portugal.braga.celoricodebasto.uniodasfreguesiasdealviteepassos",
+    "code": "PT_03_CDB_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB"
+  },
+  {
+    "tenantId": "portugal.braga.celoricodebasto.uniodasfreguesiasdebritelogsmeoseourilh",
+    "code": "PT_03_CDB_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB"
+  },
+  {
+    "tenantId": "portugal.braga.celoricodebasto.uniodasfreguesiasdecabarilheeinfesta",
+    "code": "PT_03_CDB_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB"
+  },
+  {
+    "tenantId": "portugal.braga.celoricodebasto.uniodasfreguesiasdecarvalhoebastosantat",
+    "code": "PT_03_CDB_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB"
+  },
+  {
+    "tenantId": "portugal.braga.celoricodebasto.uniodasfreguesiasdeveadegagosemolares",
+    "code": "PT_03_CDB_UDFD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB"
+  },
+  {
+    "tenantId": "portugal.braga.celoricodebasto.uniodefreguesiasdeardegeoarnozelaeseid",
+    "code": "PT_03_CDB_UDFD6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB"
+  },
+  {
+    "tenantId": "portugal.braga.celoricodebasto.valedebouro",
+    "code": "PT_03_CDB_VDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB"
+  },
+  {
+    "tenantId": "portugal.braga.cabeceirasdebasto.abadim",
+    "code": "PT_03_CDB2_ABAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB2"
+  },
+  {
+    "tenantId": "portugal.braga.cabeceirasdebasto.basto",
+    "code": "PT_03_CDB2_BAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB2"
+  },
+  {
+    "tenantId": "portugal.braga.cabeceirasdebasto.bucos",
+    "code": "PT_03_CDB2_BUCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB2"
+  },
+  {
+    "tenantId": "portugal.braga.cabeceirasdebasto.cabeceirasdebasto",
+    "code": "PT_03_CDB2_CDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB2"
+  },
+  {
+    "tenantId": "portugal.braga.cabeceirasdebasto.pedrada",
+    "code": "PT_03_CDB2_PEDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB2"
+  },
+  {
+    "tenantId": "portugal.braga.cabeceirasdebasto.riodouro",
+    "code": "PT_03_CDB2_RIDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB2"
+  },
+  {
+    "tenantId": "portugal.braga.cabeceirasdebasto.uniodasfreguesiasdearcodebazlheevilanu",
+    "code": "PT_03_CDB2_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB2"
+  },
+  {
+    "tenantId": "portugal.braga.cabeceirasdebasto.uniodasfreguesiasdegondimesevilardecunh",
+    "code": "PT_03_CDB2_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB2"
+  },
+  {
+    "tenantId": "portugal.braga.cabeceirasdebasto.uniodasfreguesiasderefojosdebastoouteiro",
+    "code": "PT_03_CDB2_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_CDB2"
+  },
+  {
+    "tenantId": "portugal.braga.fafe.armessantacristina",
+    "code": "PT_03_FAFE_AC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_FAFE"
+  },
+  {
+    "tenantId": "portugal.braga.fafe.armessoromo",
+    "code": "PT_03_FAFE_AR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_FAFE"
+  },
+  {
+    "tenantId": "portugal.braga.fafe.fafe",
+    "code": "PT_03_FAFE_FAFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_FAFE"
+  },
+  {
+    "tenantId": "portugal.braga.fafe.garfe",
+    "code": "PT_03_FAFE_GARF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_FAFE"
+  },
+  {
+    "tenantId": "portugal.braga.fafe.goles",
+    "code": "PT_03_FAFE_GOL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_FAFE"
+  },
+  {
+    "tenantId": "portugal.braga.fafe.louredo",
+    "code": "PT_03_FAFE_LOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_FAFE"
+  },
+  {
+    "tenantId": "portugal.braga.fafe.medelo",
+    "code": "PT_03_FAFE_MEDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_FAFE"
+  },
+  {
+    "tenantId": "portugal.braga.fafe.quinchmes",
+    "code": "PT_03_FAFE_QUIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_FAFE"
+  },
+  {
+    "tenantId": "portugal.braga.fafe.revelhe",
+    "code": "PT_03_FAFE_REVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_FAFE"
+  },
+  {
+    "tenantId": "portugal.braga.fafe.ribeiros",
+    "code": "PT_03_FAFE_RIBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_FAFE"
+  },
+  {
+    "tenantId": "portugal.braga.fafe.travasss",
+    "code": "PT_03_FAFE_TRAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_FAFE"
+  },
+  {
+    "tenantId": "portugal.braga.fafe.uniodasfreguesiasdearosaecastelmes",
+    "code": "PT_03_FAFE_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_FAFE"
+  },
+  {
+    "tenantId": "portugal.braga.fafe.uniodefreguesiasdeaboimfelgueirasgontim",
+    "code": "PT_03_FAFE_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_FAFE"
+  },
+  {
+    "tenantId": "portugal.braga.fafe.uniodefreguesiasdeagrelaeserafro",
+    "code": "PT_03_FAFE_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_FAFE"
+  },
+  {
+    "tenantId": "portugal.braga.fafe.uniodefreguesiasdeantimeesilvaressoocl",
+    "code": "PT_03_FAFE_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_FAFE"
+  },
+  {
+    "tenantId": "portugal.braga.fafe.uniodefreguesiasdefreitasevilacova",
+    "code": "PT_03_FAFE_UDFD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_FAFE"
+  },
+  {
+    "tenantId": "portugal.braga.fafe.uniodefreguesiasdemonteequeimadela",
+    "code": "PT_03_FAFE_UDFD6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_FAFE"
+  },
+  {
+    "tenantId": "portugal.braga.fafe.uniodefreguesiasdemoreiradoreiev",
+    "code": "PT_03_FAFE_UDFD7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_FAFE"
+  },
+  {
+    "tenantId": "portugal.braga.fafe.vinh",
+    "code": "PT_03_FAFE_VINH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_FAFE"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.pinheiro",
+    "code": "PT_03_GUIM_PINH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.aldo",
+    "code": "PT_03_GUIM_ALD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.azur",
+    "code": "PT_03_GUIM_AZUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.barco",
+    "code": "PT_03_GUIM_BARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.brito",
+    "code": "PT_03_GUIM_BRIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.caldelas",
+    "code": "PT_03_GUIM_CALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.candososomartinho",
+    "code": "PT_03_GUIM_CM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.costa",
+    "code": "PT_03_GUIM_COST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.creixomil",
+    "code": "PT_03_GUIM_CREI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.fermentes",
+    "code": "PT_03_GUIM_FERM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.gona",
+    "code": "PT_03_GUIM_GON3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.infantas",
+    "code": "PT_03_GUIM_INFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.longos",
+    "code": "PT_03_GUIM_LONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.mesofrio",
+    "code": "PT_03_GUIM_MEFR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.moimenta",
+    "code": "PT_03_GUIM_MOIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.oliveirasantamaria",
+    "code": "PT_03_GUIM_OM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.oliveirasomateus",
+    "code": "PT_03_GUIM_OM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.pedome",
+    "code": "PT_03_GUIM_PEDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.pencelo",
+    "code": "PT_03_GUIM_PENC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.ponte",
+    "code": "PT_03_GUIM_PONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.prazinssantaeufmia",
+    "code": "PT_03_GUIM_PE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.ribadeave",
+    "code": "PT_03_GUIM_RDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.ronfe",
+    "code": "PT_03_GUIM_RONF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.sandesomartinho",
+    "code": "PT_03_GUIM_SM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.santoemilio",
+    "code": "PT_03_GUIM_SAEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.sdotorcato",
+    "code": "PT_03_GUIM_SDTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.selhosocristvo",
+    "code": "PT_03_GUIM_SC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.selhosojorge",
+    "code": "PT_03_GUIM_SJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.serzedelo",
+    "code": "PT_03_GUIM_SERZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.sobreposta",
+    "code": "PT_03_GUIM_SOBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.tamde",
+    "code": "PT_03_GUIM_TAMD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.uniodasfreguesiasdeatseserendufe",
+    "code": "PT_03_GUIM_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.uniodasfreguesiasdebriteirossantoestsvoo",
+    "code": "PT_03_GUIM_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.uniodasfreguesiasdebriteirossaosalvadore",
+    "code": "PT_03_GUIM_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.uniodasfreguesiasdecamposelouredo",
+    "code": "PT_03_GUIM_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.uniodasfreguesiasdecandososotiagoemasc",
+    "code": "PT_03_GUIM_UDFD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.uniodasfreguesiasdeescudeirosepensosanto",
+    "code": "PT_03_GUIM_UDFD6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.uniodasfreguesiasdeleitiesoleirosefigue",
+    "code": "PT_03_GUIM_UDFD7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.uniodasfreguesiasdemorreiraetrandeiras",
+    "code": "PT_03_GUIM_UDFD8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.uniodasfreguesiasdenogueiraetenees",
+    "code": "PT_03_GUIM_UDFD9",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.uniodasfreguesiasdeoliveirasopaioest",
+    "code": "PT_03_GUIM_UDFD10",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.uniodasfreguesiasdeprazinssantotirsoecor",
+    "code": "PT_03_GUIM_UDFD11",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.uniodasfreguesiasdesandesoloureneoeba",
+    "code": "PT_03_GUIM_UDFD12",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.uniodasfreguesiasdesandevilanovaesandes",
+    "code": "PT_03_GUIM_UDFD13",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.uniodasfreguesiasdeselhosoolourenaoego",
+    "code": "PT_03_GUIM_UDFD14",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.uniodasfreguesiasdesoutosantamariasouto",
+    "code": "PT_03_GUIM_UDFD15",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.urgezes",
+    "code": "PT_03_GUIM_URGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.guimaraes.vilela",
+    "code": "PT_03_GUIM_VILE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_GUIM"
+  },
+  {
+    "tenantId": "portugal.braga.vieiradominho.pinheiro",
+    "code": "PT_03_VDM_PINH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VDM"
+  },
+  {
+    "tenantId": "portugal.braga.vieiradominho.cantelmes",
+    "code": "PT_03_VDM_CANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VDM"
+  },
+  {
+    "tenantId": "portugal.braga.vieiradominho.eiravedra",
+    "code": "PT_03_VDM_EIVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VDM"
+  },
+  {
+    "tenantId": "portugal.braga.vieiradominho.guilhofrei",
+    "code": "PT_03_VDM_GUIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VDM"
+  },
+  {
+    "tenantId": "portugal.braga.vieiradominho.paradadobouro",
+    "code": "PT_03_VDM_PDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VDM"
+  },
+  {
+    "tenantId": "portugal.braga.vieiradominho.salamonde",
+    "code": "PT_03_VDM_SALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VDM"
+  },
+  {
+    "tenantId": "portugal.braga.vieiradominho.tabuadas",
+    "code": "PT_03_VDM_TABU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VDM"
+  },
+  {
+    "tenantId": "portugal.braga.vieiradominho.uniodasfreguesiasdeanjosevilardochco",
+    "code": "PT_03_VDM_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VDM"
+  },
+  {
+    "tenantId": "portugal.braga.vieiradominho.uniodasfreguesiasdecaniladaesoengas",
+    "code": "PT_03_VDM_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VDM"
+  },
+  {
+    "tenantId": "portugal.braga.vieiradominho.uniodasfreguesiasdeventosaecova",
+    "code": "PT_03_VDM_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VDM"
+  },
+  {
+    "tenantId": "portugal.braga.vieiradominho.valdosende",
+    "code": "PT_03_VDM_VALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VDM"
+  },
+  {
+    "tenantId": "portugal.braga.vieiradominho.vieiradominho",
+    "code": "PT_03_VDM_VDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VDM"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.bourosantamaria",
+    "code": "PT_03_PDL_BM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.bourosantamarta",
+    "code": "PT_03_PDL_BM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.estordos",
+    "code": "PT_03_PDL_ESTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.ferreiros",
+    "code": "PT_03_PDL_FERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.gerazdominho",
+    "code": "PT_03_PDL_GDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.gomes",
+    "code": "PT_03_PDL_GOME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.lanhoso",
+    "code": "PT_03_PDL_LANH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.monsul",
+    "code": "PT_03_PDL_MONS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.pedralva",
+    "code": "PT_03_PDL_PEDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.pdvoadelanhosonossasenhoradoamparo",
+    "code": "PT_03_PDL_PDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.rendufinho",
+    "code": "PT_03_PDL_REND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.sdojomoderei",
+    "code": "PT_03_PDL_SJDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.sobradelodagoma",
+    "code": "PT_03_PDL_SDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.travassos",
+    "code": "PT_03_PDL_TRAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.uniodasfreguesiasdeguassantasemoure",
+    "code": "PT_03_PDL_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.uniodasfreguesiasdeamaresefigueiredo",
+    "code": "PT_03_PDL_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.uniodasfreguesiasdeanisssesoutelo",
+    "code": "PT_03_PDL_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.uniodasfreguesiasdecalvosefrades",
+    "code": "PT_03_PDL_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.uniodasfreguesiasdecresposepousada",
+    "code": "PT_03_PDL_UDFD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.uniodasfreguesiasdeesperanaebrunhais",
+    "code": "PT_03_PDL_UDFD6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.uniodasfreguesiasdefontearcadaeoliveira",
+    "code": "PT_03_PDL_UDFD7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.uniodasfreguesiasdeverimfriandeeajude",
+    "code": "PT_03_PDL_UDFD8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.povoadelanhosa.uniodasfreguesiasdevilelaseramileparedes",
+    "code": "PT_03_PDL_UDFD9",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_PDL"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.abadedeneiva",
+    "code": "PT_03_BARC_ADN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.aborim",
+    "code": "PT_03_BARC_ABOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.admes",
+    "code": "PT_03_BARC_ADME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.air",
+    "code": "PT_03_BARC_AIR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.aldreu",
+    "code": "PT_03_BARC_ALDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.alvelos",
+    "code": "PT_03_BARC_ALVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.areias",
+    "code": "PT_03_BARC_AREI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.balugdes",
+    "code": "PT_03_BARC_BALU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.barcelinhos",
+    "code": "PT_03_BARC_BARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.carapemos",
+    "code": "PT_03_BARC_CARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.carvalhas",
+    "code": "PT_03_BARC_CARV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.cossourado",
+    "code": "PT_03_BARC_COSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.fragoso",
+    "code": "PT_03_BARC_FRAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.galegossantamaria",
+    "code": "PT_03_BARC_GM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.galegossomartinho",
+    "code": "PT_03_BARC_GM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.gilmonde",
+    "code": "PT_03_BARC_GILM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.lama",
+    "code": "PT_03_BARC_LAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.lij",
+    "code": "PT_03_BARC_LIJ3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.manhente",
+    "code": "PT_03_BARC_MANH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.moreira",
+    "code": "PT_03_BARC_MORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.moure",
+    "code": "PT_03_BARC_MOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.palme",
+    "code": "PT_03_BARC_PALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.panque",
+    "code": "PT_03_BARC_PANQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.perelhal",
+    "code": "PT_03_BARC_PERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.pousa",
+    "code": "PT_03_BARC_POUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.remelhe",
+    "code": "PT_03_BARC_REME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.riocovosantaeugnia",
+    "code": "PT_03_BARC_RCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.silva",
+    "code": "PT_03_BARC_SILV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.tamelsoverssimo",
+    "code": "PT_03_BARC_TV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.ucha",
+    "code": "PT_03_BARC_UCHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.uniodasfreguesiasdealheiraeigrejanova",
+    "code": "PT_03_BARC_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.uniodasfreguesiasdealvitospopedroeso",
+    "code": "PT_03_BARC_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.uniodasfreguesiasdeareiasdevilareencoura",
+    "code": "PT_03_BARC_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.uniodasfreguesiasdebarcelosvilaboaevila",
+    "code": "PT_03_BARC_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.uniodasfreguesiasdebarroselasecarvoeiro",
+    "code": "PT_03_BARC_UDFD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.uniodasfreguesiasdecampoetamels",
+    "code": "PT_03_BARC_UDFD6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.uniodasfreguesiasdechorentegmioscourel",
+    "code": "PT_03_BARC_UDFD7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.uniodasfreguesiasdecreixomilemariz",
+    "code": "PT_03_BARC_UDFD8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.uniodasfreguesiasdedurresetregosa",
+    "code": "PT_03_BARC_UDFD9",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.uniodasfreguesiasdegamilemidces",
+    "code": "PT_03_BARC_UDFD10",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.uniodasfreguesiasdemilhazesvilardefigos",
+    "code": "PT_03_BARC_UDFD11",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.uniodasfreguesiasdequintieseaguiar",
+    "code": "PT_03_BARC_UDFD12",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.uniodasfreguesiasdesilveiroseriocovosan",
+    "code": "PT_03_BARC_UDFD13",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.uniodasfreguesiasdetamelsantaleocidiae",
+    "code": "PT_03_BARC_UDFD14",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.barcelos.vilaseca",
+    "code": "PT_03_BARC_VISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BARC"
+  },
+  {
+    "tenantId": "portugal.braga.braga.adafe",
+    "code": "PT_03_BRAG_ADA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.barreiros",
+    "code": "PT_03_BRAG_BARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.bragasovicente",
+    "code": "PT_03_BRAG_BV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.bragasovtor",
+    "code": "PT_03_BRAG_BV2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.espordes",
+    "code": "PT_03_BRAG_ESPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.figueiredo",
+    "code": "PT_03_BRAG_FIGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.gualtar",
+    "code": "PT_03_BRAG_GUAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.lago",
+    "code": "PT_03_BRAG_LAGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.martim",
+    "code": "PT_03_BRAG_MART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.miredetibes",
+    "code": "PT_03_BRAG_MDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.padimdagraa",
+    "code": "PT_03_BRAG_PDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.palmeira",
+    "code": "PT_03_BRAG_PALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.priscos",
+    "code": "PT_03_BRAG_PRIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.sequeira",
+    "code": "PT_03_BRAG_SEQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.soutelo",
+    "code": "PT_03_BRAG_SOUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.tadim",
+    "code": "PT_03_BRAG_TADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.uniodasfreguesiasdebragamaximinosshec",
+    "code": "PT_03_BRAG_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.uniodasfreguesiasdebragasaojosodeso",
+    "code": "PT_03_BRAG_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.uniodasfreguesiasdecabreirosepassossao",
+    "code": "PT_03_BRAG_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.uniodasfreguesiasdeceleirssaveledaevimi",
+    "code": "PT_03_BRAG_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.uniodasfreguesiasdeestesoopedroeseom",
+    "code": "PT_03_BRAG_UDFD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.uniodasfreguesiasdeferreirosegondizalves",
+    "code": "PT_03_BRAG_UDFD6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.uniodasfreguesiasdeferreirosprozeloebest",
+    "code": "PT_03_BRAG_UDFD7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.uniodasfreguesiasdelomarearcos",
+    "code": "PT_03_BRAG_UDFD8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.uniodasfreguesiasdemerelimseopaiopano",
+    "code": "PT_03_BRAG_UDFD9",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.uniodasfreguesiasdemerelimseopedroefr",
+    "code": "PT_03_BRAG_UDFD10",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.uniodasfreguesiasdenogueirafraiioelama",
+    "code": "PT_03_BRAG_UDFD11",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.uniodasfreguesiasderealdumeesemelhe",
+    "code": "PT_03_BRAG_UDFD12",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.uniodasfreguesiasdesantalucrciadealgeri",
+    "code": "PT_03_BRAG_UDFD13",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.uniodasfreguesiasdesequeadeebastueosgo",
+    "code": "PT_03_BRAG_UDFD14",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.uniodasfreguesiasdevilaaefradelos",
+    "code": "PT_03_BRAG_UDFD15",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.braga.viladeprado",
+    "code": "PT_03_BRAG_VDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_BRAG"
+  },
+  {
+    "tenantId": "portugal.braga.amares.balanda",
+    "code": "PT_03_AMAR_BALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_AMAR"
+  },
+  {
+    "tenantId": "portugal.braga.amares.bico",
+    "code": "PT_03_AMAR_BICO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_AMAR"
+  },
+  {
+    "tenantId": "portugal.braga.amares.caires",
+    "code": "PT_03_AMAR_CAIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_AMAR"
+  },
+  {
+    "tenantId": "portugal.braga.amares.carrazedo",
+    "code": "PT_03_AMAR_CARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_AMAR"
+  },
+  {
+    "tenantId": "portugal.braga.amares.coucieiro",
+    "code": "PT_03_AMAR_COUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_AMAR"
+  },
+  {
+    "tenantId": "portugal.braga.amares.fiscal",
+    "code": "PT_03_AMAR_FISC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_AMAR"
+  },
+  {
+    "tenantId": "portugal.braga.amares.lanhas",
+    "code": "PT_03_AMAR_LANH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_AMAR"
+  },
+  {
+    "tenantId": "portugal.braga.amares.loureira",
+    "code": "PT_03_AMAR_LOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_AMAR"
+  },
+  {
+    "tenantId": "portugal.braga.amares.rendufe",
+    "code": "PT_03_AMAR_REND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_AMAR"
+  },
+  {
+    "tenantId": "portugal.braga.amares.sabariz",
+    "code": "PT_03_AMAR_SABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_AMAR"
+  },
+  {
+    "tenantId": "portugal.braga.amares.uniodasfreguesiasdecaldelassequeirosepar",
+    "code": "PT_03_AMAR_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_AMAR"
+  },
+  {
+    "tenantId": "portugal.braga.amares.uniodasfreguesiasdetorreeportela",
+    "code": "PT_03_AMAR_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_AMAR"
+  },
+  {
+    "tenantId": "portugal.braga.amares.uniodasfreguesiasdevalbomsaopedropass",
+    "code": "PT_03_AMAR_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_AMAR"
+  },
+  {
+    "tenantId": "portugal.braga.amares.vilaverdeebarbudo",
+    "code": "PT_03_AMAR_VVEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_AMAR"
+  },
+  {
+    "tenantId": "portugal.braga.terrasdebouro.campodogers",
+    "code": "PT_03_TDB_CDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_TDB"
+  },
+  {
+    "tenantId": "portugal.braga.terrasdebouro.carvalheira",
+    "code": "PT_03_TDB_CARV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_TDB"
+  },
+  {
+    "tenantId": "portugal.braga.terrasdebouro.covide",
+    "code": "PT_03_TDB_COVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_TDB"
+  },
+  {
+    "tenantId": "portugal.braga.terrasdebouro.riocaldo",
+    "code": "PT_03_TDB_RICA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_TDB"
+  },
+  {
+    "tenantId": "portugal.braga.terrasdebouro.uniodasfreguesiasdechamoimevilar",
+    "code": "PT_03_TDB_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_TDB"
+  },
+  {
+    "tenantId": "portugal.braga.terrasdebouro.uniodasfreguesiasdechorenseemonte",
+    "code": "PT_03_TDB_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_TDB"
+  },
+  {
+    "tenantId": "portugal.braga.terrasdebouro.uniodasfreguesiasdecibresebrufe",
+    "code": "PT_03_TDB_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_TDB"
+  },
+  {
+    "tenantId": "portugal.braga.terrasdebouro.valdreu",
+    "code": "PT_03_TDB_VALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_TDB"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.aboimdanbregaegondomar",
+    "code": "PT_03_VIVE_ADNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.associaodefreguesiasdovaledoneiva",
+    "code": "PT_03_VIVE_ADFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.aties",
+    "code": "PT_03_VIVE_ATI3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.boalhosa",
+    "code": "PT_03_VIVE_BOAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.calvelo",
+    "code": "PT_03_VIVE_CALV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.cerv",
+    "code": "PT_03_VIVE_CERV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.doss",
+    "code": "PT_03_VIVE_DOSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.freiriz",
+    "code": "PT_03_VIVE_FREI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.gdme",
+    "code": "PT_03_VIVE_GDME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.lage",
+    "code": "PT_03_VIVE_LAGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.oleiros",
+    "code": "PT_03_VIVE_OLEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.paradadegatim",
+    "code": "PT_03_VIVE_PDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.pico",
+    "code": "PT_03_VIVE_PICO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.pradosomiguel",
+    "code": "PT_03_VIVE_PM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.ribeira",
+    "code": "PT_03_VIVE_RIBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.turiz",
+    "code": "PT_03_VIVE_TURI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.uniodasfreguesiasdaribeiradoneiva",
+    "code": "PT_03_VIVE_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.uniodasfreguesiasdecarreirasseomiguele",
+    "code": "PT_03_VIVE_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.uniodasfreguesiasdeescarizsomamedeee",
+    "code": "PT_03_VIVE_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.uniodasfreguesiasdeesqueirosnevogildeetr",
+    "code": "PT_03_VIVE_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.uniodasfreguesiasdemarrancosearcozelo",
+    "code": "PT_03_VIVE_UDFD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.uniodasfreguesiasdeorizsantamarinhaeor",
+    "code": "PT_03_VIVE_UDFD6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.uniodasfreguesiasdepicoderegaladosgondi",
+    "code": "PT_03_VIVE_UDFD7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.uniodasfreguesiasdesandevilarinhobarros",
+    "code": "PT_03_VIVE_UDFD8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.uniodasfreguesiasdovade",
+    "code": "PT_03_VIVE_UDFD9",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  },
+  {
+    "tenantId": "portugal.braga.vilaverde.vadesopedro",
+    "code": "PT_03_VIVE_VP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_03_VIVE"
+  }
+]

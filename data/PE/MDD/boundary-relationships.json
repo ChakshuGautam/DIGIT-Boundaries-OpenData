@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "peru.madrededios",
+    "code": "PE_MDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PE"
+  },
+  {
+    "tenantId": "peru.madrededios.manu",
+    "code": "PE_MDD_MANU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_MDD"
+  },
+  {
+    "tenantId": "peru.madrededios.tahuamanu",
+    "code": "PE_MDD_TAHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_MDD"
+  },
+  {
+    "tenantId": "peru.madrededios.tambopata",
+    "code": "PE_MDD_TAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_MDD"
+  }
+]

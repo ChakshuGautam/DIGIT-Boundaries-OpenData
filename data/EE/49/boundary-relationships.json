@@ -1,0 +1,1843 @@
+[
+  {
+    "tenantId": "estonia.jgevamaakond",
+    "code": "EE_49",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "EE"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogeva",
+    "code": "EE_49_JOGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EE_49"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaa",
+    "code": "EE_49_POLT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EE_49"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald",
+    "code": "EE_49_SAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EE_49"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald",
+    "code": "EE_49_PAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EE_49"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.mustveelinn",
+    "code": "EE_49_MULI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EE_49"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald",
+    "code": "EE_49_PAVA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EE_49"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald",
+    "code": "EE_49_TOVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EE_49"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald",
+    "code": "EE_49_JOVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EE_49"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald",
+    "code": "EE_49_PAVA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EE_49"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald",
+    "code": "EE_49_TAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EE_49"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald",
+    "code": "EE_49_POVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EE_49"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.puurmanivald",
+    "code": "EE_49_PUVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EE_49"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.lohusuuvald",
+    "code": "EE_49_LOVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EE_49"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.kasepemvald",
+    "code": "EE_49_KAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EE_49"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogeva.unakla",
+    "code": "EE_49_JOGE_UK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOGE"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogeva.jgevalinn",
+    "code": "EE_49_JOGE_JLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOGE"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaa.pltsamaalinn",
+    "code": "EE_49_POLT_PLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POLT"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald.jaamakla",
+    "code": "EE_49_SAVA_JAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_SAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald.tarakverekla",
+    "code": "EE_49_SAVA_TAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_SAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald.saarjrvekla",
+    "code": "EE_49_SAVA_SAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_SAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald.nautrasikla",
+    "code": "EE_49_SAVA_NAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_SAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald.vanassaarekla",
+    "code": "EE_49_SAVA_VAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_SAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald.voorekla",
+    "code": "EE_49_SAVA_VOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_SAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald.kalliverekla",
+    "code": "EE_49_SAVA_KAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_SAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald.odiverekla",
+    "code": "EE_49_SAVA_ODK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_SAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald.veiakla",
+    "code": "EE_49_SAVA_VEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_SAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald.maardlakla",
+    "code": "EE_49_SAVA_MAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_SAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald.ruskaverekla",
+    "code": "EE_49_SAVA_RUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_SAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald.kiislikla",
+    "code": "EE_49_SAVA_KIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_SAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald.koseveskikla",
+    "code": "EE_49_SAVA_KOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_SAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald.pllukla",
+    "code": "EE_49_SAVA_PK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_SAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald.sirguverekla",
+    "code": "EE_49_SAVA_SIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_SAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald.pedassaarekla",
+    "code": "EE_49_SAVA_PEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_SAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald.vasseverekla",
+    "code": "EE_49_SAVA_VAK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_SAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald.levalakla",
+    "code": "EE_49_SAVA_LEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_SAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald.tuulaverekla",
+    "code": "EE_49_SAVA_TUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_SAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald.hallikukla",
+    "code": "EE_49_SAVA_HAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_SAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald.putukla",
+    "code": "EE_49_SAVA_PUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_SAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.saarevald.kpakla",
+    "code": "EE_49_SAVA_KK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_SAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.metsanurgakla",
+    "code": "EE_49_PAVA_MEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.piirivarbekla",
+    "code": "EE_49_PAVA_PIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.sritsakla",
+    "code": "EE_49_PAVA_SK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.kokanurgakla",
+    "code": "EE_49_PAVA_KOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.kodaverekla",
+    "code": "EE_49_PAVA_KOK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.mokukla",
+    "code": "EE_49_PAVA_MOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.srukla",
+    "code": "EE_49_PAVA_SK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.lmatikla",
+    "code": "EE_49_PAVA_LK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.haavakivikla",
+    "code": "EE_49_PAVA_HAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.assikverekla",
+    "code": "EE_49_PAVA_ASK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.nvakla",
+    "code": "EE_49_PAVA_NK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.teniidikla",
+    "code": "EE_49_PAVA_TK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.punikverekla",
+    "code": "EE_49_PAVA_PUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.rannakla",
+    "code": "EE_49_PAVA_RAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.piibumekla",
+    "code": "EE_49_PAVA_PIK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.veakla",
+    "code": "EE_49_PAVA_VEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.kirtsikla",
+    "code": "EE_49_PAVA_KIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.raatverekla",
+    "code": "EE_49_PAVA_RAK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.perametsakla",
+    "code": "EE_49_PAVA_PEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.sassukverekla",
+    "code": "EE_49_PAVA_SAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.tagumaakla",
+    "code": "EE_49_PAVA_TAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.palakla",
+    "code": "EE_49_PAVA_PAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palavald.kadrinakla",
+    "code": "EE_49_PAVA_KAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.mustveelinn.mustveelinn",
+    "code": "EE_49_MULI_MULI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_MULI"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.kpukla",
+    "code": "EE_49_PAVA2_KK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.vorstikla",
+    "code": "EE_49_PAVA2_VOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.sopimetsakla",
+    "code": "EE_49_PAVA2_SOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.krkkla",
+    "code": "EE_49_PAVA2_KRK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.lahaverekla",
+    "code": "EE_49_PAVA2_LAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.kalanakla",
+    "code": "EE_49_PAVA2_KAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.pisisaarekla",
+    "code": "EE_49_PAVA2_PIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.mrtsikla",
+    "code": "EE_49_PAVA2_MK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.kaurukla",
+    "code": "EE_49_PAVA2_KAK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.nurgakla",
+    "code": "EE_49_PAVA2_NUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.arisverekla",
+    "code": "EE_49_PAVA2_ARK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.kaavekla",
+    "code": "EE_49_PAVA2_KAK3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.aidukla",
+    "code": "EE_49_PAVA2_AIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.misakla",
+    "code": "EE_49_PAVA2_MIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.pajusikla",
+    "code": "EE_49_PAVA2_PAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.luigekla",
+    "code": "EE_49_PAVA2_LUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.looprekla",
+    "code": "EE_49_PAVA2_LOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.vljatagusekla",
+    "code": "EE_49_PAVA2_VK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.tapikukla",
+    "code": "EE_49_PAVA2_TAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.tiverekla",
+    "code": "EE_49_PAVA2_TK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.uuevljakla",
+    "code": "EE_49_PAVA2_UUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.kosekla",
+    "code": "EE_49_PAVA2_KOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.pajusivald.vgarikla",
+    "code": "EE_49_PAVA2_VK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA2"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.knnukla",
+    "code": "EE_49_TOVA_KK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.nduverekla",
+    "code": "EE_49_TOVA_NK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.vanamisakla",
+    "code": "EE_49_TOVA_VAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.tealamakla",
+    "code": "EE_49_TOVA_TEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.sadalaalevik",
+    "code": "EE_49_TOVA_SAAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.kantkla",
+    "code": "EE_49_TOVA_KANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.liikatkukla",
+    "code": "EE_49_TOVA_LIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.koimulakla",
+    "code": "EE_49_TOVA_KOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.rbisekla",
+    "code": "EE_49_TOVA_RK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.vtikverekla",
+    "code": "EE_49_TOVA_VK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.tuimisakla",
+    "code": "EE_49_TOVA_TUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.rassikukla",
+    "code": "EE_49_TOVA_RAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.tikverekla",
+    "code": "EE_49_TOVA_TK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.lilastverekla",
+    "code": "EE_49_TOVA_LIK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.stsuverekla",
+    "code": "EE_49_TOVA_SK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.iraverekla",
+    "code": "EE_49_TOVA_IRK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.vaiatukla",
+    "code": "EE_49_TOVA_VAK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.otikla",
+    "code": "EE_49_TOVA_OTK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.ookatkukla",
+    "code": "EE_49_TOVA_OOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.kodismaakla",
+    "code": "EE_49_TOVA_KOK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.leedikla",
+    "code": "EE_49_TOVA_LEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.thkverekla",
+    "code": "EE_49_TOVA_TK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.vidiverekla",
+    "code": "EE_49_TOVA_VK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.tormaalevik",
+    "code": "EE_49_TOVA_TOAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tormavald.reastverekla",
+    "code": "EE_49_TOVA_REK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.raaduverekla",
+    "code": "EE_49_JOVA_RAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.kuristakla",
+    "code": "EE_49_JOVA_KUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.vikverekla",
+    "code": "EE_49_JOVA_VK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.alaverekla",
+    "code": "EE_49_JOVA_ALK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.patjalakla",
+    "code": "EE_49_JOVA_PAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.laiusevljakla",
+    "code": "EE_49_JOVA_LAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.vilinakla",
+    "code": "EE_49_JOVA_VIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.lemuverekla",
+    "code": "EE_49_JOVA_LEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.liivojakla",
+    "code": "EE_49_JOVA_LIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.sellikla",
+    "code": "EE_49_JOVA_SEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.soomeverekla",
+    "code": "EE_49_JOVA_SOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.painkla",
+    "code": "EE_49_JOVA_PAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.rohekla",
+    "code": "EE_49_JOVA_ROK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.kuremaaalevik",
+    "code": "EE_49_JOVA_KUAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.vgevakla",
+    "code": "EE_49_JOVA_VK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.krdekla",
+    "code": "EE_49_JOVA_KK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.kivijrvekla",
+    "code": "EE_49_JOVA_KIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.endlakla",
+    "code": "EE_49_JOVA_ENK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.teilmakla",
+    "code": "EE_49_JOVA_TEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.paduverekla",
+    "code": "EE_49_JOVA_PAK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.siimustialevik",
+    "code": "EE_49_JOVA_SIAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.toomakla",
+    "code": "EE_49_JOVA_TOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.vaimastverekla",
+    "code": "EE_49_JOVA_VAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.kaudekla",
+    "code": "EE_49_JOVA_KAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.kolakla",
+    "code": "EE_49_JOVA_KK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.vanajgevakla",
+    "code": "EE_49_JOVA_VAK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.viruverekla",
+    "code": "EE_49_JOVA_VIK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.vduverekla",
+    "code": "EE_49_JOVA_VK3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.pakastekla",
+    "code": "EE_49_JOVA_PAK3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.vljaotsakla",
+    "code": "EE_49_JOVA_VK4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.ellakverekla",
+    "code": "EE_49_JOVA_ELK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.mooritsakla",
+    "code": "EE_49_JOVA_MOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.pedjakla",
+    "code": "EE_49_JOVA_PEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.kaerakla",
+    "code": "EE_49_JOVA_KAK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.jgevaalevik",
+    "code": "EE_49_JOVA_JAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.laiusealevik",
+    "code": "EE_49_JOVA_LAAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.lpekla",
+    "code": "EE_49_JOVA_LK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.paluperekla",
+    "code": "EE_49_JOVA_PAK4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.misamaakla",
+    "code": "EE_49_JOVA_MK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.jogevavald.kassinurmekla",
+    "code": "EE_49_JOVA_KAK3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_JOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.kassiverekla",
+    "code": "EE_49_PAVA3_KAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.mullaverekla",
+    "code": "EE_49_PAVA3_MUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.praaklimakla",
+    "code": "EE_49_PAVA3_PRK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.imukverekla",
+    "code": "EE_49_PAVA3_IMK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.luuakla",
+    "code": "EE_49_PAVA3_LUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.svalepakla",
+    "code": "EE_49_PAVA3_SK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.pikkjrvekla",
+    "code": "EE_49_PAVA3_PIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.jrveperakla",
+    "code": "EE_49_PAVA3_JK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.palamusealevik",
+    "code": "EE_49_PAVA3_PAAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.kaareperekla",
+    "code": "EE_49_PAVA3_KAK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.raadiverekla",
+    "code": "EE_49_PAVA3_RAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.visustikla",
+    "code": "EE_49_PAVA3_VIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.kaiaverekla",
+    "code": "EE_49_PAVA3_KAK3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.sudistekla",
+    "code": "EE_49_PAVA3_SUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.nkkla",
+    "code": "EE_49_PAVA3_NKK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.vanavljakla",
+    "code": "EE_49_PAVA3_VAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.kudinakla",
+    "code": "EE_49_PAVA3_KUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.eerikverekla",
+    "code": "EE_49_PAVA3_EEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.kivimekla",
+    "code": "EE_49_PAVA3_KIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.varbeverekla",
+    "code": "EE_49_PAVA3_VAK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.vaidaverekla",
+    "code": "EE_49_PAVA3_VAK3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.tooverekla",
+    "code": "EE_49_PAVA3_TOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.roniverekla",
+    "code": "EE_49_PAVA3_ROK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.rahiverekla",
+    "code": "EE_49_PAVA3_RAK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.ehaverekla",
+    "code": "EE_49_PAVA3_EHK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.palamusevald.navakla",
+    "code": "EE_49_PAVA3_NAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PAVA3"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.kaitsemisakla",
+    "code": "EE_49_TAVA_KAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.maarjamagdaleenakla",
+    "code": "EE_49_TAVA_MAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.juulakla",
+    "code": "EE_49_TAVA_JUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.knnujekla",
+    "code": "EE_49_TAVA_KK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.raigastverekla",
+    "code": "EE_49_TAVA_RAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.vahikla",
+    "code": "EE_49_TAVA_VAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.krksikla",
+    "code": "EE_49_TAVA_KK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.tormikla",
+    "code": "EE_49_TAVA_TOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.kaiaverekla",
+    "code": "EE_49_TAVA_KAK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.tabiverealevik",
+    "code": "EE_49_TAVA_TAAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.reinukla",
+    "code": "EE_49_TAVA_REK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.otslavakla",
+    "code": "EE_49_TAVA_OTK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.koogikla",
+    "code": "EE_49_TAVA_KOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.sortsikla",
+    "code": "EE_49_TAVA_SOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.vanurmekla",
+    "code": "EE_49_TAVA_VK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.sepakla",
+    "code": "EE_49_TAVA_SEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.voldikla",
+    "code": "EE_49_TAVA_VOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.kassemakla",
+    "code": "EE_49_TAVA_KAK3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.uhmardukla",
+    "code": "EE_49_TAVA_UHK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.elistverekla",
+    "code": "EE_49_TAVA_ELK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.lilukla",
+    "code": "EE_49_TAVA_LIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.valgmakla",
+    "code": "EE_49_TAVA_VAK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.kdukla",
+    "code": "EE_49_TAVA_KDU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.krendusekla",
+    "code": "EE_49_TAVA_KK3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.tabiverevald.patastekla",
+    "code": "EE_49_TAVA_PAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_TAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.pudukla",
+    "code": "EE_49_POVA_PUDU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.annikverekla",
+    "code": "EE_49_POVA_ANK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.adaverealevik",
+    "code": "EE_49_POVA_ADAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.trenurmekla",
+    "code": "EE_49_POVA_TK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.vhmanmmekla",
+    "code": "EE_49_POVA_VK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.kalmekla",
+    "code": "EE_49_POVA_KAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.mhkla",
+    "code": "EE_49_POVA_MHK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.mllikverekla",
+    "code": "EE_49_POVA_MK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.nmaverekla",
+    "code": "EE_49_POVA_NK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.eskukla",
+    "code": "EE_49_POVA_ESK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.kalikla",
+    "code": "EE_49_POVA_KALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.neanurmekla",
+    "code": "EE_49_POVA_NEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.pudiverekla",
+    "code": "EE_49_POVA_PUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.puiatukla",
+    "code": "EE_49_POVA_PUK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.rstlakla",
+    "code": "EE_49_POVA_RK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.pilukla",
+    "code": "EE_49_POVA_PIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.sulustverekla",
+    "code": "EE_49_POVA_SUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.kuningamekla",
+    "code": "EE_49_POVA_KUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.kaaverekla",
+    "code": "EE_49_POVA_KAK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.lebaverekla",
+    "code": "EE_49_POVA_LEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.alastverekla",
+    "code": "EE_49_POVA_ALK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.pauastverekla",
+    "code": "EE_49_POVA_PAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.vikekamarikla",
+    "code": "EE_49_POVA_VK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.umbusikla",
+    "code": "EE_49_POVA_UMK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.rsnakla",
+    "code": "EE_49_POVA_RK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.kamarialevik",
+    "code": "EE_49_POVA_KAAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.vitsjrvekla",
+    "code": "EE_49_POVA_VIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.lustiverekla",
+    "code": "EE_49_POVA_LUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.kablakla",
+    "code": "EE_49_POVA_KABL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.poltsamaavald.visikukla",
+    "code": "EE_49_POVA_VK3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_POVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.puurmanivald.jrikla",
+    "code": "EE_49_PUVA_JRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PUVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.puurmanivald.laasmekla",
+    "code": "EE_49_PUVA_LAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PUVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.puurmanivald.kirikuvallakla",
+    "code": "EE_49_PUVA_KIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PUVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.puurmanivald.junekla",
+    "code": "EE_49_PUVA_JK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PUVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.puurmanivald.pikknurmekla",
+    "code": "EE_49_PUVA_PIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PUVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.puurmanivald.kursikla",
+    "code": "EE_49_PUVA_KUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PUVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.puurmanivald.sadukla",
+    "code": "EE_49_PUVA_SADU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PUVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.puurmanivald.trvekla",
+    "code": "EE_49_PUVA_TK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PUVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.puurmanivald.hrjanurmekla",
+    "code": "EE_49_PUVA_HK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PUVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.puurmanivald.prakla",
+    "code": "EE_49_PUVA_PK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PUVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.puurmanivald.tammikukla",
+    "code": "EE_49_PUVA_TAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PUVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.puurmanivald.altnurgakla",
+    "code": "EE_49_PUVA_ALK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PUVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.puurmanivald.puurmanialevik",
+    "code": "EE_49_PUVA_PUAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_PUVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.lohusuuvald.lohusuualevik",
+    "code": "EE_49_LOVA_LOAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_LOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.lohusuuvald.krasikla",
+    "code": "EE_49_LOVA_KK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_LOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.lohusuuvald.separakla",
+    "code": "EE_49_LOVA_SEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_LOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.lohusuuvald.ninasikla",
+    "code": "EE_49_LOVA_NIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_LOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.lohusuuvald.piilsikla",
+    "code": "EE_49_LOVA_PIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_LOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.lohusuuvald.tammispkla",
+    "code": "EE_49_LOVA_TAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_LOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.lohusuuvald.vilusikla",
+    "code": "EE_49_LOVA_VIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_LOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.lohusuuvald.raadnakla",
+    "code": "EE_49_LOVA_RAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_LOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.lohusuuvald.kalmakla",
+    "code": "EE_49_LOVA_KALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_LOVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.kasepemvald.omedukla",
+    "code": "EE_49_KAVA_OMK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_KAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.kasepemvald.kasepkla",
+    "code": "EE_49_KAVA_KAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_KAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.kasepemvald.kaasikukla",
+    "code": "EE_49_KAVA_KAK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_KAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.kasepemvald.tihedakla",
+    "code": "EE_49_KAVA_TIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_KAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.kasepemvald.nmmekla",
+    "code": "EE_49_KAVA_NK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_KAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.kasepemvald.rajakla",
+    "code": "EE_49_KAVA_RAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_KAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.kasepemvald.metsakla",
+    "code": "EE_49_KAVA_METS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_KAVA"
+  },
+  {
+    "tenantId": "estonia.jgevamaakond.kasepemvald.kkitakla",
+    "code": "EE_49_KAVA_KK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "EE_49_KAVA"
+  }
+]

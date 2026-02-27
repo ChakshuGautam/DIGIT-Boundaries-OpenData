@@ -1,0 +1,716 @@
+[
+  {
+    "tenantId": "nepal.sudurpaschim",
+    "code": "NP_P7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NP"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.achham",
+    "code": "NP_P7_ACHH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P7"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kailali",
+    "code": "NP_P7_KAIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P7"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.baijura",
+    "code": "NP_P7_BAIJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P7"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kanchanpur",
+    "code": "NP_P7_KANC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P7"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.doti",
+    "code": "NP_P7_DOTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P7"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.dadeidhura",
+    "code": "NP_P7_DADE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P7"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.bajhang",
+    "code": "NP_P7_BAJH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P7"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.baitadi",
+    "code": "NP_P7_BAIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P7"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.darchula",
+    "code": "NP_P7_DARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P7"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.achham.bannigadhijayagadh",
+    "code": "NP_P7_ACHH_BAJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_ACHH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.achham.chaurpati",
+    "code": "NP_P7_ACHH_CHAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_ACHH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.achham.dhakari",
+    "code": "NP_P7_ACHH_DHAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_ACHH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.achham.kamalbazar",
+    "code": "NP_P7_ACHH_KAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_ACHH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.achham.mangalsen",
+    "code": "NP_P7_ACHH_MANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_ACHH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.achham.mellekh",
+    "code": "NP_P7_ACHH_MELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_ACHH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.achham.panchadewalbinayak",
+    "code": "NP_P7_ACHH_PABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_ACHH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.achham.ramaroshan",
+    "code": "NP_P7_ACHH_RAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_ACHH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.achham.sanphebagar",
+    "code": "NP_P7_ACHH_SANP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_ACHH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.achham.khaptadnationalpark",
+    "code": "NP_P7_ACHH_KNP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_ACHH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kailali.bardagoriya",
+    "code": "NP_P7_KAIL_BARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KAIL"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kailali.bhajani",
+    "code": "NP_P7_KAIL_BHAJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KAIL"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kailali.chure",
+    "code": "NP_P7_KAIL_CHUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KAIL"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kailali.dhangadhi",
+    "code": "NP_P7_KAIL_DHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KAIL"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kailali.gauriganga",
+    "code": "NP_P7_KAIL_GAUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KAIL"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kailali.ghodaghodi",
+    "code": "NP_P7_KAIL_GHOD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KAIL"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kailali.godawari",
+    "code": "NP_P7_KAIL_GODA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KAIL"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kailali.janaki",
+    "code": "NP_P7_KAIL_JANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KAIL"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kailali.joshipur",
+    "code": "NP_P7_KAIL_JOSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KAIL"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kailali.kailari",
+    "code": "NP_P7_KAIL_KAIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KAIL"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kailali.lamkichuha",
+    "code": "NP_P7_KAIL_LAMK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KAIL"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kailali.mohanyal",
+    "code": "NP_P7_KAIL_MOHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KAIL"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kailali.tikapur",
+    "code": "NP_P7_KAIL_TIKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KAIL"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.baijura.badimalika",
+    "code": "NP_P7_BAIJ_BADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAIJ"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.baijura.budhiganga",
+    "code": "NP_P7_BAIJ_BUDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAIJ"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.baijura.budhinanda",
+    "code": "NP_P7_BAIJ_BUDH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAIJ"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.baijura.chhededaha",
+    "code": "NP_P7_BAIJ_CHHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAIJ"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.baijura.gaumul",
+    "code": "NP_P7_BAIJ_GAUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAIJ"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.baijura.himali",
+    "code": "NP_P7_BAIJ_HIMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAIJ"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.baijura.pandavgupha",
+    "code": "NP_P7_BAIJ_PAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAIJ"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.baijura.swamikartik",
+    "code": "NP_P7_BAIJ_SWKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAIJ"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.baijura.tribeni",
+    "code": "NP_P7_BAIJ_TRIB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAIJ"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kanchanpur.bedkot",
+    "code": "NP_P7_KANC_BEDK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KANC"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kanchanpur.belauri",
+    "code": "NP_P7_KANC_BELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KANC"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kanchanpur.beldandi",
+    "code": "NP_P7_KANC_BELD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KANC"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kanchanpur.bhimdatta",
+    "code": "NP_P7_KANC_BHIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KANC"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kanchanpur.krishnapur",
+    "code": "NP_P7_KANC_KRIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KANC"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kanchanpur.laljhadi",
+    "code": "NP_P7_KANC_LALJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KANC"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kanchanpur.mahakali",
+    "code": "NP_P7_KANC_MAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KANC"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kanchanpur.punarbas",
+    "code": "NP_P7_KANC_PUNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KANC"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kanchanpur.shuklaphanta",
+    "code": "NP_P7_KANC_SHUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KANC"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.kanchanpur.shuklaphantanationalpark",
+    "code": "NP_P7_KANC_SNP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_KANC"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.doti.adharsha",
+    "code": "NP_P7_DOTI_ADHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DOTI"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.doti.badikedar",
+    "code": "NP_P7_DOTI_BADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DOTI"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.doti.bogtan",
+    "code": "NP_P7_DOTI_BOGT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DOTI"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.doti.dipayalsilgadi",
+    "code": "NP_P7_DOTI_DISI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DOTI"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.doti.jorayal",
+    "code": "NP_P7_DOTI_JORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DOTI"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.doti.kisingh",
+    "code": "NP_P7_DOTI_KIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DOTI"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.doti.purbichauki",
+    "code": "NP_P7_DOTI_PURB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DOTI"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.doti.sayal",
+    "code": "NP_P7_DOTI_SAYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DOTI"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.doti.shikhar",
+    "code": "NP_P7_DOTI_SHIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DOTI"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.doti.khaptadnationalpark",
+    "code": "NP_P7_DOTI_KNP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DOTI"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.dadeidhura.ajaymeru",
+    "code": "NP_P7_DADE_AJAY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DADE"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.dadeidhura.alital",
+    "code": "NP_P7_DADE_ALIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DADE"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.dadeidhura.amargadhi",
+    "code": "NP_P7_DADE_AMAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DADE"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.dadeidhura.bhageshwar",
+    "code": "NP_P7_DADE_BHAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DADE"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.dadeidhura.ganayapdhura",
+    "code": "NP_P7_DADE_GANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DADE"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.dadeidhura.nawadurga",
+    "code": "NP_P7_DADE_NAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DADE"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.dadeidhura.parashuram",
+    "code": "NP_P7_DADE_PARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DADE"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.bajhang.khaptadnationalpark",
+    "code": "NP_P7_BAJH_KNP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAJH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.bajhang.bithadchir",
+    "code": "NP_P7_BAJH_BITH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAJH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.bajhang.bungal",
+    "code": "NP_P7_BAJH_BUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAJH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.bajhang.chabispathivera",
+    "code": "NP_P7_BAJH_CHAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAJH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.bajhang.durgathali",
+    "code": "NP_P7_BAJH_DURG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAJH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.bajhang.jayaprithivi",
+    "code": "NP_P7_BAJH_JAYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAJH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.bajhang.kanda",
+    "code": "NP_P7_BAJH_KAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAJH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.bajhang.kedarseu",
+    "code": "NP_P7_BAJH_KEDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAJH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.bajhang.khaptadchhanna",
+    "code": "NP_P7_BAJH_KHAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAJH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.bajhang.masta",
+    "code": "NP_P7_BAJH_MAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAJH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.bajhang.surma",
+    "code": "NP_P7_BAJH_SURM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAJH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.bajhang.talkot",
+    "code": "NP_P7_BAJH_TALK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAJH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.bajhang.thalara",
+    "code": "NP_P7_BAJH_THAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAJH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.bajhang.khaptadnationalpark",
+    "code": "NP_P7_BAJH_KNP2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAJH"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.baitadi.dasharathchanda",
+    "code": "NP_P7_BAIT_DASH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAIT"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.baitadi.dilasaini",
+    "code": "NP_P7_BAIT_DILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAIT"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.baitadi.dogadakedar",
+    "code": "NP_P7_BAIT_DOGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAIT"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.baitadi.melauli",
+    "code": "NP_P7_BAIT_MELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAIT"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.baitadi.pancheshwar",
+    "code": "NP_P7_BAIT_PANC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAIT"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.baitadi.patan",
+    "code": "NP_P7_BAIT_PATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAIT"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.baitadi.purchaudi",
+    "code": "NP_P7_BAIT_PURC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAIT"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.baitadi.shivanath",
+    "code": "NP_P7_BAIT_SHIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAIT"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.baitadi.sigas",
+    "code": "NP_P7_BAIT_SIGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAIT"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.baitadi.surnaya",
+    "code": "NP_P7_BAIT_SURN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_BAIT"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.darchula.apihimal",
+    "code": "NP_P7_DARC_APIH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DARC"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.darchula.byas",
+    "code": "NP_P7_DARC_BYAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DARC"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.darchula.dunhu",
+    "code": "NP_P7_DARC_DUNH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DARC"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.darchula.lekam",
+    "code": "NP_P7_DARC_LEKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DARC"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.darchula.mahakali",
+    "code": "NP_P7_DARC_MAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DARC"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.darchula.malikaarjun",
+    "code": "NP_P7_DARC_MALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DARC"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.darchula.marma",
+    "code": "NP_P7_DARC_MARM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DARC"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.darchula.naugad",
+    "code": "NP_P7_DARC_NAUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DARC"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim.darchula.shailyashikhar",
+    "code": "NP_P7_DARC_SHAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P7_DARC"
+  }
+]

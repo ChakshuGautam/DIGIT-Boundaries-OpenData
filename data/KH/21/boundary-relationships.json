@@ -1,0 +1,786 @@
+[
+  {
+    "tenantId": "cambodia.takeo",
+    "code": "KH_21",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "KH"
+  },
+  {
+    "tenantId": "cambodia.takeo.angkorborei",
+    "code": "KH_21_ANBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KH_21"
+  },
+  {
+    "tenantId": "cambodia.takeo.bati",
+    "code": "KH_21_BATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KH_21"
+  },
+  {
+    "tenantId": "cambodia.takeo.boreicholsar",
+    "code": "KH_21_BOCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KH_21"
+  },
+  {
+    "tenantId": "cambodia.takeo.kirivong",
+    "code": "KH_21_KIVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KH_21"
+  },
+  {
+    "tenantId": "cambodia.takeo.kaohandaet",
+    "code": "KH_21_KAAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KH_21"
+  },
+  {
+    "tenantId": "cambodia.takeo.preykabbas",
+    "code": "KH_21_PRKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KH_21"
+  },
+  {
+    "tenantId": "cambodia.takeo.samraong",
+    "code": "KH_21_SAMR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KH_21"
+  },
+  {
+    "tenantId": "cambodia.takeo.dounkaev",
+    "code": "KH_21_DOKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KH_21"
+  },
+  {
+    "tenantId": "cambodia.takeo.tramkak",
+    "code": "KH_21_TRKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KH_21"
+  },
+  {
+    "tenantId": "cambodia.takeo.treang",
+    "code": "KH_21_TREA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KH_21"
+  },
+  {
+    "tenantId": "cambodia.takeo.angkorborei.ponley",
+    "code": "KH_21_ANBO_PONL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_ANBO"
+  },
+  {
+    "tenantId": "cambodia.takeo.angkorborei.basrae",
+    "code": "KH_21_ANBO_BASR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_ANBO"
+  },
+  {
+    "tenantId": "cambodia.takeo.angkorborei.preyphkoam",
+    "code": "KH_21_ANBO_PRPH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_ANBO"
+  },
+  {
+    "tenantId": "cambodia.takeo.angkorborei.angkorborei",
+    "code": "KH_21_ANBO_ANBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_ANBO"
+  },
+  {
+    "tenantId": "cambodia.takeo.angkorborei.preaekphtoul",
+    "code": "KH_21_ANBO_PRPH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_ANBO"
+  },
+  {
+    "tenantId": "cambodia.takeo.angkorborei.koukthlok",
+    "code": "KH_21_ANBO_KOTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_ANBO"
+  },
+  {
+    "tenantId": "cambodia.takeo.bati.lumpong",
+    "code": "KH_21_BATI_LUMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_BATI"
+  },
+  {
+    "tenantId": "cambodia.takeo.bati.krangthnong",
+    "code": "KH_21_BATI_KRTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_BATI"
+  },
+  {
+    "tenantId": "cambodia.takeo.bati.potsar",
+    "code": "KH_21_BATI_POSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_BATI"
+  },
+  {
+    "tenantId": "cambodia.takeo.bati.tangdoung",
+    "code": "KH_21_BATI_TADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_BATI"
+  },
+  {
+    "tenantId": "cambodia.takeo.bati.kandoeng",
+    "code": "KH_21_BATI_KAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_BATI"
+  },
+  {
+    "tenantId": "cambodia.takeo.bati.trapeangsab",
+    "code": "KH_21_BATI_TRSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_BATI"
+  },
+  {
+    "tenantId": "cambodia.takeo.bati.sourphi",
+    "code": "KH_21_BATI_SOPH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_BATI"
+  },
+  {
+    "tenantId": "cambodia.takeo.bati.champei",
+    "code": "KH_21_BATI_CHAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_BATI"
+  },
+  {
+    "tenantId": "cambodia.takeo.bati.komarreachea",
+    "code": "KH_21_BATI_KORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_BATI"
+  },
+  {
+    "tenantId": "cambodia.takeo.bati.doung",
+    "code": "KH_21_BATI_DOUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_BATI"
+  },
+  {
+    "tenantId": "cambodia.takeo.bati.peaream",
+    "code": "KH_21_BATI_PERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_BATI"
+  },
+  {
+    "tenantId": "cambodia.takeo.bati.krangleav",
+    "code": "KH_21_BATI_KRLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_BATI"
+  },
+  {
+    "tenantId": "cambodia.takeo.bati.chambak",
+    "code": "KH_21_BATI_CHAM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_BATI"
+  },
+  {
+    "tenantId": "cambodia.takeo.bati.trapeangkrasang",
+    "code": "KH_21_BATI_TRKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_BATI"
+  },
+  {
+    "tenantId": "cambodia.takeo.bati.tnaot",
+    "code": "KH_21_BATI_TNAO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_BATI"
+  },
+  {
+    "tenantId": "cambodia.takeo.boreicholsar.koukpou",
+    "code": "KH_21_BOCH_KOPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_BOCH"
+  },
+  {
+    "tenantId": "cambodia.takeo.boreicholsar.doungkhpos",
+    "code": "KH_21_BOCH_DOKH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_BOCH"
+  },
+  {
+    "tenantId": "cambodia.takeo.boreicholsar.boreicholsar",
+    "code": "KH_21_BOCH_BOCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_BOCH"
+  },
+  {
+    "tenantId": "cambodia.takeo.boreicholsar.kampongkrasang",
+    "code": "KH_21_BOCH_KAKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_BOCH"
+  },
+  {
+    "tenantId": "cambodia.takeo.boreicholsar.cheychouk",
+    "code": "KH_21_BOCH_CHCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_BOCH"
+  },
+  {
+    "tenantId": "cambodia.takeo.kirivong.angkprasat",
+    "code": "KH_21_KIVO_ANPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_KIVO"
+  },
+  {
+    "tenantId": "cambodia.takeo.kirivong.koukprech",
+    "code": "KH_21_KIVO_KOPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_KIVO"
+  },
+  {
+    "tenantId": "cambodia.takeo.kirivong.reamandaeuk",
+    "code": "KH_21_KIVO_REAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_KIVO"
+  },
+  {
+    "tenantId": "cambodia.takeo.kirivong.kampeaeng",
+    "code": "KH_21_KIVO_KAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_KIVO"
+  },
+  {
+    "tenantId": "cambodia.takeo.kirivong.kamnab",
+    "code": "KH_21_KIVO_KAMN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_KIVO"
+  },
+  {
+    "tenantId": "cambodia.takeo.kirivong.preahbatchoanchum",
+    "code": "KH_21_KIVO_PBCC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_KIVO"
+  },
+  {
+    "tenantId": "cambodia.takeo.kirivong.preyampok",
+    "code": "KH_21_KIVO_PRAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_KIVO"
+  },
+  {
+    "tenantId": "cambodia.takeo.kirivong.preyrumdeng",
+    "code": "KH_21_KIVO_PRRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_KIVO"
+  },
+  {
+    "tenantId": "cambodia.takeo.kirivong.kirichongkaoh",
+    "code": "KH_21_KIVO_KCK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_KIVO"
+  },
+  {
+    "tenantId": "cambodia.takeo.kirivong.phnumden",
+    "code": "KH_21_KIVO_PHDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_KIVO"
+  },
+  {
+    "tenantId": "cambodia.takeo.kirivong.saom",
+    "code": "KH_21_KIVO_SAOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_KIVO"
+  },
+  {
+    "tenantId": "cambodia.takeo.kirivong.taou",
+    "code": "KH_21_KIVO_TAOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_KIVO"
+  },
+  {
+    "tenantId": "cambodia.takeo.kaohandaet.romenh",
+    "code": "KH_21_KAAN_ROME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_KAAN"
+  },
+  {
+    "tenantId": "cambodia.takeo.kaohandaet.thleaprachum",
+    "code": "KH_21_KAAN_THPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_KAAN"
+  },
+  {
+    "tenantId": "cambodia.takeo.kaohandaet.pechsar",
+    "code": "KH_21_KAAN_PESA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_KAAN"
+  },
+  {
+    "tenantId": "cambodia.takeo.kaohandaet.preykhla",
+    "code": "KH_21_KAAN_PRKH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_KAAN"
+  },
+  {
+    "tenantId": "cambodia.takeo.kaohandaet.krapumchhuk",
+    "code": "KH_21_KAAN_KRCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_KAAN"
+  },
+  {
+    "tenantId": "cambodia.takeo.kaohandaet.preyyuthka",
+    "code": "KH_21_KAAN_PRYU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_KAAN"
+  },
+  {
+    "tenantId": "cambodia.takeo.preykabbas.char",
+    "code": "KH_21_PRKA_CHAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_PRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.preykabbas.kdanh",
+    "code": "KH_21_PRKA_KDAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_PRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.preykabbas.tangyab",
+    "code": "KH_21_PRKA_TAYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_PRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.preykabbas.snao",
+    "code": "KH_21_PRKA_SNAO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_PRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.preykabbas.preylvea",
+    "code": "KH_21_PRKA_PRLV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_PRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.preykabbas.preyphdau",
+    "code": "KH_21_PRKA_PRPH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_PRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.preykabbas.kampongreab",
+    "code": "KH_21_PRKA_KARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_PRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.preykabbas.champa",
+    "code": "KH_21_PRKA_CHAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_PRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.preykabbas.bankam",
+    "code": "KH_21_PRKA_BAKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_PRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.preykabbas.pourumchak",
+    "code": "KH_21_PRKA_PORU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_PRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.preykabbas.kampeaeng",
+    "code": "KH_21_PRKA_KAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_PRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.preykabbas.preykabbas",
+    "code": "KH_21_PRKA_PRKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_PRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.preykabbas.angkanh",
+    "code": "KH_21_PRKA_ANGK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_PRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.samraong.rovieng",
+    "code": "KH_21_SAMR_ROVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_SAMR"
+  },
+  {
+    "tenantId": "cambodia.takeo.samraong.khvav",
+    "code": "KH_21_SAMR_KHVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_SAMR"
+  },
+  {
+    "tenantId": "cambodia.takeo.samraong.chumreahpen",
+    "code": "KH_21_SAMR_CHPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_SAMR"
+  },
+  {
+    "tenantId": "cambodia.takeo.samraong.sla",
+    "code": "KH_21_SAMR_SLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_SAMR"
+  },
+  {
+    "tenantId": "cambodia.takeo.samraong.samraong",
+    "code": "KH_21_SAMR_SAMR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_SAMR"
+  },
+  {
+    "tenantId": "cambodia.takeo.samraong.cheungkuon",
+    "code": "KH_21_SAMR_CHKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_SAMR"
+  },
+  {
+    "tenantId": "cambodia.takeo.samraong.boengtranhkhangc",
+    "code": "KH_21_SAMR_BTKC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_SAMR"
+  },
+  {
+    "tenantId": "cambodia.takeo.samraong.soengh",
+    "code": "KH_21_SAMR_SOEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_SAMR"
+  },
+  {
+    "tenantId": "cambodia.takeo.samraong.boengtranhkhangt",
+    "code": "KH_21_SAMR_BTKT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_SAMR"
+  },
+  {
+    "tenantId": "cambodia.takeo.samraong.trea",
+    "code": "KH_21_SAMR_TREA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_SAMR"
+  },
+  {
+    "tenantId": "cambodia.takeo.samraong.lumchang",
+    "code": "KH_21_SAMR_LUMC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_SAMR"
+  },
+  {
+    "tenantId": "cambodia.takeo.dounkaev.baray",
+    "code": "KH_21_DOKA_BARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_DOKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.dounkaev.rokaknong",
+    "code": "KH_21_DOKA_ROKN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_DOKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.dounkaev.rokakrau",
+    "code": "KH_21_DOKA_ROKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_DOKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.tramkak.sraechaeng",
+    "code": "KH_21_TRKA_SRCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.tramkak.ousaray",
+    "code": "KH_21_TRKA_OUSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.tramkak.trapeangthumkhang",
+    "code": "KH_21_TRKA_TTK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.tramkak.cheangtong",
+    "code": "KH_21_TRKA_CHTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.tramkak.popel",
+    "code": "KH_21_TRKA_POPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.tramkak.otdamsoriya",
+    "code": "KH_21_TRKA_OTSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.tramkak.leaybour",
+    "code": "KH_21_TRKA_LEBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.tramkak.trapeangthumkhang",
+    "code": "KH_21_TRKA_TTK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.tramkak.taphem",
+    "code": "KH_21_TRKA_TAPH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.tramkak.angktasaom",
+    "code": "KH_21_TRKA_ATS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.tramkak.samraong",
+    "code": "KH_21_TRKA_SAMR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.tramkak.sraeronoung",
+    "code": "KH_21_TRKA_SRRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.tramkak.kus",
+    "code": "KH_21_TRKA_KUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.tramkak.nhaengnhang",
+    "code": "KH_21_TRKA_NHNH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.tramkak.tramkak",
+    "code": "KH_21_TRKA_TRKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.tramkak.trapeangkranhoung",
+    "code": "KH_21_TRKA_TRKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TRKA"
+  },
+  {
+    "tenantId": "cambodia.takeo.treang.sambuor",
+    "code": "KH_21_TREA_SAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TREA"
+  },
+  {
+    "tenantId": "cambodia.takeo.treang.srangae",
+    "code": "KH_21_TREA_SRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TREA"
+  },
+  {
+    "tenantId": "cambodia.takeo.treang.roneam",
+    "code": "KH_21_TREA_RONE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TREA"
+  },
+  {
+    "tenantId": "cambodia.takeo.treang.thlok",
+    "code": "KH_21_TREA_THLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TREA"
+  },
+  {
+    "tenantId": "cambodia.takeo.treang.preysloek",
+    "code": "KH_21_TREA_PRSL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TREA"
+  },
+  {
+    "tenantId": "cambodia.takeo.treang.khvav",
+    "code": "KH_21_TREA_KHVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TREA"
+  },
+  {
+    "tenantId": "cambodia.takeo.treang.angkanh",
+    "code": "KH_21_TREA_ANGK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TREA"
+  },
+  {
+    "tenantId": "cambodia.takeo.treang.angkkhnor",
+    "code": "KH_21_TREA_ANKH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TREA"
+  },
+  {
+    "tenantId": "cambodia.takeo.treang.angkkaev",
+    "code": "KH_21_TREA_ANKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TREA"
+  },
+  {
+    "tenantId": "cambodia.takeo.treang.prambeimum",
+    "code": "KH_21_TREA_PRMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TREA"
+  },
+  {
+    "tenantId": "cambodia.takeo.treang.tralach",
+    "code": "KH_21_TREA_TRAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TREA"
+  },
+  {
+    "tenantId": "cambodia.takeo.treang.chikhma",
+    "code": "KH_21_TREA_CHKH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TREA"
+  },
+  {
+    "tenantId": "cambodia.takeo.treang.sanlung",
+    "code": "KH_21_TREA_SANL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TREA"
+  },
+  {
+    "tenantId": "cambodia.takeo.treang.smaong",
+    "code": "KH_21_TREA_SMAO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_21_TREA"
+  }
+]

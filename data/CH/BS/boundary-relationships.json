@@ -1,0 +1,51 @@
+[
+  {
+    "tenantId": "switzerland.baselstadt",
+    "code": "CH_BS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CH"
+  },
+  {
+    "tenantId": "switzerland.baselstadt.basel",
+    "code": "CH_BS_BASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_BS"
+  },
+  {
+    "tenantId": "switzerland.baselstadt.bettingen",
+    "code": "CH_BS_BETT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_BS"
+  },
+  {
+    "tenantId": "switzerland.baselstadt.riehen",
+    "code": "CH_BS_RIEH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_BS"
+  },
+  {
+    "tenantId": "switzerland.baselstadt.basel.basel",
+    "code": "CH_BS_BASE_BASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BS_BASE"
+  },
+  {
+    "tenantId": "switzerland.baselstadt.bettingen.riehen",
+    "code": "CH_BS_BETT_RIEH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BS_BETT"
+  },
+  {
+    "tenantId": "switzerland.baselstadt.bettingen.bettingen",
+    "code": "CH_BS_BETT_BETT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BS_BETT"
+  }
+]

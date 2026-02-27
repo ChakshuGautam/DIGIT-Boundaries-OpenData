@@ -1,0 +1,6498 @@
+[
+  {
+    "tenantId": "spain.castillalamancha",
+    "code": "ES_CAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "ES"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete",
+    "code": "ES_CAMA_ALBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_CAMA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal",
+    "code": "ES_CAMA_CIRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_CAMA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca",
+    "code": "ES_CAMA_CUEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_CAMA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara",
+    "code": "ES_CAMA_GUAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_CAMA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo",
+    "code": "ES_CAMA_TOLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_CAMA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.abengibre",
+    "code": "ES_CAMA_ALBA_ABEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.alatoz",
+    "code": "ES_CAMA_ALBA_ALAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.albacete",
+    "code": "ES_CAMA_ALBA_ALBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.albatana",
+    "code": "ES_CAMA_ALBA_ALBA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.alborea",
+    "code": "ES_CAMA_ALBA_ALBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.alcadozo",
+    "code": "ES_CAMA_ALBA_ALCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.alcaldeljcar",
+    "code": "ES_CAMA_ALBA_ADJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.alcaraz",
+    "code": "ES_CAMA_ALBA_ALCA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.almansa",
+    "code": "ES_CAMA_ALBA_ALMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.alpera",
+    "code": "ES_CAMA_ALBA_ALPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.ayna",
+    "code": "ES_CAMA_ALBA_AYNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.balazote",
+    "code": "ES_CAMA_ALBA_BALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.balsadeves",
+    "code": "ES_CAMA_ALBA_BDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.elballestero",
+    "code": "ES_CAMA_ALBA_ELBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.barrax",
+    "code": "ES_CAMA_ALBA_BARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.bienservida",
+    "code": "ES_CAMA_ALBA_BIEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.bogarra",
+    "code": "ES_CAMA_ALBA_BOGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.bonete",
+    "code": "ES_CAMA_ALBA_BONE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.elbonillo",
+    "code": "ES_CAMA_ALBA_ELBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.carceln",
+    "code": "ES_CAMA_ALBA_CARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.casasdejuannez",
+    "code": "ES_CAMA_ALBA_CDJN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.casasdelzaro",
+    "code": "ES_CAMA_ALBA_CDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.casasdeves",
+    "code": "ES_CAMA_ALBA_CDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.casasibez",
+    "code": "ES_CAMA_ALBA_CASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.caudete",
+    "code": "ES_CAMA_ALBA_CAUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.cenizate",
+    "code": "ES_CAMA_ALBA_CENI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.corralrubio",
+    "code": "ES_CAMA_ALBA_CORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.cotillas",
+    "code": "ES_CAMA_ALBA_COTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.chinchillademontearagn",
+    "code": "ES_CAMA_ALBA_CDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.elchedelasierra",
+    "code": "ES_CAMA_ALBA_EDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.frez",
+    "code": "ES_CAMA_ALBA_FRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.fuensanta",
+    "code": "ES_CAMA_ALBA_FUEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.fuentelamo",
+    "code": "ES_CAMA_ALBA_FUEN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.fuentealbilla",
+    "code": "ES_CAMA_ALBA_FUEN3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.lagineta",
+    "code": "ES_CAMA_ALBA_LAGI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.golosalvo",
+    "code": "ES_CAMA_ALBA_GOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.helln",
+    "code": "ES_CAMA_ALBA_HELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.laherrera",
+    "code": "ES_CAMA_ALBA_LAHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.higueruela",
+    "code": "ES_CAMA_ALBA_HIGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.hoyagonzalo",
+    "code": "ES_CAMA_ALBA_HOYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.jorquera",
+    "code": "ES_CAMA_ALBA_JORQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.letur",
+    "code": "ES_CAMA_ALBA_LETU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.lezuza",
+    "code": "ES_CAMA_ALBA_LEZU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.litor",
+    "code": "ES_CAMA_ALBA_LIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.madrigueras",
+    "code": "ES_CAMA_ALBA_MADR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.mahora",
+    "code": "ES_CAMA_ALBA_MAHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.masegoso",
+    "code": "ES_CAMA_ALBA_MASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.minaya",
+    "code": "ES_CAMA_ALBA_MINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.molinicos",
+    "code": "ES_CAMA_ALBA_MOLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.montalvos",
+    "code": "ES_CAMA_ALBA_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.montealegredelcastillo",
+    "code": "ES_CAMA_ALBA_MDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.motilleja",
+    "code": "ES_CAMA_ALBA_MOTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.munera",
+    "code": "ES_CAMA_ALBA_MUNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.navasdejorquera",
+    "code": "ES_CAMA_ALBA_NDJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.nerpio",
+    "code": "ES_CAMA_ALBA_NERP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.ontur",
+    "code": "ES_CAMA_ALBA_ONTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.ossademontiel",
+    "code": "ES_CAMA_ALBA_ODM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.paternadelmadera",
+    "code": "ES_CAMA_ALBA_PDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.peascosa",
+    "code": "ES_CAMA_ALBA_PEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.peasdesanpedro",
+    "code": "ES_CAMA_ALBA_PDSP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.ptrola",
+    "code": "ES_CAMA_ALBA_PTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.povedilla",
+    "code": "ES_CAMA_ALBA_POVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.pozohondo",
+    "code": "ES_CAMA_ALBA_POZO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.pozolorente",
+    "code": "ES_CAMA_ALBA_POZO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.pozuelo",
+    "code": "ES_CAMA_ALBA_POZU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.larecueja",
+    "code": "ES_CAMA_ALBA_LARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.ripar",
+    "code": "ES_CAMA_ALBA_RIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.robledo",
+    "code": "ES_CAMA_ALBA_ROBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.laroda",
+    "code": "ES_CAMA_ALBA_LARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.salobre",
+    "code": "ES_CAMA_ALBA_SALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.sanpedro",
+    "code": "ES_CAMA_ALBA_SAPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.socovos",
+    "code": "ES_CAMA_ALBA_SOCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.tarazonadelamancha",
+    "code": "ES_CAMA_ALBA_TDLM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.tobarra",
+    "code": "ES_CAMA_ALBA_TOBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.valdeganga",
+    "code": "ES_CAMA_ALBA_VALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.vianos",
+    "code": "ES_CAMA_ALBA_VIAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.villadeves",
+    "code": "ES_CAMA_ALBA_VDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.villalgordodeljcar",
+    "code": "ES_CAMA_ALBA_VDJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.villamalea",
+    "code": "ES_CAMA_ALBA_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.villapalacios",
+    "code": "ES_CAMA_ALBA_VILL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.villarrobledo",
+    "code": "ES_CAMA_ALBA_VILL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.villatoya",
+    "code": "ES_CAMA_ALBA_VILL4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.villavaliente",
+    "code": "ES_CAMA_ALBA_VILL5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.villaverdedeguadalimar",
+    "code": "ES_CAMA_ALBA_VDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.viveros",
+    "code": "ES_CAMA_ALBA_VIVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.yeste",
+    "code": "ES_CAMA_ALBA_YEST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.pozocaada",
+    "code": "ES_CAMA_ALBA_POCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.albacete.dehesadesantiago",
+    "code": "ES_CAMA_ALBA_DDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_ALBA"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.abenjar",
+    "code": "ES_CAMA_CIRE_ABEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.agudo",
+    "code": "ES_CAMA_CIRE_AGUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.alamillo",
+    "code": "ES_CAMA_CIRE_ALAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.albaladejo",
+    "code": "ES_CAMA_CIRE_ALBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.alczardesanjuan",
+    "code": "ES_CAMA_CIRE_ADSJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.alcoba",
+    "code": "ES_CAMA_CIRE_ALCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.alcoleadecalatrava",
+    "code": "ES_CAMA_CIRE_ADC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.alcubillas",
+    "code": "ES_CAMA_CIRE_ALCU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.aldeadelrey",
+    "code": "ES_CAMA_CIRE_ADR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.alhambra",
+    "code": "ES_CAMA_CIRE_ALHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.almadn",
+    "code": "ES_CAMA_CIRE_ALMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.almadenejos",
+    "code": "ES_CAMA_CIRE_ALMA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.almagro",
+    "code": "ES_CAMA_CIRE_ALMA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.almedina",
+    "code": "ES_CAMA_CIRE_ALME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.almodvardelcampo",
+    "code": "ES_CAMA_CIRE_ADC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.almuradiel",
+    "code": "ES_CAMA_CIRE_ALMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.anchuras",
+    "code": "ES_CAMA_CIRE_ANCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.arenasdesanjuan",
+    "code": "ES_CAMA_CIRE_ADSJ2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.argamasilladealba",
+    "code": "ES_CAMA_CIRE_ADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.argamasilladecalatrava",
+    "code": "ES_CAMA_CIRE_ADC3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.arrobadelosmontes",
+    "code": "ES_CAMA_CIRE_ADLM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.ballesterosdecalatrava",
+    "code": "ES_CAMA_CIRE_BDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.bolaosdecalatrava",
+    "code": "ES_CAMA_CIRE_BDC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.brazatortas",
+    "code": "ES_CAMA_CIRE_BRAZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.cabezarados",
+    "code": "ES_CAMA_CIRE_CABE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.cabezarrubiasdelpuerto",
+    "code": "ES_CAMA_CIRE_CDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.calzadadecalatrava",
+    "code": "ES_CAMA_CIRE_CDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.campodecriptana",
+    "code": "ES_CAMA_CIRE_CDC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.caadadecalatrava",
+    "code": "ES_CAMA_CIRE_CDC3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.caracueldecalatrava",
+    "code": "ES_CAMA_CIRE_CDC4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.carrindecalatrava",
+    "code": "ES_CAMA_CIRE_CDC5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.carrizosa",
+    "code": "ES_CAMA_CIRE_CARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.castellardesantiago",
+    "code": "ES_CAMA_CIRE_CDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.ciudadreal",
+    "code": "ES_CAMA_CIRE_CIRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.corraldecalatrava",
+    "code": "ES_CAMA_CIRE_CDC6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.loscortijos",
+    "code": "ES_CAMA_CIRE_LOCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.czar",
+    "code": "ES_CAMA_CIRE_CZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.chilln",
+    "code": "ES_CAMA_CIRE_CHIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.daimiel",
+    "code": "ES_CAMA_CIRE_DAIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.fernncaballero",
+    "code": "ES_CAMA_CIRE_FECA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.fontanarejo",
+    "code": "ES_CAMA_CIRE_FONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.fuencaliente",
+    "code": "ES_CAMA_CIRE_FUEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.fuenllana",
+    "code": "ES_CAMA_CIRE_FUEN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.fuenteelfresno",
+    "code": "ES_CAMA_CIRE_FEF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.grantuladecalatrava",
+    "code": "ES_CAMA_CIRE_GDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.guadalmez",
+    "code": "ES_CAMA_CIRE_GUAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.herencia",
+    "code": "ES_CAMA_CIRE_HERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.hinojosasdecalatrava",
+    "code": "ES_CAMA_CIRE_HDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.horcajodelosmontes",
+    "code": "ES_CAMA_CIRE_HDLM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.laslabores",
+    "code": "ES_CAMA_CIRE_LALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.luciana",
+    "code": "ES_CAMA_CIRE_LUCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.malagn",
+    "code": "ES_CAMA_CIRE_MALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.manzanares",
+    "code": "ES_CAMA_CIRE_MANZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.membrilla",
+    "code": "ES_CAMA_CIRE_MEMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.mestanza",
+    "code": "ES_CAMA_CIRE_MEST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.miguelturra",
+    "code": "ES_CAMA_CIRE_MIGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.montiel",
+    "code": "ES_CAMA_CIRE_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.moraldecalatrava",
+    "code": "ES_CAMA_CIRE_MDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.navalpino",
+    "code": "ES_CAMA_CIRE_NAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.navasdeestena",
+    "code": "ES_CAMA_CIRE_NDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.pedromuoz",
+    "code": "ES_CAMA_CIRE_PEMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.picn",
+    "code": "ES_CAMA_CIRE_PIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.piedrabuena",
+    "code": "ES_CAMA_CIRE_PIED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.poblete",
+    "code": "ES_CAMA_CIRE_POBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.porzuna",
+    "code": "ES_CAMA_CIRE_PORZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.pozuelodecalatrava",
+    "code": "ES_CAMA_CIRE_PDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.lospozuelosdecalatrava",
+    "code": "ES_CAMA_CIRE_LPDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.puebladedonrodrigo",
+    "code": "ES_CAMA_CIRE_PDDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.puebladelprncipe",
+    "code": "ES_CAMA_CIRE_PDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.puertolpice",
+    "code": "ES_CAMA_CIRE_PUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.puertollano",
+    "code": "ES_CAMA_CIRE_PUER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.retuertadelbullaque",
+    "code": "ES_CAMA_CIRE_RDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.saceruela",
+    "code": "ES_CAMA_CIRE_SACE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.sancarlosdelvalle",
+    "code": "ES_CAMA_CIRE_SCDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.sanlorenzodecalatrava",
+    "code": "ES_CAMA_CIRE_SLDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.santacruzdeloscamos",
+    "code": "ES_CAMA_CIRE_SCDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.santacruzdemudela",
+    "code": "ES_CAMA_CIRE_SCDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.socullamos",
+    "code": "ES_CAMA_CIRE_SOCU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.lasolana",
+    "code": "ES_CAMA_CIRE_LASO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.solanadelpino",
+    "code": "ES_CAMA_CIRE_SDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.terrinches",
+    "code": "ES_CAMA_CIRE_TERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.tomelloso",
+    "code": "ES_CAMA_CIRE_TOME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.torralbadecalatrava",
+    "code": "ES_CAMA_CIRE_TDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.torredejuanabad",
+    "code": "ES_CAMA_CIRE_TDJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.torrenueva",
+    "code": "ES_CAMA_CIRE_TORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.valdemancodelesteras",
+    "code": "ES_CAMA_CIRE_VDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.valdepeas",
+    "code": "ES_CAMA_CIRE_VALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.valenzueladecalatrava",
+    "code": "ES_CAMA_CIRE_VDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.villahermosa",
+    "code": "ES_CAMA_CIRE_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.villamanrique",
+    "code": "ES_CAMA_CIRE_VILL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.villamayordecalatrava",
+    "code": "ES_CAMA_CIRE_VDC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.villanuevadelafuente",
+    "code": "ES_CAMA_CIRE_VDLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.villanuevadelosinfantes",
+    "code": "ES_CAMA_CIRE_VDLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.villanuevadesancarlos",
+    "code": "ES_CAMA_CIRE_VDSC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.villardelpozo",
+    "code": "ES_CAMA_CIRE_VDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.villarrubiadelosojos",
+    "code": "ES_CAMA_CIRE_VDLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.villartadesanjuan",
+    "code": "ES_CAMA_CIRE_VDSJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.visodelmarqus",
+    "code": "ES_CAMA_CIRE_VDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.elrobledo",
+    "code": "ES_CAMA_CIRE_ELRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.ruidera",
+    "code": "ES_CAMA_CIRE_RUID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.arenalesdesangregorio",
+    "code": "ES_CAMA_CIRE_ADSG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.ciudadreal.llanosdelcaudillo",
+    "code": "ES_CAMA_CIRE_LDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CIRE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villarejoperiesteban",
+    "code": "ES_CAMA_CUEN_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villaresdelsaz",
+    "code": "ES_CAMA_CUEN_VDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villarrubio",
+    "code": "ES_CAMA_CUEN_VILL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villarta",
+    "code": "ES_CAMA_CUEN_VILL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villasdelaventosa",
+    "code": "ES_CAMA_CUEN_VDLV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villaverdeypasaconsol",
+    "code": "ES_CAMA_CUEN_VYP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.vllora",
+    "code": "ES_CAMA_CUEN_VLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.vindel",
+    "code": "ES_CAMA_CUEN_VIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.ymeda",
+    "code": "ES_CAMA_CUEN_YME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.zafradezncara",
+    "code": "ES_CAMA_CUEN_ZDZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.zafrilla",
+    "code": "ES_CAMA_CUEN_ZAFR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.zarzadetajo",
+    "code": "ES_CAMA_CUEN_ZDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.zarzuela",
+    "code": "ES_CAMA_CUEN_ZARZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.camposdelparaso",
+    "code": "ES_CAMA_CUEN_CDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.valdetrtola",
+    "code": "ES_CAMA_CUEN_VALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.lasvaleras",
+    "code": "ES_CAMA_CUEN_LAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.fuentenavadejbaga",
+    "code": "ES_CAMA_CUEN_FDJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.arcas",
+    "code": "ES_CAMA_CUEN_ARCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.losvaldecolmenas",
+    "code": "ES_CAMA_CUEN_LOVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.pozorrubielosdelamancha",
+    "code": "ES_CAMA_CUEN_PDLM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.sotorribas",
+    "code": "ES_CAMA_CUEN_SOTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villaryvelasco",
+    "code": "ES_CAMA_CUEN_VYV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.estremera",
+    "code": "ES_CAMA_CUEN_ESTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.abiadelaobispala",
+    "code": "ES_CAMA_CUEN_ADLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.elacebrn",
+    "code": "ES_CAMA_CUEN_ELAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.alarcn",
+    "code": "ES_CAMA_CUEN_ALAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.albaladejodelcuende",
+    "code": "ES_CAMA_CUEN_ADC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.albalatedelasnogueras",
+    "code": "ES_CAMA_CUEN_ADLN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.albendea",
+    "code": "ES_CAMA_CUEN_ALBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.laalbercadezncara",
+    "code": "ES_CAMA_CUEN_LADZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.alcaldelavega",
+    "code": "ES_CAMA_CUEN_ADLV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.alcantud",
+    "code": "ES_CAMA_CUEN_ALCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.alczardelrey",
+    "code": "ES_CAMA_CUEN_ADR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.alcohujate",
+    "code": "ES_CAMA_CUEN_ALCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.alconcheldelaestrella",
+    "code": "ES_CAMA_CUEN_ADLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.algarra",
+    "code": "ES_CAMA_CUEN_ALGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.aliaguilla",
+    "code": "ES_CAMA_CUEN_ALIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.laalmarcha",
+    "code": "ES_CAMA_CUEN_LAAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.almendros",
+    "code": "ES_CAMA_CUEN_ALME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.almodvardelpinar",
+    "code": "ES_CAMA_CUEN_ADP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.almonaciddelmarquesado",
+    "code": "ES_CAMA_CUEN_ADM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.altarejos",
+    "code": "ES_CAMA_CUEN_ALTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.arandilladelarroyo",
+    "code": "ES_CAMA_CUEN_ADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.arcosdelasierra",
+    "code": "ES_CAMA_CUEN_ADLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.chillarndecuenca",
+    "code": "ES_CAMA_CUEN_CDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.arguisuelas",
+    "code": "ES_CAMA_CUEN_ARGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.arrancacepas",
+    "code": "ES_CAMA_CUEN_ARRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.atalayadelcaavate",
+    "code": "ES_CAMA_CUEN_ADC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.barajasdemelo",
+    "code": "ES_CAMA_CUEN_BDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.barchndelhoyo",
+    "code": "ES_CAMA_CUEN_BDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.bascuanadesanpedro",
+    "code": "ES_CAMA_CUEN_BDSP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.beamud",
+    "code": "ES_CAMA_CUEN_BEAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.belinchn",
+    "code": "ES_CAMA_CUEN_BELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.belmonte",
+    "code": "ES_CAMA_CUEN_BELM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.belmontejo",
+    "code": "ES_CAMA_CUEN_BELM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.beteta",
+    "code": "ES_CAMA_CUEN_BETE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.boniches",
+    "code": "ES_CAMA_CUEN_BONI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.buciegas",
+    "code": "ES_CAMA_CUEN_BUCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.buenachedealarcn",
+    "code": "ES_CAMA_CUEN_BDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.buenachedelasierra",
+    "code": "ES_CAMA_CUEN_BDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.buenda",
+    "code": "ES_CAMA_CUEN_BUEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.campillodealtobuey",
+    "code": "ES_CAMA_CUEN_CDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.campillosparavientos",
+    "code": "ES_CAMA_CUEN_CAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.campillossierra",
+    "code": "ES_CAMA_CUEN_CAMP2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.canalejasdelarroyo",
+    "code": "ES_CAMA_CUEN_CDA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.caadadelhoyo",
+    "code": "ES_CAMA_CUEN_CDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.caadajuncosa",
+    "code": "ES_CAMA_CUEN_CAJU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.caamares",
+    "code": "ES_CAMA_CUEN_CAA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.elcaavate",
+    "code": "ES_CAMA_CUEN_ELCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.caaveras",
+    "code": "ES_CAMA_CUEN_CAA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.caaveruelas",
+    "code": "ES_CAMA_CUEN_CAA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.caete",
+    "code": "ES_CAMA_CUEN_CAE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.caizares",
+    "code": "ES_CAMA_CUEN_CAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.carbonerasdeguadazan",
+    "code": "ES_CAMA_CUEN_CDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.cardenete",
+    "code": "ES_CAMA_CUEN_CARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.carrascosa",
+    "code": "ES_CAMA_CUEN_CARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.carrascosadeharo",
+    "code": "ES_CAMA_CUEN_CDH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.casasdebentez",
+    "code": "ES_CAMA_CUEN_CDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.casasdefernandoalonso",
+    "code": "ES_CAMA_CUEN_CDFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.casasdegarcimolina",
+    "code": "ES_CAMA_CUEN_CDG2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.casasdeguijarro",
+    "code": "ES_CAMA_CUEN_CDG3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.casasdeharo",
+    "code": "ES_CAMA_CUEN_CDH3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.casasdelospinos",
+    "code": "ES_CAMA_CUEN_CDLP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.casasimarro",
+    "code": "ES_CAMA_CUEN_CASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.castejn",
+    "code": "ES_CAMA_CUEN_CAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.castillejodeiniesta",
+    "code": "ES_CAMA_CUEN_CDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.castillejosierra",
+    "code": "ES_CAMA_CUEN_CAST2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.castilloalbarez",
+    "code": "ES_CAMA_CUEN_CAST3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.castillodegarcimuoz",
+    "code": "ES_CAMA_CUEN_CDG4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.cerveradelllano",
+    "code": "ES_CAMA_CUEN_CDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.lacierva",
+    "code": "ES_CAMA_CUEN_LACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.cuenca",
+    "code": "ES_CAMA_CUEN_CUEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.cuevadelhierro",
+    "code": "ES_CAMA_CUEN_CDH4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.chumillas",
+    "code": "ES_CAMA_CUEN_CHUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.engudanos",
+    "code": "ES_CAMA_CUEN_ENGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.fresnedadealtarejos",
+    "code": "ES_CAMA_CUEN_FDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.fresnedadelasierra",
+    "code": "ES_CAMA_CUEN_FDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.lafrontera",
+    "code": "ES_CAMA_CUEN_LAFR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.fuentedepedronaharro",
+    "code": "ES_CAMA_CUEN_FDPN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.fuentelespinodeharo",
+    "code": "ES_CAMA_CUEN_FDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.fuentelespinodemoya",
+    "code": "ES_CAMA_CUEN_FDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.fuentes",
+    "code": "ES_CAMA_CUEN_FUEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.fuertescusa",
+    "code": "ES_CAMA_CUEN_FUER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.gabaldn",
+    "code": "ES_CAMA_CUEN_GABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.garaballa",
+    "code": "ES_CAMA_CUEN_GARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.gascuea",
+    "code": "ES_CAMA_CUEN_GASC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.grajadecampalbo",
+    "code": "ES_CAMA_CUEN_GDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.grajadeiniesta",
+    "code": "ES_CAMA_CUEN_GDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.henarejos",
+    "code": "ES_CAMA_CUEN_HENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.elherrumblar",
+    "code": "ES_CAMA_CUEN_ELHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.lahinojosa",
+    "code": "ES_CAMA_CUEN_LAHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.loshinojosos",
+    "code": "ES_CAMA_CUEN_LOHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.elhito",
+    "code": "ES_CAMA_CUEN_ELHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.honrubia",
+    "code": "ES_CAMA_CUEN_HONR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.hontanaya",
+    "code": "ES_CAMA_CUEN_HONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.hontecillas",
+    "code": "ES_CAMA_CUEN_HONT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.horcajodesantiago",
+    "code": "ES_CAMA_CUEN_HDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.hulamo",
+    "code": "ES_CAMA_CUEN_HUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.huelves",
+    "code": "ES_CAMA_CUEN_HUEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.hurguina",
+    "code": "ES_CAMA_CUEN_HUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.huertadelaobispala",
+    "code": "ES_CAMA_CUEN_HDLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.huertadelmarquesado",
+    "code": "ES_CAMA_CUEN_HDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.huete",
+    "code": "ES_CAMA_CUEN_HUET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.iniesta",
+    "code": "ES_CAMA_CUEN_INIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.lagunadelmarquesado",
+    "code": "ES_CAMA_CUEN_LDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.lagunaseca",
+    "code": "ES_CAMA_CUEN_LAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.landete",
+    "code": "ES_CAMA_CUEN_LAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.ledaa",
+    "code": "ES_CAMA_CUEN_LEDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.leganiel",
+    "code": "ES_CAMA_CUEN_LEGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.lasmajadas",
+    "code": "ES_CAMA_CUEN_LAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.mariana",
+    "code": "ES_CAMA_CUEN_MARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.masegosa",
+    "code": "ES_CAMA_CUEN_MASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.lasmesas",
+    "code": "ES_CAMA_CUEN_LAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.minglanilla",
+    "code": "ES_CAMA_CUEN_MING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.mira",
+    "code": "ES_CAMA_CUEN_MIRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.monrealdelllano",
+    "code": "ES_CAMA_CUEN_MDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.montalbanejo",
+    "code": "ES_CAMA_CUEN_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.montalbo",
+    "code": "ES_CAMA_CUEN_MONT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.monteagudodelassalinas",
+    "code": "ES_CAMA_CUEN_MDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.motadealtarejos",
+    "code": "ES_CAMA_CUEN_MDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.motadelcuervo",
+    "code": "ES_CAMA_CUEN_MDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.motilladelpalancar",
+    "code": "ES_CAMA_CUEN_MDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.moya",
+    "code": "ES_CAMA_CUEN_MOYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.narboneta",
+    "code": "ES_CAMA_CUEN_NARB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.olivaresdejcar",
+    "code": "ES_CAMA_CUEN_ODJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.olmedadelacuesta",
+    "code": "ES_CAMA_CUEN_ODLC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.olmedadelrey",
+    "code": "ES_CAMA_CUEN_ODR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.olmedilladealarcn",
+    "code": "ES_CAMA_CUEN_ODA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.olmedilladeeliz",
+    "code": "ES_CAMA_CUEN_ODE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.osadelavega",
+    "code": "ES_CAMA_CUEN_ODLV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.pajarn",
+    "code": "ES_CAMA_CUEN_PAJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.pajaroncillo",
+    "code": "ES_CAMA_CUEN_PAJA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.palomaresdelcampo",
+    "code": "ES_CAMA_CUEN_PDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.palomera",
+    "code": "ES_CAMA_CUEN_PALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.paracuellos",
+    "code": "ES_CAMA_CUEN_PARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.paredes",
+    "code": "ES_CAMA_CUEN_PARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.laparradelasvegas",
+    "code": "ES_CAMA_CUEN_LPDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.elpedernoso",
+    "code": "ES_CAMA_CUEN_ELPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.laspedroeras",
+    "code": "ES_CAMA_CUEN_LAPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.elperal",
+    "code": "ES_CAMA_CUEN_ELPE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.laperaleja",
+    "code": "ES_CAMA_CUEN_LAPE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.lapesquera",
+    "code": "ES_CAMA_CUEN_LAPE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.elpicazo",
+    "code": "ES_CAMA_CUEN_ELPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.pinarejo",
+    "code": "ES_CAMA_CUEN_PINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.pinedadegigela",
+    "code": "ES_CAMA_CUEN_PDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.piquerasdelcastillo",
+    "code": "ES_CAMA_CUEN_PDC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.portalrubiodeguadamejud",
+    "code": "ES_CAMA_CUEN_PDG2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.portilla",
+    "code": "ES_CAMA_CUEN_PORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.poyatos",
+    "code": "ES_CAMA_CUEN_POYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.pozoamargo",
+    "code": "ES_CAMA_CUEN_POZO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.pozorrubiodesantiago",
+    "code": "ES_CAMA_CUEN_PDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.elpozuelo",
+    "code": "ES_CAMA_CUEN_ELPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.priego",
+    "code": "ES_CAMA_CUEN_PRIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.elprovencio",
+    "code": "ES_CAMA_CUEN_ELPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.puebladealmenara",
+    "code": "ES_CAMA_CUEN_PDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.elvalledealtomira",
+    "code": "ES_CAMA_CUEN_EVDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.puebladelsalvador",
+    "code": "ES_CAMA_CUEN_PDS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.quintanardelrey",
+    "code": "ES_CAMA_CUEN_QDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.radadeharo",
+    "code": "ES_CAMA_CUEN_RDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.rello",
+    "code": "ES_CAMA_CUEN_REL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.rozalndelmonte",
+    "code": "ES_CAMA_CUEN_RDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.sacedatrasierra",
+    "code": "ES_CAMA_CUEN_SACE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.saelices",
+    "code": "ES_CAMA_CUEN_SAEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.salinasdelmanzano",
+    "code": "ES_CAMA_CUEN_SDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.salmeroncillos",
+    "code": "ES_CAMA_CUEN_SALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.salvacaete",
+    "code": "ES_CAMA_CUEN_SALV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.sanclemente",
+    "code": "ES_CAMA_CUEN_SACL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.sanlorenzodelaparrilla",
+    "code": "ES_CAMA_CUEN_SLDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.sanmartndeboniches",
+    "code": "ES_CAMA_CUEN_SMDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.sanpedropalmiches",
+    "code": "ES_CAMA_CUEN_SPP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.santacruzdemoya",
+    "code": "ES_CAMA_CUEN_SCDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.santamaradelcamporus",
+    "code": "ES_CAMA_CUEN_SMDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.santamaradelosllanos",
+    "code": "ES_CAMA_CUEN_SMDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.santamaradelval",
+    "code": "ES_CAMA_CUEN_SMDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.sisante",
+    "code": "ES_CAMA_CUEN_SISA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.soleradegabaldn",
+    "code": "ES_CAMA_CUEN_SDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.talayuelas",
+    "code": "ES_CAMA_CUEN_TALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.tarancn",
+    "code": "ES_CAMA_CUEN_TARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.tbar",
+    "code": "ES_CAMA_CUEN_TBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.tejadillos",
+    "code": "ES_CAMA_CUEN_TEJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.tinajas",
+    "code": "ES_CAMA_CUEN_TINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.torralba",
+    "code": "ES_CAMA_CUEN_TORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.torrejoncillodelrey",
+    "code": "ES_CAMA_CUEN_TDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.torrubiadelcampo",
+    "code": "ES_CAMA_CUEN_TDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.torrubiadelcastillo",
+    "code": "ES_CAMA_CUEN_TDC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.tragacete",
+    "code": "ES_CAMA_CUEN_TRAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.tresjuncos",
+    "code": "ES_CAMA_CUEN_TRES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.tribaldos",
+    "code": "ES_CAMA_CUEN_TRIB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.ucls",
+    "code": "ES_CAMA_CUEN_UCL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.ua",
+    "code": "ES_CAMA_CUEN_UA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.valdemeca",
+    "code": "ES_CAMA_CUEN_VALD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.valdemorillodelasierra",
+    "code": "ES_CAMA_CUEN_VDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.valdemorosierra",
+    "code": "ES_CAMA_CUEN_VALD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.valdeolivas",
+    "code": "ES_CAMA_CUEN_VALD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.valhermosodelafuente",
+    "code": "ES_CAMA_CUEN_VDLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.valsalobre",
+    "code": "ES_CAMA_CUEN_VALS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.valverdedejcar",
+    "code": "ES_CAMA_CUEN_VDJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.valverdejo",
+    "code": "ES_CAMA_CUEN_VALV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.varaderey",
+    "code": "ES_CAMA_CUEN_VDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.vegadelcodorno",
+    "code": "ES_CAMA_CUEN_VDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.vellisca",
+    "code": "ES_CAMA_CUEN_VELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villaconejosdetrabaque",
+    "code": "ES_CAMA_CUEN_VDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villaescusadeharo",
+    "code": "ES_CAMA_CUEN_VDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villagarcadelllano",
+    "code": "ES_CAMA_CUEN_VDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villalbadelasierra",
+    "code": "ES_CAMA_CUEN_VDLS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villalbadelrey",
+    "code": "ES_CAMA_CUEN_VDR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villalgordodelmarquesado",
+    "code": "ES_CAMA_CUEN_VDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villalpardo",
+    "code": "ES_CAMA_CUEN_VILL4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villamayordesantiago",
+    "code": "ES_CAMA_CUEN_VDS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villanuevadeguadamejud",
+    "code": "ES_CAMA_CUEN_VDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villanuevadelajara",
+    "code": "ES_CAMA_CUEN_VDLJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villardecaas",
+    "code": "ES_CAMA_CUEN_VDC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villardedomingogarca",
+    "code": "ES_CAMA_CUEN_VDDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villardelaencina",
+    "code": "ES_CAMA_CUEN_VDLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villardelhumo",
+    "code": "ES_CAMA_CUEN_VDH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villardelinfantado",
+    "code": "ES_CAMA_CUEN_VDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villardeolalla",
+    "code": "ES_CAMA_CUEN_VDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villarejodefuentes",
+    "code": "ES_CAMA_CUEN_VDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.cuenca.villarejodelapeuela",
+    "code": "ES_CAMA_CUEN_VDLP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_CUEN"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.abnades",
+    "code": "ES_CAMA_GUAD_ABN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.ablanque",
+    "code": "ES_CAMA_GUAD_ABLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.adobes",
+    "code": "ES_CAMA_GUAD_ADOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.alaminos",
+    "code": "ES_CAMA_GUAD_ALAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.alarilla",
+    "code": "ES_CAMA_GUAD_ALAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.albalatedezorita",
+    "code": "ES_CAMA_GUAD_ADZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.albares",
+    "code": "ES_CAMA_GUAD_ALBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.albendiego",
+    "code": "ES_CAMA_GUAD_ALBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.alcocer",
+    "code": "ES_CAMA_GUAD_ALCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.alcoleadelaspeas",
+    "code": "ES_CAMA_GUAD_ADLP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.alcoleadelpinar",
+    "code": "ES_CAMA_GUAD_ADP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.alcoroches",
+    "code": "ES_CAMA_GUAD_ALCO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.aldeanuevadeguadalajara",
+    "code": "ES_CAMA_GUAD_ADG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.algardemesa",
+    "code": "ES_CAMA_GUAD_ADM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.algora",
+    "code": "ES_CAMA_GUAD_ALGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.alhndiga",
+    "code": "ES_CAMA_GUAD_ALH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.alique",
+    "code": "ES_CAMA_GUAD_ALIQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.almadrones",
+    "code": "ES_CAMA_GUAD_ALMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.almoguera",
+    "code": "ES_CAMA_GUAD_ALMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.almonaciddezorita",
+    "code": "ES_CAMA_GUAD_ADZ2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.alocn",
+    "code": "ES_CAMA_GUAD_ALOC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.alovera",
+    "code": "ES_CAMA_GUAD_ALOV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.alustante",
+    "code": "ES_CAMA_GUAD_ALUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.angn",
+    "code": "ES_CAMA_GUAD_ANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.anguita",
+    "code": "ES_CAMA_GUAD_ANGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.anqueladelducado",
+    "code": "ES_CAMA_GUAD_ADD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.anqueladelpedregal",
+    "code": "ES_CAMA_GUAD_ADP2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.aranzueque",
+    "code": "ES_CAMA_GUAD_ARAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.arbancn",
+    "code": "ES_CAMA_GUAD_ARBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.arbeteta",
+    "code": "ES_CAMA_GUAD_ARBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.argecilla",
+    "code": "ES_CAMA_GUAD_ARGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.armallones",
+    "code": "ES_CAMA_GUAD_ARMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.armuadetajua",
+    "code": "ES_CAMA_GUAD_ADT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.arroyodelasfraguas",
+    "code": "ES_CAMA_GUAD_ADLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.atanzn",
+    "code": "ES_CAMA_GUAD_ATAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.atienza",
+    "code": "ES_CAMA_GUAD_ATIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.aun",
+    "code": "ES_CAMA_GUAD_AU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.azuquecadehenares",
+    "code": "ES_CAMA_GUAD_ADH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.baides",
+    "code": "ES_CAMA_GUAD_BAID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.baosdetajo",
+    "code": "ES_CAMA_GUAD_BDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.bauelos",
+    "code": "ES_CAMA_GUAD_BAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.barriopedro",
+    "code": "ES_CAMA_GUAD_BARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.berninches",
+    "code": "ES_CAMA_GUAD_BERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.labodera",
+    "code": "ES_CAMA_GUAD_LABO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.brihuega",
+    "code": "ES_CAMA_GUAD_BRIH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.budia",
+    "code": "ES_CAMA_GUAD_BUDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.bujalaro",
+    "code": "ES_CAMA_GUAD_BUJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.bustares",
+    "code": "ES_CAMA_GUAD_BUST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.cabanillasdelcampo",
+    "code": "ES_CAMA_GUAD_CDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.campillodedueas",
+    "code": "ES_CAMA_GUAD_CDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.campilloderanas",
+    "code": "ES_CAMA_GUAD_CDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.campisbalos",
+    "code": "ES_CAMA_GUAD_CAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.canredondo",
+    "code": "ES_CAMA_GUAD_CANR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.cantalojas",
+    "code": "ES_CAMA_GUAD_CANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.caizar",
+    "code": "ES_CAMA_GUAD_CAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.elcardosodelasierra",
+    "code": "ES_CAMA_GUAD_ECDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.casadeuceda",
+    "code": "ES_CAMA_GUAD_CDU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.elcasar",
+    "code": "ES_CAMA_GUAD_ELCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.casasdesangalindo",
+    "code": "ES_CAMA_GUAD_CDSG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.caspueas",
+    "code": "ES_CAMA_GUAD_CASP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.castejndehenares",
+    "code": "ES_CAMA_GUAD_CDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.castellardelamuela",
+    "code": "ES_CAMA_GUAD_CDLM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.castilforte",
+    "code": "ES_CAMA_GUAD_CAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.castilnuevo",
+    "code": "ES_CAMA_GUAD_CAST2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.cendejasdeenmedio",
+    "code": "ES_CAMA_GUAD_CDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.cendejasdelatorre",
+    "code": "ES_CAMA_GUAD_CDLT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.centenera",
+    "code": "ES_CAMA_GUAD_CENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.cifuentes",
+    "code": "ES_CAMA_GUAD_CIFU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.cincovillas",
+    "code": "ES_CAMA_GUAD_CINC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.ciruelas",
+    "code": "ES_CAMA_GUAD_CIRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.ciruelosdelpinar",
+    "code": "ES_CAMA_GUAD_CDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.cobeta",
+    "code": "ES_CAMA_GUAD_COBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.cogollor",
+    "code": "ES_CAMA_GUAD_COGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.cogolludo",
+    "code": "ES_CAMA_GUAD_COGO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.condemiosdeabajo",
+    "code": "ES_CAMA_GUAD_CDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.condemiosdearriba",
+    "code": "ES_CAMA_GUAD_CDA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.congostrina",
+    "code": "ES_CAMA_GUAD_CONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.copernal",
+    "code": "ES_CAMA_GUAD_COPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.corduente",
+    "code": "ES_CAMA_GUAD_CORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.elcubillodeuceda",
+    "code": "ES_CAMA_GUAD_ECDU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.checa",
+    "code": "ES_CAMA_GUAD_CHEC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.chequilla",
+    "code": "ES_CAMA_GUAD_CHEQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.chiloeches",
+    "code": "ES_CAMA_GUAD_CHIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.chillarndelrey",
+    "code": "ES_CAMA_GUAD_CDR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.driebes",
+    "code": "ES_CAMA_GUAD_DRIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.durn",
+    "code": "ES_CAMA_GUAD_DUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.embid",
+    "code": "ES_CAMA_GUAD_EMBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.escamilla",
+    "code": "ES_CAMA_GUAD_ESCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.escariche",
+    "code": "ES_CAMA_GUAD_ESCA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.escopete",
+    "code": "ES_CAMA_GUAD_ESCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.espinosadehenares",
+    "code": "ES_CAMA_GUAD_EDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.esplegares",
+    "code": "ES_CAMA_GUAD_ESPL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.establs",
+    "code": "ES_CAMA_GUAD_ESTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.estrigana",
+    "code": "ES_CAMA_GUAD_ESTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.fontanar",
+    "code": "ES_CAMA_GUAD_FONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.fuembellida",
+    "code": "ES_CAMA_GUAD_FUEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.fuencemilln",
+    "code": "ES_CAMA_GUAD_FUEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.fuentelahigueradealbatages",
+    "code": "ES_CAMA_GUAD_FDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.fuentelencina",
+    "code": "ES_CAMA_GUAD_FUEN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.fuentelsaz",
+    "code": "ES_CAMA_GUAD_FUEN3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.fuentelviejo",
+    "code": "ES_CAMA_GUAD_FUEN4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.fuentenovilla",
+    "code": "ES_CAMA_GUAD_FUEN5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.gajanejos",
+    "code": "ES_CAMA_GUAD_GAJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.galpagos",
+    "code": "ES_CAMA_GUAD_GAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.galvedesorbe",
+    "code": "ES_CAMA_GUAD_GDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.gascueadebornova",
+    "code": "ES_CAMA_GUAD_GDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.guadalajara",
+    "code": "ES_CAMA_GUAD_GUAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.henche",
+    "code": "ES_CAMA_GUAD_HENC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.herasdeayuso",
+    "code": "ES_CAMA_GUAD_HDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.herrera",
+    "code": "ES_CAMA_GUAD_HERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.hiendelaencina",
+    "code": "ES_CAMA_GUAD_HIEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.hijes",
+    "code": "ES_CAMA_GUAD_HIJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.hita",
+    "code": "ES_CAMA_GUAD_HITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.hombrados",
+    "code": "ES_CAMA_GUAD_HOMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.hontoba",
+    "code": "ES_CAMA_GUAD_HONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.horche",
+    "code": "ES_CAMA_GUAD_HORC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.hortezueladeocn",
+    "code": "ES_CAMA_GUAD_HDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.lahuerce",
+    "code": "ES_CAMA_GUAD_LAHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.hurmecesdelcerro",
+    "code": "ES_CAMA_GUAD_HDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.huertahernando",
+    "code": "ES_CAMA_GUAD_HUER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.hueva",
+    "code": "ES_CAMA_GUAD_HUEV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.humanes",
+    "code": "ES_CAMA_GUAD_HUMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.illana",
+    "code": "ES_CAMA_GUAD_ILLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.inistola",
+    "code": "ES_CAMA_GUAD_INI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.lasinviernas",
+    "code": "ES_CAMA_GUAD_LAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.irueste",
+    "code": "ES_CAMA_GUAD_IRUE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.jadraque",
+    "code": "ES_CAMA_GUAD_JADR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.jirueque",
+    "code": "ES_CAMA_GUAD_JIRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.ledanca",
+    "code": "ES_CAMA_GUAD_LEDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.lorancadetajua",
+    "code": "ES_CAMA_GUAD_LDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.lupiana",
+    "code": "ES_CAMA_GUAD_LUPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.luzaga",
+    "code": "ES_CAMA_GUAD_LUZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.luzn",
+    "code": "ES_CAMA_GUAD_LUZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.majaelrayo",
+    "code": "ES_CAMA_GUAD_MAJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.mlagadelfresno",
+    "code": "ES_CAMA_GUAD_MDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.malaguilla",
+    "code": "ES_CAMA_GUAD_MALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.mandayona",
+    "code": "ES_CAMA_GUAD_MAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.mantiel",
+    "code": "ES_CAMA_GUAD_MANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.maranchn",
+    "code": "ES_CAMA_GUAD_MARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.marchamalo",
+    "code": "ES_CAMA_GUAD_MARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.masegosodetajua",
+    "code": "ES_CAMA_GUAD_MDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.matarrubia",
+    "code": "ES_CAMA_GUAD_MATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.matillas",
+    "code": "ES_CAMA_GUAD_MATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.mazarete",
+    "code": "ES_CAMA_GUAD_MAZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.mazuecos",
+    "code": "ES_CAMA_GUAD_MAZU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.medranda",
+    "code": "ES_CAMA_GUAD_MEDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.megina",
+    "code": "ES_CAMA_GUAD_MEGI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.membrillera",
+    "code": "ES_CAMA_GUAD_MEMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.miedesdeatienza",
+    "code": "ES_CAMA_GUAD_MDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.lamierla",
+    "code": "ES_CAMA_GUAD_LAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.milmarcos",
+    "code": "ES_CAMA_GUAD_MILM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.millana",
+    "code": "ES_CAMA_GUAD_MILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.lamiosa",
+    "code": "ES_CAMA_GUAD_LAMI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.mirabueno",
+    "code": "ES_CAMA_GUAD_MIRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.miralro",
+    "code": "ES_CAMA_GUAD_MIRA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.mochales",
+    "code": "ES_CAMA_GUAD_MOCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.mohernando",
+    "code": "ES_CAMA_GUAD_MOHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.molinadearagn",
+    "code": "ES_CAMA_GUAD_MDA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.monasterio",
+    "code": "ES_CAMA_GUAD_MONA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.mondjar",
+    "code": "ES_CAMA_GUAD_MOND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.montarrn",
+    "code": "ES_CAMA_GUAD_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.moratilladelosmeleros",
+    "code": "ES_CAMA_GUAD_MDLM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.morenilla",
+    "code": "ES_CAMA_GUAD_MORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.muduex",
+    "code": "ES_CAMA_GUAD_MUDU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.lasnavasdejadraque",
+    "code": "ES_CAMA_GUAD_LNDJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.negredo",
+    "code": "ES_CAMA_GUAD_NEGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.ocentejo",
+    "code": "ES_CAMA_GUAD_OCEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.elolivar",
+    "code": "ES_CAMA_GUAD_ELOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.olmedadecobeta",
+    "code": "ES_CAMA_GUAD_ODC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.laolmedadejadraque",
+    "code": "ES_CAMA_GUAD_LODJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.elordial",
+    "code": "ES_CAMA_GUAD_ELOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.orea",
+    "code": "ES_CAMA_GUAD_OREA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.plmacesdejadraque",
+    "code": "ES_CAMA_GUAD_PDJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.pardos",
+    "code": "ES_CAMA_GUAD_PARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.paredesdesigenza",
+    "code": "ES_CAMA_GUAD_PDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.pareja",
+    "code": "ES_CAMA_GUAD_PARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.pastrana",
+    "code": "ES_CAMA_GUAD_PAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.elpedregal",
+    "code": "ES_CAMA_GUAD_ELPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.pealn",
+    "code": "ES_CAMA_GUAD_PEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.pealver",
+    "code": "ES_CAMA_GUAD_PEA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.peralejosdelastruchas",
+    "code": "ES_CAMA_GUAD_PDLT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.peralveche",
+    "code": "ES_CAMA_GUAD_PERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.pinilladejadraque",
+    "code": "ES_CAMA_GUAD_PDJ2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.pinillademolina",
+    "code": "ES_CAMA_GUAD_PDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.pioz",
+    "code": "ES_CAMA_GUAD_PIOZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.piqueras",
+    "code": "ES_CAMA_GUAD_PIQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.elpobodedueas",
+    "code": "ES_CAMA_GUAD_EPDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.povedadelasierra",
+    "code": "ES_CAMA_GUAD_PDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.pozodealmoguera",
+    "code": "ES_CAMA_GUAD_PDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.pozodeguadalajara",
+    "code": "ES_CAMA_GUAD_PDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.prdenadeatienza",
+    "code": "ES_CAMA_GUAD_PDA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.pradosredondos",
+    "code": "ES_CAMA_GUAD_PRRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.puebladebelea",
+    "code": "ES_CAMA_GUAD_PDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.puebladevalles",
+    "code": "ES_CAMA_GUAD_PDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.quer",
+    "code": "ES_CAMA_GUAD_QUER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.rebollosadejadraque",
+    "code": "ES_CAMA_GUAD_RDJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.elrecuenco",
+    "code": "ES_CAMA_GUAD_ELRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.renera",
+    "code": "ES_CAMA_GUAD_RENE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.retiendas",
+    "code": "ES_CAMA_GUAD_RETI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.ribadesaelices",
+    "code": "ES_CAMA_GUAD_RDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.rillodegallo",
+    "code": "ES_CAMA_GUAD_RDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.riofrodelllano",
+    "code": "ES_CAMA_GUAD_RDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.robledillodemohernando",
+    "code": "ES_CAMA_GUAD_RDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.robledodecorpes",
+    "code": "ES_CAMA_GUAD_RDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.romanillosdeatienza",
+    "code": "ES_CAMA_GUAD_RDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.romanones",
+    "code": "ES_CAMA_GUAD_ROMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.ruedadelasierra",
+    "code": "ES_CAMA_GUAD_RDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.sacecorbo",
+    "code": "ES_CAMA_GUAD_SACE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.sacedn",
+    "code": "ES_CAMA_GUAD_SACE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.saelicesdelasal",
+    "code": "ES_CAMA_GUAD_SDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.salmern",
+    "code": "ES_CAMA_GUAD_SALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.sanandrsdelcongosto",
+    "code": "ES_CAMA_GUAD_SADC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.sanandrsdelrey",
+    "code": "ES_CAMA_GUAD_SADR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.santiuste",
+    "code": "ES_CAMA_GUAD_SANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.saca",
+    "code": "ES_CAMA_GUAD_SAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.sayatn",
+    "code": "ES_CAMA_GUAD_SAYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.selas",
+    "code": "ES_CAMA_GUAD_SELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.setiles",
+    "code": "ES_CAMA_GUAD_SETI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.sienes",
+    "code": "ES_CAMA_GUAD_SIEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.sigenza",
+    "code": "ES_CAMA_GUAD_SIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.solanillosdelextremo",
+    "code": "ES_CAMA_GUAD_SDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.somolinos",
+    "code": "ES_CAMA_GUAD_SOMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.elsotillo",
+    "code": "ES_CAMA_GUAD_ELSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.sotodosos",
+    "code": "ES_CAMA_GUAD_SOTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.tamajn",
+    "code": "ES_CAMA_GUAD_TAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.taragudo",
+    "code": "ES_CAMA_GUAD_TARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.taravilla",
+    "code": "ES_CAMA_GUAD_TARA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.tartanedo",
+    "code": "ES_CAMA_GUAD_TART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.tendilla",
+    "code": "ES_CAMA_GUAD_TEND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.terzaga",
+    "code": "ES_CAMA_GUAD_TERZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.tierzo",
+    "code": "ES_CAMA_GUAD_TIER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.latoba",
+    "code": "ES_CAMA_GUAD_LATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.tordelrbano",
+    "code": "ES_CAMA_GUAD_TORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.tordellego",
+    "code": "ES_CAMA_GUAD_TORD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.tordesilos",
+    "code": "ES_CAMA_GUAD_TORD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.torija",
+    "code": "ES_CAMA_GUAD_TORI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.torrecuadradademolina",
+    "code": "ES_CAMA_GUAD_TDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.torrecuadradilla",
+    "code": "ES_CAMA_GUAD_TORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.torredelburgo",
+    "code": "ES_CAMA_GUAD_TDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.torrejndelrey",
+    "code": "ES_CAMA_GUAD_TDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.torremochadejadraque",
+    "code": "ES_CAMA_GUAD_TDJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.torremochadelcampo",
+    "code": "ES_CAMA_GUAD_TDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.torremochadelpinar",
+    "code": "ES_CAMA_GUAD_TDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.torremochuela",
+    "code": "ES_CAMA_GUAD_TORR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.torrubia",
+    "code": "ES_CAMA_GUAD_TORR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.trtoladehenares",
+    "code": "ES_CAMA_GUAD_TDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.tortuera",
+    "code": "ES_CAMA_GUAD_TORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.tortuero",
+    "code": "ES_CAMA_GUAD_TORT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.trad",
+    "code": "ES_CAMA_GUAD_TRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.trijueque",
+    "code": "ES_CAMA_GUAD_TRIJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.trillo",
+    "code": "ES_CAMA_GUAD_TRIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.uceda",
+    "code": "ES_CAMA_GUAD_UCED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.ujados",
+    "code": "ES_CAMA_GUAD_UJAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.utande",
+    "code": "ES_CAMA_GUAD_UTAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.valdarachas",
+    "code": "ES_CAMA_GUAD_VALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.valdearenas",
+    "code": "ES_CAMA_GUAD_VALD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.valdeavellano",
+    "code": "ES_CAMA_GUAD_VALD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.valdeaveruelo",
+    "code": "ES_CAMA_GUAD_VALD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.valdeconcha",
+    "code": "ES_CAMA_GUAD_VALD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.valdegrudas",
+    "code": "ES_CAMA_GUAD_VALD6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.valdelcubo",
+    "code": "ES_CAMA_GUAD_VALD7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.valdenuofernndez",
+    "code": "ES_CAMA_GUAD_VAFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.valdepeasdelasierra",
+    "code": "ES_CAMA_GUAD_VDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.valderrebollo",
+    "code": "ES_CAMA_GUAD_VALD8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.valdesotos",
+    "code": "ES_CAMA_GUAD_VALD9",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.valfermosodetajua",
+    "code": "ES_CAMA_GUAD_VDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.valhermoso",
+    "code": "ES_CAMA_GUAD_VALH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.valtabladodelro",
+    "code": "ES_CAMA_GUAD_VDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.valverdedelosarroyos",
+    "code": "ES_CAMA_GUAD_VDLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.vianadejadraque",
+    "code": "ES_CAMA_GUAD_VDJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.villanuevadealcorn",
+    "code": "ES_CAMA_GUAD_VDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.villanuevadeargecilla",
+    "code": "ES_CAMA_GUAD_VDA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.villanuevadelatorre",
+    "code": "ES_CAMA_GUAD_VDLT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.villaresdejadraque",
+    "code": "ES_CAMA_GUAD_VDJ2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.villasecadehenares",
+    "code": "ES_CAMA_GUAD_VDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.villasecadeuceda",
+    "code": "ES_CAMA_GUAD_VDU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.villeldemesa",
+    "code": "ES_CAMA_GUAD_VDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.viuelas",
+    "code": "ES_CAMA_GUAD_VIU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.yebes",
+    "code": "ES_CAMA_GUAD_YEBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.yebra",
+    "code": "ES_CAMA_GUAD_YEBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.ylamosdeabajo",
+    "code": "ES_CAMA_GUAD_YDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.ylamosdearriba",
+    "code": "ES_CAMA_GUAD_YDA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.yunqueradehenares",
+    "code": "ES_CAMA_GUAD_YDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.layunta",
+    "code": "ES_CAMA_GUAD_LAYU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.zaorejas",
+    "code": "ES_CAMA_GUAD_ZAOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.zarzueladejadraque",
+    "code": "ES_CAMA_GUAD_ZDJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.zoritadeloscanes",
+    "code": "ES_CAMA_GUAD_ZDLC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.semillas",
+    "code": "ES_CAMA_GUAD_SEMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.guadalajara.aldovera",
+    "code": "ES_CAMA_GUAD_ALDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_GUAD"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.ajofrn",
+    "code": "ES_CAMA_TOLE_AJOF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.alamedadelasagra",
+    "code": "ES_CAMA_TOLE_ADLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.albarrealdetajo",
+    "code": "ES_CAMA_TOLE_ADT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.alcabn",
+    "code": "ES_CAMA_TOLE_ALCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.alcaizo",
+    "code": "ES_CAMA_TOLE_ALCA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.alcaudetedelajara",
+    "code": "ES_CAMA_TOLE_ADLJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.alcoleadetajo",
+    "code": "ES_CAMA_TOLE_ADT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.aldeaencabo",
+    "code": "ES_CAMA_TOLE_AEC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.aldeanuevadebarbarroya",
+    "code": "ES_CAMA_TOLE_ADB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.aldeanuevadesanbartolom",
+    "code": "ES_CAMA_TOLE_ADSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.almendraldelacaada",
+    "code": "ES_CAMA_TOLE_ADLC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.almonaciddetoledo",
+    "code": "ES_CAMA_TOLE_ADT3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.almorox",
+    "code": "ES_CAMA_TOLE_ALMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.aoverdetajo",
+    "code": "ES_CAMA_TOLE_ADT4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.arcicllar",
+    "code": "ES_CAMA_TOLE_ARCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.args",
+    "code": "ES_CAMA_TOLE_ARG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.azutn",
+    "code": "ES_CAMA_TOLE_AZUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.barcience",
+    "code": "ES_CAMA_TOLE_BARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.bargas",
+    "code": "ES_CAMA_TOLE_BARG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.belvsdelajara",
+    "code": "ES_CAMA_TOLE_BDLJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.borox",
+    "code": "ES_CAMA_TOLE_BORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.buenaventura",
+    "code": "ES_CAMA_TOLE_BUEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.burguillosdetoledo",
+    "code": "ES_CAMA_TOLE_BDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.burujn",
+    "code": "ES_CAMA_TOLE_BURU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.cabaasdelasagra",
+    "code": "ES_CAMA_TOLE_CDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.cabaasdeyepes",
+    "code": "ES_CAMA_TOLE_CDY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.cabezamesada",
+    "code": "ES_CAMA_TOLE_CABE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.caleraychozas",
+    "code": "ES_CAMA_TOLE_CYC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.caleruela",
+    "code": "ES_CAMA_TOLE_CALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.calzadadeoropesa",
+    "code": "ES_CAMA_TOLE_CDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.camarena",
+    "code": "ES_CAMA_TOLE_CAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.camarenilla",
+    "code": "ES_CAMA_TOLE_CAMA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.elcampillodelajara",
+    "code": "ES_CAMA_TOLE_ECDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.camuas",
+    "code": "ES_CAMA_TOLE_CAMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.cardieldelosmontes",
+    "code": "ES_CAMA_TOLE_CDLM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.carmena",
+    "code": "ES_CAMA_TOLE_CARM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.elcarpiodetajo",
+    "code": "ES_CAMA_TOLE_ECDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.carranque",
+    "code": "ES_CAMA_TOLE_CARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.carriches",
+    "code": "ES_CAMA_TOLE_CARR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.elcasardeescalona",
+    "code": "ES_CAMA_TOLE_ECDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.casarrubiosdelmonte",
+    "code": "ES_CAMA_TOLE_CDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.casasbuenas",
+    "code": "ES_CAMA_TOLE_CASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.castillodebayuela",
+    "code": "ES_CAMA_TOLE_CDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.cazalegas",
+    "code": "ES_CAMA_TOLE_CAZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.cebolla",
+    "code": "ES_CAMA_TOLE_CEBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.cedillodelcondado",
+    "code": "ES_CAMA_TOLE_CDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.loscerralbos",
+    "code": "ES_CAMA_TOLE_LOCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.cerveradelosmontes",
+    "code": "ES_CAMA_TOLE_CDLM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.ciruelos",
+    "code": "ES_CAMA_TOLE_CIRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.cobeja",
+    "code": "ES_CAMA_TOLE_COBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.cobisa",
+    "code": "ES_CAMA_TOLE_COBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.consuegra",
+    "code": "ES_CAMA_TOLE_CONS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.corraldealmaguer",
+    "code": "ES_CAMA_TOLE_CDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.cuerva",
+    "code": "ES_CAMA_TOLE_CUER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.chozasdecanales",
+    "code": "ES_CAMA_TOLE_CDC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.chueca",
+    "code": "ES_CAMA_TOLE_CHUE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.domingoprez",
+    "code": "ES_CAMA_TOLE_DOP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.dosbarrios",
+    "code": "ES_CAMA_TOLE_DOSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.erustes",
+    "code": "ES_CAMA_TOLE_ERUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.escalona",
+    "code": "ES_CAMA_TOLE_ESCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.escalonilla",
+    "code": "ES_CAMA_TOLE_ESCA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.espinosodelrey",
+    "code": "ES_CAMA_TOLE_EDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.esquivias",
+    "code": "ES_CAMA_TOLE_ESQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.laestrella",
+    "code": "ES_CAMA_TOLE_LAES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.fuensalida",
+    "code": "ES_CAMA_TOLE_FUEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.glvez",
+    "code": "ES_CAMA_TOLE_GLV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.garciotum",
+    "code": "ES_CAMA_TOLE_GARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.gerindote",
+    "code": "ES_CAMA_TOLE_GERI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.guadamur",
+    "code": "ES_CAMA_TOLE_GUAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.laguardia",
+    "code": "ES_CAMA_TOLE_LAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.lasherencias",
+    "code": "ES_CAMA_TOLE_LAHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.herrerueladeoropesa",
+    "code": "ES_CAMA_TOLE_HDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.hinojosadesanvicente",
+    "code": "ES_CAMA_TOLE_HDSV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.hontanar",
+    "code": "ES_CAMA_TOLE_HONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.hormigos",
+    "code": "ES_CAMA_TOLE_HORM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.huecas",
+    "code": "ES_CAMA_TOLE_HUEC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.huertadevaldecarbanos",
+    "code": "ES_CAMA_TOLE_HDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.laiglesueladeltitar",
+    "code": "ES_CAMA_TOLE_LIDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.illndevacas",
+    "code": "ES_CAMA_TOLE_IDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.illescas",
+    "code": "ES_CAMA_TOLE_ILLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.lagartera",
+    "code": "ES_CAMA_TOLE_LAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.layos",
+    "code": "ES_CAMA_TOLE_LAYO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.lillo",
+    "code": "ES_CAMA_TOLE_LILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.lominchar",
+    "code": "ES_CAMA_TOLE_LOMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.lucillos",
+    "code": "ES_CAMA_TOLE_LUCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.madridejos",
+    "code": "ES_CAMA_TOLE_MADR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.magn",
+    "code": "ES_CAMA_TOLE_MAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.malpicadetajo",
+    "code": "ES_CAMA_TOLE_MDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.manzaneque",
+    "code": "ES_CAMA_TOLE_MANZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.maqueda",
+    "code": "ES_CAMA_TOLE_MAQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.marjaliza",
+    "code": "ES_CAMA_TOLE_MARJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.marrupe",
+    "code": "ES_CAMA_TOLE_MARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.mascaraque",
+    "code": "ES_CAMA_TOLE_MASC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.lamata",
+    "code": "ES_CAMA_TOLE_LAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.mazarambroz",
+    "code": "ES_CAMA_TOLE_MAZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.mejorada",
+    "code": "ES_CAMA_TOLE_MEJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.menasalbas",
+    "code": "ES_CAMA_TOLE_MENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.mntrida",
+    "code": "ES_CAMA_TOLE_MNT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.mesegardetajo",
+    "code": "ES_CAMA_TOLE_MDT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.miguelesteban",
+    "code": "ES_CAMA_TOLE_MIES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.mocejn",
+    "code": "ES_CAMA_TOLE_MOCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.mohedasdelajara",
+    "code": "ES_CAMA_TOLE_MDLJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.montearagn",
+    "code": "ES_CAMA_TOLE_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.montesclaros",
+    "code": "ES_CAMA_TOLE_MONT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.mora",
+    "code": "ES_CAMA_TOLE_MORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.nambroca",
+    "code": "ES_CAMA_TOLE_NAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.lanavadericomalillo",
+    "code": "ES_CAMA_TOLE_LNDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.navahermosa",
+    "code": "ES_CAMA_TOLE_NAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.navalcn",
+    "code": "ES_CAMA_TOLE_NAVA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.navalmoralejo",
+    "code": "ES_CAMA_TOLE_NAVA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.losnavalmorales",
+    "code": "ES_CAMA_TOLE_LONA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.losnavalucillos",
+    "code": "ES_CAMA_TOLE_LONA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.navamorcuende",
+    "code": "ES_CAMA_TOLE_NAVA4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.noblejas",
+    "code": "ES_CAMA_TOLE_NOBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.noez",
+    "code": "ES_CAMA_TOLE_NOEZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.nombela",
+    "code": "ES_CAMA_TOLE_NOMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.novs",
+    "code": "ES_CAMA_TOLE_NOV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.numanciadelasagra",
+    "code": "ES_CAMA_TOLE_NDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.nuogmez",
+    "code": "ES_CAMA_TOLE_NUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.ocaa",
+    "code": "ES_CAMA_TOLE_OCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.olasdelrey",
+    "code": "ES_CAMA_TOLE_ODR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.ontgola",
+    "code": "ES_CAMA_TOLE_ONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.orgaz",
+    "code": "ES_CAMA_TOLE_ORGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.oropesa",
+    "code": "ES_CAMA_TOLE_OROP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.otero",
+    "code": "ES_CAMA_TOLE_OTER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.palomeque",
+    "code": "ES_CAMA_TOLE_PALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.pantoja",
+    "code": "ES_CAMA_TOLE_PANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.paredesdeescalona",
+    "code": "ES_CAMA_TOLE_PDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.parrillas",
+    "code": "ES_CAMA_TOLE_PARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.pelahustn",
+    "code": "ES_CAMA_TOLE_PELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.pepino",
+    "code": "ES_CAMA_TOLE_PEPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.poln",
+    "code": "ES_CAMA_TOLE_POL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.portillodetoledo",
+    "code": "ES_CAMA_TOLE_PDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.lapuebladealmoradiel",
+    "code": "ES_CAMA_TOLE_LPDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.lapueblademontalbn",
+    "code": "ES_CAMA_TOLE_LPDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.santodomingocaudilla",
+    "code": "ES_CAMA_TOLE_SADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.elpuentedelarzobispo",
+    "code": "ES_CAMA_TOLE_EPDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.puertodesanvicente",
+    "code": "ES_CAMA_TOLE_PDSV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.pulgar",
+    "code": "ES_CAMA_TOLE_PULG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.quero",
+    "code": "ES_CAMA_TOLE_QUER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.quintanardelaorden",
+    "code": "ES_CAMA_TOLE_QDLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.quismondo",
+    "code": "ES_CAMA_TOLE_QUIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.elrealdesanvicente",
+    "code": "ES_CAMA_TOLE_ERDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.recas",
+    "code": "ES_CAMA_TOLE_RECA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.retamosodelajara",
+    "code": "ES_CAMA_TOLE_RDLJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.rielves",
+    "code": "ES_CAMA_TOLE_RIEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.robledodelmazo",
+    "code": "ES_CAMA_TOLE_RDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.elromeral",
+    "code": "ES_CAMA_TOLE_ELRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.sanbartolomdelasabiertas",
+    "code": "ES_CAMA_TOLE_SBDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.sanmartndemontalbn",
+    "code": "ES_CAMA_TOLE_SMDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.sanmartndepusa",
+    "code": "ES_CAMA_TOLE_SMDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.sanpablodelosmontes",
+    "code": "ES_CAMA_TOLE_SPDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.sanromndelosmontes",
+    "code": "ES_CAMA_TOLE_SRDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.santaanadepusa",
+    "code": "ES_CAMA_TOLE_SADP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.santacruzdelazarza",
+    "code": "ES_CAMA_TOLE_SCDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.santacruzdelretamar",
+    "code": "ES_CAMA_TOLE_SCDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.santaolalla",
+    "code": "ES_CAMA_TOLE_SAOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.sartajada",
+    "code": "ES_CAMA_TOLE_SART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.segurilla",
+    "code": "ES_CAMA_TOLE_SEGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.sesea",
+    "code": "ES_CAMA_TOLE_SESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.sevillejadelajara",
+    "code": "ES_CAMA_TOLE_SDLJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.sonseca",
+    "code": "ES_CAMA_TOLE_SONS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.sotillodelaspalomas",
+    "code": "ES_CAMA_TOLE_SDLP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.talaveradelareina",
+    "code": "ES_CAMA_TOLE_TDLR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.tembleque",
+    "code": "ES_CAMA_TOLE_TEMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.eltoboso",
+    "code": "ES_CAMA_TOLE_ELTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.toledo",
+    "code": "ES_CAMA_TOLE_TOLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.torralbadeoropesa",
+    "code": "ES_CAMA_TOLE_TDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.torrecilladelajara",
+    "code": "ES_CAMA_TOLE_TDLJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.latorredeestebanhambrn",
+    "code": "ES_CAMA_TOLE_LTDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.torrico",
+    "code": "ES_CAMA_TOLE_TORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.torrijos",
+    "code": "ES_CAMA_TOLE_TORR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.totans",
+    "code": "ES_CAMA_TOLE_TOTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.turleque",
+    "code": "ES_CAMA_TOLE_TURL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.ugena",
+    "code": "ES_CAMA_TOLE_UGEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.urda",
+    "code": "ES_CAMA_TOLE_URDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.valdeverdeja",
+    "code": "ES_CAMA_TOLE_VALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.valmojado",
+    "code": "ES_CAMA_TOLE_VALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.velada",
+    "code": "ES_CAMA_TOLE_VELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.lasventasconpeaaguilera",
+    "code": "ES_CAMA_TOLE_LVCP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.lasventasderetamosa",
+    "code": "ES_CAMA_TOLE_LVDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.lasventasdesanjulin",
+    "code": "ES_CAMA_TOLE_LVDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.villacaas",
+    "code": "ES_CAMA_TOLE_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.lavilladedonfadrique",
+    "code": "ES_CAMA_TOLE_LVDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.villafrancadeloscaballeros",
+    "code": "ES_CAMA_TOLE_VDLC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.villaluengadelasagra",
+    "code": "ES_CAMA_TOLE_VDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.villamieldetoledo",
+    "code": "ES_CAMA_TOLE_VDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.villaminaya",
+    "code": "ES_CAMA_TOLE_VILL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.villamuelas",
+    "code": "ES_CAMA_TOLE_VILL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.villanuevadealcardete",
+    "code": "ES_CAMA_TOLE_VDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.villanuevadebogas",
+    "code": "ES_CAMA_TOLE_VDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.villarejodemontalbn",
+    "code": "ES_CAMA_TOLE_VDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.villarrubiadesantiago",
+    "code": "ES_CAMA_TOLE_VDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.villasecadelasagra",
+    "code": "ES_CAMA_TOLE_VDLS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.villasequilla",
+    "code": "ES_CAMA_TOLE_VILL4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.villatobas",
+    "code": "ES_CAMA_TOLE_VILL5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.elvisodesanjuan",
+    "code": "ES_CAMA_TOLE_EVDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.losybenes",
+    "code": "ES_CAMA_TOLE_LOY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.yeles",
+    "code": "ES_CAMA_TOLE_YELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.yepes",
+    "code": "ES_CAMA_TOLE_YEPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.yuncler",
+    "code": "ES_CAMA_TOLE_YUNC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.yunclillos",
+    "code": "ES_CAMA_TOLE_YUNC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.yuncos",
+    "code": "ES_CAMA_TOLE_YUNC3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  },
+  {
+    "tenantId": "spain.castillalamancha.toledo.lapueblanueva",
+    "code": "ES_CAMA_TOLE_LAPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CAMA_TOLE"
+  }
+]

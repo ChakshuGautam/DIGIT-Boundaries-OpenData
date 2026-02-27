@@ -1,0 +1,16 @@
+[
+  {
+    "tenantId": "monaco",
+    "code": "MC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "monaco.monaco",
+    "code": "MC_MONA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MC"
+  }
+]

@@ -1,0 +1,597 @@
+[
+  {
+    "tenantId": "canada.novascotia",
+    "code": "CA_NS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "CA"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord",
+    "code": "CA_NS_NSC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Census Division",
+    "parent": "CA_NS"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley",
+    "code": "CA_NS_ANVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Census Division",
+    "parent": "CA_NS"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud",
+    "code": "CA_NS_SS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Census Division",
+    "parent": "CA_NS"
+  },
+  {
+    "tenantId": "canada.novascotia.halifax",
+    "code": "CA_NS_HALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Census Division",
+    "parent": "CA_NS"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.stewiacke",
+    "code": "CA_NS_NSC_STEW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.millbrook",
+    "code": "CA_NS_NSC_MI27",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.truro",
+    "code": "CA_NS_NSC_TRUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.colchestersubdb",
+    "code": "CA_NS_NSC_CSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.colchestersubda",
+    "code": "CA_NS_NSC_CSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.cumberlandsubda",
+    "code": "CA_NS_NSC_CSA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.cumberlandsubdb",
+    "code": "CA_NS_NSC_CSB2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.parrsboro",
+    "code": "CA_NS_NSC_PARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.cumberlandsubdc",
+    "code": "CA_NS_NSC_CSC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.amherst",
+    "code": "CA_NS_NSC_AMHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.oxford",
+    "code": "CA_NS_NSC_OXFO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.cumberlandsubdd",
+    "code": "CA_NS_NSC_CSD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.pictousubda",
+    "code": "CA_NS_NSC_PSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.pictou",
+    "code": "CA_NS_NSC_PICT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.pictousubdb",
+    "code": "CA_NS_NSC_PSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.pictousubdc",
+    "code": "CA_NS_NSC_PSC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.newglasgow",
+    "code": "CA_NS_NSC_NEGL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.trenton",
+    "code": "CA_NS_NSC_TREN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.fishersgrant",
+    "code": "CA_NS_NSC_FG2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.merigomishharbour",
+    "code": "CA_NS_NSC_MH3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.stmarys",
+    "code": "CA_NS_NSC_STMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.guysborough",
+    "code": "CA_NS_NSC_GUYS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.mulgrave",
+    "code": "CA_NS_NSC_MULG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.antigonishsubda",
+    "code": "CA_NS_NSC_ASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.antigonish",
+    "code": "CA_NS_NSC_ANTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.antigonishsubdb",
+    "code": "CA_NS_NSC_ASB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.pomquetandafton",
+    "code": "CA_NS_NSC_PAA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.westville",
+    "code": "CA_NS_NSC_WEST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.stellarton",
+    "code": "CA_NS_NSC_STEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.northshorectenord.colchestersubdc",
+    "code": "CA_NS_NSC_CSC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_NSC"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley.bearriverb",
+    "code": "CA_NS_ANVA_BR6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_ANVA"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley.annapolisroyal",
+    "code": "CA_NS_ANVA_ANRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_ANVA"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley.middleton",
+    "code": "CA_NS_ANVA_MIDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_ANVA"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley.annapolissubdd",
+    "code": "CA_NS_ANVA_ASD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_ANVA"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley.bearriverpart",
+    "code": "CA_NS_ANVA_BR62",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_ANVA"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley.annapolissubda",
+    "code": "CA_NS_ANVA_ASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_ANVA"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley.annapolissubdb",
+    "code": "CA_NS_ANVA_ASB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_ANVA"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley.annapolissubdc",
+    "code": "CA_NS_ANVA_ASC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_ANVA"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley.kingssubda",
+    "code": "CA_NS_ANVA_KSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_ANVA"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley.cambridge",
+    "code": "CA_NS_ANVA_CA32",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_ANVA"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley.berwick",
+    "code": "CA_NS_ANVA_BERW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_ANVA"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley.kingssubdc",
+    "code": "CA_NS_ANVA_KSC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_ANVA"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley.kentville",
+    "code": "CA_NS_ANVA_KENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_ANVA"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley.kingssubdb",
+    "code": "CA_NS_ANVA_KSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_ANVA"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley.kingssubdd",
+    "code": "CA_NS_ANVA_KSD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_ANVA"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley.wolfville",
+    "code": "CA_NS_ANVA_WOLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_ANVA"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley.glooscap",
+    "code": "CA_NS_ANVA_GL35",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_ANVA"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley.westhants",
+    "code": "CA_NS_ANVA_WEHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_ANVA"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley.easthants",
+    "code": "CA_NS_ANVA_EAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_ANVA"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley.windsor",
+    "code": "CA_NS_ANVA_WIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_ANVA"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley.indianbrook",
+    "code": "CA_NS_ANVA_IB1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_ANVA"
+  },
+  {
+    "tenantId": "canada.novascotia.annapolisvalley.lunenburg",
+    "code": "CA_NS_ANVA_LUNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_ANVA"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud.clarksharbour",
+    "code": "CA_NS_SS_CLHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_SS"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud.lunenburg",
+    "code": "CA_NS_SS_LUNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_SS"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud.shelburne",
+    "code": "CA_NS_SS_SHEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_SS"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud.argyle",
+    "code": "CA_NS_SS_ARGY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_SS"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud.yarmouth",
+    "code": "CA_NS_SS_YARM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_SS"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud.yarmouth",
+    "code": "CA_NS_SS_YARM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_SS"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud.yarmouth",
+    "code": "CA_NS_SS_YA33",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_SS"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud.clare",
+    "code": "CA_NS_SS_CLAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_SS"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud.digby",
+    "code": "CA_NS_SS_DIGB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_SS"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud.bearriverpart",
+    "code": "CA_NS_SS_BR6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_SS"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud.ponhooklake",
+    "code": "CA_NS_SS_PL1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_SS"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud.queens",
+    "code": "CA_NS_SS_QUEE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_SS"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud.wildcat",
+    "code": "CA_NS_SS_WI12",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_SS"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud.shelburne",
+    "code": "CA_NS_SS_SHEL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_SS"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud.bridgewater",
+    "code": "CA_NS_SS_BRID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_SS"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud.mahonebay",
+    "code": "CA_NS_SS_MABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_SS"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud.chester",
+    "code": "CA_NS_SS_CHES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_SS"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud.goldriver",
+    "code": "CA_NS_SS_GR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_SS"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud.pennal",
+    "code": "CA_NS_SS_PE19",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_SS"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud.newross",
+    "code": "CA_NS_SS_NR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_SS"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud.lockeport",
+    "code": "CA_NS_SS_LOCK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_SS"
+  },
+  {
+    "tenantId": "canada.novascotia.southernsud.barrington",
+    "code": "CA_NS_SS_BARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_SS"
+  },
+  {
+    "tenantId": "canada.novascotia.halifax.halifax",
+    "code": "CA_NS_HALI_HALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_HALI"
+  },
+  {
+    "tenantId": "canada.novascotia.halifax.beaverlake",
+    "code": "CA_NS_HALI_BL1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_HALI"
+  },
+  {
+    "tenantId": "canada.novascotia.halifax.coleharbour",
+    "code": "CA_NS_HALI_CH3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_HALI"
+  },
+  {
+    "tenantId": "canada.novascotia.halifax.shubenacadie",
+    "code": "CA_NS_HALI_SH13",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_HALI"
+  },
+  {
+    "tenantId": "canada.novascotia.halifax.sheetharbour",
+    "code": "CA_NS_HALI_SH3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_HALI"
+  },
+  {
+    "tenantId": "canada.novascotia.halifax.wallacehillsa",
+    "code": "CA_NS_HALI_WH1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NS_HALI"
+  }
+]

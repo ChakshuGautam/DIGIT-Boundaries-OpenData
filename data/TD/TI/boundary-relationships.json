@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "chad.tibesti",
+    "code": "TD_TI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TD"
+  },
+  {
+    "tenantId": "chad.tibesti.tibestiest",
+    "code": "TD_TI_TIES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_TI"
+  },
+  {
+    "tenantId": "chad.tibesti.tibestiouest",
+    "code": "TD_TI_TIOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_TI"
+  }
+]

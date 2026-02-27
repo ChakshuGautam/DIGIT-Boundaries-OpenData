@@ -1,0 +1,107 @@
+[
+  {
+    "tenantId": "germany.mecklenburgvorpommern",
+    "code": "DE_MV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "DE"
+  },
+  {
+    "tenantId": "germany.mecklenburgvorpommern.mecklenburgvorpommern",
+    "code": "DE_MV_MECK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DE_MV"
+  },
+  {
+    "tenantId": "germany.mecklenburgvorpommern.mecklenburgvorpommern.rostockkreisfreiestadt",
+    "code": "DE_MV_MECK_RKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_MV_MECK"
+  },
+  {
+    "tenantId": "germany.mecklenburgvorpommern.mecklenburgvorpommern.schwerinkreisfreiestadt",
+    "code": "DE_MV_MECK_SKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_MV_MECK"
+  },
+  {
+    "tenantId": "germany.mecklenburgvorpommern.mecklenburgvorpommern.mecklenburgischeseenplatte",
+    "code": "DE_MV_MECK_MESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_MV_MECK"
+  },
+  {
+    "tenantId": "germany.mecklenburgvorpommern.mecklenburgvorpommern.landkreisrostock",
+    "code": "DE_MV_MECK_LARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_MV_MECK"
+  },
+  {
+    "tenantId": "germany.mecklenburgvorpommern.mecklenburgvorpommern.nordwestmecklenburg",
+    "code": "DE_MV_MECK_NORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_MV_MECK"
+  },
+  {
+    "tenantId": "germany.mecklenburgvorpommern.mecklenburgvorpommern.vorpommerngreifswald",
+    "code": "DE_MV_MECK_VORP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_MV_MECK"
+  },
+  {
+    "tenantId": "germany.mecklenburgvorpommern.mecklenburgvorpommern.ludwigslustparchim",
+    "code": "DE_MV_MECK_LUDW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_MV_MECK"
+  },
+  {
+    "tenantId": "germany.mecklenburgvorpommern.mecklenburgvorpommern.rostockkreisfreiestadt",
+    "code": "DE_MV_MECK_RKS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_MV_MECK"
+  },
+  {
+    "tenantId": "germany.mecklenburgvorpommern.mecklenburgvorpommern.landkreisrostock",
+    "code": "DE_MV_MECK_LARO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_MV_MECK"
+  },
+  {
+    "tenantId": "germany.mecklenburgvorpommern.mecklenburgvorpommern.vorpommernrgen",
+    "code": "DE_MV_MECK_VORP2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_MV_MECK"
+  },
+  {
+    "tenantId": "germany.mecklenburgvorpommern.mecklenburgvorpommern.nordwestmecklenburg",
+    "code": "DE_MV_MECK_NORD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_MV_MECK"
+  },
+  {
+    "tenantId": "germany.mecklenburgvorpommern.mecklenburgvorpommern.vorpommerngreifswald",
+    "code": "DE_MV_MECK_VORP3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_MV_MECK"
+  },
+  {
+    "tenantId": "germany.mecklenburgvorpommern.mecklenburgvorpommern.vorpommernrgen",
+    "code": "DE_MV_MECK_VORP4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_MV_MECK"
+  }
+]

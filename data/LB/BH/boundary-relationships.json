@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "lebanon.baalbekhermel",
+    "code": "LB_BH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "LB"
+  },
+  {
+    "tenantId": "lebanon.baalbekhermel.hermel",
+    "code": "LB_BH_HERM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LB_BH"
+  },
+  {
+    "tenantId": "lebanon.baalbekhermel.baalbek",
+    "code": "LB_BH_BAAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LB_BH"
+  }
+]

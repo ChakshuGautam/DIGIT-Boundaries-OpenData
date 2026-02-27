@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "unitedstatesofamerica.commonwealthofthenorthernmarianaislands",
+    "code": "US_MP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "US"
+  },
+  {
+    "tenantId": "unitedstatesofamerica.commonwealthofthenorthernmarianaislands.rota",
+    "code": "US_MP_ROTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "US_MP"
+  },
+  {
+    "tenantId": "unitedstatesofamerica.commonwealthofthenorthernmarianaislands.saipan",
+    "code": "US_MP_SAIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "US_MP"
+  },
+  {
+    "tenantId": "unitedstatesofamerica.commonwealthofthenorthernmarianaislands.tinian",
+    "code": "US_MP_TINI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "US_MP"
+  },
+  {
+    "tenantId": "unitedstatesofamerica.commonwealthofthenorthernmarianaislands.northernislands",
+    "code": "US_MP_NOIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "US_MP"
+  }
+]

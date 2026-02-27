@@ -1,0 +1,541 @@
+[
+  {
+    "tenantId": "sweden.gvleborgsln",
+    "code": "SE_X",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SE"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.nordanstig",
+    "code": "SE_X_NORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_X"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.hudiksvall",
+    "code": "SE_X_HUDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_X"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.ovanker",
+    "code": "SE_X_OVAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_X"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.ljusdal",
+    "code": "SE_X_LJUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_X"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.bollns",
+    "code": "SE_X_BOLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_X"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.sderhamn",
+    "code": "SE_X_SDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_X"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.ockelbo",
+    "code": "SE_X_OCKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_X"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.gvle",
+    "code": "SE_X_GVL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_X"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.hofors",
+    "code": "SE_X_HOFO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_X"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.sandviken",
+    "code": "SE_X_SAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_X"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.nordanstig.hassela",
+    "code": "SE_X_NORD_HASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_NORD"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.nordanstig.bergsj",
+    "code": "SE_X_NORD_BERG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_NORD"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.nordanstig.gnarp",
+    "code": "SE_X_NORD_GNAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_NORD"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.nordanstig.jttendal",
+    "code": "SE_X_NORD_JT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_NORD"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.nordanstig.harmnger",
+    "code": "SE_X_NORD_HARM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_NORD"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.hudiksvall.bjurker",
+    "code": "SE_X_HUDI_BJUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_HUDI"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.hudiksvall.norrbo",
+    "code": "SE_X_HUDI_NORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_HUDI"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.hudiksvall.delsbo",
+    "code": "SE_X_HUDI_DELS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_HUDI"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.hudiksvall.ilsbo",
+    "code": "SE_X_HUDI_ILSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_HUDI"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.hudiksvall.rogsta",
+    "code": "SE_X_HUDI_ROGS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_HUDI"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.hudiksvall.hlsingtuna",
+    "code": "SE_X_HUDI_HL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_HUDI"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.hudiksvall.hg",
+    "code": "SE_X_HUDI_HG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_HUDI"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.hudiksvall.forsa",
+    "code": "SE_X_HUDI_FORS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_HUDI"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.hudiksvall.hudiksvall",
+    "code": "SE_X_HUDI_HUDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_HUDI"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.hudiksvall.idenor",
+    "code": "SE_X_HUDI_IDEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_HUDI"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.hudiksvall.njutnger",
+    "code": "SE_X_HUDI_NJUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_HUDI"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.hudiksvall.ennger",
+    "code": "SE_X_HUDI_EN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_HUDI"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.ovanker.ovanker",
+    "code": "SE_X_OVAN_OVAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_OVAN"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.ovanker.alfta",
+    "code": "SE_X_OVAN_ALFT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_OVAN"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.ovanker.voxna",
+    "code": "SE_X_OVAN_VOXN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_OVAN"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.ljusdal.ramsj",
+    "code": "SE_X_LJUS_RAMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_LJUS"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.ljusdal.ljusdal",
+    "code": "SE_X_LJUS_LJUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_LJUS"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.ljusdal.krble",
+    "code": "SE_X_LJUS_KR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_LJUS"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.ljusdal.ramsj",
+    "code": "SE_X_LJUS_RAMS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_LJUS"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.ljusdal.frila",
+    "code": "SE_X_LJUS_FR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_LJUS"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.ljusdal.hamra",
+    "code": "SE_X_LJUS_HAMR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_LJUS"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.ljusdal.los",
+    "code": "SE_X_LJUS_LOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_LJUS"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.ljusdal.ljusdal",
+    "code": "SE_X_LJUS_LJUS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_LJUS"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.ljusdal.jrvs",
+    "code": "SE_X_LJUS_JR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_LJUS"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.bollns.undersvik",
+    "code": "SE_X_BOLL_UNDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_BOLL"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.bollns.arbr",
+    "code": "SE_X_BOLL_ARBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_BOLL"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.bollns.rengsj",
+    "code": "SE_X_BOLL_RENG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_BOLL"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.bollns.bollns",
+    "code": "SE_X_BOLL_BOLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_BOLL"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.bollns.segersta",
+    "code": "SE_X_BOLL_SEGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_BOLL"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.bollns.hanebo",
+    "code": "SE_X_BOLL_HANE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_BOLL"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.sderhamn.trn",
+    "code": "SE_X_SDE_TR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_SDE"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.sderhamn.norrala",
+    "code": "SE_X_SDE_NORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_SDE"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.sderhamn.mo",
+    "code": "SE_X_SDE_MO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_SDE"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.sderhamn.sderhamn",
+    "code": "SE_X_SDE_SD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_SDE"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.sderhamn.sderhamn",
+    "code": "SE_X_SDE_SD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_SDE"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.sderhamn.sderhamn",
+    "code": "SE_X_SDE_SD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_SDE"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.sderhamn.sderala",
+    "code": "SE_X_SDE_SD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_SDE"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.sderhamn.sandarne",
+    "code": "SE_X_SDE_SAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_SDE"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.sderhamn.bergvik",
+    "code": "SE_X_SDE_BERG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_SDE"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.sderhamn.ljusne",
+    "code": "SE_X_SDE_LJUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_SDE"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.sderhamn.skog",
+    "code": "SE_X_SDE_SKOG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_SDE"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.sderhamn.hudiksvall",
+    "code": "SE_X_SDE_HUDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_SDE"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.ockelbo.ockelbo",
+    "code": "SE_X_OCKE_OCKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_OCKE"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.ockelbo.lingbo",
+    "code": "SE_X_OCKE_LING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_OCKE"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.ockelbo.mot",
+    "code": "SE_X_OCKE_MO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_OCKE"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.gvle.hamrnge",
+    "code": "SE_X_GVL_HAMR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_GVL"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.gvle.hille",
+    "code": "SE_X_GVL_HILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_GVL"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.gvle.gvleheligatrefaldighet",
+    "code": "SE_X_GVL_GHT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_GVL"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.gvle.valbo",
+    "code": "SE_X_GVL_VALB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_GVL"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.gvle.gvlemaria",
+    "code": "SE_X_GVL_GMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_GVL"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.gvle.gvlestaffan",
+    "code": "SE_X_GVL_GST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_GVL"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.gvle.bomhus",
+    "code": "SE_X_GVL_BOMH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_GVL"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.gvle.gvletomas",
+    "code": "SE_X_GVL_GTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_GVL"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.gvle.hedesunda",
+    "code": "SE_X_GVL_HEDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_GVL"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.hofors.hofors",
+    "code": "SE_X_HOFO_HOFO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_HOFO"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.hofors.torsker",
+    "code": "SE_X_HOFO_TORS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_HOFO"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.sandviken.jrbo",
+    "code": "SE_X_SAND_JR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_SAND"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.sandviken.ovansj",
+    "code": "SE_X_SAND_OVAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_SAND"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.sandviken.sandviken",
+    "code": "SE_X_SAND_SAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_SAND"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.sandviken.rsunda",
+    "code": "SE_X_SAND_RS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_SAND"
+  },
+  {
+    "tenantId": "sweden.gvleborgsln.sandviken.sterfrnebo",
+    "code": "SE_X_SAND_ST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_X_SAND"
+  }
+]

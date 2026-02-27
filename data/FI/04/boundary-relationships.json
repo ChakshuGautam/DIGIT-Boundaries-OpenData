@@ -1,0 +1,128 @@
+[
+  {
+    "tenantId": "finland.southernsavonia",
+    "code": "FI_04",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "FI"
+  },
+  {
+    "tenantId": "finland.southernsavonia.savonlinnanseutukunta",
+    "code": "FI_04_SASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_04"
+  },
+  {
+    "tenantId": "finland.southernsavonia.mikkelinseutukunta",
+    "code": "FI_04_MISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_04"
+  },
+  {
+    "tenantId": "finland.southernsavonia.pieksmenseutukunta",
+    "code": "FI_04_PISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_04"
+  },
+  {
+    "tenantId": "finland.southernsavonia.savonlinnanseutukunta.heinvesi",
+    "code": "FI_04_SASE_HEIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_04_SASE"
+  },
+  {
+    "tenantId": "finland.southernsavonia.savonlinnanseutukunta.rantasalmi",
+    "code": "FI_04_SASE_RANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_04_SASE"
+  },
+  {
+    "tenantId": "finland.southernsavonia.savonlinnanseutukunta.savonlinna",
+    "code": "FI_04_SASE_SAVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_04_SASE"
+  },
+  {
+    "tenantId": "finland.southernsavonia.savonlinnanseutukunta.enonkoski",
+    "code": "FI_04_SASE_ENON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_04_SASE"
+  },
+  {
+    "tenantId": "finland.southernsavonia.savonlinnanseutukunta.sulkava",
+    "code": "FI_04_SASE_SULK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_04_SASE"
+  },
+  {
+    "tenantId": "finland.southernsavonia.mikkelinseutukunta.hirvensalmi",
+    "code": "FI_04_MISE_HIRV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_04_MISE"
+  },
+  {
+    "tenantId": "finland.southernsavonia.mikkelinseutukunta.pertunmaa",
+    "code": "FI_04_MISE_PERT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_04_MISE"
+  },
+  {
+    "tenantId": "finland.southernsavonia.mikkelinseutukunta.kangasniemi",
+    "code": "FI_04_MISE_KANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_04_MISE"
+  },
+  {
+    "tenantId": "finland.southernsavonia.mikkelinseutukunta.mntyharju",
+    "code": "FI_04_MISE_MNT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_04_MISE"
+  },
+  {
+    "tenantId": "finland.southernsavonia.mikkelinseutukunta.mikkeli",
+    "code": "FI_04_MISE_MIKK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_04_MISE"
+  },
+  {
+    "tenantId": "finland.southernsavonia.mikkelinseutukunta.puumala",
+    "code": "FI_04_MISE_PUUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_04_MISE"
+  },
+  {
+    "tenantId": "finland.southernsavonia.pieksmenseutukunta.juva",
+    "code": "FI_04_PISE_JUVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_04_PISE"
+  },
+  {
+    "tenantId": "finland.southernsavonia.pieksmenseutukunta.pieksmki",
+    "code": "FI_04_PISE_PIEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_04_PISE"
+  },
+  {
+    "tenantId": "finland.southernsavonia.pieksmenseutukunta.joroinen",
+    "code": "FI_04_PISE_JORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_04_PISE"
+  }
+]

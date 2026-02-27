@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "dempeoplesrepublicofkorea.pyongyang",
+    "code": "KP_PYON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "KP"
+  },
+  {
+    "tenantId": "dempeoplesrepublicofkorea.pyongyang.kangdong",
+    "code": "KP_PYON_KANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KP_PYON"
+  },
+  {
+    "tenantId": "dempeoplesrepublicofkorea.pyongyang.pyongyang",
+    "code": "KP_PYON_PYON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KP_PYON"
+  },
+  {
+    "tenantId": "dempeoplesrepublicofkorea.pyongyang.unjongdist",
+    "code": "KP_PYON_UNDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KP_PYON"
+  }
+]

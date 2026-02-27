@@ -1,0 +1,93 @@
+[
+  {
+    "tenantId": "senegal.fatick",
+    "code": "SN_FK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SN"
+  },
+  {
+    "tenantId": "senegal.fatick.fatick",
+    "code": "SN_FK_FATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SN_FK"
+  },
+  {
+    "tenantId": "senegal.fatick.foundiougne",
+    "code": "SN_FK_FOUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SN_FK"
+  },
+  {
+    "tenantId": "senegal.fatick.gossas",
+    "code": "SN_FK_GOSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SN_FK"
+  },
+  {
+    "tenantId": "senegal.fatick.fatick.diakhao",
+    "code": "SN_FK_FATI_DIAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_FK_FATI"
+  },
+  {
+    "tenantId": "senegal.fatick.fatick.fimla",
+    "code": "SN_FK_FATI_FIML",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_FK_FATI"
+  },
+  {
+    "tenantId": "senegal.fatick.fatick.niakhar",
+    "code": "SN_FK_FATI_NIAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_FK_FATI"
+  },
+  {
+    "tenantId": "senegal.fatick.fatick.tattaguine",
+    "code": "SN_FK_FATI_TATT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_FK_FATI"
+  },
+  {
+    "tenantId": "senegal.fatick.foundiougne.djilor",
+    "code": "SN_FK_FOUN_DJIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_FK_FOUN"
+  },
+  {
+    "tenantId": "senegal.fatick.foundiougne.niodior",
+    "code": "SN_FK_FOUN_NIOD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_FK_FOUN"
+  },
+  {
+    "tenantId": "senegal.fatick.foundiougne.toubakouta",
+    "code": "SN_FK_FOUN_TOUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_FK_FOUN"
+  },
+  {
+    "tenantId": "senegal.fatick.gossas.colobane",
+    "code": "SN_FK_GOSS_COLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_FK_GOSS"
+  },
+  {
+    "tenantId": "senegal.fatick.gossas.ouadiour",
+    "code": "SN_FK_GOSS_OUAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_FK_GOSS"
+  }
+]

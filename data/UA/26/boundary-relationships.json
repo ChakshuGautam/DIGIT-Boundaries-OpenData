@@ -1,0 +1,3313 @@
+[
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast",
+    "code": "UA_26",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "UA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.verkhovyna",
+    "code": "UA_26_VERK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_26"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv",
+    "code": "UA_26_KOSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_26"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn",
+    "code": "UA_26_SNIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_26"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka",
+    "code": "UA_26_HORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_26"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach",
+    "code": "UA_26_TLUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_26"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia",
+    "code": "UA_26_KOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_26"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna",
+    "code": "UA_26_NADV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_26"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia",
+    "code": "UA_26_TYSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_26"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany",
+    "code": "UA_26_BOHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_26"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ",
+    "code": "UA_26_ROZH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_26"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna",
+    "code": "UA_26_DOLY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_26"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush",
+    "code": "UA_26_KALU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_26"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych",
+    "code": "UA_26_HALY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_26"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn",
+    "code": "UA_26_ROHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_26"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.verkhovyna.yablunytska",
+    "code": "UA_26_VERK_YABL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_VERK"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.verkhovyna.shepitska",
+    "code": "UA_26_VERK_SHEP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_VERK"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.verkhovyna.yablunytska",
+    "code": "UA_26_VERK_YABL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_VERK"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.verkhovyna.dovhopilska",
+    "code": "UA_26_VERK_DOVH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_VERK"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.verkhovyna.krasnoilska",
+    "code": "UA_26_VERK_KRAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_VERK"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.verkhovyna.iltsivska",
+    "code": "UA_26_VERK_ILTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_VERK"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.verkhovyna.stebnivska",
+    "code": "UA_26_VERK_STEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_VERK"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.verkhovyna.krasnykivska",
+    "code": "UA_26_VERK_KRAS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_VERK"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.verkhovyna.holovivska",
+    "code": "UA_26_VERK_HOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_VERK"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.verkhovyna.verkhnoiasenivska",
+    "code": "UA_26_VERK_VERK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_VERK"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.verkhovyna.biloberizka",
+    "code": "UA_26_VERK_BILO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_VERK"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.verkhovyna.zelenska",
+    "code": "UA_26_VERK_ZELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_VERK"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.verkhovyna.kryvorivnianska",
+    "code": "UA_26_VERK_KRYV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_VERK"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.verkhovyna.perekhresnenska",
+    "code": "UA_26_VERK_PERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_VERK"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.verkhovyna.probiinivska",
+    "code": "UA_26_VERK_PROB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_VERK"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.verkhovyna.zamahirska",
+    "code": "UA_26_VERK_ZAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_VERK"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.verkhovyna.verkhovynska",
+    "code": "UA_26_VERK_VERK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_VERK"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.verkhovyna.koniatynska",
+    "code": "UA_26_VERK_KONI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_VERK"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.verkhovyna.dovhopilska",
+    "code": "UA_26_VERK_DOVH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_VERK"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.verkhovyna.holoshynska",
+    "code": "UA_26_VERK_HOLO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_VERK"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.verkhovyna.hryniavska",
+    "code": "UA_26_VERK_HRYN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_VERK"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.roztokivska",
+    "code": "UA_26_KOSI_ROZT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.velykorozhynska",
+    "code": "UA_26_KOSI_VELY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.pidzakharychivska",
+    "code": "UA_26_KOSI_PIDZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.horodianska",
+    "code": "UA_26_KOSI_HORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.roztokivska",
+    "code": "UA_26_KOSI_ROZT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.bukovetska",
+    "code": "UA_26_KOSI_BUKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.malorozhynska",
+    "code": "UA_26_KOSI_MALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.richkivska",
+    "code": "UA_26_KOSI_RICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.sheshorivska",
+    "code": "UA_26_KOSI_SHES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.babynska",
+    "code": "UA_26_KOSI_BABY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.rozhnivska",
+    "code": "UA_26_KOSI_ROZH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.khymchynska",
+    "code": "UA_26_KOSI_KHYM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.cherhanivska",
+    "code": "UA_26_KOSI_CHER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.snidavska",
+    "code": "UA_26_KOSI_SNID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.kosivska",
+    "code": "UA_26_KOSI_KOSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.novoselytska",
+    "code": "UA_26_KOSI_NOVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.pistynska",
+    "code": "UA_26_KOSI_PIST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.kobakivska",
+    "code": "UA_26_KOSI_KOBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.slobidska",
+    "code": "UA_26_KOSI_SLOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.tiudivska",
+    "code": "UA_26_KOSI_TIUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.vyzhnytska",
+    "code": "UA_26_KOSI_VYZH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.sokolivska",
+    "code": "UA_26_KOSI_SOKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.smodnianska",
+    "code": "UA_26_KOSI_SMOD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.starokutska",
+    "code": "UA_26_KOSI_STAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.yavorivska",
+    "code": "UA_26_KOSI_YAVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.shepitska",
+    "code": "UA_26_KOSI_SHEP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.utoropska",
+    "code": "UA_26_KOSI_UTOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.yablunivska",
+    "code": "UA_26_KOSI_YABL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.kutska",
+    "code": "UA_26_KOSI_KUTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.verbovetska",
+    "code": "UA_26_KOSI_VERB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kosiv.rybnenska",
+    "code": "UA_26_KOSI_RYBN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOSI"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.maliatynetska",
+    "code": "UA_26_SNIA_MALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.khlivyshchenska",
+    "code": "UA_26_SNIA_KHLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.stavchanska",
+    "code": "UA_26_SNIA_STAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.orshovetska",
+    "code": "UA_26_SNIA_ORSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.ivankovetska",
+    "code": "UA_26_SNIA_IVAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.korytnenska",
+    "code": "UA_26_SNIA_KORY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.banylivska",
+    "code": "UA_26_SNIA_BANY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.slobodabanylivska",
+    "code": "UA_26_SNIA_SLOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.davydivska",
+    "code": "UA_26_SNIA_DAVY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.zamostianska",
+    "code": "UA_26_SNIA_ZAMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.vovchkivska",
+    "code": "UA_26_SNIA_VOVC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.budylivska",
+    "code": "UA_26_SNIA_BUDY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.beleluivska",
+    "code": "UA_26_SNIA_BELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.khutirbudylivska",
+    "code": "UA_26_SNIA_KHUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.oleshkivska",
+    "code": "UA_26_SNIA_OLES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.vydynivska",
+    "code": "UA_26_SNIA_VYDY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.horishnozaluchanska",
+    "code": "UA_26_SNIA_HORI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.dzhurivska",
+    "code": "UA_26_SNIA_DZHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.zavalska",
+    "code": "UA_26_SNIA_ZAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.kniazhenska",
+    "code": "UA_26_SNIA_KNIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.tuchapska",
+    "code": "UA_26_SNIA_TUCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.ustianska",
+    "code": "UA_26_SNIA_USTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.popelnykivska",
+    "code": "UA_26_SNIA_POPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.potichkivska",
+    "code": "UA_26_SNIA_POTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.prutivska",
+    "code": "UA_26_SNIA_PRUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.rudnykivska",
+    "code": "UA_26_SNIA_RUDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.sniatynska",
+    "code": "UA_26_SNIA_SNIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.sniatyn.nepolokovetska",
+    "code": "UA_26_SNIA_NEPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_SNIA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.yuzhynetska",
+    "code": "UA_26_HORO_YUZH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.kyselivska",
+    "code": "UA_26_HORO_KYSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.babynska",
+    "code": "UA_26_HORO_BABY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.shyshkovetska",
+    "code": "UA_26_HORO_SHYS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.borivetska",
+    "code": "UA_26_HORO_BORI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.prylypchenska",
+    "code": "UA_26_HORO_PRYL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.strilchenska",
+    "code": "UA_26_HORO_STRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.toporivska",
+    "code": "UA_26_HORO_TOPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.torhovytska",
+    "code": "UA_26_HORO_TORH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.tyshkivska",
+    "code": "UA_26_HORO_TYSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.cherniatynska",
+    "code": "UA_26_HORO_CHER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.yasenevopilnivska",
+    "code": "UA_26_HORO_YASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.serafynetska",
+    "code": "UA_26_HORO_SERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.slobidska",
+    "code": "UA_26_HORO_SLOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.sorokivska",
+    "code": "UA_26_HORO_SORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.balyntsivska",
+    "code": "UA_26_HORO_BALY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.pidvysotska",
+    "code": "UA_26_HORO_PIDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.hankivska",
+    "code": "UA_26_HORO_HANK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.zadubrivska",
+    "code": "UA_26_HORO_ZADU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.kulachkivska",
+    "code": "UA_26_HORO_KULA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.krasnostavska",
+    "code": "UA_26_HORO_KRAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.horodnytska",
+    "code": "UA_26_HORO_HORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.kotykivska",
+    "code": "UA_26_HORO_KOTY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.viknianska",
+    "code": "UA_26_HORO_VIKN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.verbivtsivska",
+    "code": "UA_26_HORO_VERB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.rusivska",
+    "code": "UA_26_HORO_RUSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.stetsivska",
+    "code": "UA_26_HORO_STET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.hlushkivska",
+    "code": "UA_26_HORO_HLUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.horodenka.horodenkivska",
+    "code": "UA_26_HORO_HORO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HORO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.horyhliadivska",
+    "code": "UA_26_TLUM_HORY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.vistrianska",
+    "code": "UA_26_TLUM_VIST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.budzynska",
+    "code": "UA_26_TLUM_BUDZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.havryliatska",
+    "code": "UA_26_TLUM_HAVR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.kutyshchenska",
+    "code": "UA_26_TLUM_KUTY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.khotymyrska",
+    "code": "UA_26_TLUM_KHOT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.yakivska",
+    "code": "UA_26_TLUM_YAKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.nyzhnivska",
+    "code": "UA_26_TLUM_NYZH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.pidverbtsivska",
+    "code": "UA_26_TLUM_PIDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.ozerianska",
+    "code": "UA_26_TLUM_OZER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.ostrivetska",
+    "code": "UA_26_TLUM_OSTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.hrushkivska",
+    "code": "UA_26_TLUM_HRUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.oleshanska",
+    "code": "UA_26_TLUM_OLES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.oleshivska",
+    "code": "UA_26_TLUM_OLES2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.rakovetska",
+    "code": "UA_26_TLUM_RAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.palahytska",
+    "code": "UA_26_TLUM_PALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.zhyvachivska",
+    "code": "UA_26_TLUM_ZHYV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.rosokhatska",
+    "code": "UA_26_TLUM_ROSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.isakivska",
+    "code": "UA_26_TLUM_ISAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.zhukotynska",
+    "code": "UA_26_TLUM_ZHUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.tlumatska",
+    "code": "UA_26_TLUM_TLUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.harasymivska",
+    "code": "UA_26_TLUM_HARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.dolynska",
+    "code": "UA_26_TLUM_DOLY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.obertynska",
+    "code": "UA_26_TLUM_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.ostapkivska",
+    "code": "UA_26_TLUM_OSTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.vynohradska",
+    "code": "UA_26_TLUM_VYNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.chortovetska",
+    "code": "UA_26_TLUM_CHOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.nezvyska",
+    "code": "UA_26_TLUM_NEZV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.lukivska",
+    "code": "UA_26_TLUM_LUKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tlumach.dzhurkivska",
+    "code": "UA_26_TLUM_DZHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TLUM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.liuchanska",
+    "code": "UA_26_KOLO_LIUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.zhukivska",
+    "code": "UA_26_KOLO_ZHUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.stopchativska",
+    "code": "UA_26_KOLO_STOP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.rakivchytska",
+    "code": "UA_26_KOLO_RAKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.sidlyshchenska",
+    "code": "UA_26_KOLO_SIDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.borshchivska",
+    "code": "UA_26_KOLO_BORS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.shevchenkivska",
+    "code": "UA_26_KOLO_SHEV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.illinetska",
+    "code": "UA_26_KOLO_ILLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.tulukivska",
+    "code": "UA_26_KOLO_TULU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.zahaipilska",
+    "code": "UA_26_KOLO_ZAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.kovalivska",
+    "code": "UA_26_KOLO_KOVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.korolivska",
+    "code": "UA_26_KOLO_KORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.kornytska",
+    "code": "UA_26_KOLO_KORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.korshivska",
+    "code": "UA_26_KOLO_KORS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.lisnoslobidska",
+    "code": "UA_26_KOLO_LISN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.spaska",
+    "code": "UA_26_KOLO_SPAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.tovmachytska",
+    "code": "UA_26_KOLO_TOVM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.holoskivska",
+    "code": "UA_26_KOLO_HOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.tseniavska",
+    "code": "UA_26_KOLO_TSEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.piadytska",
+    "code": "UA_26_KOLO_PIAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.mateievetska",
+    "code": "UA_26_KOLO_MATE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.mykytynetska",
+    "code": "UA_26_KOLO_MYKY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.starohvizdetska",
+    "code": "UA_26_KOLO_STAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.nyzhnoverbizka",
+    "code": "UA_26_KOLO_NYZH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.troitska",
+    "code": "UA_26_KOLO_TROI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.trostianetska",
+    "code": "UA_26_KOLO_TROS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.tratska",
+    "code": "UA_26_KOLO_TRAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.strupkivska",
+    "code": "UA_26_KOLO_STRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.voskresyntsivska",
+    "code": "UA_26_KOLO_VOSK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.zabolotivska",
+    "code": "UA_26_KOLO_ZABO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.lisnokhlibychynska",
+    "code": "UA_26_KOLO_LISN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.kolomyiska",
+    "code": "UA_26_KOLO_KOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.uhornytska",
+    "code": "UA_26_KOLO_UHOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.cheremkhivska",
+    "code": "UA_26_KOLO_CHER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.pidhaichykivska",
+    "code": "UA_26_KOLO_PIDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.sheparivtsivska",
+    "code": "UA_26_KOLO_SHEP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kolomyia.hvizdetska",
+    "code": "UA_26_KOLO_HVIZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KOLO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.kosmatska",
+    "code": "UA_26_NADV_KOSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.nyzhnoberezivska",
+    "code": "UA_26_NADV_NYZH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.kryvopilska",
+    "code": "UA_26_NADV_KRYV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.ivanivetska",
+    "code": "UA_26_NADV_IVAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.mykulychynska",
+    "code": "UA_26_NADV_MYKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.akreshorska",
+    "code": "UA_26_NADV_AKRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.bystretska",
+    "code": "UA_26_NADV_BYST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.serednomaidanska",
+    "code": "UA_26_NADV_SERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.tsutsylivska",
+    "code": "UA_26_NADV_TSUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.volosivska",
+    "code": "UA_26_NADV_VOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.havrylivska",
+    "code": "UA_26_NADV_HAVR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.krasnianska",
+    "code": "UA_26_NADV_KRAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.lisnotarnovytska",
+    "code": "UA_26_NADV_LISN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.sadzhavska",
+    "code": "UA_26_NADV_SADZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.strymbivska",
+    "code": "UA_26_NADV_STRY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.loivska",
+    "code": "UA_26_NADV_LOIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.paryshchenska",
+    "code": "UA_26_NADV_PARY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.pechenizhynska",
+    "code": "UA_26_NADV_PECH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.liuchkivska",
+    "code": "UA_26_NADV_LIUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.baneberezivska",
+    "code": "UA_26_NADV_BANE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.serednoberezivska",
+    "code": "UA_26_NADV_SERE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.tekuchenska",
+    "code": "UA_26_NADV_TEKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.vyzhnoberezivska",
+    "code": "UA_26_NADV_VYZH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.chornooslavska",
+    "code": "UA_26_NADV_CHOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.chornopotokivska",
+    "code": "UA_26_NADV_CHOR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.tatarivska",
+    "code": "UA_26_NADV_TATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.yablunytska",
+    "code": "UA_26_NADV_YABL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.zelenska",
+    "code": "UA_26_NADV_ZELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.bilooslavska",
+    "code": "UA_26_NADV_BILO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.verkhnomaidanska",
+    "code": "UA_26_NADV_VERK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.yaremchanska",
+    "code": "UA_26_NADV_YARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.dobrotivska",
+    "code": "UA_26_NADV_DOBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.zarichanska",
+    "code": "UA_26_NADV_ZARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.pererislianska",
+    "code": "UA_26_NADV_PERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.lanchynska",
+    "code": "UA_26_NADV_LANC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.nadvirna.deliatynska",
+    "code": "UA_26_NADV_DELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_NADV"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.starolysetska",
+    "code": "UA_26_TYSM_STAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.berezivska",
+    "code": "UA_26_TYSM_BERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.drahomyrchanska",
+    "code": "UA_26_TYSM_DRAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.zahvizdianska",
+    "code": "UA_26_TYSM_ZAHV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.dobrovlianska",
+    "code": "UA_26_TYSM_DOBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.klubovetska",
+    "code": "UA_26_TYSM_KLUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.kluzivska",
+    "code": "UA_26_TYSM_KLUZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.kolodiivska",
+    "code": "UA_26_TYSM_KOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.lypivska",
+    "code": "UA_26_TYSM_LYPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.markovetska",
+    "code": "UA_26_TYSM_MARK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.hostivska",
+    "code": "UA_26_TYSM_HOST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.mykytynetska",
+    "code": "UA_26_TYSM_MYKY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.myluvanska",
+    "code": "UA_26_TYSM_MYLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.novokryvotulska",
+    "code": "UA_26_TYSM_NOVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.vilshanytska",
+    "code": "UA_26_TYSM_VILS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.pavlivska",
+    "code": "UA_26_TYSM_PAVL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.poberezka",
+    "code": "UA_26_TYSM_POBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.pidluzka",
+    "code": "UA_26_TYSM_PIDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.pidpecherivska",
+    "code": "UA_26_TYSM_PIDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.stryhanetska",
+    "code": "UA_26_TYSM_STRY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.krykhovetska",
+    "code": "UA_26_TYSM_KRYK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.radchanska",
+    "code": "UA_26_TYSM_RADC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.roshnivska",
+    "code": "UA_26_TYSM_ROSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.rybnenska",
+    "code": "UA_26_TYSM_RYBN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.torhovytska",
+    "code": "UA_26_TYSM_TORH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.uhrynivska",
+    "code": "UA_26_TYSM_UHRY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.uzynska",
+    "code": "UA_26_TYSM_UZYN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.tysmenychanska",
+    "code": "UA_26_TYSM_TYSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.slobidska",
+    "code": "UA_26_TYSM_SLOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.starokryvotulska",
+    "code": "UA_26_TYSM_STAR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.cherniivska",
+    "code": "UA_26_TYSM_CHER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.vovchynetska",
+    "code": "UA_26_TYSM_VOVC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.chornolizka",
+    "code": "UA_26_TYSM_CHOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.chukalivska",
+    "code": "UA_26_TYSM_CHUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.vynohradska",
+    "code": "UA_26_TYSM_VYNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.yamnytska",
+    "code": "UA_26_TYSM_YAMN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.pidliska",
+    "code": "UA_26_TYSM_PIDL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.voronivska",
+    "code": "UA_26_TYSM_VORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.khryplynska",
+    "code": "UA_26_TYSM_KHRY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.pshenychnykivska",
+    "code": "UA_26_TYSM_PSHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.yezupilska",
+    "code": "UA_26_TYSM_YEZU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.khomiakivska",
+    "code": "UA_26_TYSM_KHOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.ivanofrankivska",
+    "code": "UA_26_TYSM_IVAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.hannusivska",
+    "code": "UA_26_TYSM_HANN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.bratkovetska",
+    "code": "UA_26_TYSM_BRAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.positska",
+    "code": "UA_26_TYSM_POSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.otyniiska",
+    "code": "UA_26_TYSM_OTYN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.lysetska",
+    "code": "UA_26_TYSM_LYSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.tysmenytska",
+    "code": "UA_26_TYSM_TYSM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.uhornytska",
+    "code": "UA_26_TYSM_UHOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.tysmenytsia.kaminnetska",
+    "code": "UA_26_TYSM_KAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_TYSM"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.kryvetska",
+    "code": "UA_26_BOHO_KRYV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.sadzhavska",
+    "code": "UA_26_BOHO_SADZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.horokholynska",
+    "code": "UA_26_BOHO_HORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.monastyrchanska",
+    "code": "UA_26_BOHO_MONA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.hlybivska",
+    "code": "UA_26_BOHO_HLYB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.markivska",
+    "code": "UA_26_BOHO_MARK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.pnivska",
+    "code": "UA_26_BOHO_PNIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.molodkivska",
+    "code": "UA_26_BOHO_MOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.nazavyzivska",
+    "code": "UA_26_BOHO_NAZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.pasichnianska",
+    "code": "UA_26_BOHO_PASI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.stebnykivska",
+    "code": "UA_26_BOHO_STEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.pokhivska",
+    "code": "UA_26_BOHO_POKH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.rakovetska",
+    "code": "UA_26_BOHO_RAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.krychkivska",
+    "code": "UA_26_BOHO_KRYC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.ivanykivska",
+    "code": "UA_26_BOHO_IVAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.starobohorodchanska",
+    "code": "UA_26_BOHO_STAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.fytkivska",
+    "code": "UA_26_BOHO_FYTK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.pidhirska",
+    "code": "UA_26_BOHO_PIDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.kosmatska",
+    "code": "UA_26_BOHO_KOSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.zhurakivska",
+    "code": "UA_26_BOHO_ZHUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.maniavska",
+    "code": "UA_26_BOHO_MANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.starunska",
+    "code": "UA_26_BOHO_STAR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.babchenska",
+    "code": "UA_26_BOHO_BABC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.zaberezka",
+    "code": "UA_26_BOHO_ZABE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.yablunska",
+    "code": "UA_26_BOHO_YABL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.hrabovetska",
+    "code": "UA_26_BOHO_HRAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.dzvyniatska",
+    "code": "UA_26_BOHO_DZVY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.hutianska",
+    "code": "UA_26_BOHO_HUTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.hvizdska",
+    "code": "UA_26_BOHO_HVIZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.bytkivska",
+    "code": "UA_26_BOHO_BYTK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.nadvirnianska",
+    "code": "UA_26_BOHO_NADV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.solotvynska",
+    "code": "UA_26_BOHO_SOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.bohorodchany.bohorodchanska",
+    "code": "UA_26_BOHO_BOHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_BOHO"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.lypovytska",
+    "code": "UA_26_ROZH_LYPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.dubivska",
+    "code": "UA_26_ROZH_DUBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.verbivska",
+    "code": "UA_26_ROZH_VERB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.rosilnianska",
+    "code": "UA_26_ROZH_ROSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.luhivska",
+    "code": "UA_26_ROZH_LUHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.petrankivska",
+    "code": "UA_26_ROZH_PETR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.kniazivska",
+    "code": "UA_26_ROZH_KNIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.bohrivska",
+    "code": "UA_26_ROZH_BOHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.lukvytska",
+    "code": "UA_26_ROZH_LUKV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.porohivska",
+    "code": "UA_26_ROZH_PORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.yasenska",
+    "code": "UA_26_ROZH_YASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.rivnianska",
+    "code": "UA_26_ROZH_RIVN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.kaminska",
+    "code": "UA_26_ROZH_KAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.berlohivska",
+    "code": "UA_26_ROZH_BERL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.khmelivska",
+    "code": "UA_26_ROZH_KHME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.sukhodilska",
+    "code": "UA_26_ROZH_SUKH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.vilkhivska",
+    "code": "UA_26_ROZH_VILK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.krasnenska",
+    "code": "UA_26_ROZH_KRAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.ripnenska",
+    "code": "UA_26_ROZH_RIPN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.slyvkivska",
+    "code": "UA_26_ROZH_SLYV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.nebylivska",
+    "code": "UA_26_ROZH_NEBY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.hlybokivska",
+    "code": "UA_26_ROZH_HLYB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.mizhhirska",
+    "code": "UA_26_ROZH_MIZH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.tsinivska",
+    "code": "UA_26_ROZH_TSIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.osmolodska",
+    "code": "UA_26_ROZH_OSMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rozhniativ.perehinska",
+    "code": "UA_26_ROZH_PERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROZH"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.nadiivska",
+    "code": "UA_26_DOLY_NADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.herynska",
+    "code": "UA_26_DOLY_HERY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.yasenovetska",
+    "code": "UA_26_DOLY_YASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.shevchenkivska",
+    "code": "UA_26_DOLY_SHEV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.kropyvnytska",
+    "code": "UA_26_DOLY_KROP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.svarychivska",
+    "code": "UA_26_DOLY_SVAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.holynska",
+    "code": "UA_26_DOLY_HOLY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.yavorivska",
+    "code": "UA_26_DOLY_YAVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.solukivska",
+    "code": "UA_26_DOLY_SOLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.vyshkivska",
+    "code": "UA_26_DOLY_VYSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.trostianetska",
+    "code": "UA_26_DOLY_TROS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.kadobnianska",
+    "code": "UA_26_DOLY_KADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.obolonska",
+    "code": "UA_26_DOLY_OBOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.hrabivska",
+    "code": "UA_26_DOLY_HRAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.tiapchanska",
+    "code": "UA_26_DOLY_TIAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.kropyvnytska",
+    "code": "UA_26_DOLY_KROP2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.novoshynska",
+    "code": "UA_26_DOLY_NOVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.verkhnostrutynska",
+    "code": "UA_26_DOLY_VERK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.rakivska",
+    "code": "UA_26_DOLY_RAKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.hoshivska",
+    "code": "UA_26_DOLY_HOSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.ilemnianska",
+    "code": "UA_26_DOLY_ILEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.kniazholutska",
+    "code": "UA_26_DOLY_KNIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.staromizunska",
+    "code": "UA_26_DOLY_STAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.krekhovytska",
+    "code": "UA_26_DOLY_KREK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.novoselytska",
+    "code": "UA_26_DOLY_NOVO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.pidliskivska",
+    "code": "UA_26_DOLY_PIDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.maloturianska",
+    "code": "UA_26_DOLY_MALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.broshnivosadska",
+    "code": "UA_26_DOLY_BROS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.lolynska",
+    "code": "UA_26_DOLY_LOLY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.rakhynianska",
+    "code": "UA_26_DOLY_RAKH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.spaska",
+    "code": "UA_26_DOLY_SPAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.nyzhnostrutynska",
+    "code": "UA_26_DOLY_NYZH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.novychkivska",
+    "code": "UA_26_DOLY_NOVY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.lopianska",
+    "code": "UA_26_DOLY_LOPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.dolynska",
+    "code": "UA_26_DOLY_DOLY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.vyhodska",
+    "code": "UA_26_DOLY_VYHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.broshnivska",
+    "code": "UA_26_DOLY_BROS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.dolyna.rozhniativska",
+    "code": "UA_26_DOLY_ROZH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_DOLY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.mostyshchenska",
+    "code": "UA_26_KALU_MOST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.novytska",
+    "code": "UA_26_KALU_NOVY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.perevozetska",
+    "code": "UA_26_KALU_PERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.piilivska",
+    "code": "UA_26_KALU_PIIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.pidmykhailivska",
+    "code": "UA_26_KALU_PIDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.maidanska",
+    "code": "UA_26_KALU_MAID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.bodnarivska",
+    "code": "UA_26_KALU_BODN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.ripianska",
+    "code": "UA_26_KALU_RIPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.vistivska",
+    "code": "UA_26_KALU_VIST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.brynska",
+    "code": "UA_26_KALU_BRYN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.dobrovlianska",
+    "code": "UA_26_KALU_DOBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.zaviiska",
+    "code": "UA_26_KALU_ZAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.serednouhrynivska",
+    "code": "UA_26_KALU_SERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.vysochankivska",
+    "code": "UA_26_KALU_VYSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.sivkokaluska",
+    "code": "UA_26_KALU_SIVK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.dorohivska",
+    "code": "UA_26_KALU_DORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.studinska",
+    "code": "UA_26_KALU_STUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.tomashivska",
+    "code": "UA_26_KALU_TOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.tuzhylivska",
+    "code": "UA_26_KALU_TUZH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.kopankivska",
+    "code": "UA_26_KALU_KOPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.kaluska",
+    "code": "UA_26_KALU_KALU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.voinylivska",
+    "code": "UA_26_KALU_VOIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.kalush.sapohivska",
+    "code": "UA_26_KALU_SAPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_KALU"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.trostianetska",
+    "code": "UA_26_HALY_TROS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.bokivska",
+    "code": "UA_26_HALY_BOKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.ustiazelenska",
+    "code": "UA_26_HALY_USTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.horozhanska",
+    "code": "UA_26_HALY_HORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.shumlianska",
+    "code": "UA_26_HALY_SHUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.pidlisnianska",
+    "code": "UA_26_HALY_PIDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.zadarivska",
+    "code": "UA_26_HALY_ZADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.dovhivska",
+    "code": "UA_26_HALY_DOVH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.perlivetska",
+    "code": "UA_26_HALY_PERL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.kozynska",
+    "code": "UA_26_HALY_KOZY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.tumyrska",
+    "code": "UA_26_HALY_TUMY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.tustanska",
+    "code": "UA_26_HALY_TUST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.bliudnykivska",
+    "code": "UA_26_HALY_BLIU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.bovshivska",
+    "code": "UA_26_HALY_BOVS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.deliivska",
+    "code": "UA_26_HALY_DELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.demeshkivska",
+    "code": "UA_26_HALY_DEME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.dytiatynska",
+    "code": "UA_26_HALY_DYTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.dubovetska",
+    "code": "UA_26_HALY_DUBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.zadnistrianska",
+    "code": "UA_26_HALY_ZADN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.komarivska",
+    "code": "UA_26_HALY_KOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.krylosivska",
+    "code": "UA_26_HALY_KRYL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.lanivska",
+    "code": "UA_26_HALY_LANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.medukhivska",
+    "code": "UA_26_HALY_MEDU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.medynska",
+    "code": "UA_26_HALY_MEDY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.novoskomorokhivska",
+    "code": "UA_26_HALY_NOVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.ozerianska",
+    "code": "UA_26_HALY_OZER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.tiazivska",
+    "code": "UA_26_HALY_TIAZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.bilshivtsivska",
+    "code": "UA_26_HALY_BILS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.siletska",
+    "code": "UA_26_HALY_SILE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.svitankivska",
+    "code": "UA_26_HALY_SVIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.halytska",
+    "code": "UA_26_HALY_HALY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.mariiampilska",
+    "code": "UA_26_HALY_MARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.zalukvianska",
+    "code": "UA_26_HALY_ZALU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.viktorivska",
+    "code": "UA_26_HALY_VIKT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.halych.mezhyhoretska",
+    "code": "UA_26_HALY_MEZH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_HALY"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.sloviatynska",
+    "code": "UA_26_ROHA_SLOV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.pidvysotska",
+    "code": "UA_26_ROHA_PIDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.staromartynivska",
+    "code": "UA_26_ROHA_STAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.kozarivska",
+    "code": "UA_26_ROHA_KOZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.kolokolynska",
+    "code": "UA_26_ROHA_KOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.tenetnykivska",
+    "code": "UA_26_ROHA_TENE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.sivkovoinylivska",
+    "code": "UA_26_ROHA_SIVK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.koniushkivska",
+    "code": "UA_26_ROHA_KONI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.luchynetska",
+    "code": "UA_26_ROHA_LUCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.nyzhnolypytska",
+    "code": "UA_26_ROHA_NYZH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.danylchenska",
+    "code": "UA_26_ROHA_DANY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.demianivska",
+    "code": "UA_26_ROHA_DEMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.dychkivska",
+    "code": "UA_26_ROHA_DYCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.dobrynivska",
+    "code": "UA_26_ROHA_DOBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.korostovychivska",
+    "code": "UA_26_ROHA_KORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.zhovchivska",
+    "code": "UA_26_ROHA_ZHOV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.zalanivska",
+    "code": "UA_26_ROHA_ZALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.nastashynska",
+    "code": "UA_26_ROHA_NAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.lukivska",
+    "code": "UA_26_ROHA_LUKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.chahrivska",
+    "code": "UA_26_ROHA_CHAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.chernivska",
+    "code": "UA_26_ROHA_CHER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.pidvynianska",
+    "code": "UA_26_ROHA_PIDV2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.pidhorodianska",
+    "code": "UA_26_ROHA_PIDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.cherchenska",
+    "code": "UA_26_ROHA_CHER2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.chesnykivska",
+    "code": "UA_26_ROHA_CHES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.yunashkivska",
+    "code": "UA_26_ROHA_YUNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.potitska",
+    "code": "UA_26_ROHA_POTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.pidkaminska",
+    "code": "UA_26_ROHA_PIDK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.dehivska",
+    "code": "UA_26_ROHA_DEHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.pukivska",
+    "code": "UA_26_ROHA_PUKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.putiatynska",
+    "code": "UA_26_ROHA_PUTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.babukhivska",
+    "code": "UA_26_ROHA_BABU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.sarnykivska",
+    "code": "UA_26_ROHA_SARN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.uizdivska",
+    "code": "UA_26_ROHA_UIZD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.verbylivska",
+    "code": "UA_26_ROHA_VERB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.verkhnolypytska",
+    "code": "UA_26_ROHA_VERK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.bukachivska",
+    "code": "UA_26_ROHA_BUKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.rohatynska",
+    "code": "UA_26_ROHA_ROHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.burshtynska",
+    "code": "UA_26_ROHA_BURS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  },
+  {
+    "tenantId": "ukraine.ivanofrankivskoblast.rohatyn.stratynska",
+    "code": "UA_26_ROHA_STRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_26_ROHA"
+  }
+]

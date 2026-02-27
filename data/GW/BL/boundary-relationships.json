@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "guineabissau.bolama",
+    "code": "GW_BL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GW"
+  },
+  {
+    "tenantId": "guineabissau.bolama.setordebolama",
+    "code": "GW_BL_SDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GW_BL"
+  },
+  {
+    "tenantId": "guineabissau.bolama.setordeuno",
+    "code": "GW_BL_SDU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GW_BL"
+  },
+  {
+    "tenantId": "guineabissau.bolama.setordebubaque",
+    "code": "GW_BL_SDB2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GW_BL"
+  },
+  {
+    "tenantId": "guineabissau.bolama.setordecaravela",
+    "code": "GW_BL_SDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GW_BL"
+  }
+]

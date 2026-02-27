@@ -1,0 +1,975 @@
+[
+  {
+    "tenantId": "republicofkorea.daegu",
+    "code": "KR_27",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "KR"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.donggu",
+    "code": "KR_27_DONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KR_27"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.suseonggu",
+    "code": "KR_27_SUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KR_27"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt",
+    "code": "KR_27_BD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KR_27"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.seoguwestdistrict",
+    "code": "KR_27_SD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KR_27"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.junggucentraldistrict",
+    "code": "KR_27_JD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KR_27"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.namgusouthdistrict",
+    "code": "KR_27_ND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KR_27"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu",
+    "code": "KR_27_DALS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KR_27"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.donggu.sinamsamdong",
+    "code": "KR_27_DONG_SI3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DONG"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.donggu.sinamsadong",
+    "code": "KR_27_DONG_SI4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DONG"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.donggu.sinamodong",
+    "code": "KR_27_DONG_SI5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DONG"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.donggu.sincheondong",
+    "code": "KR_27_DONG_SINC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DONG"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.donggu.sincheonsamdong",
+    "code": "KR_27_DONG_SI32",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DONG"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.donggu.sincheonsadong",
+    "code": "KR_27_DONG_SI42",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DONG"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.donggu.hyomokildong",
+    "code": "KR_27_DONG_HY1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DONG"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.donggu.hyomokidong",
+    "code": "KR_27_DONG_HY2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DONG"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.donggu.dopyeongdong",
+    "code": "KR_27_DONG_DOPY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DONG"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.donggu.bullobongmudong",
+    "code": "KR_27_DONG_BULL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DONG"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.donggu.jijeodong",
+    "code": "KR_27_DONG_JIJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DONG"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.donggu.dongchondong",
+    "code": "KR_27_DONG_DONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DONG"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.donggu.bangchondong",
+    "code": "KR_27_DONG_BANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DONG"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.donggu.haeandong",
+    "code": "KR_27_DONG_HAEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DONG"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.donggu.gongsandong",
+    "code": "KR_27_DONG_GONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DONG"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.donggu.ansimdong",
+    "code": "KR_27_DONG_ANSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DONG"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.donggu.ansimdong",
+    "code": "KR_27_DONG_ANSI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DONG"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.donggu.ansimdong",
+    "code": "KR_27_DONG_ANSI3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DONG"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.donggu.beomeoidong",
+    "code": "KR_27_DONG_BE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DONG"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.donggu.beomeosamdong",
+    "code": "KR_27_DONG_BE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DONG"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.suseonggu.beomeoildong",
+    "code": "KR_27_SUSE_BE1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SUSE"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.suseonggu.beomeosadong",
+    "code": "KR_27_SUSE_BE4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SUSE"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.suseonggu.manchonildong",
+    "code": "KR_27_SUSE_MA1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SUSE"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.suseonggu.manchonidong",
+    "code": "KR_27_SUSE_MA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SUSE"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.suseonggu.manchonsamdong",
+    "code": "KR_27_SUSE_MA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SUSE"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.suseonggu.hwanggeumildong",
+    "code": "KR_27_SUSE_HW1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SUSE"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.suseonggu.hwanggeumidong",
+    "code": "KR_27_SUSE_HW2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SUSE"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.suseonggu.sangdong",
+    "code": "KR_27_SUSE_SANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SUSE"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.suseonggu.padong",
+    "code": "KR_27_SUSE_PAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SUSE"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.suseonggu.dusandong",
+    "code": "KR_27_SUSE_DUSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SUSE"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.suseonggu.jisanildong",
+    "code": "KR_27_SUSE_JI1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SUSE"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.suseonggu.jisanidong",
+    "code": "KR_27_SUSE_JI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SUSE"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.suseonggu.beommulildong",
+    "code": "KR_27_SUSE_BE12",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SUSE"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.suseonggu.beommulidong",
+    "code": "KR_27_SUSE_BE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SUSE"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.suseonggu.gosandong",
+    "code": "KR_27_SUSE_GOSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SUSE"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.suseonggu.gosandong",
+    "code": "KR_27_SUSE_GOSA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SUSE"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.suseonggu.gosandong",
+    "code": "KR_27_SUSE_GOSA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SUSE"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.suseonggu.seobudong",
+    "code": "KR_27_SUSE_SEOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SUSE"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.seongnaeidong",
+    "code": "KR_27_BD_SE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.seongnaesamdong",
+    "code": "KR_27_BD_SE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.dongindong",
+    "code": "KR_27_BD_DONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.sinamildong",
+    "code": "KR_27_BD_SI1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.sinamidong",
+    "code": "KR_27_BD_SI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.bisanildong",
+    "code": "KR_27_BD_BI1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.bisandong",
+    "code": "KR_27_BD_BISA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.bisanodong",
+    "code": "KR_27_BD_BI5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.bisanchildong",
+    "code": "KR_27_BD_BI7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.pyeongniildong",
+    "code": "KR_27_BD_PY1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.wondaedong",
+    "code": "KR_27_BD_WOND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.goseongdong",
+    "code": "KR_27_BD_GOSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.chilseongdong",
+    "code": "KR_27_BD_CHIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.chimsanildong",
+    "code": "KR_27_BD_CH1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.chimsanidong",
+    "code": "KR_27_BD_CH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.chimsansamdong",
+    "code": "KR_27_BD_CH3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.sangyeokildong",
+    "code": "KR_27_BD_SA1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.sangyeokidong",
+    "code": "KR_27_BD_SA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.sangyeoksamdong",
+    "code": "KR_27_BD_SA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.sangyeoksadong",
+    "code": "KR_27_BD_SA4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.bokhyeonildong",
+    "code": "KR_27_BD_BO1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.bokhyeonidong",
+    "code": "KR_27_BD_BO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.geomdandong",
+    "code": "KR_27_BD_GEOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.mutaejoyadong",
+    "code": "KR_27_BD_MUTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.taejeondong",
+    "code": "KR_27_BD_TAEJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.gwanmundong",
+    "code": "KR_27_BD_GWAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.eumnaedong",
+    "code": "KR_27_BD_EUMN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.gwaneumdong",
+    "code": "KR_27_BD_GWAN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.taejeondong",
+    "code": "KR_27_BD_TAEJ2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.guamdong",
+    "code": "KR_27_BD_GUAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.nowondong",
+    "code": "KR_27_BD_NOWO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.dongcheondong",
+    "code": "KR_27_BD_DONG2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.gugudong",
+    "code": "KR_27_BD_GUGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.bukgunorthdistrikt.daehyeondong",
+    "code": "KR_27_BD_DAEH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_BD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.seoguwestdistrict.naedangildong",
+    "code": "KR_27_SD_NA1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.seoguwestdistrict.naedangsadong",
+    "code": "KR_27_SD_NA4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.seoguwestdistrict.bisansadong",
+    "code": "KR_27_SD_BI4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.seoguwestdistrict.bisanyukdong",
+    "code": "KR_27_SD_BI6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.seoguwestdistrict.pyeongniidong",
+    "code": "KR_27_SD_PY2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.seoguwestdistrict.pyeongnisamdong",
+    "code": "KR_27_SD_PY3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.seoguwestdistrict.pyeongnisadong",
+    "code": "KR_27_SD_PY4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.seoguwestdistrict.pyeongniodong",
+    "code": "KR_27_SD_PY5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.seoguwestdistrict.pyeongniyukdong",
+    "code": "KR_27_SD_PY6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.seoguwestdistrict.sangjungidong",
+    "code": "KR_27_SD_SANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.seoguwestdistrict.jukjeondong",
+    "code": "KR_27_SD_JUKJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_SD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.junggucentraldistrict.samdeokdong",
+    "code": "KR_27_JD_SAMD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_JD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.junggucentraldistrict.seongnaeildong",
+    "code": "KR_27_JD_SE1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_JD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.junggucentraldistrict.daesindong",
+    "code": "KR_27_JD_DAES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_JD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.junggucentraldistrict.namsanildong",
+    "code": "KR_27_JD_NA1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_JD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.junggucentraldistrict.namsanidong",
+    "code": "KR_27_JD_NA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_JD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.junggucentraldistrict.namsansamdong",
+    "code": "KR_27_JD_NA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_JD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.junggucentraldistrict.namsansadong",
+    "code": "KR_27_JD_NA4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_JD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.junggucentraldistrict.daebongildong",
+    "code": "KR_27_JD_DA1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_JD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.junggucentraldistrict.daebongidong",
+    "code": "KR_27_JD_DA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_JD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.junggucentraldistrict.naedangdong",
+    "code": "KR_27_JD_NAED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_JD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.junggucentraldistrict.icheondong",
+    "code": "KR_27_JD_ICHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_JD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.junggucentraldistrict.daemyeongidong",
+    "code": "KR_27_JD_DA22",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_JD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.junggucentraldistrict.daemyeongsamdong",
+    "code": "KR_27_JD_DA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_JD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.junggucentraldistrict.suseonggadong",
+    "code": "KR_27_JD_SUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_JD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.junggucentraldistrict.suseonggadong",
+    "code": "KR_27_JD_SUSE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_JD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.junggucentraldistrict.suseonggadong",
+    "code": "KR_27_JD_SUSE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_JD"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.namgusouthdistrict.bongdeokildong",
+    "code": "KR_27_ND_BO1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_ND"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.namgusouthdistrict.bongdeokidong",
+    "code": "KR_27_ND_BO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_ND"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.namgusouthdistrict.bongdeoksamdong",
+    "code": "KR_27_ND_BO3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_ND"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.namgusouthdistrict.daemyeongildong",
+    "code": "KR_27_ND_DA1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_ND"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.namgusouthdistrict.daemyeongodong",
+    "code": "KR_27_ND_DA5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_ND"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.namgusouthdistrict.daemyeongyukdong",
+    "code": "KR_27_ND_DA6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_ND"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.namgusouthdistrict.daemyeonggudong",
+    "code": "KR_27_ND_DA9",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_ND"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.namgusouthdistrict.daemyeongsibildong",
+    "code": "KR_27_ND_DA11",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_ND"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.namgusouthdistrict.jungdong",
+    "code": "KR_27_ND_JUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_ND"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.daemyeongsadong",
+    "code": "KR_27_DALS_DA4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.daemyeongsipdong",
+    "code": "KR_27_DALS_DA10",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.duryusamdong",
+    "code": "KR_27_DALS_DU3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.bollidong",
+    "code": "KR_27_DALS_BOLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.gamsamdong",
+    "code": "KR_27_DALS_GAMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.janggidong",
+    "code": "KR_27_DALS_JANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.igokdong",
+    "code": "KR_27_DALS_IGOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.sindangdong",
+    "code": "KR_27_DALS_SIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.wolseongildong",
+    "code": "KR_27_DALS_WO1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.wolseongidong",
+    "code": "KR_27_DALS_WO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.jincheondong",
+    "code": "KR_27_DALS_JINC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.sanginildong",
+    "code": "KR_27_DALS_SA1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.sanginidong",
+    "code": "KR_27_DALS_SA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.sanginsamdong",
+    "code": "KR_27_DALS_SA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.dowondong",
+    "code": "KR_27_DALS_DOWO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.songhyeonildong",
+    "code": "KR_27_DALS_SO1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.songhyeonidong",
+    "code": "KR_27_DALS_SO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.bondong",
+    "code": "KR_27_DALS_BON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.yongsandong",
+    "code": "KR_27_DALS_YONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.yongsandong",
+    "code": "KR_27_DALS_YONG2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.igokdong",
+    "code": "KR_27_DALS_IGOK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.seongdangdong",
+    "code": "KR_27_DALS_SEON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  },
+  {
+    "tenantId": "republicofkorea.daegu.dalseogu.duryudong",
+    "code": "KR_27_DALS_DURY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_27_DALS"
+  }
+]

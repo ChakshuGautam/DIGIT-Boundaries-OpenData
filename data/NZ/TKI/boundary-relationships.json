@@ -1,0 +1,100 @@
+[
+  {
+    "tenantId": "newzealand.taranakiregion",
+    "code": "NZ_TKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NZ"
+  },
+  {
+    "tenantId": "newzealand.taranakiregion.newplymouthdistrict",
+    "code": "NZ_TKI_NPD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_TKI"
+  },
+  {
+    "tenantId": "newzealand.taranakiregion.stratforddistrict",
+    "code": "NZ_TKI_STDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_TKI"
+  },
+  {
+    "tenantId": "newzealand.taranakiregion.southtaranakidistrict",
+    "code": "NZ_TKI_STD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_TKI"
+  },
+  {
+    "tenantId": "newzealand.taranakiregion.newplymouthdistrict.newplymouthcityward",
+    "code": "NZ_TKI_NPD_NPCW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_TKI_NPD"
+  },
+  {
+    "tenantId": "newzealand.taranakiregion.newplymouthdistrict.northward",
+    "code": "NZ_TKI_NPD_NOWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_TKI_NPD"
+  },
+  {
+    "tenantId": "newzealand.taranakiregion.newplymouthdistrict.southwestward",
+    "code": "NZ_TKI_NPD_SOWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_TKI_NPD"
+  },
+  {
+    "tenantId": "newzealand.taranakiregion.stratforddistrict.stratfordruralward",
+    "code": "NZ_TKI_STDI_SRW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_TKI_STDI"
+  },
+  {
+    "tenantId": "newzealand.taranakiregion.stratforddistrict.stratfordurbanward",
+    "code": "NZ_TKI_STDI_SUW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_TKI_STDI"
+  },
+  {
+    "tenantId": "newzealand.taranakiregion.southtaranakidistrict.egmontplainsward",
+    "code": "NZ_TKI_STD_EPW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_TKI_STD"
+  },
+  {
+    "tenantId": "newzealand.taranakiregion.southtaranakidistrict.elthamward",
+    "code": "NZ_TKI_STD_ELWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_TKI_STD"
+  },
+  {
+    "tenantId": "newzealand.taranakiregion.southtaranakidistrict.tangahoeward",
+    "code": "NZ_TKI_STD_TAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_TKI_STD"
+  },
+  {
+    "tenantId": "newzealand.taranakiregion.southtaranakidistrict.haweranormanbyward",
+    "code": "NZ_TKI_STD_HAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_TKI_STD"
+  },
+  {
+    "tenantId": "newzealand.taranakiregion.southtaranakidistrict.pateaward",
+    "code": "NZ_TKI_STD_PAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_TKI_STD"
+  }
+]

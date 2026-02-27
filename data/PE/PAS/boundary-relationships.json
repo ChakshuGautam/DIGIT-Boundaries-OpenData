@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "peru.pasco",
+    "code": "PE_PAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PE"
+  },
+  {
+    "tenantId": "peru.pasco.danielalcidescarrion",
+    "code": "PE_PAS_DAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_PAS"
+  },
+  {
+    "tenantId": "peru.pasco.oxapampa",
+    "code": "PE_PAS_OXAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_PAS"
+  },
+  {
+    "tenantId": "peru.pasco.pasco",
+    "code": "PE_PAS_PASC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_PAS"
+  }
+]

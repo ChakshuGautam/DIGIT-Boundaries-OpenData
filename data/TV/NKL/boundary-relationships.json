@@ -1,0 +1,58 @@
+[
+  {
+    "tenantId": "tuvalu.nukulaelae",
+    "code": "TV_NKL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TV"
+  },
+  {
+    "tenantId": "tuvalu.nukulaelae.nukualofa",
+    "code": "TV_NKL_NUKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TV_NKL"
+  },
+  {
+    "tenantId": "tuvalu.nukulaelae.pepesala",
+    "code": "TV_NKL_PEPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TV_NKL"
+  },
+  {
+    "tenantId": "tuvalu.nukulaelae.niulakita",
+    "code": "TV_NKL_NIUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TV_NKL"
+  },
+  {
+    "tenantId": "tuvalu.nukulaelae.pepesala.unknown",
+    "code": "TV_NKL_PEPE_8802",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NKL_PEPE"
+  },
+  {
+    "tenantId": "tuvalu.nukulaelae.pepesala.unknown",
+    "code": "TV_NKL_PEPE_8801",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NKL_PEPE"
+  },
+  {
+    "tenantId": "tuvalu.nukulaelae.pepesala.unknown",
+    "code": "TV_NKL_PEPE_88012",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NKL_PEPE"
+  },
+  {
+    "tenantId": "tuvalu.nukulaelae.niulakita.unknown",
+    "code": "TV_NKL_NIUL_9901",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NKL_NIUL"
+  }
+]

@@ -1,0 +1,954 @@
+[
+  {
+    "tenantId": "philippines.centralluzon",
+    "code": "PH_03",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "PH"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bataan",
+    "code": "PH_03_BATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_03"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan",
+    "code": "PH_03_BULA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_03"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija",
+    "code": "PH_03_NUEC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_03"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga",
+    "code": "PH_03_PAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_03"
+  },
+  {
+    "tenantId": "philippines.centralluzon.tarlac",
+    "code": "PH_03_TARL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_03"
+  },
+  {
+    "tenantId": "philippines.centralluzon.zambales",
+    "code": "PH_03_ZAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_03"
+  },
+  {
+    "tenantId": "philippines.centralluzon.aurora",
+    "code": "PH_03_AURO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_03"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bataan.abucay",
+    "code": "PH_03_BATA_ABUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BATA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bataan.cityofbalanga",
+    "code": "PH_03_BATA_COB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BATA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bataan.dinalupihan",
+    "code": "PH_03_BATA_DINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BATA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bataan.hermosa",
+    "code": "PH_03_BATA_HERM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BATA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bataan.limay",
+    "code": "PH_03_BATA_LIMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BATA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bataan.mariveles",
+    "code": "PH_03_BATA_MARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BATA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bataan.morong",
+    "code": "PH_03_BATA_MORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BATA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bataan.orani",
+    "code": "PH_03_BATA_ORAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BATA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bataan.orion",
+    "code": "PH_03_BATA_ORIO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BATA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bataan.pilar",
+    "code": "PH_03_BATA_PILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BATA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bataan.samal",
+    "code": "PH_03_BATA_SAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BATA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bataan.bagac",
+    "code": "PH_03_BATA_BAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BATA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bataan.subic",
+    "code": "PH_03_BATA_SUBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BATA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.angat",
+    "code": "PH_03_BULA_ANGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.balagtas",
+    "code": "PH_03_BULA_BALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.baliuag",
+    "code": "PH_03_BULA_BALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.bocaue",
+    "code": "PH_03_BULA_BOCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.bulacan",
+    "code": "PH_03_BULA_BULA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.bustos",
+    "code": "PH_03_BULA_BUST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.calumpit",
+    "code": "PH_03_BULA_CALU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.cityofmalolos",
+    "code": "PH_03_BULA_COM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.cityofmeycauayan",
+    "code": "PH_03_BULA_COM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.cityofsanjosedelmonte",
+    "code": "PH_03_BULA_COSJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.doaremediostrinidad",
+    "code": "PH_03_BULA_DRT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.guiguinto",
+    "code": "PH_03_BULA_GUIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.hagonoy",
+    "code": "PH_03_BULA_HAGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.marilao",
+    "code": "PH_03_BULA_MARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.norzagaray",
+    "code": "PH_03_BULA_NORZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.obando",
+    "code": "PH_03_BULA_OBAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.pandi",
+    "code": "PH_03_BULA_PAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.paombong",
+    "code": "PH_03_BULA_PAOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.plaridel",
+    "code": "PH_03_BULA_PLAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.pulilan",
+    "code": "PH_03_BULA_PULI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.sanildefonso",
+    "code": "PH_03_BULA_SAIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.sanmiguel",
+    "code": "PH_03_BULA_SAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.sanrafael",
+    "code": "PH_03_BULA_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.bulacan.santamaria",
+    "code": "PH_03_BULA_SAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_BULA"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.aliaga",
+    "code": "PH_03_NUEC_ALIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.bongabon",
+    "code": "PH_03_NUEC_BONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.cabanatuancity",
+    "code": "PH_03_NUEC_CACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.cabiao",
+    "code": "PH_03_NUEC_CABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.carranglan",
+    "code": "PH_03_NUEC_CARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.cityofgapan",
+    "code": "PH_03_NUEC_COG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.cuyapo",
+    "code": "PH_03_NUEC_CUYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.gabaldon",
+    "code": "PH_03_NUEC_GABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.generalmamertonatividad",
+    "code": "PH_03_NUEC_GMN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.generaltinio",
+    "code": "PH_03_NUEC_GETI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.guimba",
+    "code": "PH_03_NUEC_GUIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.jaen",
+    "code": "PH_03_NUEC_JAEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.lapaz",
+    "code": "PH_03_NUEC_LAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.laur",
+    "code": "PH_03_NUEC_LAUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.licab",
+    "code": "PH_03_NUEC_LICA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.llanera",
+    "code": "PH_03_NUEC_LLAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.lupao",
+    "code": "PH_03_NUEC_LUPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.nampicuan",
+    "code": "PH_03_NUEC_NAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.palayancity",
+    "code": "PH_03_NUEC_PACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.pantabangan",
+    "code": "PH_03_NUEC_PANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.pearanda",
+    "code": "PH_03_NUEC_PEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.quezon",
+    "code": "PH_03_NUEC_QUEZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.rizal",
+    "code": "PH_03_NUEC_RIZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.sanantonio",
+    "code": "PH_03_NUEC_SAAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.sanisidro",
+    "code": "PH_03_NUEC_SAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.sanjosecity",
+    "code": "PH_03_NUEC_SJC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.sanleonardo",
+    "code": "PH_03_NUEC_SALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.santarosa",
+    "code": "PH_03_NUEC_SARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.santodomingo",
+    "code": "PH_03_NUEC_SADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.sciencecityofmuoz",
+    "code": "PH_03_NUEC_SCOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.talavera",
+    "code": "PH_03_NUEC_TALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.talugtug",
+    "code": "PH_03_NUEC_TALU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.victoria",
+    "code": "PH_03_NUEC_VICT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.nuevaecija.zaragoza",
+    "code": "PH_03_NUEC_ZARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_NUEC"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga.angelescity",
+    "code": "PH_03_PAMP_ANCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_PAMP"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga.apalit",
+    "code": "PH_03_PAMP_APAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_PAMP"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga.arayat",
+    "code": "PH_03_PAMP_ARAY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_PAMP"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga.bacolor",
+    "code": "PH_03_PAMP_BACO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_PAMP"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga.candaba",
+    "code": "PH_03_PAMP_CAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_PAMP"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga.cityofsanfernando",
+    "code": "PH_03_PAMP_COSF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_PAMP"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga.floridablanca",
+    "code": "PH_03_PAMP_FLOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_PAMP"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga.guagua",
+    "code": "PH_03_PAMP_GUAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_PAMP"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga.lubao",
+    "code": "PH_03_PAMP_LUBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_PAMP"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga.mabalacatcity",
+    "code": "PH_03_PAMP_MACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_PAMP"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga.macabebe",
+    "code": "PH_03_PAMP_MACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_PAMP"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga.magalang",
+    "code": "PH_03_PAMP_MAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_PAMP"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga.masantol",
+    "code": "PH_03_PAMP_MASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_PAMP"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga.mexico",
+    "code": "PH_03_PAMP_MEXI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_PAMP"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga.minalin",
+    "code": "PH_03_PAMP_MINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_PAMP"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga.porac",
+    "code": "PH_03_PAMP_PORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_PAMP"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga.sanluis",
+    "code": "PH_03_PAMP_SALU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_PAMP"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga.sansimon",
+    "code": "PH_03_PAMP_SASI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_PAMP"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga.santaana",
+    "code": "PH_03_PAMP_SAAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_PAMP"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga.santarita",
+    "code": "PH_03_PAMP_SARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_PAMP"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga.santotomas",
+    "code": "PH_03_PAMP_SATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_PAMP"
+  },
+  {
+    "tenantId": "philippines.centralluzon.pampanga.sasmuan",
+    "code": "PH_03_PAMP_SASM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_PAMP"
+  },
+  {
+    "tenantId": "philippines.centralluzon.tarlac.anao",
+    "code": "PH_03_TARL_ANAO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_TARL"
+  },
+  {
+    "tenantId": "philippines.centralluzon.tarlac.bamban",
+    "code": "PH_03_TARL_BAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_TARL"
+  },
+  {
+    "tenantId": "philippines.centralluzon.tarlac.camiling",
+    "code": "PH_03_TARL_CAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_TARL"
+  },
+  {
+    "tenantId": "philippines.centralluzon.tarlac.capas",
+    "code": "PH_03_TARL_CAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_TARL"
+  },
+  {
+    "tenantId": "philippines.centralluzon.tarlac.cityoftarlac",
+    "code": "PH_03_TARL_COT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_TARL"
+  },
+  {
+    "tenantId": "philippines.centralluzon.tarlac.concepcion",
+    "code": "PH_03_TARL_CONC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_TARL"
+  },
+  {
+    "tenantId": "philippines.centralluzon.tarlac.gerona",
+    "code": "PH_03_TARL_GERO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_TARL"
+  },
+  {
+    "tenantId": "philippines.centralluzon.tarlac.mayantoc",
+    "code": "PH_03_TARL_MAYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_TARL"
+  },
+  {
+    "tenantId": "philippines.centralluzon.tarlac.moncada",
+    "code": "PH_03_TARL_MONC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_TARL"
+  },
+  {
+    "tenantId": "philippines.centralluzon.tarlac.paniqui",
+    "code": "PH_03_TARL_PANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_TARL"
+  },
+  {
+    "tenantId": "philippines.centralluzon.tarlac.pura",
+    "code": "PH_03_TARL_PURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_TARL"
+  },
+  {
+    "tenantId": "philippines.centralluzon.tarlac.ramos",
+    "code": "PH_03_TARL_RAMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_TARL"
+  },
+  {
+    "tenantId": "philippines.centralluzon.tarlac.sanjose",
+    "code": "PH_03_TARL_SAJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_TARL"
+  },
+  {
+    "tenantId": "philippines.centralluzon.tarlac.sanmanuel",
+    "code": "PH_03_TARL_SAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_TARL"
+  },
+  {
+    "tenantId": "philippines.centralluzon.tarlac.santaignacia",
+    "code": "PH_03_TARL_SAIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_TARL"
+  },
+  {
+    "tenantId": "philippines.centralluzon.zambales.botolan",
+    "code": "PH_03_ZAMB_BOTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_ZAMB"
+  },
+  {
+    "tenantId": "philippines.centralluzon.zambales.cabangan",
+    "code": "PH_03_ZAMB_CABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_ZAMB"
+  },
+  {
+    "tenantId": "philippines.centralluzon.zambales.candelaria",
+    "code": "PH_03_ZAMB_CAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_ZAMB"
+  },
+  {
+    "tenantId": "philippines.centralluzon.zambales.castillejos",
+    "code": "PH_03_ZAMB_CAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_ZAMB"
+  },
+  {
+    "tenantId": "philippines.centralluzon.zambales.iba",
+    "code": "PH_03_ZAMB_IBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_ZAMB"
+  },
+  {
+    "tenantId": "philippines.centralluzon.zambales.olongapocity",
+    "code": "PH_03_ZAMB_OLCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_ZAMB"
+  },
+  {
+    "tenantId": "philippines.centralluzon.zambales.sanfelipe",
+    "code": "PH_03_ZAMB_SAFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_ZAMB"
+  },
+  {
+    "tenantId": "philippines.centralluzon.zambales.sanmarcelino",
+    "code": "PH_03_ZAMB_SAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_ZAMB"
+  },
+  {
+    "tenantId": "philippines.centralluzon.zambales.sannarciso",
+    "code": "PH_03_ZAMB_SANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_ZAMB"
+  },
+  {
+    "tenantId": "philippines.centralluzon.zambales.masinloc",
+    "code": "PH_03_ZAMB_MASI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_ZAMB"
+  },
+  {
+    "tenantId": "philippines.centralluzon.zambales.palauig",
+    "code": "PH_03_ZAMB_PALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_ZAMB"
+  },
+  {
+    "tenantId": "philippines.centralluzon.zambales.sanantonio",
+    "code": "PH_03_ZAMB_SAAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_ZAMB"
+  },
+  {
+    "tenantId": "philippines.centralluzon.aurora.baler",
+    "code": "PH_03_AURO_BALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_AURO"
+  },
+  {
+    "tenantId": "philippines.centralluzon.aurora.casiguran",
+    "code": "PH_03_AURO_CASI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_AURO"
+  },
+  {
+    "tenantId": "philippines.centralluzon.aurora.dingalan",
+    "code": "PH_03_AURO_DING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_AURO"
+  },
+  {
+    "tenantId": "philippines.centralluzon.aurora.dipaculao",
+    "code": "PH_03_AURO_DIPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_AURO"
+  },
+  {
+    "tenantId": "philippines.centralluzon.aurora.mariaaurora",
+    "code": "PH_03_AURO_MAAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_AURO"
+  },
+  {
+    "tenantId": "philippines.centralluzon.aurora.sanluis",
+    "code": "PH_03_AURO_SALU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_AURO"
+  },
+  {
+    "tenantId": "philippines.centralluzon.aurora.dilasag",
+    "code": "PH_03_AURO_DILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_AURO"
+  },
+  {
+    "tenantId": "philippines.centralluzon.aurora.dinalungan",
+    "code": "PH_03_AURO_DINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_03_AURO"
+  }
+]

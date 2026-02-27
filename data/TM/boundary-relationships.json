@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "turkmenistan",
+    "code": "TM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "turkmenistan.balkan",
+    "code": "TM_B",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TM"
+  },
+  {
+    "tenantId": "turkmenistan.ahai",
+    "code": "TM_A",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TM"
+  },
+  {
+    "tenantId": "turkmenistan.dasoguz",
+    "code": "TM_D",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TM"
+  },
+  {
+    "tenantId": "turkmenistan.lebap",
+    "code": "TM_L",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TM"
+  },
+  {
+    "tenantId": "turkmenistan.mary",
+    "code": "TM_M",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TM"
+  }
+]

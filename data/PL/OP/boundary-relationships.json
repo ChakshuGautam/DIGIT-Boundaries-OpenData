@@ -1,0 +1,590 @@
+[
+  {
+    "tenantId": "poland.opolevoivodeship",
+    "code": "PL_OP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PL"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatoleski",
+    "code": "PL_OP_POOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_OP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatkrapkowicki",
+    "code": "PL_OP_POKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_OP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatgubczycki",
+    "code": "PL_OP_POG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_OP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.opole",
+    "code": "PL_OP_OPOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_OP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatnamysowski",
+    "code": "PL_OP_PONA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_OP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatnyski",
+    "code": "PL_OP_PONY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_OP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatkdzierzyskokozielski",
+    "code": "PL_OP_POK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_OP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatprudnicki",
+    "code": "PL_OP_POPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_OP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatbrzeski",
+    "code": "PL_OP_POBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_OP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatopolski",
+    "code": "PL_OP_POOP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_OP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatkluczborski",
+    "code": "PL_OP_POKL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_OP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatstrzelecki",
+    "code": "PL_OP_POST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_OP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatoleski.gminapraszka",
+    "code": "PL_OP_POOL_GMPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POOL"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatoleski.gminadobrodzie",
+    "code": "PL_OP_POOL_GMDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POOL"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatoleski.gminarudniki",
+    "code": "PL_OP_POOL_GMRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POOL"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatoleski.gminazbowice",
+    "code": "PL_OP_POOL_GMZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POOL"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatoleski.gminaradw",
+    "code": "PL_OP_POOL_GMRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POOL"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatoleski.gminagorzwlski",
+    "code": "PL_OP_POOL_GG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POOL"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatoleski.gminaolesno",
+    "code": "PL_OP_POOL_GMOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POOL"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatkrapkowicki.gminakrapkowice",
+    "code": "PL_OP_POKR_GMKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POKR"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatkrapkowicki.gminagogolin",
+    "code": "PL_OP_POKR_GMGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POKR"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatkrapkowicki.gminastrzeleczki",
+    "code": "PL_OP_POKR_GMST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POKR"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatkrapkowicki.gminazdzieszowice",
+    "code": "PL_OP_POKR_GMZD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POKR"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatkrapkowicki.gminawalce",
+    "code": "PL_OP_POKR_GMWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POKR"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatgubczycki.gminabranice",
+    "code": "PL_OP_POG_GMBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POG"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatgubczycki.gminababorw",
+    "code": "PL_OP_POG_GMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POG"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatgubczycki.gminakietrz",
+    "code": "PL_OP_POG_GMKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POG"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatgubczycki.gminagubczyce",
+    "code": "PL_OP_POG_GMG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POG"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.opole.opole",
+    "code": "PL_OP_OPOL_OPOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_OPOL"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatnamysowski.gminadomaszowice",
+    "code": "PL_OP_PONA_GMDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_PONA"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatnamysowski.gminawierczw",
+    "code": "PL_OP_PONA_GMW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_PONA"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatnamysowski.gminawilkw",
+    "code": "PL_OP_PONA_GMWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_PONA"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatnamysowski.gminapokj",
+    "code": "PL_OP_PONA_GMPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_PONA"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatnamysowski.gminanamysw",
+    "code": "PL_OP_PONA_GMNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_PONA"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatnyski.gminaskoroszyce",
+    "code": "PL_OP_PONY_GMSK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_PONY"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatnyski.gminaambinowice",
+    "code": "PL_OP_PONY_GMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_PONY"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatnyski.gminaotmuchw",
+    "code": "PL_OP_PONY_GMOT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_PONY"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatnyski.gminaguchoazy",
+    "code": "PL_OP_PONY_GMG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_PONY"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatnyski.gminakamiennik",
+    "code": "PL_OP_PONY_GMKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_PONY"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatnyski.gminapakosawice",
+    "code": "PL_OP_PONY_GMPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_PONY"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatnyski.gminapaczkw",
+    "code": "PL_OP_PONY_GMPA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_PONY"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatnyski.gminakorfantw",
+    "code": "PL_OP_PONY_GMKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_PONY"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatnyski.gminanysa",
+    "code": "PL_OP_PONY_GMNY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_PONY"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatkdzierzyskokozielski.gminapolskacerekiew",
+    "code": "PL_OP_POK_GPC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POK"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatkdzierzyskokozielski.kdzierzynkole",
+    "code": "PL_OP_POK_KDZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POK"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatkdzierzyskokozielski.gminapawowiczki",
+    "code": "PL_OP_POK_GMPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POK"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatkdzierzyskokozielski.gminacisek",
+    "code": "PL_OP_POK_GMCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POK"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatkdzierzyskokozielski.gminareskawie",
+    "code": "PL_OP_POK_GRW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POK"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatkdzierzyskokozielski.gminabierawa",
+    "code": "PL_OP_POK_GMBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POK"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatprudnicki.gminalubrza",
+    "code": "PL_OP_POPR_GMLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POPR"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatprudnicki.gminaprudnik",
+    "code": "PL_OP_POPR_GMPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POPR"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatprudnicki.gminabiaa",
+    "code": "PL_OP_POPR_GMBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POPR"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatprudnicki.gminagogwek",
+    "code": "PL_OP_POPR_GMG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POPR"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatbrzeski.gminaskarbimierz",
+    "code": "PL_OP_POBR_GMSK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POBR"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatbrzeski.gminalewinbrzeski",
+    "code": "PL_OP_POBR_GLB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POBR"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatbrzeski.brzeg",
+    "code": "PL_OP_POBR_BRZE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POBR"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatbrzeski.gminaolszanka",
+    "code": "PL_OP_POBR_GMOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POBR"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatbrzeski.gminalubsza",
+    "code": "PL_OP_POBR_GMLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POBR"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatbrzeski.gminagrodkw",
+    "code": "PL_OP_POBR_GMGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POBR"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatopolski.gminaturawa",
+    "code": "PL_OP_POOP_GMTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POOP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatopolski.gminadobrzewielki",
+    "code": "PL_OP_POOP_GDW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POOP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatopolski.gminaubniany",
+    "code": "PL_OP_POOP_GMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POOP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatopolski.gminaprszkw",
+    "code": "PL_OP_POOP_GMPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POOP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatopolski.gminatuowice",
+    "code": "PL_OP_POOP_GMTU2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POOP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatopolski.gminaozimek",
+    "code": "PL_OP_POOP_GMOZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POOP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatopolski.gminachrzstowice",
+    "code": "PL_OP_POOP_GMCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POOP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatopolski.gminadbrowa",
+    "code": "PL_OP_POOP_GMD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POOP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatopolski.gminakomprachcice",
+    "code": "PL_OP_POOP_GMKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POOP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatopolski.gminamurw",
+    "code": "PL_OP_POOP_GMMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POOP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatopolski.gminatarnwopolski",
+    "code": "PL_OP_POOP_GTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POOP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatopolski.gminapopielw",
+    "code": "PL_OP_POOP_GMPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POOP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatopolski.gminaniemodlin",
+    "code": "PL_OP_POOP_GMNI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POOP"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatkluczborski.gminalasowicewielkie",
+    "code": "PL_OP_POKL_GLW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POKL"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatkluczborski.gminakluczbork",
+    "code": "PL_OP_POKL_GMKL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POKL"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatkluczborski.gminawoczyn",
+    "code": "PL_OP_POKL_GMWO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POKL"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatkluczborski.gminabyczyna",
+    "code": "PL_OP_POKL_GMBY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POKL"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatstrzelecki.gminakolonowskie",
+    "code": "PL_OP_POST_GMKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POST"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatstrzelecki.gminastrzelceopolskie",
+    "code": "PL_OP_POST_GSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POST"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatstrzelecki.gminaizbicko",
+    "code": "PL_OP_POST_GMIZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POST"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatstrzelecki.gminaujazd",
+    "code": "PL_OP_POST_GMUJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POST"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatstrzelecki.gminalenica",
+    "code": "PL_OP_POST_GMLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POST"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatstrzelecki.gminajemielnica",
+    "code": "PL_OP_POST_GMJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POST"
+  },
+  {
+    "tenantId": "poland.opolevoivodeship.powiatstrzelecki.gminazawadzkie",
+    "code": "PL_OP_POST_GMZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_OP_POST"
+  }
+]

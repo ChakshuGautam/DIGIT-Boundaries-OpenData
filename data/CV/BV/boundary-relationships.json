@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "caboverde.boavista",
+    "code": "CV_BV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CV"
+  },
+  {
+    "tenantId": "caboverde.boavista.santaisabel",
+    "code": "CV_BV_SAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CV_BV"
+  },
+  {
+    "tenantId": "caboverde.boavista.saojoaobaptista",
+    "code": "CV_BV_SJB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CV_BV"
+  }
+]

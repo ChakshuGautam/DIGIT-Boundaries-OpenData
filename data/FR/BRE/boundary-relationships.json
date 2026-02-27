@@ -1,0 +1,142 @@
+[
+  {
+    "tenantId": "france.bretagne",
+    "code": "FR_BRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "FR"
+  },
+  {
+    "tenantId": "france.bretagne.ctesdarmor",
+    "code": "FR_BRE_CD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_BRE"
+  },
+  {
+    "tenantId": "france.bretagne.illeetvilaine",
+    "code": "FR_BRE_ILLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_BRE"
+  },
+  {
+    "tenantId": "france.bretagne.morbihan",
+    "code": "FR_BRE_MORB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_BRE"
+  },
+  {
+    "tenantId": "france.bretagne.finistre",
+    "code": "FR_BRE_FINI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_BRE"
+  },
+  {
+    "tenantId": "france.bretagne.ctesdarmor.dinan",
+    "code": "FR_BRE_CD_DINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BRE_CD"
+  },
+  {
+    "tenantId": "france.bretagne.ctesdarmor.guingamp",
+    "code": "FR_BRE_CD_GUIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BRE_CD"
+  },
+  {
+    "tenantId": "france.bretagne.ctesdarmor.lannion",
+    "code": "FR_BRE_CD_LANN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BRE_CD"
+  },
+  {
+    "tenantId": "france.bretagne.ctesdarmor.saintbrieuc",
+    "code": "FR_BRE_CD_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BRE_CD"
+  },
+  {
+    "tenantId": "france.bretagne.illeetvilaine.fougres",
+    "code": "FR_BRE_ILLE_FOUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BRE_ILLE"
+  },
+  {
+    "tenantId": "france.bretagne.illeetvilaine.redon",
+    "code": "FR_BRE_ILLE_REDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BRE_ILLE"
+  },
+  {
+    "tenantId": "france.bretagne.illeetvilaine.rennes",
+    "code": "FR_BRE_ILLE_RENN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BRE_ILLE"
+  },
+  {
+    "tenantId": "france.bretagne.illeetvilaine.saintmalo",
+    "code": "FR_BRE_ILLE_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BRE_ILLE"
+  },
+  {
+    "tenantId": "france.bretagne.morbihan.lorient",
+    "code": "FR_BRE_MORB_LORI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BRE_MORB"
+  },
+  {
+    "tenantId": "france.bretagne.morbihan.pontivy",
+    "code": "FR_BRE_MORB_PONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BRE_MORB"
+  },
+  {
+    "tenantId": "france.bretagne.morbihan.vannes",
+    "code": "FR_BRE_MORB_VANN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BRE_MORB"
+  },
+  {
+    "tenantId": "france.bretagne.finistre.brest",
+    "code": "FR_BRE_FINI_BRES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BRE_FINI"
+  },
+  {
+    "tenantId": "france.bretagne.finistre.chteaulin",
+    "code": "FR_BRE_FINI_CHT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BRE_FINI"
+  },
+  {
+    "tenantId": "france.bretagne.finistre.morlaix",
+    "code": "FR_BRE_FINI_MORL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BRE_FINI"
+  },
+  {
+    "tenantId": "france.bretagne.finistre.quimper",
+    "code": "FR_BRE_FINI_QUIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BRE_FINI"
+  }
+]

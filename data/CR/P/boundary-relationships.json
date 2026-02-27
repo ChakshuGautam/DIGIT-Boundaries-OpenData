@@ -1,0 +1,506 @@
+[
+  {
+    "tenantId": "costarica.provinciapuntarenas",
+    "code": "CR_P",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CR"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.puertojimenez",
+    "code": "CR_P_PUJI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_P"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.osa",
+    "code": "CR_P_OSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_P"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.buenosaires",
+    "code": "CR_P_BUAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_P"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.cotobrus",
+    "code": "CR_P_COBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_P"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.golfito",
+    "code": "CR_P_GOLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_P"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.corredores",
+    "code": "CR_P_CORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_P"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.esparza",
+    "code": "CR_P_ESPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_P"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.montesdeoro",
+    "code": "CR_P_MDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_P"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.puntarenas",
+    "code": "CR_P_PUNT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_P"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.nandayure",
+    "code": "CR_P_NAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_P"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.garabito",
+    "code": "CR_P_GARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_P"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.quepos",
+    "code": "CR_P_QUEP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_P"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.parrita",
+    "code": "CR_P_PARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_P"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.puertojimenez.bahadrake",
+    "code": "CR_P_PUJI_BADR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_PUJI"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.puertojimenez.puertojimnez",
+    "code": "CR_P_PUJI_PUJI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_PUJI"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.osa.piedrasblancas",
+    "code": "CR_P_OSA_PIBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_OSA"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.osa.palmar",
+    "code": "CR_P_OSA_PALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_OSA"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.osa.sierpe",
+    "code": "CR_P_OSA_SIER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_OSA"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.osa.bahaballena",
+    "code": "CR_P_OSA_BABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_OSA"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.osa.puertocorts",
+    "code": "CR_P_OSA_PUCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_OSA"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.buenosaires.pilas",
+    "code": "CR_P_BUAI_PILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_BUAI"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.buenosaires.boruca",
+    "code": "CR_P_BUAI_BORU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_BUAI"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.buenosaires.buenosaires",
+    "code": "CR_P_BUAI_BUAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_BUAI"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.buenosaires.brunka",
+    "code": "CR_P_BUAI_BRUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_BUAI"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.buenosaires.biolley",
+    "code": "CR_P_BUAI_BIOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_BUAI"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.buenosaires.volcn",
+    "code": "CR_P_BUAI_VOLC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_BUAI"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.buenosaires.chnguena",
+    "code": "CR_P_BUAI_CHN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_BUAI"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.buenosaires.potrerogrande",
+    "code": "CR_P_BUAI_POGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_BUAI"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.buenosaires.colinas",
+    "code": "CR_P_BUAI_COLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_BUAI"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.golfito.golfito",
+    "code": "CR_P_GOLF_GOLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_GOLF"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.golfito.guaycar",
+    "code": "CR_P_GOLF_GUAY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_GOLF"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.corredores.laurel",
+    "code": "CR_P_CORR_LAUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_CORR"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.corredores.corredor",
+    "code": "CR_P_CORR_CORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_CORR"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.corredores.canoas",
+    "code": "CR_P_CORR_CANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_CORR"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.corredores.pavn",
+    "code": "CR_P_CORR_PAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_CORR"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.corredores.lacuesta",
+    "code": "CR_P_CORR_LACU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_CORR"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.esparza.sanjernimo",
+    "code": "CR_P_ESPA_SAJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_ESPA"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.esparza.sanrafael",
+    "code": "CR_P_ESPA_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_ESPA"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.esparza.caldera",
+    "code": "CR_P_ESPA_CALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_ESPA"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.esparza.espritusanto",
+    "code": "CR_P_ESPA_ESSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_ESPA"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.esparza.macacona",
+    "code": "CR_P_ESPA_MACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_ESPA"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.esparza.sanjuangrande",
+    "code": "CR_P_ESPA_SJG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_ESPA"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.montesdeoro.launin",
+    "code": "CR_P_MDO_LAUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_MDO"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.montesdeoro.sanisidro",
+    "code": "CR_P_MDO_SAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_MDO"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.montesdeoro.miramar",
+    "code": "CR_P_MDO_MIRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_MDO"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.puntarenas.cbano",
+    "code": "CR_P_PUNT_CBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_PUNT"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.puntarenas.pitahaya",
+    "code": "CR_P_PUNT_PITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_PUNT"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.puntarenas.chomes",
+    "code": "CR_P_PUNT_CHOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_PUNT"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.puntarenas.puntarenas",
+    "code": "CR_P_PUNT_PUNT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_PUNT"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.puntarenas.paquera",
+    "code": "CR_P_PUNT_PAQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_PUNT"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.puntarenas.lepanto",
+    "code": "CR_P_PUNT_LEPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_PUNT"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.puntarenas.barranca",
+    "code": "CR_P_PUNT_BARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_PUNT"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.puntarenas.manzanillo",
+    "code": "CR_P_PUNT_MANZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_PUNT"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.puntarenas.acapulco",
+    "code": "CR_P_PUNT_ACAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_PUNT"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.puntarenas.arancibia",
+    "code": "CR_P_PUNT_ARAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_PUNT"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.puntarenas.chacarita",
+    "code": "CR_P_PUNT_CHAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_PUNT"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.puntarenas.chira",
+    "code": "CR_P_PUNT_CHIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_PUNT"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.puntarenas.cocosisland",
+    "code": "CR_P_PUNT_COIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_PUNT"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.puntarenas.elroble",
+    "code": "CR_P_PUNT_ELRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_PUNT"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.puntarenas.guacimal",
+    "code": "CR_P_PUNT_GUAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_PUNT"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.puntarenas.monteverde",
+    "code": "CR_P_PUNT_MOVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_PUNT"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.nandayure.bejuco",
+    "code": "CR_P_NAND_BEJU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_NAND"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.nandayure.santarita",
+    "code": "CR_P_NAND_SARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_NAND"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.nandayure.sanpablo",
+    "code": "CR_P_NAND_SAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_NAND"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.nandayure.carmona",
+    "code": "CR_P_NAND_CARM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_NAND"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.nandayure.porvenir",
+    "code": "CR_P_NAND_PORV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_NAND"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.garabito.trcoles",
+    "code": "CR_P_GARA_TRC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_GARA"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.garabito.jac",
+    "code": "CR_P_GARA_JAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_GARA"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.quepos.savegre",
+    "code": "CR_P_QUEP_SAVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_QUEP"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.quepos.quepos",
+    "code": "CR_P_QUEP_QUEP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_QUEP"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas.quepos.naranjito",
+    "code": "CR_P_QUEP_NARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_P_QUEP"
+  }
+]

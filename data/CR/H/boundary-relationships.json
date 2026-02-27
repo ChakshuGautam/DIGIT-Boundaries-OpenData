@@ -1,0 +1,408 @@
+[
+  {
+    "tenantId": "costarica.provinciaheredia",
+    "code": "CR_H",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CR"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.sanisidro",
+    "code": "CR_H_SAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_H"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.santodomingo",
+    "code": "CR_H_SADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_H"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.sanpablo",
+    "code": "CR_H_SAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_H"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.sanrafael",
+    "code": "CR_H_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_H"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.heredia",
+    "code": "CR_H_HERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_H"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.flores",
+    "code": "CR_H_FLOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_H"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.belen",
+    "code": "CR_H_BELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_H"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.barva",
+    "code": "CR_H_BARV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_H"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.santabarbara",
+    "code": "CR_H_SABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_H"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.sarapiqui",
+    "code": "CR_H_SARA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_H"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.sanisidro.sanisidro",
+    "code": "CR_H_SAIS_SAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SAIS"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.sanisidro.concepcin",
+    "code": "CR_H_SAIS_CONC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SAIS"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.sanisidro.sanfrancisco",
+    "code": "CR_H_SAIS_SAFR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SAIS"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.sanisidro.sanjos",
+    "code": "CR_H_SAIS_SAJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SAIS"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.santodomingo.santodomingo",
+    "code": "CR_H_SADO_SADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SADO"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.santodomingo.sanvicente",
+    "code": "CR_H_SADO_SAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SADO"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.santodomingo.paracito",
+    "code": "CR_H_SADO_PARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SADO"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.santodomingo.santotoms",
+    "code": "CR_H_SADO_SATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SADO"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.santodomingo.santarosa",
+    "code": "CR_H_SADO_SARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SADO"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.santodomingo.tures",
+    "code": "CR_H_SADO_TURE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SADO"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.santodomingo.par",
+    "code": "CR_H_SADO_PAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SADO"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.santodomingo.sanmiguel",
+    "code": "CR_H_SADO_SAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SADO"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.sanpablo.rincndesabanilla",
+    "code": "CR_H_SAPA_RDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SAPA"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.sanpablo.sanpablo",
+    "code": "CR_H_SAPA_SAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SAPA"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.sanrafael.sanrafael",
+    "code": "CR_H_SARA_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SARA"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.sanrafael.sanjosecito",
+    "code": "CR_H_SARA_SAJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SARA"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.sanrafael.santiago",
+    "code": "CR_H_SARA_SANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SARA"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.sanrafael.concepcin",
+    "code": "CR_H_SARA_CONC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SARA"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.sanrafael.losngeles",
+    "code": "CR_H_SARA_LON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SARA"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.heredia.heredia",
+    "code": "CR_H_HERE_HERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_HERE"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.heredia.mercedes",
+    "code": "CR_H_HERE_MERC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_HERE"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.heredia.ulloa",
+    "code": "CR_H_HERE_ULLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_HERE"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.heredia.varablanca",
+    "code": "CR_H_HERE_VARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_HERE"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.heredia.sanfrancisco",
+    "code": "CR_H_HERE_SAFR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_HERE"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.flores.barrantes",
+    "code": "CR_H_FLOR_BARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_FLOR"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.flores.sanjoaqun",
+    "code": "CR_H_FLOR_SAJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_FLOR"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.flores.llorente",
+    "code": "CR_H_FLOR_LLOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_FLOR"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.belen.sanantonio",
+    "code": "CR_H_BELE_SAAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_BELE"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.belen.laasuncin",
+    "code": "CR_H_BELE_LAAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_BELE"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.belen.laribera",
+    "code": "CR_H_BELE_LARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_BELE"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.barva.sanroque",
+    "code": "CR_H_BARV_SARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_BARV"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.barva.barva",
+    "code": "CR_H_BARV_BARV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_BARV"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.barva.sanpedro",
+    "code": "CR_H_BARV_SAPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_BARV"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.barva.santaluca",
+    "code": "CR_H_BARV_SALU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_BARV"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.barva.sanjosdelamontaa",
+    "code": "CR_H_BARV_SJDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_BARV"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.barva.sanpablo",
+    "code": "CR_H_BARV_SAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_BARV"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.santabarbara.sanpedro",
+    "code": "CR_H_SABA_SAPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SABA"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.santabarbara.santabrbara",
+    "code": "CR_H_SABA_SAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SABA"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.santabarbara.sanjuan",
+    "code": "CR_H_SABA_SAJU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SABA"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.santabarbara.santodomingo",
+    "code": "CR_H_SABA_SADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SABA"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.santabarbara.jess",
+    "code": "CR_H_SABA_JES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SABA"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.santabarbara.purab",
+    "code": "CR_H_SABA_PURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SABA"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.sarapiqui.lashorquetas",
+    "code": "CR_H_SARA2_LAHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SARA2"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.sarapiqui.llanurasdelgaspar",
+    "code": "CR_H_SARA2_LDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SARA2"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.sarapiqui.curea",
+    "code": "CR_H_SARA2_CURE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SARA2"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.sarapiqui.puertoviejo",
+    "code": "CR_H_SARA2_PUVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SARA2"
+  },
+  {
+    "tenantId": "costarica.provinciaheredia.sarapiqui.lavirgen",
+    "code": "CR_H_SARA2_LAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_H_SARA2"
+  }
+]

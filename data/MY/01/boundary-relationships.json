@@ -1,0 +1,842 @@
+[
+  {
+    "tenantId": "malaysia.johor",
+    "code": "MY_01",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MY"
+  },
+  {
+    "tenantId": "malaysia.johor.segamat",
+    "code": "MY_01_SEGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_01"
+  },
+  {
+    "tenantId": "malaysia.johor.ledang",
+    "code": "MY_01_LEDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_01"
+  },
+  {
+    "tenantId": "malaysia.johor.muar",
+    "code": "MY_01_MUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_01"
+  },
+  {
+    "tenantId": "malaysia.johor.batupahat",
+    "code": "MY_01_BAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_01"
+  },
+  {
+    "tenantId": "malaysia.johor.kluang",
+    "code": "MY_01_KLUA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_01"
+  },
+  {
+    "tenantId": "malaysia.johor.kulaijaya",
+    "code": "MY_01_KULA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_01"
+  },
+  {
+    "tenantId": "malaysia.johor.pontian",
+    "code": "MY_01_PONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_01"
+  },
+  {
+    "tenantId": "malaysia.johor.johorbahru",
+    "code": "MY_01_JOBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_01"
+  },
+  {
+    "tenantId": "malaysia.johor.kotatinggi",
+    "code": "MY_01_KOTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_01"
+  },
+  {
+    "tenantId": "malaysia.johor.rompin",
+    "code": "MY_01_ROMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_01"
+  },
+  {
+    "tenantId": "malaysia.johor.mersing",
+    "code": "MY_01_MERS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_01"
+  },
+  {
+    "tenantId": "malaysia.johor.segamat.mukimgemas",
+    "code": "MY_01_SEGA_MUGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_SEGA"
+  },
+  {
+    "tenantId": "malaysia.johor.segamat.mukimbekok",
+    "code": "MY_01_SEGA_MUBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_SEGA"
+  },
+  {
+    "tenantId": "malaysia.johor.segamat.mukimlabis",
+    "code": "MY_01_SEGA_MULA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_SEGA"
+  },
+  {
+    "tenantId": "malaysia.johor.segamat.bandarbatuanam",
+    "code": "MY_01_SEGA_BBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_SEGA"
+  },
+  {
+    "tenantId": "malaysia.johor.segamat.mukimgemereh",
+    "code": "MY_01_SEGA_MUGE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_SEGA"
+  },
+  {
+    "tenantId": "malaysia.johor.segamat.mukimsermin",
+    "code": "MY_01_SEGA_MUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_SEGA"
+  },
+  {
+    "tenantId": "malaysia.johor.segamat.mukimsungaisegamat",
+    "code": "MY_01_SEGA_MSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_SEGA"
+  },
+  {
+    "tenantId": "malaysia.johor.segamat.mukimbulohkasap",
+    "code": "MY_01_SEGA_MBK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_SEGA"
+  },
+  {
+    "tenantId": "malaysia.johor.segamat.mukimjementah",
+    "code": "MY_01_SEGA_MUJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_SEGA"
+  },
+  {
+    "tenantId": "malaysia.johor.segamat.mukimpogoh",
+    "code": "MY_01_SEGA_MUPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_SEGA"
+  },
+  {
+    "tenantId": "malaysia.johor.segamat.bandarsegamat",
+    "code": "MY_01_SEGA_BASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_SEGA"
+  },
+  {
+    "tenantId": "malaysia.johor.segamat.mukimchaah",
+    "code": "MY_01_SEGA_MUCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_SEGA"
+  },
+  {
+    "tenantId": "malaysia.johor.ledang.bandarbukitkangkar",
+    "code": "MY_01_LEDA_BBK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_LEDA"
+  },
+  {
+    "tenantId": "malaysia.johor.ledang.mukimserom",
+    "code": "MY_01_LEDA_MUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_LEDA"
+  },
+  {
+    "tenantId": "malaysia.johor.ledang.mukimtangkak",
+    "code": "MY_01_LEDA_MUTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_LEDA"
+  },
+  {
+    "tenantId": "malaysia.johor.ledang.mukimapiapi",
+    "code": "MY_01_LEDA_MUAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_LEDA"
+  },
+  {
+    "tenantId": "malaysia.johor.ledang.mukimbukitserampang",
+    "code": "MY_01_LEDA_MBS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_LEDA"
+  },
+  {
+    "tenantId": "malaysia.johor.ledang.pekangrisek",
+    "code": "MY_01_LEDA_PEGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_LEDA"
+  },
+  {
+    "tenantId": "malaysia.johor.ledang.bandarsungaimati",
+    "code": "MY_01_LEDA_BSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_LEDA"
+  },
+  {
+    "tenantId": "malaysia.johor.ledang.pekanasahan",
+    "code": "MY_01_LEDA_PEAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_LEDA"
+  },
+  {
+    "tenantId": "malaysia.johor.ledang.bandarserom",
+    "code": "MY_01_LEDA_BASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_LEDA"
+  },
+  {
+    "tenantId": "malaysia.johor.ledang.mukimgrisek",
+    "code": "MY_01_LEDA_MUGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_LEDA"
+  },
+  {
+    "tenantId": "malaysia.johor.ledang.bandartangkak",
+    "code": "MY_01_LEDA_BATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_LEDA"
+  },
+  {
+    "tenantId": "malaysia.johor.muar.mukimjalanbakri",
+    "code": "MY_01_MUAR_MJB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_MUAR"
+  },
+  {
+    "tenantId": "malaysia.johor.muar.mukimjorak",
+    "code": "MY_01_MUAR_MUJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_MUAR"
+  },
+  {
+    "tenantId": "malaysia.johor.muar.mukimbukitkepong",
+    "code": "MY_01_MUAR_MBK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_MUAR"
+  },
+  {
+    "tenantId": "malaysia.johor.muar.mukimparitbakar",
+    "code": "MY_01_MUAR_MPB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_MUAR"
+  },
+  {
+    "tenantId": "malaysia.johor.muar.mukimmachap",
+    "code": "MY_01_MUAR_MUMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_MUAR"
+  },
+  {
+    "tenantId": "malaysia.johor.muar.mukimayerhitam",
+    "code": "MY_01_MUAR_MAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_MUAR"
+  },
+  {
+    "tenantId": "malaysia.johor.muar.bandarbukitkepong",
+    "code": "MY_01_MUAR_BBK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_MUAR"
+  },
+  {
+    "tenantId": "malaysia.johor.muar.mukimparitjawa",
+    "code": "MY_01_MUAR_MPJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_MUAR"
+  },
+  {
+    "tenantId": "malaysia.johor.muar.mukimlenga",
+    "code": "MY_01_MUAR_MULE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_MUAR"
+  },
+  {
+    "tenantId": "malaysia.johor.muar.mukimsungaibalang",
+    "code": "MY_01_MUAR_MSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_MUAR"
+  },
+  {
+    "tenantId": "malaysia.johor.muar.bandarbandarmaharani",
+    "code": "MY_01_MUAR_BBM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_MUAR"
+  },
+  {
+    "tenantId": "malaysia.johor.muar.bandarparitbunga",
+    "code": "MY_01_MUAR_BPB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_MUAR"
+  },
+  {
+    "tenantId": "malaysia.johor.batupahat.mukimchaahbahru",
+    "code": "MY_01_BAPA_MCB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_BAPA"
+  },
+  {
+    "tenantId": "malaysia.johor.batupahat.bandarsenggarang",
+    "code": "MY_01_BAPA_BASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_BAPA"
+  },
+  {
+    "tenantId": "malaysia.johor.batupahat.mukimsungaipunggor",
+    "code": "MY_01_BAPA_MSP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_BAPA"
+  },
+  {
+    "tenantId": "malaysia.johor.batupahat.mukimsimpangkiri",
+    "code": "MY_01_BAPA_MSK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_BAPA"
+  },
+  {
+    "tenantId": "malaysia.johor.batupahat.mukimsimpangkanan",
+    "code": "MY_01_BAPA_MSK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_BAPA"
+  },
+  {
+    "tenantId": "malaysia.johor.batupahat.mukimlubok",
+    "code": "MY_01_BAPA_MULU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_BAPA"
+  },
+  {
+    "tenantId": "malaysia.johor.batupahat.mukimlinau",
+    "code": "MY_01_BAPA_MULI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_BAPA"
+  },
+  {
+    "tenantId": "malaysia.johor.batupahat.mukimkampungbahru",
+    "code": "MY_01_BAPA_MKB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_BAPA"
+  },
+  {
+    "tenantId": "malaysia.johor.batupahat.mukimpeserai",
+    "code": "MY_01_BAPA_MUPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_BAPA"
+  },
+  {
+    "tenantId": "malaysia.johor.batupahat.mukimtanjungsembrong",
+    "code": "MY_01_BAPA_MTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_BAPA"
+  },
+  {
+    "tenantId": "malaysia.johor.batupahat.mukimsungaikluang",
+    "code": "MY_01_BAPA_MSK3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_BAPA"
+  },
+  {
+    "tenantId": "malaysia.johor.batupahat.mukimsrigading",
+    "code": "MY_01_BAPA_MSG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_BAPA"
+  },
+  {
+    "tenantId": "malaysia.johor.batupahat.mukimsrimedan",
+    "code": "MY_01_BAPA_MSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_BAPA"
+  },
+  {
+    "tenantId": "malaysia.johor.batupahat.bandarbandarpenggaram",
+    "code": "MY_01_BAPA_BBP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_BAPA"
+  },
+  {
+    "tenantId": "malaysia.johor.batupahat.mukimminyakbeku",
+    "code": "MY_01_BAPA_MMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_BAPA"
+  },
+  {
+    "tenantId": "malaysia.johor.kluang.mukimniyor",
+    "code": "MY_01_KLUA_MUNI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_KLUA"
+  },
+  {
+    "tenantId": "malaysia.johor.kluang.mukimrengam",
+    "code": "MY_01_KLUA_MURE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_KLUA"
+  },
+  {
+    "tenantId": "malaysia.johor.kluang.mukimkluang",
+    "code": "MY_01_KLUA_MUKL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_KLUA"
+  },
+  {
+    "tenantId": "malaysia.johor.kluang.mukimpontian",
+    "code": "MY_01_KLUA_MUPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_KLUA"
+  },
+  {
+    "tenantId": "malaysia.johor.kluang.mukimkahang",
+    "code": "MY_01_KLUA_MUKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_KLUA"
+  },
+  {
+    "tenantId": "malaysia.johor.kluang.mukimulubenut",
+    "code": "MY_01_KLUA_MUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_KLUA"
+  },
+  {
+    "tenantId": "malaysia.johor.kluang.mukimlayanglayang",
+    "code": "MY_01_KLUA_MULA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_KLUA"
+  },
+  {
+    "tenantId": "malaysia.johor.kulaijaya.bandarkulai",
+    "code": "MY_01_KULA_BAKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_KULA"
+  },
+  {
+    "tenantId": "malaysia.johor.kulaijaya.mukimsedenak",
+    "code": "MY_01_KULA_MUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_KULA"
+  },
+  {
+    "tenantId": "malaysia.johor.kulaijaya.mukimkulai",
+    "code": "MY_01_KULA_MUKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_KULA"
+  },
+  {
+    "tenantId": "malaysia.johor.kulaijaya.mukimsenai",
+    "code": "MY_01_KULA_MUSE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_KULA"
+  },
+  {
+    "tenantId": "malaysia.johor.kulaijaya.mukimbukitbatu",
+    "code": "MY_01_KULA_MBB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_KULA"
+  },
+  {
+    "tenantId": "malaysia.johor.pontian.pekanpekannenas",
+    "code": "MY_01_PONT_PPN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_PONT"
+  },
+  {
+    "tenantId": "malaysia.johor.pontian.mukimayerbaloi",
+    "code": "MY_01_PONT_MAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_PONT"
+  },
+  {
+    "tenantId": "malaysia.johor.pontian.mukimrimbaterjun",
+    "code": "MY_01_PONT_MRT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_PONT"
+  },
+  {
+    "tenantId": "malaysia.johor.pontian.bandarbenut",
+    "code": "MY_01_PONT_BABE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_PONT"
+  },
+  {
+    "tenantId": "malaysia.johor.pontian.mukimserkat",
+    "code": "MY_01_PONT_MUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_PONT"
+  },
+  {
+    "tenantId": "malaysia.johor.pontian.mukimsungeipinggan",
+    "code": "MY_01_PONT_MSP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_PONT"
+  },
+  {
+    "tenantId": "malaysia.johor.pontian.mukimairmasin",
+    "code": "MY_01_PONT_MAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_PONT"
+  },
+  {
+    "tenantId": "malaysia.johor.pontian.mukimbenut",
+    "code": "MY_01_PONT_MUBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_PONT"
+  },
+  {
+    "tenantId": "malaysia.johor.pontian.mukimpengkalanraja",
+    "code": "MY_01_PONT_MPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_PONT"
+  },
+  {
+    "tenantId": "malaysia.johor.pontian.mukimjerambatu",
+    "code": "MY_01_PONT_MJB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_PONT"
+  },
+  {
+    "tenantId": "malaysia.johor.pontian.bandarpontiankechil",
+    "code": "MY_01_PONT_BPK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_PONT"
+  },
+  {
+    "tenantId": "malaysia.johor.johorbahru.mukimsungaitiram",
+    "code": "MY_01_JOBA_MST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_JOBA"
+  },
+  {
+    "tenantId": "malaysia.johor.johorbahru.mukimplentong",
+    "code": "MY_01_JOBA_MUPL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_JOBA"
+  },
+  {
+    "tenantId": "malaysia.johor.johorbahru.mukimtanjungkupang",
+    "code": "MY_01_JOBA_MTK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_JOBA"
+  },
+  {
+    "tenantId": "malaysia.johor.johorbahru.mukimtebrau",
+    "code": "MY_01_JOBA_MUTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_JOBA"
+  },
+  {
+    "tenantId": "malaysia.johor.johorbahru.bandarjohorbahru",
+    "code": "MY_01_JOBA_BJB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_JOBA"
+  },
+  {
+    "tenantId": "malaysia.johor.kotatinggi.mukimkambau",
+    "code": "MY_01_KOTI_MUKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_KOTI"
+  },
+  {
+    "tenantId": "malaysia.johor.kotatinggi.mukimpengerang",
+    "code": "MY_01_KOTI_MUPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_KOTI"
+  },
+  {
+    "tenantId": "malaysia.johor.kotatinggi.mukimjohorlama",
+    "code": "MY_01_KOTI_MJL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_KOTI"
+  },
+  {
+    "tenantId": "malaysia.johor.kotatinggi.mukimkotatinggi",
+    "code": "MY_01_KOTI_MKT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_KOTI"
+  },
+  {
+    "tenantId": "malaysia.johor.kotatinggi.mukimulusungeisedilibesar",
+    "code": "MY_01_KOTI_MUSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_KOTI"
+  },
+  {
+    "tenantId": "malaysia.johor.kotatinggi.mukimtanjungsurat",
+    "code": "MY_01_KOTI_MTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_KOTI"
+  },
+  {
+    "tenantId": "malaysia.johor.kotatinggi.mukimpantaitimur",
+    "code": "MY_01_KOTI_MPT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_KOTI"
+  },
+  {
+    "tenantId": "malaysia.johor.kotatinggi.mukimsedilikechil",
+    "code": "MY_01_KOTI_MSK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_KOTI"
+  },
+  {
+    "tenantId": "malaysia.johor.kotatinggi.mukimulusungaijohor",
+    "code": "MY_01_KOTI_MUSJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_KOTI"
+  },
+  {
+    "tenantId": "malaysia.johor.kotatinggi.mukimsedilibesar",
+    "code": "MY_01_KOTI_MSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_KOTI"
+  },
+  {
+    "tenantId": "malaysia.johor.rompin.mukimendau",
+    "code": "MY_01_ROMP_MUEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_ROMP"
+  },
+  {
+    "tenantId": "malaysia.johor.rompin.mukimrompin",
+    "code": "MY_01_ROMP_MURO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_ROMP"
+  },
+  {
+    "tenantId": "malaysia.johor.rompin.mukimkeratong",
+    "code": "MY_01_ROMP_MUKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_ROMP"
+  },
+  {
+    "tenantId": "malaysia.johor.rompin.bandarrompini",
+    "code": "MY_01_ROMP_BRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_ROMP"
+  },
+  {
+    "tenantId": "malaysia.johor.rompin.bandarbaharurompin",
+    "code": "MY_01_ROMP_BBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_ROMP"
+  },
+  {
+    "tenantId": "malaysia.johor.rompin.pekantioman",
+    "code": "MY_01_ROMP_PETI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_ROMP"
+  },
+  {
+    "tenantId": "malaysia.johor.rompin.bandarendau",
+    "code": "MY_01_ROMP_BAEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_ROMP"
+  },
+  {
+    "tenantId": "malaysia.johor.rompin.bandarrompinii",
+    "code": "MY_01_ROMP_BRI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_ROMP"
+  },
+  {
+    "tenantId": "malaysia.johor.rompin.bandarpontian",
+    "code": "MY_01_ROMP_BAPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_ROMP"
+  },
+  {
+    "tenantId": "malaysia.johor.rompin.bandarrompiniv",
+    "code": "MY_01_ROMP_BRI3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_ROMP"
+  },
+  {
+    "tenantId": "malaysia.johor.rompin.pekankualarompin",
+    "code": "MY_01_ROMP_PKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_ROMP"
+  },
+  {
+    "tenantId": "malaysia.johor.rompin.bandarrompiniii",
+    "code": "MY_01_ROMP_BRI4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_ROMP"
+  },
+  {
+    "tenantId": "malaysia.johor.rompin.bandartioman",
+    "code": "MY_01_ROMP_BATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_ROMP"
+  },
+  {
+    "tenantId": "malaysia.johor.mersing.mukimpadangendau",
+    "code": "MY_01_MERS_MPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_MERS"
+  },
+  {
+    "tenantId": "malaysia.johor.mersing.mukimsembrong",
+    "code": "MY_01_MERS_MUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_MERS"
+  },
+  {
+    "tenantId": "malaysia.johor.mersing.mukimlenggor",
+    "code": "MY_01_MERS_MULE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_MERS"
+  },
+  {
+    "tenantId": "malaysia.johor.mersing.mukimmersing",
+    "code": "MY_01_MERS_MUME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_MERS"
+  },
+  {
+    "tenantId": "malaysia.johor.mersing.mukimtenggaroh",
+    "code": "MY_01_MERS_MUTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_MERS"
+  },
+  {
+    "tenantId": "malaysia.johor.mersing.mukimpulauaur",
+    "code": "MY_01_MERS_MPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_MERS"
+  },
+  {
+    "tenantId": "malaysia.johor.mersing.bandarmersing",
+    "code": "MY_01_MERS_BAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_01_MERS"
+  }
+]

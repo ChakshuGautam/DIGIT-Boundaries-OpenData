@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "botswana.kwenengdistrict",
+    "code": "BW_KW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BW"
+  },
+  {
+    "tenantId": "botswana.kwenengdistrict.kwenengnorth",
+    "code": "BW_KW_KWNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BW_KW"
+  },
+  {
+    "tenantId": "botswana.kwenengdistrict.kwenengsouth",
+    "code": "BW_KW_KWSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BW_KW"
+  }
+]

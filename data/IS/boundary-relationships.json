@@ -1,0 +1,65 @@
+[
+  {
+    "tenantId": "iceland",
+    "code": "IS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "iceland.capitalregion",
+    "code": "IS_1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IS"
+  },
+  {
+    "tenantId": "iceland.easternregion",
+    "code": "IS_7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IS"
+  },
+  {
+    "tenantId": "iceland.northeasternregion",
+    "code": "IS_6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IS"
+  },
+  {
+    "tenantId": "iceland.northwesternregion",
+    "code": "IS_5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IS"
+  },
+  {
+    "tenantId": "iceland.westfjords",
+    "code": "IS_4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IS"
+  },
+  {
+    "tenantId": "iceland.westernregion",
+    "code": "IS_3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IS"
+  },
+  {
+    "tenantId": "iceland.southernpeninsula",
+    "code": "IS_2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IS"
+  },
+  {
+    "tenantId": "iceland.southernregion",
+    "code": "IS_8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IS"
+  }
+]

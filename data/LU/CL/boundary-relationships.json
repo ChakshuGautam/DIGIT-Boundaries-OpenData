@@ -1,0 +1,79 @@
+[
+  {
+    "tenantId": "luxembourg.cantonclervaux",
+    "code": "LU_CL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "LU"
+  },
+  {
+    "tenantId": "luxembourg.cantonclervaux.parchosingen",
+    "code": "LU_CL_PAHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LU_CL"
+  },
+  {
+    "tenantId": "luxembourg.cantonclervaux.troisvierges",
+    "code": "LU_CL_TROI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LU_CL"
+  },
+  {
+    "tenantId": "luxembourg.cantonclervaux.weiswampach",
+    "code": "LU_CL_WEIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LU_CL"
+  },
+  {
+    "tenantId": "luxembourg.cantonclervaux.wincrange",
+    "code": "LU_CL_WINC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LU_CL"
+  },
+  {
+    "tenantId": "luxembourg.cantonclervaux.clervaux",
+    "code": "LU_CL_CLER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LU_CL"
+  },
+  {
+    "tenantId": "luxembourg.cantonclervaux.parchosingen.parchosingen",
+    "code": "LU_CL_PAHO_PAHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LU_CL_PAHO"
+  },
+  {
+    "tenantId": "luxembourg.cantonclervaux.troisvierges.troisvierges",
+    "code": "LU_CL_TROI_TROI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LU_CL_TROI"
+  },
+  {
+    "tenantId": "luxembourg.cantonclervaux.weiswampach.weiswampach",
+    "code": "LU_CL_WEIS_WEIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LU_CL_WEIS"
+  },
+  {
+    "tenantId": "luxembourg.cantonclervaux.wincrange.wincrange",
+    "code": "LU_CL_WINC_WINC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LU_CL_WINC"
+  },
+  {
+    "tenantId": "luxembourg.cantonclervaux.clervaux.clervaux",
+    "code": "LU_CL_CLER_CLER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LU_CL_CLER"
+  }
+]

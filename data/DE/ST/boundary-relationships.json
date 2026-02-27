@@ -1,0 +1,114 @@
+[
+  {
+    "tenantId": "germany.sachsenanhalt",
+    "code": "DE_ST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "DE"
+  },
+  {
+    "tenantId": "germany.sachsenanhalt.sachsenanhalt",
+    "code": "DE_ST_SACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DE_ST"
+  },
+  {
+    "tenantId": "germany.sachsenanhalt.sachsenanhalt.dessaurolaukreisfreiestadt",
+    "code": "DE_ST_SACH_DKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_ST_SACH"
+  },
+  {
+    "tenantId": "germany.sachsenanhalt.sachsenanhalt.hallesaalekreisfreiestadt",
+    "code": "DE_ST_SACH_HKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_ST_SACH"
+  },
+  {
+    "tenantId": "germany.sachsenanhalt.sachsenanhalt.magdeburgkreisfreiestadt",
+    "code": "DE_ST_SACH_MKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_ST_SACH"
+  },
+  {
+    "tenantId": "germany.sachsenanhalt.sachsenanhalt.altmarkkreissalzwedel",
+    "code": "DE_ST_SACH_ALSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_ST_SACH"
+  },
+  {
+    "tenantId": "germany.sachsenanhalt.sachsenanhalt.anhaltbitterfeld",
+    "code": "DE_ST_SACH_ANHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_ST_SACH"
+  },
+  {
+    "tenantId": "germany.sachsenanhalt.sachsenanhalt.jerichowerland",
+    "code": "DE_ST_SACH_JELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_ST_SACH"
+  },
+  {
+    "tenantId": "germany.sachsenanhalt.sachsenanhalt.brde",
+    "code": "DE_ST_SACH_BRD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_ST_SACH"
+  },
+  {
+    "tenantId": "germany.sachsenanhalt.sachsenanhalt.burgenlandkreis",
+    "code": "DE_ST_SACH_BURG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_ST_SACH"
+  },
+  {
+    "tenantId": "germany.sachsenanhalt.sachsenanhalt.harz",
+    "code": "DE_ST_SACH_HARZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_ST_SACH"
+  },
+  {
+    "tenantId": "germany.sachsenanhalt.sachsenanhalt.mansfeldsdharz",
+    "code": "DE_ST_SACH_MANS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_ST_SACH"
+  },
+  {
+    "tenantId": "germany.sachsenanhalt.sachsenanhalt.saalekreis",
+    "code": "DE_ST_SACH_SAAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_ST_SACH"
+  },
+  {
+    "tenantId": "germany.sachsenanhalt.sachsenanhalt.salzlandkreis",
+    "code": "DE_ST_SACH_SALZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_ST_SACH"
+  },
+  {
+    "tenantId": "germany.sachsenanhalt.sachsenanhalt.stendal",
+    "code": "DE_ST_SACH_STEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_ST_SACH"
+  },
+  {
+    "tenantId": "germany.sachsenanhalt.sachsenanhalt.wittenberg",
+    "code": "DE_ST_SACH_WITT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_ST_SACH"
+  }
+]

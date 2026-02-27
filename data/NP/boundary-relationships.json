@@ -1,0 +1,58 @@
+[
+  {
+    "tenantId": "nepal",
+    "code": "NP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "nepal.province",
+    "code": "NP_P1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NP"
+  },
+  {
+    "tenantId": "nepal.province",
+    "code": "NP_P2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NP"
+  },
+  {
+    "tenantId": "nepal.bagmati",
+    "code": "NP_P3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NP"
+  },
+  {
+    "tenantId": "nepal.gandaki",
+    "code": "NP_P4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NP"
+  },
+  {
+    "tenantId": "nepal.lumbini",
+    "code": "NP_P5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NP"
+  },
+  {
+    "tenantId": "nepal.karnali",
+    "code": "NP_P6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NP"
+  },
+  {
+    "tenantId": "nepal.sudurpaschim",
+    "code": "NP_P7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NP"
+  }
+]

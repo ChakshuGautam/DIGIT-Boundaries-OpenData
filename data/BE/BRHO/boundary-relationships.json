@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "belgium.brusselshoofdstedelijk",
+    "code": "BE_BRHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BE"
+  },
+  {
+    "tenantId": "belgium.brusselshoofdstedelijk.brussels",
+    "code": "BE_BRHO_BRUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BE_BRHO"
+  },
+  {
+    "tenantId": "belgium.brusselshoofdstedelijk.brussels.bruxellescapitale",
+    "code": "BE_BRHO_BRUS_BRUX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_BRHO_BRUS"
+  }
+]

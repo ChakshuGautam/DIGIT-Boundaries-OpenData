@@ -1,0 +1,548 @@
+[
+  {
+    "tenantId": "sweden.rebroln",
+    "code": "SE_T",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SE"
+  },
+  {
+    "tenantId": "sweden.rebroln.nora",
+    "code": "SE_T_NORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_T"
+  },
+  {
+    "tenantId": "sweden.rebroln.hllefors",
+    "code": "SE_T_HLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_T"
+  },
+  {
+    "tenantId": "sweden.rebroln.ljusnarsberg",
+    "code": "SE_T_LJUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_T"
+  },
+  {
+    "tenantId": "sweden.rebroln.lindesberg",
+    "code": "SE_T_LIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_T"
+  },
+  {
+    "tenantId": "sweden.rebroln.karlskoga",
+    "code": "SE_T_KARL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_T"
+  },
+  {
+    "tenantId": "sweden.rebroln.degerfors",
+    "code": "SE_T_DEGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_T"
+  },
+  {
+    "tenantId": "sweden.rebroln.lax",
+    "code": "SE_T_LAX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_T"
+  },
+  {
+    "tenantId": "sweden.rebroln.lekeberg",
+    "code": "SE_T_LEKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_T"
+  },
+  {
+    "tenantId": "sweden.rebroln.kumla",
+    "code": "SE_T_KUML",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_T"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro",
+    "code": "SE_T_REB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_T"
+  },
+  {
+    "tenantId": "sweden.rebroln.hallsberg",
+    "code": "SE_T_HALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_T"
+  },
+  {
+    "tenantId": "sweden.rebroln.askersund",
+    "code": "SE_T_ASKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_T"
+  },
+  {
+    "tenantId": "sweden.rebroln.nora.jrnbos",
+    "code": "SE_T_NORA_JR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_NORA"
+  },
+  {
+    "tenantId": "sweden.rebroln.nora.nora",
+    "code": "SE_T_NORA_NORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_NORA"
+  },
+  {
+    "tenantId": "sweden.rebroln.nora.viker",
+    "code": "SE_T_NORA_VIKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_NORA"
+  },
+  {
+    "tenantId": "sweden.rebroln.hllefors.hllefors",
+    "code": "SE_T_HLL_HL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_HLL"
+  },
+  {
+    "tenantId": "sweden.rebroln.hllefors.hjulsj",
+    "code": "SE_T_HLL_HJUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_HLL"
+  },
+  {
+    "tenantId": "sweden.rebroln.hllefors.grythyttan",
+    "code": "SE_T_HLL_GRYT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_HLL"
+  },
+  {
+    "tenantId": "sweden.rebroln.ljusnarsberg.ljusnarsberg",
+    "code": "SE_T_LJUS_LJUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_LJUS"
+  },
+  {
+    "tenantId": "sweden.rebroln.lindesberg.ramsberg",
+    "code": "SE_T_LIND_RAMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_LIND"
+  },
+  {
+    "tenantId": "sweden.rebroln.lindesberg.guldsmedshyttan",
+    "code": "SE_T_LIND_GULD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_LIND"
+  },
+  {
+    "tenantId": "sweden.rebroln.lindesberg.lindesberg",
+    "code": "SE_T_LIND_LIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_LIND"
+  },
+  {
+    "tenantId": "sweden.rebroln.lindesberg.vstraskedvi",
+    "code": "SE_T_LIND_VSK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_LIND"
+  },
+  {
+    "tenantId": "sweden.rebroln.lindesberg.fellingsbro",
+    "code": "SE_T_LIND_FELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_LIND"
+  },
+  {
+    "tenantId": "sweden.rebroln.lindesberg.nsby",
+    "code": "SE_T_LIND_NS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_LIND"
+  },
+  {
+    "tenantId": "sweden.rebroln.karlskoga.karlskoga",
+    "code": "SE_T_KARL_KARL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_KARL"
+  },
+  {
+    "tenantId": "sweden.rebroln.degerfors.degerfors",
+    "code": "SE_T_DEGE_DEGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_DEGE"
+  },
+  {
+    "tenantId": "sweden.rebroln.degerfors.nysund",
+    "code": "SE_T_DEGE_NYSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_DEGE"
+  },
+  {
+    "tenantId": "sweden.rebroln.lax.skagershult",
+    "code": "SE_T_LAX_SKAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_LAX"
+  },
+  {
+    "tenantId": "sweden.rebroln.lax.ramundeboda",
+    "code": "SE_T_LAX_RAMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_LAX"
+  },
+  {
+    "tenantId": "sweden.rebroln.lax.finnerdja",
+    "code": "SE_T_LAX_FINN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_LAX"
+  },
+  {
+    "tenantId": "sweden.rebroln.lax.tived",
+    "code": "SE_T_LAX_TIVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_LAX"
+  },
+  {
+    "tenantId": "sweden.rebroln.lekeberg.tysslinge",
+    "code": "SE_T_LEKE_TYSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_LEKE"
+  },
+  {
+    "tenantId": "sweden.rebroln.lekeberg.hidinge",
+    "code": "SE_T_LEKE_HIDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_LEKE"
+  },
+  {
+    "tenantId": "sweden.rebroln.lekeberg.knista",
+    "code": "SE_T_LEKE_KNIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_LEKE"
+  },
+  {
+    "tenantId": "sweden.rebroln.lekeberg.knista",
+    "code": "SE_T_LEKE_KNIS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_LEKE"
+  },
+  {
+    "tenantId": "sweden.rebroln.lekeberg.kvistbro",
+    "code": "SE_T_LEKE_KVIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_LEKE"
+  },
+  {
+    "tenantId": "sweden.rebroln.lekeberg.tby",
+    "code": "SE_T_LEKE_TB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_LEKE"
+  },
+  {
+    "tenantId": "sweden.rebroln.lekeberg.krcklinge",
+    "code": "SE_T_LEKE_KR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_LEKE"
+  },
+  {
+    "tenantId": "sweden.rebroln.lekeberg.edsberg",
+    "code": "SE_T_LEKE_EDSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_LEKE"
+  },
+  {
+    "tenantId": "sweden.rebroln.lekeberg.hackvad",
+    "code": "SE_T_LEKE_HACK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_LEKE"
+  },
+  {
+    "tenantId": "sweden.rebroln.lekeberg.tngersa",
+    "code": "SE_T_LEKE_TN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_LEKE"
+  },
+  {
+    "tenantId": "sweden.rebroln.kumla.gllersta",
+    "code": "SE_T_KUML_GL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_KUML"
+  },
+  {
+    "tenantId": "sweden.rebroln.kumla.ekeby",
+    "code": "SE_T_KUML_EKEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_KUML"
+  },
+  {
+    "tenantId": "sweden.rebroln.kumla.kumla",
+    "code": "SE_T_KUML_KUML",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_KUML"
+  },
+  {
+    "tenantId": "sweden.rebroln.kumla.hardemo",
+    "code": "SE_T_KUML_HARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_KUML"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro.ervalla",
+    "code": "SE_T_REB_ERVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_REB"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro.kil",
+    "code": "SE_T_REB_KIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_REB"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro.axberg",
+    "code": "SE_T_REB_AXBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_REB"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro.lillkyrkadeby",
+    "code": "SE_T_REB_LILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_REB"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro.glanshammar",
+    "code": "SE_T_REB_GLAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_REB"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro.lillkyrkadeby",
+    "code": "SE_T_REB_LILL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_REB"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro.hovsta",
+    "code": "SE_T_REB_HOVS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_REB"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro.rinkaby",
+    "code": "SE_T_REB_RINK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_REB"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro.lngbro",
+    "code": "SE_T_REB_LN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_REB"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro.grve",
+    "code": "SE_T_REB_GR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_REB"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro.rebromikael",
+    "code": "SE_T_REB_MI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_REB"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro.rebroolauspetri",
+    "code": "SE_T_REB_OP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_REB"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro.storamellsa",
+    "code": "SE_T_REB_STME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_REB"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro.vintrosa",
+    "code": "SE_T_REB_VINT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_REB"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro.almby",
+    "code": "SE_T_REB_ALMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_REB"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro.rebronikolai",
+    "code": "SE_T_REB_NI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_REB"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro.adolfsberg",
+    "code": "SE_T_REB_ADOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_REB"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro.mosj",
+    "code": "SE_T_REB_MOSJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_REB"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro.norrbys",
+    "code": "SE_T_REB_NORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_REB"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro.lnns",
+    "code": "SE_T_REB_LN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_REB"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro.rebronikolai",
+    "code": "SE_T_REB_NI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_REB"
+  },
+  {
+    "tenantId": "sweden.rebroln.rebro.asker",
+    "code": "SE_T_REB_ASKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_REB"
+  },
+  {
+    "tenantId": "sweden.rebroln.hallsberg.skllersta",
+    "code": "SE_T_HALL_SK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_HALL"
+  },
+  {
+    "tenantId": "sweden.rebroln.hallsberg.hallsberg",
+    "code": "SE_T_HALL_HALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_HALL"
+  },
+  {
+    "tenantId": "sweden.rebroln.hallsberg.viby",
+    "code": "SE_T_HALL_VIBY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_HALL"
+  },
+  {
+    "tenantId": "sweden.rebroln.hallsberg.svennevad",
+    "code": "SE_T_HALL_SVEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_HALL"
+  },
+  {
+    "tenantId": "sweden.rebroln.hallsberg.bo",
+    "code": "SE_T_HALL_BO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_HALL"
+  },
+  {
+    "tenantId": "sweden.rebroln.askersund.lerbck",
+    "code": "SE_T_ASKE_LERB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_ASKE"
+  },
+  {
+    "tenantId": "sweden.rebroln.askersund.snavlunda",
+    "code": "SE_T_ASKE_SNAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_ASKE"
+  },
+  {
+    "tenantId": "sweden.rebroln.askersund.askersund",
+    "code": "SE_T_ASKE_ASKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_ASKE"
+  },
+  {
+    "tenantId": "sweden.rebroln.askersund.hammar",
+    "code": "SE_T_ASKE_HAMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_T_ASKE"
+  }
+]

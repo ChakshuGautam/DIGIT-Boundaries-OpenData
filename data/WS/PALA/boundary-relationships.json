@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "samoa.palauli",
+    "code": "WS_PALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "WS"
+  },
+  {
+    "tenantId": "samoa.palauli.palauliwest",
+    "code": "WS_PALA_PAWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "WS_PALA"
+  },
+  {
+    "tenantId": "samoa.palauli.palaulilefalefa",
+    "code": "WS_PALA_PLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "WS_PALA"
+  },
+  {
+    "tenantId": "samoa.palauli.palaulieast",
+    "code": "WS_PALA_PAEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "WS_PALA"
+  }
+]

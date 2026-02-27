@@ -1,0 +1,163 @@
+[
+  {
+    "tenantId": "france.paysdelaloire",
+    "code": "FR_PDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "FR"
+  },
+  {
+    "tenantId": "france.paysdelaloire.loireatlantique",
+    "code": "FR_PDL_LOIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_PDL"
+  },
+  {
+    "tenantId": "france.paysdelaloire.maineetloire",
+    "code": "FR_PDL_MAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_PDL"
+  },
+  {
+    "tenantId": "france.paysdelaloire.mayenne",
+    "code": "FR_PDL_MAYE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_PDL"
+  },
+  {
+    "tenantId": "france.paysdelaloire.sarthe",
+    "code": "FR_PDL_SART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_PDL"
+  },
+  {
+    "tenantId": "france.paysdelaloire.vende",
+    "code": "FR_PDL_VEND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_PDL"
+  },
+  {
+    "tenantId": "france.paysdelaloire.loireatlantique.nantes",
+    "code": "FR_PDL_LOIR_NANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PDL_LOIR"
+  },
+  {
+    "tenantId": "france.paysdelaloire.loireatlantique.chteaubriant",
+    "code": "FR_PDL_LOIR_CHT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PDL_LOIR"
+  },
+  {
+    "tenantId": "france.paysdelaloire.loireatlantique.saintnazaire",
+    "code": "FR_PDL_LOIR_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PDL_LOIR"
+  },
+  {
+    "tenantId": "france.paysdelaloire.maineetloire.angers",
+    "code": "FR_PDL_MAIN_ANGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PDL_MAIN"
+  },
+  {
+    "tenantId": "france.paysdelaloire.maineetloire.cholet",
+    "code": "FR_PDL_MAIN_CHOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PDL_MAIN"
+  },
+  {
+    "tenantId": "france.paysdelaloire.maineetloire.saumur",
+    "code": "FR_PDL_MAIN_SAUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PDL_MAIN"
+  },
+  {
+    "tenantId": "france.paysdelaloire.maineetloire.segrenanjoubleu",
+    "code": "FR_PDL_MAIN_SEBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PDL_MAIN"
+  },
+  {
+    "tenantId": "france.paysdelaloire.mayenne.chteaugontiersurmayenne",
+    "code": "FR_PDL_MAYE_CHT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PDL_MAYE"
+  },
+  {
+    "tenantId": "france.paysdelaloire.mayenne.laval",
+    "code": "FR_PDL_MAYE_LAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PDL_MAYE"
+  },
+  {
+    "tenantId": "france.paysdelaloire.mayenne.mayenne",
+    "code": "FR_PDL_MAYE_MAYE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PDL_MAYE"
+  },
+  {
+    "tenantId": "france.paysdelaloire.mayenne.alenon",
+    "code": "FR_PDL_MAYE_ALEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PDL_MAYE"
+  },
+  {
+    "tenantId": "france.paysdelaloire.sarthe.laflche",
+    "code": "FR_PDL_SART_LAFL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PDL_SART"
+  },
+  {
+    "tenantId": "france.paysdelaloire.sarthe.mamers",
+    "code": "FR_PDL_SART_MAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PDL_SART"
+  },
+  {
+    "tenantId": "france.paysdelaloire.sarthe.lemans",
+    "code": "FR_PDL_SART_LEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PDL_SART"
+  },
+  {
+    "tenantId": "france.paysdelaloire.vende.fontenaylecomte",
+    "code": "FR_PDL_VEND_FONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PDL_VEND"
+  },
+  {
+    "tenantId": "france.paysdelaloire.vende.larochesuryon",
+    "code": "FR_PDL_VEND_LARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PDL_VEND"
+  },
+  {
+    "tenantId": "france.paysdelaloire.vende.lessablesdolonne",
+    "code": "FR_PDL_VEND_LESA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PDL_VEND"
+  }
+]

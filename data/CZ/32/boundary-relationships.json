@@ -1,0 +1,3579 @@
+[
+  {
+    "tenantId": "czechia.plzeskkraj",
+    "code": "CZ_32",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CZ"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov",
+    "code": "CZ_32_TACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CZ_32"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice",
+    "code": "CZ_32_DOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CZ_32"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth",
+    "code": "CZ_32_PLZE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CZ_32"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy",
+    "code": "CZ_32_KLAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CZ_32"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth",
+    "code": "CZ_32_PLZE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CZ_32"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzecity",
+    "code": "CZ_32_PLZE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CZ_32"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany",
+    "code": "CZ_32_ROKY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CZ_32"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.str",
+    "code": "CZ_32_TACH_STR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.starsedlo",
+    "code": "CZ_32_TACH_STSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.plan",
+    "code": "CZ_32_TACH_PLAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.vranov",
+    "code": "CZ_32_TACH_VRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.obora",
+    "code": "CZ_32_TACH_OBOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.milre",
+    "code": "CZ_32_TACH_MIL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.tisov",
+    "code": "CZ_32_TACH_TISO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.zhor",
+    "code": "CZ_32_TACH_ZHOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.chodskjezd",
+    "code": "CZ_32_TACH_CH0J",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.chodovplan",
+    "code": "CZ_32_TACH_CHPL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.hotka",
+    "code": "CZ_32_TACH_HO0T",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.hale",
+    "code": "CZ_32_TACH_HAL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.tachov",
+    "code": "CZ_32_TACH_TACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.sytno",
+    "code": "CZ_32_TACH_SYTN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.konstantinovyldzne",
+    "code": "CZ_32_TACH_KOLD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.kladruby",
+    "code": "CZ_32_TACH_KLAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.cebiv",
+    "code": "CZ_32_TACH_CEBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.bor",
+    "code": "CZ_32_TACH_BOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.bezdruice",
+    "code": "CZ_32_TACH_BEZD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.beneovice",
+    "code": "CZ_32_TACH_BENE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.kokaice",
+    "code": "CZ_32_TACH_KOKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.cernon",
+    "code": "CZ_32_TACH_CERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.czstkov",
+    "code": "CZ_32_TACH_CZST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.olbramov",
+    "code": "CZ_32_TACH_OLBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.tremen",
+    "code": "CZ_32_TACH_TREM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.strbro",
+    "code": "CZ_32_TACH_STR32",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.lestkov",
+    "code": "CZ_32_TACH_LEST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.trpsty",
+    "code": "CZ_32_TACH_TRP3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.svojn",
+    "code": "CZ_32_TACH_SVOJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.starsedlite",
+    "code": "CZ_32_TACH_STSE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.lesn",
+    "code": "CZ_32_TACH_LESN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.kzice",
+    "code": "CZ_32_TACH_KZIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.dlouhjezd",
+    "code": "CZ_32_TACH_DL6J",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.erpuice",
+    "code": "CZ_32_TACH_ERPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.rozvadov",
+    "code": "CZ_32_TACH_ROZV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.primda",
+    "code": "CZ_32_TACH_PRIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.brodnadtichou",
+    "code": "CZ_32_TACH_BNT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.kocov",
+    "code": "CZ_32_TACH_KOCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.zzchlum",
+    "code": "CZ_32_TACH_ZZCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.lomutachova",
+    "code": "CZ_32_TACH_LUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.ozeln",
+    "code": "CZ_32_TACH_OZEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.hornkozolupy",
+    "code": "CZ_32_TACH_HOKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.kostelec",
+    "code": "CZ_32_TACH_KOST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.broumov",
+    "code": "CZ_32_TACH_BROU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.zadnchodov",
+    "code": "CZ_32_TACH_ZACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.cnehle",
+    "code": "CZ_32_TACH_CNEH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.prostibor",
+    "code": "CZ_32_TACH_PROS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.studnka",
+    "code": "CZ_32_TACH_STUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.sulislav",
+    "code": "CZ_32_TACH_SULI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.skapce",
+    "code": "CZ_32_TACH_SKAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.tachov.ctibor",
+    "code": "CZ_32_TACH_CTIB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_TACH"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.hostoun",
+    "code": "CZ_32_DOMA_HOST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.mezholezy",
+    "code": "CZ_32_DOMA_MEZH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.mezholezy",
+    "code": "CZ_32_DOMA_MEZH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.otov",
+    "code": "CZ_32_DOMA_OTOV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.srby",
+    "code": "CZ_32_DOMA_SRBY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.str",
+    "code": "CZ_32_DOMA_STR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.tlumacov",
+    "code": "CZ_32_DOMA_TLUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.vzeruby",
+    "code": "CZ_32_DOMA_VZER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.pobeovice",
+    "code": "CZ_32_DOMA_POBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.rybnk",
+    "code": "CZ_32_DOMA_RYBN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.horasvathovaclava",
+    "code": "CZ_32_DOMA_HSV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.vlkanov",
+    "code": "CZ_32_DOMA_VLKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.hradite",
+    "code": "CZ_32_DOMA_HRAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.pelechy",
+    "code": "CZ_32_DOMA_PELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.podevousy",
+    "code": "CZ_32_DOMA_PODE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.hvodany",
+    "code": "CZ_32_DOMA_HVO3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.mnichov",
+    "code": "CZ_32_DOMA_MNIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.cernovice",
+    "code": "CZ_32_DOMA_CERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.cecovice",
+    "code": "CZ_32_DOMA_CECO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.cboc",
+    "code": "CZ_32_DOMA_CBOC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.kanice",
+    "code": "CZ_32_DOMA_KANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.brnrov",
+    "code": "CZ_32_DOMA_BRN3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.ctichov",
+    "code": "CZ_32_DOMA_CTIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.hlohovcice",
+    "code": "CZ_32_DOMA_HLOH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.novves",
+    "code": "CZ_32_DOMA_NOVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.mocerady",
+    "code": "CZ_32_DOMA_MOCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.nemcice",
+    "code": "CZ_32_DOMA_NEMC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.parezov",
+    "code": "CZ_32_DOMA_PARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.domalice",
+    "code": "CZ_32_DOMA_DOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.babylon",
+    "code": "CZ_32_DOMA_BABY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.zahorany",
+    "code": "CZ_32_DOMA_ZAHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.vidice",
+    "code": "CZ_32_DOMA_VIDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.vzepadly",
+    "code": "CZ_32_DOMA_VZEP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.srbice",
+    "code": "CZ_32_DOMA_SRBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.cdnov",
+    "code": "CZ_32_DOMA_CD0N",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.vzekary",
+    "code": "CZ_32_DOMA_VZEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.trhanov",
+    "code": "CZ_32_DOMA_TRHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.stankov",
+    "code": "CZ_32_DOMA_STAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.pec",
+    "code": "CZ_32_DOMA_PEC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.cjezd",
+    "code": "CZ_32_DOMA_CJEZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.cnejovice",
+    "code": "CZ_32_DOMA_CNEJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.velkmalahov",
+    "code": "CZ_32_DOMA_VEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.csilov",
+    "code": "CZ_32_DOMA_CSIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.kdyne",
+    "code": "CZ_32_DOMA_KDYN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.klencpodcerchovem",
+    "code": "CZ_32_DOMA_KPC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.libkov",
+    "code": "CZ_32_DOMA_LIBK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.loucim",
+    "code": "CZ_32_DOMA_LOUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.milavce",
+    "code": "CZ_32_DOMA_MILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.mzrkov",
+    "code": "CZ_32_DOMA_MZRK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.kolovec",
+    "code": "CZ_32_DOMA_KOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.koutnaumave",
+    "code": "CZ_32_DOMA_KN3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.horovsktn",
+    "code": "CZ_32_DOMA_HOT1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.hornkamenice",
+    "code": "CZ_32_DOMA_HOKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.chrastavice",
+    "code": "CZ_32_DOMA_CHRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.kanicky",
+    "code": "CZ_32_DOMA_KANI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.krenovy",
+    "code": "CZ_32_DOMA_KREN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.kvcovice",
+    "code": "CZ_32_DOMA_KV0C",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.semnevice",
+    "code": "CZ_32_DOMA_SEMN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.spnov",
+    "code": "CZ_32_DOMA_SP0N",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.mrkov",
+    "code": "CZ_32_DOMA_MR0K",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.mutenn",
+    "code": "CZ_32_DOMA_MUTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.pocinovice",
+    "code": "CZ_32_DOMA_POCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.postrekov",
+    "code": "CZ_32_DOMA_POST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.puclice",
+    "code": "CZ_32_DOMA_PUCL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.osvracn",
+    "code": "CZ_32_DOMA_OSVR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.pasecnice",
+    "code": "CZ_32_DOMA_PASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.meclov",
+    "code": "CZ_32_DOMA_MECL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.luenicky",
+    "code": "CZ_32_DOMA_LU0E",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.nemanice",
+    "code": "CZ_32_DOMA_NEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.neumer",
+    "code": "CZ_32_DOMA_NEUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.nevolice",
+    "code": "CZ_32_DOMA_NEVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.novkramoln",
+    "code": "CZ_32_DOMA_NOKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.bukovec",
+    "code": "CZ_32_DOMA_BUKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.cermn",
+    "code": "CZ_32_DOMA_CERM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.chocomyl",
+    "code": "CZ_32_DOMA_CHOC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.chodov",
+    "code": "CZ_32_DOMA_CHOD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.chodsklhota",
+    "code": "CZ_32_DOMA_CHLH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.hlohov",
+    "code": "CZ_32_DOMA_HLOH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.holov",
+    "code": "CZ_32_DOMA_HOL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.ceskkubice",
+    "code": "CZ_32_DOMA_CEKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.dzly",
+    "code": "CZ_32_DOMA_DZLY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.drahotn",
+    "code": "CZ_32_DOMA_DRAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.draenov",
+    "code": "CZ_32_DOMA_DRA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.belnadradbuzou",
+    "code": "CZ_32_DOMA_BNR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.domalice.blejov",
+    "code": "CZ_32_DOMA_BL03",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_DOMA"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.krelovice",
+    "code": "CZ_32_PLZE_KREL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.obora",
+    "code": "CZ_32_PLZE_OBOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.hermanovahut",
+    "code": "CZ_32_PLZE_HEHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.plne",
+    "code": "CZ_32_PLZE_PL0N",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.dolany",
+    "code": "CZ_32_PLZE_DOLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.vzrov",
+    "code": "CZ_32_PLZE_VZRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.vzeruby",
+    "code": "CZ_32_PLZE_VZER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.zrucsenec",
+    "code": "CZ_32_PLZE_ZRUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.bezverov",
+    "code": "CZ_32_PLZE_BEZV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.blatnice",
+    "code": "CZ_32_PLZE_BLAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.cherce",
+    "code": "CZ_32_PLZE_CHER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.studen",
+    "code": "CZ_32_PLZE_STUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.kbelany",
+    "code": "CZ_32_PLZE_KBEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.hornbel",
+    "code": "CZ_32_PLZE_HOBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.dolnhradite",
+    "code": "CZ_32_PLZE_DOHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.druztov",
+    "code": "CZ_32_PLZE_DRUZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.dolnbel",
+    "code": "CZ_32_PLZE_DOBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.ceskbrza",
+    "code": "CZ_32_PLZE_CEBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.dobrc",
+    "code": "CZ_32_PLZE_DOBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.potvorov",
+    "code": "CZ_32_PLZE_POTV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.sedlec",
+    "code": "CZ_32_PLZE_SEDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.vysoklibyne",
+    "code": "CZ_32_PLZE_VYLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.cernovice",
+    "code": "CZ_32_PLZE_CERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.hnevnice",
+    "code": "CZ_32_PLZE_HNEV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.bzlov",
+    "code": "CZ_32_PLZE_BZLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.kacerov",
+    "code": "CZ_32_PLZE_KACE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.kaznejov",
+    "code": "CZ_32_PLZE_KAZN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.ostrovubezdrueic",
+    "code": "CZ_32_PLZE_OUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.nzrany",
+    "code": "CZ_32_PLZE_NZRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.nevren",
+    "code": "CZ_32_PLZE_NEVR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.nekmr",
+    "code": "CZ_32_PLZE_NEKM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.nectiny",
+    "code": "CZ_32_PLZE_NECT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.nadryby",
+    "code": "CZ_32_PLZE_NADR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.mrtnk",
+    "code": "CZ_32_PLZE_MRTN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.mladotice",
+    "code": "CZ_32_PLZE_MLAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.mestotoukov",
+    "code": "CZ_32_PLZE_METO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.manetn",
+    "code": "CZ_32_PLZE_MANE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.lztany",
+    "code": "CZ_32_PLZE_LZ0T",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.lzne",
+    "code": "CZ_32_PLZE_LZNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.ledce",
+    "code": "CZ_32_PLZE_LEDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.buc",
+    "code": "CZ_32_PLZE_BUC3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.ceminy",
+    "code": "CZ_32_PLZE_CEMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.koryta",
+    "code": "CZ_32_PLZE_KORY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.kopidlo",
+    "code": "CZ_32_PLZE_KOPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.kozolupy",
+    "code": "CZ_32_PLZE_KOZO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.kozojedy",
+    "code": "CZ_32_PLZE_KOZO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.kralovice",
+    "code": "CZ_32_PLZE_KRAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.kolany",
+    "code": "CZ_32_PLZE_KO0L",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.krsy",
+    "code": "CZ_32_PLZE_KRSY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.kraovice",
+    "code": "CZ_32_PLZE_KRA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.hromnice",
+    "code": "CZ_32_PLZE_HROM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.hornbrza",
+    "code": "CZ_32_PLZE_HOBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.chotkov",
+    "code": "CZ_32_PLZE_CHOT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.hvozd",
+    "code": "CZ_32_PLZE_HVOZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.jarov",
+    "code": "CZ_32_PLZE_JARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.chrc",
+    "code": "CZ_32_PLZE_CHR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.cjezdnadem",
+    "code": "CZ_32_PLZE_CNM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.myslinka",
+    "code": "CZ_32_PLZE_MYSL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.pernarec",
+    "code": "CZ_32_PLZE_PERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.plasy",
+    "code": "CZ_32_PLZE_PLAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.bohy",
+    "code": "CZ_32_PLZE_BOHY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.lochousice",
+    "code": "CZ_32_PLZE_LOCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.holovousy",
+    "code": "CZ_32_PLZE_HOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.cernkovice",
+    "code": "CZ_32_PLZE_CERN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.hlince",
+    "code": "CZ_32_PLZE_HLIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.cilov",
+    "code": "CZ_32_PLZE_CILO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.vzehrdy",
+    "code": "CZ_32_PLZE_VZEH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.brodeslavy",
+    "code": "CZ_32_PLZE_BROD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.zbuch",
+    "code": "CZ_32_PLZE_ZBUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.loza",
+    "code": "CZ_32_PLZE_LOZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.lzt",
+    "code": "CZ_32_PLZE_LZT3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.vochov",
+    "code": "CZ_32_PLZE_VOCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.vejprnice",
+    "code": "CZ_32_PLZE_VEJP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.kunejovice",
+    "code": "CZ_32_PLZE_KUNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.clice",
+    "code": "CZ_32_PLZE_CLIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.tremon",
+    "code": "CZ_32_PLZE_TREM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.cter",
+    "code": "CZ_32_PLZE_CTER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.cneov",
+    "code": "CZ_32_PLZE_CNE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.tisublatna",
+    "code": "CZ_32_PLZE_TUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.rybnice",
+    "code": "CZ_32_PLZE_RYBN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.trnov",
+    "code": "CZ_32_PLZE_TRNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.tlucn",
+    "code": "CZ_32_PLZE_TLUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.pnovany",
+    "code": "CZ_32_PLZE_PNOV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.plenice",
+    "code": "CZ_32_PLZE_PLE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.rochlov",
+    "code": "CZ_32_PLZE_ROCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.prehov",
+    "code": "CZ_32_PLZE_PREH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.blaim",
+    "code": "CZ_32_PLZE_BLA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.pastuchovice",
+    "code": "CZ_32_PLZE_PAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.zahrdka",
+    "code": "CZ_32_PLZE_ZAHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.ctichovice",
+    "code": "CZ_32_PLZE_CTIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.cihle",
+    "code": "CZ_32_PLZE_CIHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.kocn",
+    "code": "CZ_32_PLZE_KOC3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.draen",
+    "code": "CZ_32_PLZE_DRA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.bdeneves",
+    "code": "CZ_32_PLZE_BDEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.slatina",
+    "code": "CZ_32_PLZE_SLAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.tatin",
+    "code": "CZ_32_PLZE_TATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.velecn",
+    "code": "CZ_32_PLZE_VELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzenorth.prov",
+    "code": "CZ_32_PLZE_PR03",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.modrava",
+    "code": "CZ_32_KLAT_MODR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.hlavnovice",
+    "code": "CZ_32_KLAT_HLAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.hartmanice",
+    "code": "CZ_32_KLAT_HART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.dolany",
+    "code": "CZ_32_KLAT_DOLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.tznec",
+    "code": "CZ_32_KLAT_TZNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.mezihor",
+    "code": "CZ_32_KLAT_MEZI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.czmice",
+    "code": "CZ_32_KLAT_CZMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.nezamyslice",
+    "code": "CZ_32_KLAT_NEZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.strov",
+    "code": "CZ_32_KLAT_STR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.velkbor",
+    "code": "CZ_32_KLAT_VEBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.stran",
+    "code": "CZ_32_KLAT_STRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.srn",
+    "code": "CZ_32_KLAT_SRN3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.cecelovice",
+    "code": "CZ_32_KLAT_CECE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.kaperskhory",
+    "code": "CZ_32_KLAT_KAHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.kolinec",
+    "code": "CZ_32_KLAT_KOLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.mokrosuky",
+    "code": "CZ_32_KLAT_MOKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.myslv",
+    "code": "CZ_32_KLAT_MYSL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.mecn",
+    "code": "CZ_32_KLAT_MEC3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.mochtn",
+    "code": "CZ_32_KLAT_MOCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.nzrsko",
+    "code": "CZ_32_KLAT_NZRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.pacejov",
+    "code": "CZ_32_KLAT_PACE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.nalovskhory",
+    "code": "CZ_32_KLAT_NAHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.nezdicenaumave",
+    "code": "CZ_32_KLAT_NN5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.predslav",
+    "code": "CZ_32_KLAT_PRED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.rab",
+    "code": "CZ_32_KLAT_RAB3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.petroviceusu",
+    "code": "CZ_32_KLAT_PUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.plnice",
+    "code": "CZ_32_KLAT_PL0N",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.birkov",
+    "code": "CZ_32_KLAT_BIRK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.kovcn",
+    "code": "CZ_32_KLAT_KOVC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.ostretice",
+    "code": "CZ_32_KLAT_OSTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.lomec",
+    "code": "CZ_32_KLAT_LOME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.zborovy",
+    "code": "CZ_32_KLAT_ZBOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.cjezduplnice",
+    "code": "CZ_32_KLAT_CUP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.nehodiv",
+    "code": "CZ_32_KLAT_NEHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.hamry",
+    "code": "CZ_32_KLAT_HAMR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.manovice",
+    "code": "CZ_32_KLAT_MANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.slatina",
+    "code": "CZ_32_KLAT_SLAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.domoraz",
+    "code": "CZ_32_KLAT_DOMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.frymburk",
+    "code": "CZ_32_KLAT_FRYM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.svradice",
+    "code": "CZ_32_KLAT_SV0R",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.cvihov",
+    "code": "CZ_32_KLAT_CVIH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.rejtejn",
+    "code": "CZ_32_KLAT_REJ3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.sobeice",
+    "code": "CZ_32_KLAT_SOBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.vrhavec",
+    "code": "CZ_32_KLAT_VRHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.suice",
+    "code": "CZ_32_KLAT_SU0I",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.cihobce",
+    "code": "CZ_32_KLAT_CIHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.cichovice",
+    "code": "CZ_32_KLAT_CICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.velhartice",
+    "code": "CZ_32_KLAT_VELH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.velkhydcice",
+    "code": "CZ_32_KLAT_VEHY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.malbor",
+    "code": "CZ_32_KLAT_MABO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.krenice",
+    "code": "CZ_32_KLAT_KREN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.zavlekov",
+    "code": "CZ_32_KLAT_ZAVL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.celeznruda",
+    "code": "CZ_32_KLAT_CERU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.draovice",
+    "code": "CZ_32_KLAT_DRA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.vreskovice",
+    "code": "CZ_32_KLAT_VRES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.horskkvilda",
+    "code": "CZ_32_KLAT_HOKV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.hnacov",
+    "code": "CZ_32_KLAT_HNAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.klatovy",
+    "code": "CZ_32_KLAT_KLAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.cernkov",
+    "code": "CZ_32_KLAT_CERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.tuice",
+    "code": "CZ_32_KLAT_TU0I",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.podmokly",
+    "code": "CZ_32_KLAT_PODM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.budetice",
+    "code": "CZ_32_KLAT_BUDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.boleiny",
+    "code": "CZ_32_KLAT_BOLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.obytce",
+    "code": "CZ_32_KLAT_OBYT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.breany",
+    "code": "CZ_32_KLAT_BRE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.mlnskstruhadlo",
+    "code": "CZ_32_KLAT_MLST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.czhan",
+    "code": "CZ_32_KLAT_CZHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.olany",
+    "code": "CZ_32_KLAT_OL0A",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.kvnovice",
+    "code": "CZ_32_KLAT_KV03",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.cervenporce",
+    "code": "CZ_32_KLAT_CEPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.polen",
+    "code": "CZ_32_KLAT_POLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.jeovy",
+    "code": "CZ_32_KLAT_JE0O",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.kejnice",
+    "code": "CZ_32_KLAT_KEJN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.hejn",
+    "code": "CZ_32_KLAT_HEJN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.klenov",
+    "code": "CZ_32_KLAT_KLEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.beharov",
+    "code": "CZ_32_KLAT_BEHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.javor",
+    "code": "CZ_32_KLAT_JAVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.bukovnk",
+    "code": "CZ_32_KLAT_BUKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.myslovice",
+    "code": "CZ_32_KLAT_MYSL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.dobrn",
+    "code": "CZ_32_KLAT_DOBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.prily",
+    "code": "CZ_32_KLAT_PR03",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.hradeice",
+    "code": "CZ_32_KLAT_HRAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.chanovice",
+    "code": "CZ_32_KLAT_CHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.horadovice",
+    "code": "CZ_32_KLAT_HORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.hrdek",
+    "code": "CZ_32_KLAT_HR0D",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.chudenn",
+    "code": "CZ_32_KLAT_CHUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.janovicenadrhlavou",
+    "code": "CZ_32_KLAT_JNR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.bezdekov",
+    "code": "CZ_32_KLAT_BEZD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.beiny",
+    "code": "CZ_32_KLAT_BE0I",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.dlaov",
+    "code": "CZ_32_KLAT_DLA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.dlouhves",
+    "code": "CZ_32_KLAT_DLVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.cachrov",
+    "code": "CZ_32_KLAT_CACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.deenice",
+    "code": "CZ_32_KLAT_DE0E",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.chudenice",
+    "code": "CZ_32_KLAT_CHUD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.klatovy.chlistov",
+    "code": "CZ_32_KLAT_CHLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_KLAT"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.hradec",
+    "code": "CZ_32_PLZE2_HRAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.chlumcany",
+    "code": "CZ_32_PLZE2_CHLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.merkln",
+    "code": "CZ_32_PLZE2_MERK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.luany",
+    "code": "CZ_32_PLZE2_LU0A",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.civotice",
+    "code": "CZ_32_PLZE2_CIVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.mecholupy",
+    "code": "CZ_32_PLZE2_MECH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.bukov",
+    "code": "CZ_32_PLZE2_BUKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.nezdice",
+    "code": "CZ_32_PLZE2_NEZD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.sedlite",
+    "code": "CZ_32_PLZE2_SEDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.srby",
+    "code": "CZ_32_PLZE2_SRBY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.cdrec",
+    "code": "CZ_32_PLZE2_CD0R",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.prchovice",
+    "code": "CZ_32_PLZE2_PR0C",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.strelice",
+    "code": "CZ_32_PLZE2_STRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.dolce",
+    "code": "CZ_32_PLZE2_DOLC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.kozlovice",
+    "code": "CZ_32_PLZE2_KOZL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.nezdrev",
+    "code": "CZ_32_PLZE2_NEZD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.lisov",
+    "code": "CZ_32_PLZE2_LISO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.milnov",
+    "code": "CZ_32_PLZE2_MIL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.prestavlky",
+    "code": "CZ_32_PLZE2_PRES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.novves",
+    "code": "CZ_32_PLZE2_NOVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.drahkov",
+    "code": "CZ_32_PLZE2_DRAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.hornlukavice",
+    "code": "CZ_32_PLZE2_HOLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.oplot",
+    "code": "CZ_32_PLZE2_OPLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.czkava",
+    "code": "CZ_32_PLZE2_CZKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.cnetice",
+    "code": "CZ_32_PLZE2_CNET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.lzina",
+    "code": "CZ_32_PLZE2_LZ0I",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.chlum",
+    "code": "CZ_32_PLZE2_CHLU2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.hradite",
+    "code": "CZ_32_PLZE2_HRAD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.horice",
+    "code": "CZ_32_PLZE2_HOR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.kasejovice",
+    "code": "CZ_32_PLZE2_KASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.choteov",
+    "code": "CZ_32_PLZE2_CHOT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.chocenice",
+    "code": "CZ_32_PLZE2_CHOC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.ciice",
+    "code": "CZ_32_PLZE2_CI0I",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.blovice",
+    "code": "CZ_32_PLZE2_BLOV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.polnka",
+    "code": "CZ_32_PLZE2_POL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.mzov",
+    "code": "CZ_32_PLZE2_MZ0O",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.dolnlukavice",
+    "code": "CZ_32_PLZE2_DOLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.dobrany",
+    "code": "CZ_32_PLZE2_DOBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.tznite",
+    "code": "CZ_32_PLZE2_TZNI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.skaov",
+    "code": "CZ_32_PLZE2_SKA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.honezovice",
+    "code": "CZ_32_PLZE2_HONE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.kotovice",
+    "code": "CZ_32_PLZE2_KOTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.borovy",
+    "code": "CZ_32_PLZE2_BORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.vlctejn",
+    "code": "CZ_32_PLZE2_VLCT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.chlumy",
+    "code": "CZ_32_PLZE2_CHLU3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.oteice",
+    "code": "CZ_32_PLZE2_OTE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.predenice",
+    "code": "CZ_32_PLZE2_PRED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.neblovy",
+    "code": "CZ_32_PLZE2_NEB3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.bolkov",
+    "code": "CZ_32_PLZE2_BOLK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.radkovice",
+    "code": "CZ_32_PLZE2_RADK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.lounov",
+    "code": "CZ_32_PLZE2_LOUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.milec",
+    "code": "CZ_32_PLZE2_MILE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.kbel",
+    "code": "CZ_32_PLZE2_KBEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.klter",
+    "code": "CZ_32_PLZE2_KL03",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.kramoln",
+    "code": "CZ_32_PLZE2_KRAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.letiny",
+    "code": "CZ_32_PLZE2_LETI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.netunice",
+    "code": "CZ_32_PLZE2_NETU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.neurazy",
+    "code": "CZ_32_PLZE2_NEUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.novmitrovice",
+    "code": "CZ_32_PLZE2_NOMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.oselce",
+    "code": "CZ_32_PLZE2_OSEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.mladsmolivec",
+    "code": "CZ_32_PLZE2_MLSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.mohelnice",
+    "code": "CZ_32_PLZE2_MOHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.nekvasovy",
+    "code": "CZ_32_PLZE2_NEKV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.nepomuk",
+    "code": "CZ_32_PLZE2_NEPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.dneice",
+    "code": "CZ_32_PLZE2_DNE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.czkov",
+    "code": "CZ_32_PLZE2_CZ0K",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.meno",
+    "code": "CZ_32_PLZE2_ME0N",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.vzsky",
+    "code": "CZ_32_PLZE2_VZSK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.prdlo",
+    "code": "CZ_32_PLZE2_PR0D",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.pretice",
+    "code": "CZ_32_PLZE2_PRE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.sec",
+    "code": "CZ_32_PLZE2_SEC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.sobekury",
+    "code": "CZ_32_PLZE2_SOBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.ctuice",
+    "code": "CZ_32_PLZE2_CTU3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.vestoukov",
+    "code": "CZ_32_PLZE2_VETO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.ptenn",
+    "code": "CZ_32_PLZE2_PTEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.splenporce",
+    "code": "CZ_32_PLZE2_SPPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.stod",
+    "code": "CZ_32_PLZE2_STOD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.vrcen",
+    "code": "CZ_32_PLZE2_VRCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.vsti",
+    "code": "CZ_32_PLZE2_VSTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.strovice",
+    "code": "CZ_32_PLZE2_STR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.ctenovice",
+    "code": "CZ_32_PLZE2_CTEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.borovno",
+    "code": "CZ_32_PLZE2_BORO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.vlc",
+    "code": "CZ_32_PLZE2_VLC3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.jarov",
+    "code": "CZ_32_PLZE2_JARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.cmelny",
+    "code": "CZ_32_PLZE2_CMEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.zdemyslice",
+    "code": "CZ_32_PLZE2_ZDEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.zemetice",
+    "code": "CZ_32_PLZE2_ZEME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.cinkovy",
+    "code": "CZ_32_PLZE2_CINK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.trebcice",
+    "code": "CZ_32_PLZE2_TREB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.tojice",
+    "code": "CZ_32_PLZE2_TOJI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.rence",
+    "code": "CZ_32_PLZE2_RENC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzesouth.roupov",
+    "code": "CZ_32_PLZE2_ROUP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE2"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzecity.losin",
+    "code": "CZ_32_PLZE3_LOSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE3"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzecity.chrst",
+    "code": "CZ_32_PLZE3_CHR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE3"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzecity.ctenovickborek",
+    "code": "CZ_32_PLZE3_CTBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE3"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzecity.chvlenice",
+    "code": "CZ_32_PLZE3_CHV3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE3"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzecity.nezvestice",
+    "code": "CZ_32_PLZE3_NEZV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE3"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzecity.starplzenec",
+    "code": "CZ_32_PLZE3_STPL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE3"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzecity.letkov",
+    "code": "CZ_32_PLZE3_LETK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE3"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzecity.mokroue",
+    "code": "CZ_32_PLZE3_MOKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE3"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzecity.nezbavetice",
+    "code": "CZ_32_PLZE3_NEZB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE3"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzecity.plzen",
+    "code": "CZ_32_PLZE3_PLZE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE3"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzecity.kyice",
+    "code": "CZ_32_PLZE3_KY0I",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE3"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzecity.lhuta",
+    "code": "CZ_32_PLZE3_LHUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE3"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzecity.cthlavy",
+    "code": "CZ_32_PLZE3_CT0H",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE3"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzecity.tymkov",
+    "code": "CZ_32_PLZE3_TYM3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE3"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.plzecity.dzina",
+    "code": "CZ_32_PLZE3_DZ0I",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_PLZE3"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.ostroveclhotka",
+    "code": "CZ_32_ROKY_OSTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.mzto",
+    "code": "CZ_32_ROKY_MZTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.vesel",
+    "code": "CZ_32_ROKY_VESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.trokavec",
+    "code": "CZ_32_ROKY_TROK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.prkosice",
+    "code": "CZ_32_ROKY_PR0K",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.kornatice",
+    "code": "CZ_32_ROKY_KORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.kakejcov",
+    "code": "CZ_32_ROKY_KAKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.medovjezd",
+    "code": "CZ_32_ROKY_ME7J",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.lhotapodradcem",
+    "code": "CZ_32_ROKY_LPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.rakov",
+    "code": "CZ_32_ROKY_RAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.plskov",
+    "code": "CZ_32_ROKY_PL0S",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.skomelno",
+    "code": "CZ_32_ROKY_SKOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.nemcovice",
+    "code": "CZ_32_ROKY_NEMC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.kamenec",
+    "code": "CZ_32_ROKY_KAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.tereov",
+    "code": "CZ_32_ROKY_TERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.zbiroh",
+    "code": "CZ_32_ROKY_ZBIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.vzenice",
+    "code": "CZ_32_ROKY_VZEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.cttov",
+    "code": "CZ_32_ROKY_CT0T",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.chlum",
+    "code": "CZ_32_ROKY_CHLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.cil",
+    "code": "CZ_32_ROKY_CIL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.kamennjezd",
+    "code": "CZ_32_ROKY_KA1J",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.svojkovice",
+    "code": "CZ_32_ROKY_SVOJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.hradite",
+    "code": "CZ_32_ROKY_HRAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.zvkovec",
+    "code": "CZ_32_ROKY_ZV0K",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.nevid",
+    "code": "CZ_32_ROKY_NEVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.sir",
+    "code": "CZ_32_ROKY_SIR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.rokycany",
+    "code": "CZ_32_ROKY_ROKY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.brasy",
+    "code": "CZ_32_ROKY_BRAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.bezdekov",
+    "code": "CZ_32_ROKY_BEZD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.chomle",
+    "code": "CZ_32_ROKY_CHOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.tekov",
+    "code": "CZ_32_ROKY_TE0K",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.tzcek",
+    "code": "CZ_32_ROKY_TZCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.smedcice",
+    "code": "CZ_32_ROKY_SMED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.drahonuvjezd",
+    "code": "CZ_32_ROKY_DR3J",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.karzek",
+    "code": "CZ_32_ROKY_KAR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.skorice",
+    "code": "CZ_32_ROKY_SKOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.osek",
+    "code": "CZ_32_ROKY_OSEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.podmokly",
+    "code": "CZ_32_ROKY_PODM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.mlecice",
+    "code": "CZ_32_ROKY_MLEC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.lzn",
+    "code": "CZ_32_ROKY_LZ0N",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.miroov",
+    "code": "CZ_32_ROKY_MIRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.kladruby",
+    "code": "CZ_32_ROKY_KLAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.klabava",
+    "code": "CZ_32_ROKY_KLAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.volduchy",
+    "code": "CZ_32_ROKY_VOLD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.tene",
+    "code": "CZ_32_ROKY_TENE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.vejvanov",
+    "code": "CZ_32_ROKY_VEJV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.sebecice",
+    "code": "CZ_32_ROKY_SEBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.straice",
+    "code": "CZ_32_ROKY_STRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.prvetice",
+    "code": "CZ_32_ROKY_PR0V",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.radnice",
+    "code": "CZ_32_ROKY_RADN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.hlohovice",
+    "code": "CZ_32_ROKY_HLOH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.holoubkov",
+    "code": "CZ_32_ROKY_HOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.brezina",
+    "code": "CZ_32_ROKY_BREZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.bujesily",
+    "code": "CZ_32_ROKY_BUJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.buovice",
+    "code": "CZ_32_ROKY_BU0O",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.cekov",
+    "code": "CZ_32_ROKY_CEKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.litohlavy",
+    "code": "CZ_32_ROKY_LITO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.cjezdusvat",
+    "code": "CZ_32_ROKY_CUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.lhotkauradnic",
+    "code": "CZ_32_ROKY_LUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.libln",
+    "code": "CZ_32_ROKY_LIBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.hrdek",
+    "code": "CZ_32_ROKY_HR0D",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.hurky",
+    "code": "CZ_32_ROKY_HURK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.cheznovice",
+    "code": "CZ_32_ROKY_CHEZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.karez",
+    "code": "CZ_32_ROKY_KARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.dobrv",
+    "code": "CZ_32_ROKY_DOBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.ejpovice",
+    "code": "CZ_32_ROKY_EJPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  },
+  {
+    "tenantId": "czechia.plzeskkraj.rokycany.drozdov",
+    "code": "CZ_32_ROKY_DROZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_32_ROKY"
+  }
+]

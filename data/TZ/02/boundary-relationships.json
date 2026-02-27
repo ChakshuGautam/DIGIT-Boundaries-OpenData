@@ -1,0 +1,660 @@
+[
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam",
+    "code": "TZ_02",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "TZ"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala",
+    "code": "TZ_02_ILAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TZ_02"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni",
+    "code": "TZ_02_KINO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TZ_02"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke",
+    "code": "TZ_02_TEME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TZ_02"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.jangwani",
+    "code": "TZ_02_ILAL_JANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.kariakoo",
+    "code": "TZ_02_ILAL_KARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.kimanga",
+    "code": "TZ_02_ILAL_KIMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.kinyerezi",
+    "code": "TZ_02_ILAL_KINY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.buguruni",
+    "code": "TZ_02_ILAL_BUGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.chanika",
+    "code": "TZ_02_ILAL_CHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.gerezani",
+    "code": "TZ_02_ILAL_GERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.kivukoni",
+    "code": "TZ_02_ILAL_KIVU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.gongolamboto",
+    "code": "TZ_02_ILAL_GONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.ilala",
+    "code": "TZ_02_ILAL_ILAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.kipawa",
+    "code": "TZ_02_ILAL_KIPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.kisutu",
+    "code": "TZ_02_ILAL_KISU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.kitunda",
+    "code": "TZ_02_ILAL_KITU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.kiwalani",
+    "code": "TZ_02_ILAL_KIWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.majohe",
+    "code": "TZ_02_ILAL_MAJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.kivule",
+    "code": "TZ_02_ILAL_KIVU2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.mchafukoge",
+    "code": "TZ_02_ILAL_MCHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.mchikichini",
+    "code": "TZ_02_ILAL_MCHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.msongola",
+    "code": "TZ_02_ILAL_MSON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.upangamagharibi",
+    "code": "TZ_02_ILAL_UPMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.pugu",
+    "code": "TZ_02_ILAL_PUGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.upangamashariki",
+    "code": "TZ_02_ILAL_UPMA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.segerea",
+    "code": "TZ_02_ILAL_SEGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.tabata",
+    "code": "TZ_02_ILAL_TABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.ukonga",
+    "code": "TZ_02_ILAL_UKON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.ilala.vingunguti",
+    "code": "TZ_02_ILAL_VING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_ILAL"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.mikocheni",
+    "code": "TZ_02_KINO_MIKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.hananasifu",
+    "code": "TZ_02_KINO_HANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.bunju",
+    "code": "TZ_02_KINO_BUNJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.goba",
+    "code": "TZ_02_KINO_GOBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.kibamba",
+    "code": "TZ_02_KINO_KIBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.kigogo",
+    "code": "TZ_02_KINO_KIGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.magomeni",
+    "code": "TZ_02_KINO_MAGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.kijitonyama",
+    "code": "TZ_02_KINO_KIJI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.kimara",
+    "code": "TZ_02_KINO_KIMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.kinondoni",
+    "code": "TZ_02_KINO_KINO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.mzimuni",
+    "code": "TZ_02_KINO_MZIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.kunduchi",
+    "code": "TZ_02_KINO_KUND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.kwembe",
+    "code": "TZ_02_KINO_KWEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.mabibo",
+    "code": "TZ_02_KINO_MABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.makumbusho",
+    "code": "TZ_02_KINO_MAKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.mabwepande",
+    "code": "TZ_02_KINO_MABW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.makongo",
+    "code": "TZ_02_KINO_MAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.makurumla",
+    "code": "TZ_02_KINO_MAKU2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.makuburi",
+    "code": "TZ_02_KINO_MAKU3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.manzese",
+    "code": "TZ_02_KINO_MANZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.mbezijuu",
+    "code": "TZ_02_KINO_MBJU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.mbezi",
+    "code": "TZ_02_KINO_MBEZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.mburahati",
+    "code": "TZ_02_KINO_MBUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.mbweni",
+    "code": "TZ_02_KINO_MBWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.msasani",
+    "code": "TZ_02_KINO_MSAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.ndugumbi",
+    "code": "TZ_02_KINO_NDUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.saranga",
+    "code": "TZ_02_KINO_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.msigani",
+    "code": "TZ_02_KINO_MSIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.mwananyamala",
+    "code": "TZ_02_KINO_MWAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.sinza",
+    "code": "TZ_02_KINO_SINZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.tandale",
+    "code": "TZ_02_KINO_TAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.ubungo",
+    "code": "TZ_02_KINO_UBUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.wazo",
+    "code": "TZ_02_KINO_WAZO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.kinondoni.kawe",
+    "code": "TZ_02_KINO_KAWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_KINO"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.tungi",
+    "code": "TZ_02_TEME_TUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.azimio",
+    "code": "TZ_02_TEME_AZIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.changombe",
+    "code": "TZ_02_TEME_CHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.vijibweni",
+    "code": "TZ_02_TEME_VIJI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.buza",
+    "code": "TZ_02_TEME_BUZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.chamazi",
+    "code": "TZ_02_TEME_CHAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.charambe",
+    "code": "TZ_02_TEME_CHAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.keko",
+    "code": "TZ_02_TEME_KEKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.kibada",
+    "code": "TZ_02_TEME_KIBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.kiburugwa",
+    "code": "TZ_02_TEME_KIBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.kigamboni",
+    "code": "TZ_02_TEME_KIGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.kimbiji",
+    "code": "TZ_02_TEME_KIMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.kijichi",
+    "code": "TZ_02_TEME_KIJI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.kilakala",
+    "code": "TZ_02_TEME_KILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.kisaraweii",
+    "code": "TZ_02_TEME_KIII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.kurasini",
+    "code": "TZ_02_TEME_KURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.makangarawe",
+    "code": "TZ_02_TEME_MAKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.mbagala",
+    "code": "TZ_02_TEME_MBAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.mbagalakuu",
+    "code": "TZ_02_TEME_MBKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.temeke",
+    "code": "TZ_02_TEME_TEME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.mianzini",
+    "code": "TZ_02_TEME_MIAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.miburani",
+    "code": "TZ_02_TEME_MIBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.mjimwema",
+    "code": "TZ_02_TEME_MJIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.mtoni",
+    "code": "TZ_02_TEME_MTON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.pembamnazi",
+    "code": "TZ_02_TEME_PEMN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.sandali",
+    "code": "TZ_02_TEME_SAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.somangila",
+    "code": "TZ_02_TEME_SOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.tandika",
+    "code": "TZ_02_TEME_TAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.toangoma",
+    "code": "TZ_02_TEME_TOAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.daressalaam.temeke.yombovituka",
+    "code": "TZ_02_TEME_YOVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZ_02_TEME"
+  }
+]

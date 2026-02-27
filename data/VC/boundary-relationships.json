@@ -1,0 +1,51 @@
+[
+  {
+    "tenantId": "saintvincentandthegrenadines",
+    "code": "VC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "saintvincentandthegrenadines.charlotte",
+    "code": "VC_01",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "VC"
+  },
+  {
+    "tenantId": "saintvincentandthegrenadines.saintandrew",
+    "code": "VC_02",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "VC"
+  },
+  {
+    "tenantId": "saintvincentandthegrenadines.saintdavid",
+    "code": "VC_03",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "VC"
+  },
+  {
+    "tenantId": "saintvincentandthegrenadines.saintgeorge",
+    "code": "VC_04",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "VC"
+  },
+  {
+    "tenantId": "saintvincentandthegrenadines.saintpatrick",
+    "code": "VC_05",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "VC"
+  },
+  {
+    "tenantId": "saintvincentandthegrenadines.grenadines",
+    "code": "VC_06",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "VC"
+  }
+]

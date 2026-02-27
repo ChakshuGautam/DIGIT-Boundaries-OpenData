@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "papuanewguinea.nationalcapitaldistrict",
+    "code": "PG_NCD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PG"
+  },
+  {
+    "tenantId": "papuanewguinea.nationalcapitaldistrict.nationalcapitaldistrict",
+    "code": "PG_NCD_NCD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PG_NCD"
+  },
+  {
+    "tenantId": "papuanewguinea.nationalcapitaldistrict.nationalcapitaldistrict.nationalcapitaldistrict",
+    "code": "PG_NCD_NCD_NCD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_NCD_NCD"
+  }
+]

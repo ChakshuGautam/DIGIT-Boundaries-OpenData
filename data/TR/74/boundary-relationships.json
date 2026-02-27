@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "turkey.bartn",
+    "code": "TR_74",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TR"
+  },
+  {
+    "tenantId": "turkey.bartn.ulus",
+    "code": "TR_74_ULUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TR_74"
+  },
+  {
+    "tenantId": "turkey.bartn.bartnmerkez",
+    "code": "TR_74_BAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TR_74"
+  },
+  {
+    "tenantId": "turkey.bartn.kurucaile",
+    "code": "TR_74_KURU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TR_74"
+  },
+  {
+    "tenantId": "turkey.bartn.amasra",
+    "code": "TR_74_AMAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TR_74"
+  }
+]

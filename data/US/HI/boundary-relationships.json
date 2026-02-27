@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "unitedstatesofamerica.hawaii",
+    "code": "US_HI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "US"
+  },
+  {
+    "tenantId": "unitedstatesofamerica.hawaii.maui",
+    "code": "US_HI_MAUI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "US_HI"
+  },
+  {
+    "tenantId": "unitedstatesofamerica.hawaii.honolulu",
+    "code": "US_HI_HONO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "US_HI"
+  },
+  {
+    "tenantId": "unitedstatesofamerica.hawaii.kauai",
+    "code": "US_HI_KAUA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "US_HI"
+  },
+  {
+    "tenantId": "unitedstatesofamerica.hawaii.hawaii",
+    "code": "US_HI_HAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "US_HI"
+  },
+  {
+    "tenantId": "unitedstatesofamerica.hawaii.kalawao",
+    "code": "US_HI_KALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "US_HI"
+  }
+]

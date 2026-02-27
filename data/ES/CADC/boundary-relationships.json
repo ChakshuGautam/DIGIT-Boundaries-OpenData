@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "spain.ciudadautnomadeceuta",
+    "code": "ES_CADC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "ES"
+  },
+  {
+    "tenantId": "spain.ciudadautnomadeceuta.ceuta",
+    "code": "ES_CADC_CEUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_CADC"
+  },
+  {
+    "tenantId": "spain.ciudadautnomadeceuta.ceuta.ceuta",
+    "code": "ES_CADC_CEUT_CEUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CADC_CEUT"
+  }
+]

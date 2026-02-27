@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "bruneidarussalam",
+    "code": "BN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "bruneidarussalam.belait",
+    "code": "BN_BE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BN"
+  },
+  {
+    "tenantId": "bruneidarussalam.tutong",
+    "code": "BN_TU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BN"
+  },
+  {
+    "tenantId": "bruneidarussalam.bruneimuara",
+    "code": "BN_BM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BN"
+  },
+  {
+    "tenantId": "bruneidarussalam.temburong",
+    "code": "BN_TE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BN"
+  }
+]

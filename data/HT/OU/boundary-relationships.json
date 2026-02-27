@@ -1,0 +1,184 @@
+[
+  {
+    "tenantId": "haiti.dpartementdelouest",
+    "code": "HT_OU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "HT"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.arrondissementdelagonve",
+    "code": "HT_OU_ADLG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_OU"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.arrondissementdelogne",
+    "code": "HT_OU_ADL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_OU"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.arrondissementdelarcahaie",
+    "code": "HT_OU_ADL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_OU"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.arrondissementdecroixdesbouquets",
+    "code": "HT_OU_ADC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_OU"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.portauprince",
+    "code": "HT_OU_PORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_OU"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.arrondissementdelagonve.anseagalets",
+    "code": "HT_OU_ADLG_AAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_OU_ADLG"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.arrondissementdelagonve.pointearaquette",
+    "code": "HT_OU_ADLG_PAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_OU_ADLG"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.arrondissementdelogne.leogane",
+    "code": "HT_OU_ADL_LEOG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_OU_ADL"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.arrondissementdelogne.petitgoave",
+    "code": "HT_OU_ADL_PEGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_OU_ADL"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.arrondissementdelogne.grandgoave",
+    "code": "HT_OU_ADL_GRGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_OU_ADL"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.arrondissementdelarcahaie.arcahaie",
+    "code": "HT_OU_ADL2_ARCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_OU_ADL2"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.arrondissementdelarcahaie.cabaret",
+    "code": "HT_OU_ADL2_CABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_OU_ADL2"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.arrondissementdecroixdesbouquets.croixdesbouquets",
+    "code": "HT_OU_ADC_CDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_OU_ADC"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.arrondissementdecroixdesbouquets.thomazeau",
+    "code": "HT_OU_ADC_THOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_OU_ADC"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.arrondissementdecroixdesbouquets.ganthier",
+    "code": "HT_OU_ADC_GANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_OU_ADC"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.arrondissementdecroixdesbouquets.cornillon",
+    "code": "HT_OU_ADC_CORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_OU_ADC"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.arrondissementdecroixdesbouquets.fondsverrettes",
+    "code": "HT_OU_ADC_FOVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_OU_ADC"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.portauprince.portauprince",
+    "code": "HT_OU_PORT_PAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_OU_PORT"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.portauprince.delmas",
+    "code": "HT_OU_PORT_DELM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_OU_PORT"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.portauprince.carrefour",
+    "code": "HT_OU_PORT_CARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_OU_PORT"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.portauprince.petionville",
+    "code": "HT_OU_PORT_PETI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_OU_PORT"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.portauprince.kenscoff",
+    "code": "HT_OU_PORT_KENS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_OU_PORT"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.portauprince.gressier",
+    "code": "HT_OU_PORT_GRES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_OU_PORT"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.portauprince.citesoleil",
+    "code": "HT_OU_PORT_CISO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_OU_PORT"
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest.portauprince.tabarre",
+    "code": "HT_OU_PORT_TABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_OU_PORT"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "tenantId": "centralafricanrepublic.nanagrbizi",
+    "code": "CF_KB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CF"
+  },
+  {
+    "tenantId": "centralafricanrepublic.nanagrbizi.mbrs",
+    "code": "CF_KB_MBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CF_KB"
+  },
+  {
+    "tenantId": "centralafricanrepublic.nanagrbizi.kagabandoro",
+    "code": "CF_KB_KAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CF_KB"
+  },
+  {
+    "tenantId": "centralafricanrepublic.nanagrbizi.mbrs.mbres",
+    "code": "CF_KB_MBR_MBRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CF_KB_MBR"
+  },
+  {
+    "tenantId": "centralafricanrepublic.nanagrbizi.kagabandoro.ndenga",
+    "code": "CF_KB_KAGA_NDEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CF_KB_KAGA"
+  },
+  {
+    "tenantId": "centralafricanrepublic.nanagrbizi.kagabandoro.nanaouta",
+    "code": "CF_KB_KAGA_NANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CF_KB_KAGA"
+  },
+  {
+    "tenantId": "centralafricanrepublic.nanagrbizi.kagabandoro.botto",
+    "code": "CF_KB_KAGA_BOTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CF_KB_KAGA"
+  },
+  {
+    "tenantId": "centralafricanrepublic.nanagrbizi.kagabandoro.grivaipamia",
+    "code": "CF_KB_KAGA_GRIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CF_KB_KAGA"
+  },
+  {
+    "tenantId": "centralafricanrepublic.nanagrbizi.kagabandoro.kagabandoro",
+    "code": "CF_KB_KAGA_KAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CF_KB_KAGA"
+  }
+]

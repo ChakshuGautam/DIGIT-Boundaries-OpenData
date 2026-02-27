@@ -1,0 +1,107 @@
+[
+  {
+    "tenantId": "chile.regindelosros",
+    "code": "CL_RDLR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CL"
+  },
+  {
+    "tenantId": "chile.regindelosros.provinciadevaldivia",
+    "code": "CL_RDLR_PDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CL_RDLR"
+  },
+  {
+    "tenantId": "chile.regindelosros.provinciaderanco",
+    "code": "CL_RDLR_PDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CL_RDLR"
+  },
+  {
+    "tenantId": "chile.regindelosros.provinciadevaldivia.loslagos",
+    "code": "CL_RDLR_PDV_LOLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDLR_PDV"
+  },
+  {
+    "tenantId": "chile.regindelosros.provinciadevaldivia.mfil",
+    "code": "CL_RDLR_PDV_MFI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDLR_PDV"
+  },
+  {
+    "tenantId": "chile.regindelosros.provinciadevaldivia.paillaco",
+    "code": "CL_RDLR_PDV_PAIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDLR_PDV"
+  },
+  {
+    "tenantId": "chile.regindelosros.provinciadevaldivia.lanco",
+    "code": "CL_RDLR_PDV_LANC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDLR_PDV"
+  },
+  {
+    "tenantId": "chile.regindelosros.provinciadevaldivia.panguipulli",
+    "code": "CL_RDLR_PDV_PANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDLR_PDV"
+  },
+  {
+    "tenantId": "chile.regindelosros.provinciadevaldivia.mariquina",
+    "code": "CL_RDLR_PDV_MARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDLR_PDV"
+  },
+  {
+    "tenantId": "chile.regindelosros.provinciadevaldivia.corral",
+    "code": "CL_RDLR_PDV_CORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDLR_PDV"
+  },
+  {
+    "tenantId": "chile.regindelosros.provinciadevaldivia.valdivia",
+    "code": "CL_RDLR_PDV_VALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDLR_PDV"
+  },
+  {
+    "tenantId": "chile.regindelosros.provinciaderanco.launin",
+    "code": "CL_RDLR_PDR_LAUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDLR_PDR"
+  },
+  {
+    "tenantId": "chile.regindelosros.provinciaderanco.robueno",
+    "code": "CL_RDLR_PDR_RBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDLR_PDR"
+  },
+  {
+    "tenantId": "chile.regindelosros.provinciaderanco.lagoranco",
+    "code": "CL_RDLR_PDR_LARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDLR_PDR"
+  },
+  {
+    "tenantId": "chile.regindelosros.provinciaderanco.futrono",
+    "code": "CL_RDLR_PDR_FUTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDLR_PDR"
+  }
+]

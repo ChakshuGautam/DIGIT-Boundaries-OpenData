@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "togo",
+    "code": "TG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "togo.savanesregion",
+    "code": "TG_S",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TG"
+  },
+  {
+    "tenantId": "togo.kararegion",
+    "code": "TG_K",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TG"
+  },
+  {
+    "tenantId": "togo.centraleregion",
+    "code": "TG_C",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TG"
+  },
+  {
+    "tenantId": "togo.plateauxregion",
+    "code": "TG_P",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TG"
+  },
+  {
+    "tenantId": "togo.maritimeregion",
+    "code": "TG_M",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TG"
+  }
+]

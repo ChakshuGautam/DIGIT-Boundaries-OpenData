@@ -1,0 +1,170 @@
+[
+  {
+    "tenantId": "gambia.kerewan",
+    "code": "GM_N",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GM"
+  },
+  {
+    "tenantId": "gambia.kerewan.centralbadibu",
+    "code": "GM_N_CEBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GM_N"
+  },
+  {
+    "tenantId": "gambia.kerewan.illiasa",
+    "code": "GM_N_ILLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GM_N"
+  },
+  {
+    "tenantId": "gambia.kerewan.jokadu",
+    "code": "GM_N_JOKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GM_N"
+  },
+  {
+    "tenantId": "gambia.kerewan.lowerbadibu",
+    "code": "GM_N_LOBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GM_N"
+  },
+  {
+    "tenantId": "gambia.kerewan.lowerniumi",
+    "code": "GM_N_LONI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GM_N"
+  },
+  {
+    "tenantId": "gambia.kerewan.sabachsanjar",
+    "code": "GM_N_SASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GM_N"
+  },
+  {
+    "tenantId": "gambia.kerewan.upperniumi",
+    "code": "GM_N_UPNI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GM_N"
+  },
+  {
+    "tenantId": "gambia.kerewan.centralbadibu.njabakunda",
+    "code": "GM_N_CEBA_NJKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_N_CEBA"
+  },
+  {
+    "tenantId": "gambia.kerewan.centralbadibu.sallikene",
+    "code": "GM_N_CEBA_SALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_N_CEBA"
+  },
+  {
+    "tenantId": "gambia.kerewan.illiasa.farafenni",
+    "code": "GM_N_ILLI_FARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_N_ILLI"
+  },
+  {
+    "tenantId": "gambia.kerewan.illiasa.katchang",
+    "code": "GM_N_ILLI_KATC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_N_ILLI"
+  },
+  {
+    "tenantId": "gambia.kerewan.illiasa.kubandarr",
+    "code": "GM_N_ILLI_KUBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_N_ILLI"
+  },
+  {
+    "tenantId": "gambia.kerewan.illiasa.nokunda",
+    "code": "GM_N_ILLI_NOKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_N_ILLI"
+  },
+  {
+    "tenantId": "gambia.kerewan.jokadu.darsilami",
+    "code": "GM_N_JOKA_DARS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_N_JOKA"
+  },
+  {
+    "tenantId": "gambia.kerewan.jokadu.kerewan",
+    "code": "GM_N_JOKA_KERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_N_JOKA"
+  },
+  {
+    "tenantId": "gambia.kerewan.lowerbadibu.saaba",
+    "code": "GM_N_LOBA_SAAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_N_LOBA"
+  },
+  {
+    "tenantId": "gambia.kerewan.lowerniumi.essau",
+    "code": "GM_N_LONI_ESSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_N_LONI"
+  },
+  {
+    "tenantId": "gambia.kerewan.lowerniumi.medinaseringmass",
+    "code": "GM_N_LONI_MSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_N_LONI"
+  },
+  {
+    "tenantId": "gambia.kerewan.sabachsanjar.sabach",
+    "code": "GM_N_SASA_SABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_N_SASA"
+  },
+  {
+    "tenantId": "gambia.kerewan.sabachsanjar.sanjal",
+    "code": "GM_N_SASA_SANJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_N_SASA"
+  },
+  {
+    "tenantId": "gambia.kerewan.upperniumi.kerrjarga",
+    "code": "GM_N_UPNI_KEJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_N_UPNI"
+  },
+  {
+    "tenantId": "gambia.kerewan.upperniumi.pakau",
+    "code": "GM_N_UPNI_PAKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_N_UPNI"
+  },
+  {
+    "tenantId": "gambia.kerewan.upperniumi.prince",
+    "code": "GM_N_UPNI_PRIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_N_UPNI"
+  }
+]

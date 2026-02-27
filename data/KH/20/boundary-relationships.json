@@ -1,0 +1,625 @@
+[
+  {
+    "tenantId": "cambodia.svayrieng",
+    "code": "KH_20",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "KH"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.chantrea",
+    "code": "KH_20_CHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KH_20"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.kampongrou",
+    "code": "KH_20_KARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KH_20"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.rumduol",
+    "code": "KH_20_RUMD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KH_20"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.romeashaek",
+    "code": "KH_20_ROHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KH_20"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svaychrum",
+    "code": "KH_20_SVCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KH_20"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svayrieng",
+    "code": "KH_20_SVRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KH_20"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svayteab",
+    "code": "KH_20_SVTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KH_20"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.bavet",
+    "code": "KH_20_BAVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KH_20"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.chantrea.preykokir",
+    "code": "KH_20_CHAN_PRKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_CHAN"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.chantrea.mesarthngak",
+    "code": "KH_20_CHAN_MST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_CHAN"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.chantrea.chres",
+    "code": "KH_20_CHAN_CHRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_CHAN"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.chantrea.samraong",
+    "code": "KH_20_CHAN_SAMR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_CHAN"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.chantrea.tuolsdei",
+    "code": "KH_20_CHAN_TUSD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_CHAN"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.chantrea.chantrea",
+    "code": "KH_20_CHAN_CHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_CHAN"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.kampongrou.preahponlea",
+    "code": "KH_20_KARO_PRPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_KARO"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.kampongrou.svaytayean",
+    "code": "KH_20_KARO_STY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_KARO"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.kampongrou.samlei",
+    "code": "KH_20_KARO_SAML",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_KARO"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.kampongrou.samyaong",
+    "code": "KH_20_KARO_SAMY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_KARO"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.kampongrou.preythum",
+    "code": "KH_20_KARO_PRTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_KARO"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.kampongrou.nhor",
+    "code": "KH_20_KARO_NHOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_KARO"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.kampongrou.khsaetr",
+    "code": "KH_20_KARO_KHSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_KARO"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.kampongrou.banteaykrang",
+    "code": "KH_20_KARO_BAKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_KARO"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.kampongrou.reachmontir",
+    "code": "KH_20_KARO_REMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_KARO"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.kampongrou.tnaot",
+    "code": "KH_20_KARO_TNAO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_KARO"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.kampongrou.thmei",
+    "code": "KH_20_KARO_THME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_KARO"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.rumduol.kampongampil",
+    "code": "KH_20_RUMD_KAAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_RUMD"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.rumduol.thnathnong",
+    "code": "KH_20_RUMD_THTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_RUMD"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.rumduol.thmea",
+    "code": "KH_20_RUMD_THME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_RUMD"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.rumduol.chrungpopel",
+    "code": "KH_20_RUMD_CHPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_RUMD"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.rumduol.bosmon",
+    "code": "KH_20_RUMD_BOMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_RUMD"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.rumduol.meunchey",
+    "code": "KH_20_RUMD_MECH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_RUMD"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.rumduol.sangkae",
+    "code": "KH_20_RUMD_SANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_RUMD"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.rumduol.svaychek",
+    "code": "KH_20_RUMD_SVCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_RUMD"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.rumduol.pongtuek",
+    "code": "KH_20_RUMD_POTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_RUMD"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.rumduol.kampongchak",
+    "code": "KH_20_RUMD_KACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_RUMD"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.romeashaek.tras",
+    "code": "KH_20_ROHA_TRAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_ROHA"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.romeashaek.andoungtrabaek",
+    "code": "KH_20_ROHA_ANTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_ROHA"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.romeashaek.krasang",
+    "code": "KH_20_ROHA_KRAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_ROHA"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.romeashaek.sambuor",
+    "code": "KH_20_ROHA_SAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_ROHA"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.romeashaek.kokir",
+    "code": "KH_20_ROHA_KOKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_ROHA"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.romeashaek.ampil",
+    "code": "KH_20_ROHA_AMPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_ROHA"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.romeashaek.sambattmeanchey",
+    "code": "KH_20_ROHA_SMC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_ROHA"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.romeashaek.chreythum",
+    "code": "KH_20_ROHA_CHTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_ROHA"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.romeashaek.kampongtrach",
+    "code": "KH_20_ROHA_KATR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_ROHA"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.romeashaek.andoungpou",
+    "code": "KH_20_ROHA_ANPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_ROHA"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.romeashaek.mukhda",
+    "code": "KH_20_ROHA_MUDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_ROHA"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.romeashaek.doung",
+    "code": "KH_20_ROHA_DOUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_ROHA"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.romeashaek.mream",
+    "code": "KH_20_ROHA_MREA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_ROHA"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.romeashaek.trapeangsdau",
+    "code": "KH_20_ROHA_TRSD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_ROHA"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.romeashaek.angkprasrae",
+    "code": "KH_20_ROHA_ANPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_ROHA"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.romeashaek.chantrei",
+    "code": "KH_20_ROHA_CHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_ROHA"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svaychrum.dounsa",
+    "code": "KH_20_SVCH_DOSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVCH"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svaychrum.svayyea",
+    "code": "KH_20_SVCH_SVYE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVCH"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svaychrum.svayangk",
+    "code": "KH_20_SVCH_SVAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVCH"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svaychrum.angktasou",
+    "code": "KH_20_SVCH_ATS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVCH"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svaychrum.thlok",
+    "code": "KH_20_SVCH_THLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVCH"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svaychrum.kraolkou",
+    "code": "KH_20_SVCH_KRKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVCH"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svaychrum.koukpring",
+    "code": "KH_20_SVCH_KOPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVCH"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svaychrum.pouthireach",
+    "code": "KH_20_SVCH_PORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVCH"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svaychrum.svaychrum",
+    "code": "KH_20_SVCH_SVCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVCH"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svaychrum.chheuteal",
+    "code": "KH_20_SVCH_CHTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVCH"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svaychrum.tasuos",
+    "code": "KH_20_SVCH_TASU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVCH"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svaychrum.kampongchamlang",
+    "code": "KH_20_SVCH_KACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVCH"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svaychrum.svaythum",
+    "code": "KH_20_SVCH_SVTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVCH"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svaychrum.chambak",
+    "code": "KH_20_SVCH_CHAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVCH"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svaychrum.kruos",
+    "code": "KH_20_SVCH_KRUO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVCH"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svaychrum.basak",
+    "code": "KH_20_SVCH_BASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVCH"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svayrieng.sangkhoar",
+    "code": "KH_20_SVRI_SANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVRI"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svayrieng.chek",
+    "code": "KH_20_SVRI_CHEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVRI"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svayrieng.preychhlak",
+    "code": "KH_20_SVRI_PRCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVRI"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svayrieng.poutahao",
+    "code": "KH_20_SVRI_PTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVRI"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svayrieng.svayrieng",
+    "code": "KH_20_SVRI_SVRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVRI"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svayrieng.svaytoea",
+    "code": "KH_20_SVRI_SVTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVRI"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svayrieng.koytrabaek",
+    "code": "KH_20_SVRI_KOTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVRI"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svayteab.kokisaom",
+    "code": "KH_20_SVTE_KOSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVTE"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svayteab.preytaei",
+    "code": "KH_20_SVTE_PTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVTE"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svayteab.svayrumpear",
+    "code": "KH_20_SVTE_SVRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVTE"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svayteab.romeangthkaol",
+    "code": "KH_20_SVTE_ROTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVTE"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svayteab.sambuor",
+    "code": "KH_20_SVTE_SAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVTE"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svayteab.monourom",
+    "code": "KH_20_SVTE_MONO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVTE"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svayteab.popeaet",
+    "code": "KH_20_SVTE_POPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVTE"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svayteab.kandiengreay",
+    "code": "KH_20_SVTE_KARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVTE"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.svayteab.prasoutr",
+    "code": "KH_20_SVTE_PRAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_SVTE"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.bavet.bavet",
+    "code": "KH_20_BAVE_BAVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_BAVE"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.bavet.chrakmtes",
+    "code": "KH_20_BAVE_CHMT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_BAVE"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.bavet.bati",
+    "code": "KH_20_BAVE_BATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_BAVE"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.bavet.preyangkunh",
+    "code": "KH_20_BAVE_PRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_BAVE"
+  },
+  {
+    "tenantId": "cambodia.svayrieng.bavet.prasat",
+    "code": "KH_20_BAVE_PRAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_20_BAVE"
+  }
+]

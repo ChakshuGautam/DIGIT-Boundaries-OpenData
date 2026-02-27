@@ -1,0 +1,919 @@
+[
+  {
+    "tenantId": "costarica.provinciaalajuela",
+    "code": "CR_A",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CR"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.alajuela",
+    "code": "CR_A_ALAJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_A"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.poas",
+    "code": "CR_A_POAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_A"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.riocuarto",
+    "code": "CR_A_RICU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_A"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.grecia",
+    "code": "CR_A_GREC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_A"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sarchi",
+    "code": "CR_A_SARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_A"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.naranjo",
+    "code": "CR_A_NARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_A"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.zarcero",
+    "code": "CR_A_ZARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_A"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.palmeras",
+    "code": "CR_A_PALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_A"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.atenas",
+    "code": "CR_A_ATEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_A"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.orotina",
+    "code": "CR_A_OROT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_A"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sanmateo",
+    "code": "CR_A_SAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_A"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sanramon",
+    "code": "CR_A_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_A"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sancarlos",
+    "code": "CR_A_SACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_A"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.loschiles",
+    "code": "CR_A_LOCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_A"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.guatuso",
+    "code": "CR_A_GUAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_A"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.upala",
+    "code": "CR_A_UPAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CR_A"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.alajuela.gucima",
+    "code": "CR_A_ALAJ_GUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ALAJ"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.alajuela.lagarita",
+    "code": "CR_A_ALAJ_LAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ALAJ"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.alajuela.sanisidro",
+    "code": "CR_A_ALAJ_SAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ALAJ"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.alajuela.sabanilla",
+    "code": "CR_A_ALAJ_SABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ALAJ"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.alajuela.sanrafael",
+    "code": "CR_A_ALAJ_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ALAJ"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.alajuela.tambor",
+    "code": "CR_A_ALAJ_TAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ALAJ"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.alajuela.carrizal",
+    "code": "CR_A_ALAJ_CARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ALAJ"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.alajuela.turrcares",
+    "code": "CR_A_ALAJ_TURR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ALAJ"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.alajuela.alajuela",
+    "code": "CR_A_ALAJ_ALAJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ALAJ"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.alajuela.desamparados",
+    "code": "CR_A_ALAJ_DESA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ALAJ"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.alajuela.rosegundo",
+    "code": "CR_A_ALAJ_RSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ALAJ"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.alajuela.sanantonio",
+    "code": "CR_A_ALAJ_SAAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ALAJ"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.alajuela.sanjos",
+    "code": "CR_A_ALAJ_SAJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ALAJ"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.poas.sabanaredonda",
+    "code": "CR_A_POAS_SARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_POAS"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.poas.sanpedro",
+    "code": "CR_A_POAS_SAPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_POAS"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.poas.sanrafael",
+    "code": "CR_A_POAS_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_POAS"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.poas.carrillos",
+    "code": "CR_A_POAS_CARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_POAS"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.poas.sanjuan",
+    "code": "CR_A_POAS_SAJU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_POAS"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.riocuarto.rocuarto",
+    "code": "CR_A_RICU_RCU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_RICU"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.riocuarto.sarapiqu",
+    "code": "CR_A_RICU_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_RICU"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.grecia.sanroque",
+    "code": "CR_A_GREC_SARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_GREC"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.grecia.sanisidro",
+    "code": "CR_A_GREC_SAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_GREC"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.grecia.tacares",
+    "code": "CR_A_GREC_TACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_GREC"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.grecia.bolvar",
+    "code": "CR_A_GREC_BOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_GREC"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.grecia.grecia",
+    "code": "CR_A_GREC_GREC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_GREC"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.grecia.puentedepiedra",
+    "code": "CR_A_GREC_PDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_GREC"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.grecia.sanjos",
+    "code": "CR_A_GREC_SAJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_GREC"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sarchi.sarchnorte",
+    "code": "CR_A_SARC_SANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SARC"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sarchi.sarchsur",
+    "code": "CR_A_SARC_SASU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SARC"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sarchi.sanpedro",
+    "code": "CR_A_SARC_SAPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SARC"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sarchi.toroamarillo",
+    "code": "CR_A_SARC_TOAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SARC"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sarchi.rodrguez",
+    "code": "CR_A_SARC_RODR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SARC"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.naranjo.naranjo",
+    "code": "CR_A_NARA_NARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_NARA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.naranjo.cirrsur",
+    "code": "CR_A_NARA_CISU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_NARA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.naranjo.elrosario",
+    "code": "CR_A_NARA_ELRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_NARA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.naranjo.palmitos",
+    "code": "CR_A_NARA_PALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_NARA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.naranjo.sanjernimo",
+    "code": "CR_A_NARA_SAJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_NARA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.naranjo.sanjos",
+    "code": "CR_A_NARA_SAJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_NARA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.naranjo.sanjuan",
+    "code": "CR_A_NARA_SAJU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_NARA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.naranjo.sanmiguel",
+    "code": "CR_A_NARA_SAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_NARA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.zarcero.laguna",
+    "code": "CR_A_ZARC_LAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ZARC"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.zarcero.zarcero",
+    "code": "CR_A_ZARC_ZARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ZARC"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.zarcero.palmira",
+    "code": "CR_A_ZARC_PALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ZARC"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.zarcero.tapesco",
+    "code": "CR_A_ZARC_TAPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ZARC"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.zarcero.brisas",
+    "code": "CR_A_ZARC_BRIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ZARC"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.zarcero.guadalupe",
+    "code": "CR_A_ZARC_GUAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ZARC"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.zarcero.zapote",
+    "code": "CR_A_ZARC_ZAPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ZARC"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.palmeras.palmares",
+    "code": "CR_A_PALM_PALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_PALM"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.palmeras.candelaria",
+    "code": "CR_A_PALM_CAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_PALM"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.palmeras.santiago",
+    "code": "CR_A_PALM_SANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_PALM"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.palmeras.buenosaires",
+    "code": "CR_A_PALM_BUAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_PALM"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.palmeras.esquipulas",
+    "code": "CR_A_PALM_ESQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_PALM"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.palmeras.lagranja",
+    "code": "CR_A_PALM_LAGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_PALM"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.palmeras.zaragoza",
+    "code": "CR_A_PALM_ZARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_PALM"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.atenas.jess",
+    "code": "CR_A_ATEN_JES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ATEN"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.atenas.santaeulalia",
+    "code": "CR_A_ATEN_SAEU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ATEN"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.atenas.atenas",
+    "code": "CR_A_ATEN_ATEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ATEN"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.atenas.concepcin",
+    "code": "CR_A_ATEN_CONC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ATEN"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.atenas.mercedes",
+    "code": "CR_A_ATEN_MERC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ATEN"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.atenas.sanisidro",
+    "code": "CR_A_ATEN_SAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ATEN"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.atenas.sanjos",
+    "code": "CR_A_ATEN_SAJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_ATEN"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.orotina.laceiba",
+    "code": "CR_A_OROT_LACE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_OROT"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.orotina.coyolar",
+    "code": "CR_A_OROT_COYO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_OROT"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.orotina.elmastate",
+    "code": "CR_A_OROT_ELMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_OROT"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.orotina.haciendavieja",
+    "code": "CR_A_OROT_HAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_OROT"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.orotina.orotina",
+    "code": "CR_A_OROT_OROT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_OROT"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sanmateo.sanmateo",
+    "code": "CR_A_SAMA_SAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SAMA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sanmateo.desmonte",
+    "code": "CR_A_SAMA_DESM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SAMA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sanmateo.jessmara",
+    "code": "CR_A_SAMA_JEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SAMA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sanmateo.labrador",
+    "code": "CR_A_SAMA_LABR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SAMA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sanramon.zapotal",
+    "code": "CR_A_SARA_ZAPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SARA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sanramon.volio",
+    "code": "CR_A_SARA_VOLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SARA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sanramon.santiago",
+    "code": "CR_A_SARA_SANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SARA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sanramon.ngeles",
+    "code": "CR_A_SARA_NGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SARA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sanramon.sanramn",
+    "code": "CR_A_SARA_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SARA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sanramon.sanlorenzo",
+    "code": "CR_A_SARA_SALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SARA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sanramon.piedadessur",
+    "code": "CR_A_SARA_PISU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SARA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sanramon.piedadesnorte",
+    "code": "CR_A_SARA_PINO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SARA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sanramon.sanjuan",
+    "code": "CR_A_SARA_SAJU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SARA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sanramon.peasblancas",
+    "code": "CR_A_SARA_PEBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SARA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sanramon.sanrafael",
+    "code": "CR_A_SARA_SARA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SARA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sanramon.alfaro",
+    "code": "CR_A_SARA_ALFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SARA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sanramon.concepcin",
+    "code": "CR_A_SARA_CONC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SARA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sanramon.sanisidro",
+    "code": "CR_A_SARA_SAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SARA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sancarlos.aguaszarcas",
+    "code": "CR_A_SACA_AGZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SACA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sancarlos.pocosol",
+    "code": "CR_A_SACA_POCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SACA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sancarlos.lapalmera",
+    "code": "CR_A_SACA_LAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SACA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sancarlos.cutris",
+    "code": "CR_A_SACA_CUTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SACA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sancarlos.monterrey",
+    "code": "CR_A_SACA_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SACA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sancarlos.buenavista",
+    "code": "CR_A_SACA_BUEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SACA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sancarlos.lafortuna",
+    "code": "CR_A_SACA_LAFO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SACA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sancarlos.venado",
+    "code": "CR_A_SACA_VENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SACA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sancarlos.venecia",
+    "code": "CR_A_SACA_VENE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SACA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sancarlos.florencia",
+    "code": "CR_A_SACA_FLOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SACA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sancarlos.latigra",
+    "code": "CR_A_SACA_LATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SACA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sancarlos.pital",
+    "code": "CR_A_SACA_PITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SACA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.sancarlos.quesada",
+    "code": "CR_A_SACA_QUES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_SACA"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.loschiles.sanjorge",
+    "code": "CR_A_LOCH_SAJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_LOCH"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.loschiles.loschiles",
+    "code": "CR_A_LOCH_LOCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_LOCH"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.loschiles.caonegro",
+    "code": "CR_A_LOCH_CANE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_LOCH"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.loschiles.elamparo",
+    "code": "CR_A_LOCH_ELAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_LOCH"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.guatuso.sanrafael",
+    "code": "CR_A_GUAT_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_GUAT"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.guatuso.buenavista",
+    "code": "CR_A_GUAT_BUEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_GUAT"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.guatuso.cote",
+    "code": "CR_A_GUAT_COTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_GUAT"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.guatuso.katira",
+    "code": "CR_A_GUAT_KATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_GUAT"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.upala.santacecilia",
+    "code": "CR_A_UPAL_SACE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_UPAL"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.upala.upala",
+    "code": "CR_A_UPAL_UPAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_UPAL"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.upala.canalete",
+    "code": "CR_A_UPAL_CANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_UPAL"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.upala.dosros",
+    "code": "CR_A_UPAL_DOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_UPAL"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.upala.aguasclaras",
+    "code": "CR_A_UPAL_AGCL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_UPAL"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.upala.sanjos",
+    "code": "CR_A_UPAL_SAJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_UPAL"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.upala.yolillal",
+    "code": "CR_A_UPAL_YOLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_UPAL"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.upala.bijagua",
+    "code": "CR_A_UPAL_BIJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_UPAL"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela.upala.delicias",
+    "code": "CR_A_UPAL_DELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CR_A_UPAL"
+  }
+]

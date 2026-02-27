@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "serbia.northbackadistrict",
+    "code": "RS_01",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "RS"
+  },
+  {
+    "tenantId": "serbia.northbackadistrict.suboticacity",
+    "code": "RS_01_SUCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_01"
+  },
+  {
+    "tenantId": "serbia.northbackadistrict.backatopolamunicipality",
+    "code": "RS_01_BTM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_01"
+  },
+  {
+    "tenantId": "serbia.northbackadistrict.maliidjosmunicipality",
+    "code": "RS_01_MIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_01"
+  }
+]

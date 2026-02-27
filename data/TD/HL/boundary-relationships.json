@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "chad.hadjerlamis",
+    "code": "TD_HL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TD"
+  },
+  {
+    "tenantId": "chad.hadjerlamis.dagana",
+    "code": "TD_HL_DAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_HL"
+  },
+  {
+    "tenantId": "chad.hadjerlamis.dababa",
+    "code": "TD_HL_DABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_HL"
+  },
+  {
+    "tenantId": "chad.hadjerlamis.harazealbiar",
+    "code": "TD_HL_HARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_HL"
+  }
+]

@@ -1,0 +1,870 @@
+[
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga",
+    "code": "TZA_22",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "TZA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama",
+    "code": "TZA_22_KAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TZA_22"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahamatownshipauthority",
+    "code": "TZA_22_KTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TZA_22"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kishapu",
+    "code": "TZA_22_KISH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TZA_22"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga",
+    "code": "TZA_22_SHIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TZA_22"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyangaurban",
+    "code": "TZA_22_SHUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TZA_22"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.ngaya",
+    "code": "TZA_22_KAHA_NGAY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.ntobo",
+    "code": "TZA_22_KAHA_NTOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.bugarama",
+    "code": "TZA_22_KAHA_BUGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.bukomela",
+    "code": "TZA_22_KAHA_BUKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.bulige",
+    "code": "TZA_22_KAHA_BULI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.isaka",
+    "code": "TZA_22_KAHA_ISAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.bulungwa",
+    "code": "TZA_22_KAHA_BULU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.bulyanhulu",
+    "code": "TZA_22_KAHA_BULY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.busangi",
+    "code": "TZA_22_KAHA_BUSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.jana",
+    "code": "TZA_22_KAHA_JANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.chambo",
+    "code": "TZA_22_KAHA_CHAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.chela",
+    "code": "TZA_22_KAHA_CHEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.chona",
+    "code": "TZA_22_KAHA_CHON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.kashishi",
+    "code": "TZA_22_KAHA_KASH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.idahina",
+    "code": "TZA_22_KAHA_IDAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.igunda",
+    "code": "TZA_22_KAHA_IGUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.igwamanoni",
+    "code": "TZA_22_KAHA_IGWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.kinamapula",
+    "code": "TZA_22_KAHA_KINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.kisuke",
+    "code": "TZA_22_KAHA_KISU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.lunguya",
+    "code": "TZA_22_KAHA_LUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.mapamba",
+    "code": "TZA_22_KAHA_MAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.mega",
+    "code": "TZA_22_KAHA_MEGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.mpunze",
+    "code": "TZA_22_KAHA_MPUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.mwalugulu",
+    "code": "TZA_22_KAHA_MWAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.mwanase",
+    "code": "TZA_22_KAHA_MWAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.nyankende",
+    "code": "TZA_22_KAHA_NYAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.sabasabini",
+    "code": "TZA_22_KAHA_SABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.segese",
+    "code": "TZA_22_KAHA_SEGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.shilela",
+    "code": "TZA_22_KAHA_SHIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.ubagwe",
+    "code": "TZA_22_KAHA_UBAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.ukune",
+    "code": "TZA_22_KAHA_UKUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.ushetu",
+    "code": "TZA_22_KAHA_USHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.ulewe",
+    "code": "TZA_22_KAHA_ULEW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.ulowa",
+    "code": "TZA_22_KAHA_ULOW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahama.uyogo",
+    "code": "TZA_22_KAHA_UYOG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KAHA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahamatownshipauthority.wendele",
+    "code": "TZA_22_KTA_WEND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KTA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahamatownshipauthority.busoka",
+    "code": "TZA_22_KTA_BUSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KTA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahamatownshipauthority.mhongolo",
+    "code": "TZA_22_KTA_MHON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KTA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahamatownshipauthority.isagehe",
+    "code": "TZA_22_KTA_ISAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KTA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahamatownshipauthority.iyenze",
+    "code": "TZA_22_KTA_IYEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KTA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahamatownshipauthority.kagongwa",
+    "code": "TZA_22_KTA_KAGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KTA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahamatownshipauthority.mhungula",
+    "code": "TZA_22_KTA_MHUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KTA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahamatownshipauthority.mondo",
+    "code": "TZA_22_KTA_MOND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KTA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahamatownshipauthority.kahamamjini",
+    "code": "TZA_22_KTA_KAMJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KTA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahamatownshipauthority.mwendakulima",
+    "code": "TZA_22_KTA_MWEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KTA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahamatownshipauthority.ngogwa",
+    "code": "TZA_22_KTA_NGOG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KTA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahamatownshipauthority.nyahanga",
+    "code": "TZA_22_KTA_NYAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KTA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahamatownshipauthority.nyandekwa",
+    "code": "TZA_22_KTA_NYAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KTA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahamatownshipauthority.kilago",
+    "code": "TZA_22_KTA_KILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KTA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahamatownshipauthority.nyasubi",
+    "code": "TZA_22_KTA_NYAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KTA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahamatownshipauthority.kinaga",
+    "code": "TZA_22_KTA_KINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KTA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahamatownshipauthority.nyihogo",
+    "code": "TZA_22_KTA_NYIH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KTA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahamatownshipauthority.majengo",
+    "code": "TZA_22_KTA_MAJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KTA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahamatownshipauthority.malunga",
+    "code": "TZA_22_KTA_MALU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KTA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kahamatownshipauthority.zongomera",
+    "code": "TZA_22_KTA_ZONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KTA"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kishapu.bubiki",
+    "code": "TZA_22_KISH_BUBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KISH"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kishapu.bunambiyu",
+    "code": "TZA_22_KISH_BUNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KISH"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kishapu.itilima",
+    "code": "TZA_22_KISH_ITIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KISH"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kishapu.kiloleli",
+    "code": "TZA_22_KISH_KILO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KISH"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kishapu.masanga",
+    "code": "TZA_22_KISH_MASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KISH"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kishapu.kishapu",
+    "code": "TZA_22_KISH_KISH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KISH"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kishapu.mondo",
+    "code": "TZA_22_KISH_MOND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KISH"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kishapu.somagedi",
+    "code": "TZA_22_KISH_SOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KISH"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kishapu.lagana",
+    "code": "TZA_22_KISH_LAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KISH"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kishapu.ukenyenge",
+    "code": "TZA_22_KISH_UKEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KISH"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kishapu.mwaduilohumbo",
+    "code": "TZA_22_KISH_MWLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KISH"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kishapu.mwakipoya",
+    "code": "TZA_22_KISH_MWAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KISH"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kishapu.mwamalasa",
+    "code": "TZA_22_KISH_MWAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KISH"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kishapu.mwamashele",
+    "code": "TZA_22_KISH_MWAM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KISH"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kishapu.ngofila",
+    "code": "TZA_22_KISH_NGOF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KISH"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kishapu.sekebugoro",
+    "code": "TZA_22_KISH_SEBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KISH"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kishapu.shagihilu",
+    "code": "TZA_22_KISH_SHAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KISH"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kishapu.songwa",
+    "code": "TZA_22_KISH_SONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KISH"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kishapu.talaga",
+    "code": "TZA_22_KISH_TALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KISH"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.kishapu.uchunga",
+    "code": "TZA_22_KISH_UCHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_KISH"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.imesela",
+    "code": "TZA_22_SHIN_IMES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.nyida",
+    "code": "TZA_22_SHIN_NYID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.bukene",
+    "code": "TZA_22_SHIN_BUKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.didia",
+    "code": "TZA_22_SHIN_DIDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.ilola",
+    "code": "TZA_22_SHIN_ILOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.iselamagazi",
+    "code": "TZA_22_SHIN_ISEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.itwangi",
+    "code": "TZA_22_SHIN_ITWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.lyabukande",
+    "code": "TZA_22_SHIN_LYAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.lyabusalu",
+    "code": "TZA_22_SHIN_LYAB2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.lyamidati",
+    "code": "TZA_22_SHIN_LYAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.masengwa",
+    "code": "TZA_22_SHIN_MASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.mwakitolyoo",
+    "code": "TZA_22_SHIN_MWAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.mwalukwa",
+    "code": "TZA_22_SHIN_MWAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.mwamala",
+    "code": "TZA_22_SHIN_MWAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.mwantini",
+    "code": "TZA_22_SHIN_MWAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.mwenge",
+    "code": "TZA_22_SHIN_MWEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.nsalala",
+    "code": "TZA_22_SHIN_NSAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.nyamalogo",
+    "code": "TZA_22_SHIN_NYAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.pandagichiza",
+    "code": "TZA_22_SHIN_PAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.puni",
+    "code": "TZA_22_SHIN_PUNI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.salawe",
+    "code": "TZA_22_SHIN_SALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.usule",
+    "code": "TZA_22_SHIN_USUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.samuye",
+    "code": "TZA_22_SHIN_SAMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.solwa",
+    "code": "TZA_22_SHIN_SOLW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.tinde",
+    "code": "TZA_22_SHIN_TIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyanga.usanda",
+    "code": "TZA_22_SHIN_USAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHIN"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyangaurban.shinyangamjini",
+    "code": "TZA_22_SHUR_SHMJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyangaurban.chamaguha",
+    "code": "TZA_22_SHUR_CHAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyangaurban.lubaga",
+    "code": "TZA_22_SHUR_LUBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyangaurban.masekelo",
+    "code": "TZA_22_SHUR_MASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyangaurban.ngokolo",
+    "code": "TZA_22_SHUR_NGOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyangaurban.chibe",
+    "code": "TZA_22_SHUR_CHIB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyangaurban.ibadakuli",
+    "code": "TZA_22_SHUR_IBAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyangaurban.ibinzamata",
+    "code": "TZA_22_SHUR_IBIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyangaurban.oldshinyanga",
+    "code": "TZA_22_SHUR_OLSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyangaurban.kambarage",
+    "code": "TZA_22_SHUR_KAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyangaurban.kitangili",
+    "code": "TZA_22_SHUR_KITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyangaurban.kizumbi",
+    "code": "TZA_22_SHUR_KIZU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyangaurban.kolandoto",
+    "code": "TZA_22_SHUR_KOLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyangaurban.mwamalili",
+    "code": "TZA_22_SHUR_MWAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyangaurban.mwawaza",
+    "code": "TZA_22_SHUR_MWAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyangaurban.ndala",
+    "code": "TZA_22_SHUR_NDAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHUR"
+  },
+  {
+    "tenantId": "unitedrepublicoftanzania.shinyanga.shinyangaurban.ndembezi",
+    "code": "TZA_22_SHUR_NDEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "TZA_22_SHUR"
+  }
+]

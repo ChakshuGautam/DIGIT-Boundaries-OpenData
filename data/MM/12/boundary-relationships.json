@@ -1,0 +1,72 @@
+[
+  {
+    "tenantId": "myanmar.kayah",
+    "code": "MM_12",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MM"
+  },
+  {
+    "tenantId": "myanmar.kayah.bawlake",
+    "code": "MM_12_BAWL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MM_12"
+  },
+  {
+    "tenantId": "myanmar.kayah.loikaw",
+    "code": "MM_12_LOIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MM_12"
+  },
+  {
+    "tenantId": "myanmar.kayah.bawlake.hpasawng",
+    "code": "MM_12_BAWL_HPAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_12_BAWL"
+  },
+  {
+    "tenantId": "myanmar.kayah.bawlake.bawlake",
+    "code": "MM_12_BAWL_BAWL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_12_BAWL"
+  },
+  {
+    "tenantId": "myanmar.kayah.bawlake.mese",
+    "code": "MM_12_BAWL_MESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_12_BAWL"
+  },
+  {
+    "tenantId": "myanmar.kayah.loikaw.hpruso",
+    "code": "MM_12_LOIK_HPRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_12_LOIK"
+  },
+  {
+    "tenantId": "myanmar.kayah.loikaw.shadaw",
+    "code": "MM_12_LOIK_SHAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_12_LOIK"
+  },
+  {
+    "tenantId": "myanmar.kayah.loikaw.demoso",
+    "code": "MM_12_LOIK_DEMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_12_LOIK"
+  },
+  {
+    "tenantId": "myanmar.kayah.loikaw.loikaw",
+    "code": "MM_12_LOIK_LOIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_12_LOIK"
+  }
+]

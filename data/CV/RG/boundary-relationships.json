@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "caboverde.ribeiragrande",
+    "code": "CV_RG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CV"
+  },
+  {
+    "tenantId": "caboverde.ribeiragrande.nossasenhoradolivramento",
+    "code": "CV_RG_NSDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CV_RG"
+  },
+  {
+    "tenantId": "caboverde.ribeiragrande.nossasenhoradorosario",
+    "code": "CV_RG_NSDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CV_RG"
+  },
+  {
+    "tenantId": "caboverde.ribeiragrande.santocrucifixo",
+    "code": "CV_RG_SACR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CV_RG"
+  },
+  {
+    "tenantId": "caboverde.ribeiragrande.saopedroapostolo",
+    "code": "CV_RG_SPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CV_RG"
+  }
+]

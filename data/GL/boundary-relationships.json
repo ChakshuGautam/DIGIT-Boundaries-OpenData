@@ -1,0 +1,51 @@
+[
+  {
+    "tenantId": "greenland",
+    "code": "GL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "greenland.northeastgreenlandnationalpark",
+    "code": "GL_UO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GL"
+  },
+  {
+    "tenantId": "greenland.avannaata",
+    "code": "GL_AV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GL"
+  },
+  {
+    "tenantId": "greenland.sermersooq",
+    "code": "GL_SM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GL"
+  },
+  {
+    "tenantId": "greenland.kujalleq",
+    "code": "GL_KU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GL"
+  },
+  {
+    "tenantId": "greenland.qeqqata",
+    "code": "GL_QE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GL"
+  },
+  {
+    "tenantId": "greenland.qeqertalik",
+    "code": "GL_QT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GL"
+  }
+]

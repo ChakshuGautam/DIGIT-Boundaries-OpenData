@@ -1,0 +1,79 @@
+[
+  {
+    "tenantId": "finland.pijthme",
+    "code": "FI_16",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "FI"
+  },
+  {
+    "tenantId": "finland.pijthme.lahdenseutukunta",
+    "code": "FI_16_LASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_16"
+  },
+  {
+    "tenantId": "finland.pijthme.lahdenseutukunta.asikkala",
+    "code": "FI_16_LASE_ASIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_16_LASE"
+  },
+  {
+    "tenantId": "finland.pijthme.lahdenseutukunta.hartola",
+    "code": "FI_16_LASE_HART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_16_LASE"
+  },
+  {
+    "tenantId": "finland.pijthme.lahdenseutukunta.heinola",
+    "code": "FI_16_LASE_HEIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_16_LASE"
+  },
+  {
+    "tenantId": "finland.pijthme.lahdenseutukunta.krkl",
+    "code": "FI_16_LASE_KRK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_16_LASE"
+  },
+  {
+    "tenantId": "finland.pijthme.lahdenseutukunta.padasjoki",
+    "code": "FI_16_LASE_PADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_16_LASE"
+  },
+  {
+    "tenantId": "finland.pijthme.lahdenseutukunta.sysm",
+    "code": "FI_16_LASE_SYSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_16_LASE"
+  },
+  {
+    "tenantId": "finland.pijthme.lahdenseutukunta.hollola",
+    "code": "FI_16_LASE_HOLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_16_LASE"
+  },
+  {
+    "tenantId": "finland.pijthme.lahdenseutukunta.lahti",
+    "code": "FI_16_LASE_LAHT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_16_LASE"
+  },
+  {
+    "tenantId": "finland.pijthme.lahdenseutukunta.orimattila",
+    "code": "FI_16_LASE_ORIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_16_LASE"
+  }
+]

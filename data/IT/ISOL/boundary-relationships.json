@@ -1,0 +1,121 @@
+[
+  {
+    "tenantId": "italy.isole",
+    "code": "IT_ISOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IT"
+  },
+  {
+    "tenantId": "italy.isole.sicilia",
+    "code": "IT_ISOL_SICI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IT_ISOL"
+  },
+  {
+    "tenantId": "italy.isole.sardegna",
+    "code": "IT_ISOL_SARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IT_ISOL"
+  },
+  {
+    "tenantId": "italy.isole.sicilia.palermo",
+    "code": "IT_ISOL_SICI_PALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_ISOL_SICI"
+  },
+  {
+    "tenantId": "italy.isole.sicilia.caltanissetta",
+    "code": "IT_ISOL_SICI_CALT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_ISOL_SICI"
+  },
+  {
+    "tenantId": "italy.isole.sicilia.enna",
+    "code": "IT_ISOL_SICI_ENNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_ISOL_SICI"
+  },
+  {
+    "tenantId": "italy.isole.sicilia.catania",
+    "code": "IT_ISOL_SICI_CATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_ISOL_SICI"
+  },
+  {
+    "tenantId": "italy.isole.sicilia.ragusa",
+    "code": "IT_ISOL_SICI_RAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_ISOL_SICI"
+  },
+  {
+    "tenantId": "italy.isole.sicilia.siracusa",
+    "code": "IT_ISOL_SICI_SIRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_ISOL_SICI"
+  },
+  {
+    "tenantId": "italy.isole.sicilia.trapani",
+    "code": "IT_ISOL_SICI_TRAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_ISOL_SICI"
+  },
+  {
+    "tenantId": "italy.isole.sicilia.messina",
+    "code": "IT_ISOL_SICI_MESS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_ISOL_SICI"
+  },
+  {
+    "tenantId": "italy.isole.sicilia.agrigento",
+    "code": "IT_ISOL_SICI_AGRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_ISOL_SICI"
+  },
+  {
+    "tenantId": "italy.isole.sardegna.sassari",
+    "code": "IT_ISOL_SARD_SASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_ISOL_SARD"
+  },
+  {
+    "tenantId": "italy.isole.sardegna.nuoro",
+    "code": "IT_ISOL_SARD_NUOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_ISOL_SARD"
+  },
+  {
+    "tenantId": "italy.isole.sardegna.oristano",
+    "code": "IT_ISOL_SARD_ORIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_ISOL_SARD"
+  },
+  {
+    "tenantId": "italy.isole.sardegna.sudsardegna",
+    "code": "IT_ISOL_SARD_SUSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_ISOL_SARD"
+  },
+  {
+    "tenantId": "italy.isole.sardegna.cagliari",
+    "code": "IT_ISOL_SARD_CAGL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_ISOL_SARD"
+  }
+]

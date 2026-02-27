@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "caboverde.ribeirabrava",
+    "code": "CV_RB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CV"
+  },
+  {
+    "tenantId": "caboverde.ribeirabrava.nossasenhoradalapa",
+    "code": "CV_RB_NSDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CV_RB"
+  },
+  {
+    "tenantId": "caboverde.ribeirabrava.nossasenhoradorosario",
+    "code": "CV_RB_NSDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CV_RB"
+  }
+]

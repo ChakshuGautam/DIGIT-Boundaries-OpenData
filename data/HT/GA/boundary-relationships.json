@@ -1,0 +1,114 @@
+[
+  {
+    "tenantId": "haiti.dpartementdelagrandeanse",
+    "code": "HT_GA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "HT"
+  },
+  {
+    "tenantId": "haiti.dpartementdelagrandeanse.arrondissementdansedhainault",
+    "code": "HT_GA_ADD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_GA"
+  },
+  {
+    "tenantId": "haiti.dpartementdelagrandeanse.arrondissementdecorail",
+    "code": "HT_GA_ADC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_GA"
+  },
+  {
+    "tenantId": "haiti.dpartementdelagrandeanse.arrondissementdejrmie",
+    "code": "HT_GA_ADJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_GA"
+  },
+  {
+    "tenantId": "haiti.dpartementdelagrandeanse.arrondissementdansedhainault.ansedhainault",
+    "code": "HT_GA_ADD_AND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_GA_ADD"
+  },
+  {
+    "tenantId": "haiti.dpartementdelagrandeanse.arrondissementdansedhainault.damemarie",
+    "code": "HT_GA_ADD_DAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_GA_ADD"
+  },
+  {
+    "tenantId": "haiti.dpartementdelagrandeanse.arrondissementdansedhainault.lesirois",
+    "code": "HT_GA_ADD_LEIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_GA_ADD"
+  },
+  {
+    "tenantId": "haiti.dpartementdelagrandeanse.arrondissementdecorail.corail",
+    "code": "HT_GA_ADC_CORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_GA_ADC"
+  },
+  {
+    "tenantId": "haiti.dpartementdelagrandeanse.arrondissementdecorail.roseaux",
+    "code": "HT_GA_ADC_ROSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_GA_ADC"
+  },
+  {
+    "tenantId": "haiti.dpartementdelagrandeanse.arrondissementdecorail.beaumont",
+    "code": "HT_GA_ADC_BEAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_GA_ADC"
+  },
+  {
+    "tenantId": "haiti.dpartementdelagrandeanse.arrondissementdecorail.pestel",
+    "code": "HT_GA_ADC_PEST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_GA_ADC"
+  },
+  {
+    "tenantId": "haiti.dpartementdelagrandeanse.arrondissementdejrmie.jeremie",
+    "code": "HT_GA_ADJ_JERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_GA_ADJ"
+  },
+  {
+    "tenantId": "haiti.dpartementdelagrandeanse.arrondissementdejrmie.abricots",
+    "code": "HT_GA_ADJ_ABRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_GA_ADJ"
+  },
+  {
+    "tenantId": "haiti.dpartementdelagrandeanse.arrondissementdejrmie.bonbon",
+    "code": "HT_GA_ADJ_BONB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_GA_ADJ"
+  },
+  {
+    "tenantId": "haiti.dpartementdelagrandeanse.arrondissementdejrmie.moron",
+    "code": "HT_GA_ADJ_MORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_GA_ADJ"
+  },
+  {
+    "tenantId": "haiti.dpartementdelagrandeanse.arrondissementdejrmie.chambellan",
+    "code": "HT_GA_ADJ_CHAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_GA_ADJ"
+  }
+]

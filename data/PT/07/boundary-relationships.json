@@ -1,0 +1,583 @@
+[
+  {
+    "tenantId": "portugal.vora",
+    "code": "PT_07",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PT"
+  },
+  {
+    "tenantId": "portugal.vora.mourao",
+    "code": "PT_07_MOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_07"
+  },
+  {
+    "tenantId": "portugal.vora.portel",
+    "code": "PT_07_PORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_07"
+  },
+  {
+    "tenantId": "portugal.vora.reguengosdemonsaraz",
+    "code": "PT_07_RDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_07"
+  },
+  {
+    "tenantId": "portugal.vora.evora",
+    "code": "PT_07_EVOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_07"
+  },
+  {
+    "tenantId": "portugal.vora.redondo",
+    "code": "PT_07_REDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_07"
+  },
+  {
+    "tenantId": "portugal.vora.alandroal",
+    "code": "PT_07_ALAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_07"
+  },
+  {
+    "tenantId": "portugal.vora.vilavicosa",
+    "code": "PT_07_VIVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_07"
+  },
+  {
+    "tenantId": "portugal.vora.montemoronovo",
+    "code": "PT_07_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_07"
+  },
+  {
+    "tenantId": "portugal.vora.vendasnovas",
+    "code": "PT_07_VENO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_07"
+  },
+  {
+    "tenantId": "portugal.vora.arraiolos",
+    "code": "PT_07_ARRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_07"
+  },
+  {
+    "tenantId": "portugal.vora.estremoz",
+    "code": "PT_07_ESTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_07"
+  },
+  {
+    "tenantId": "portugal.vora.borba",
+    "code": "PT_07_BORB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_07"
+  },
+  {
+    "tenantId": "portugal.vora.mora",
+    "code": "PT_07_MORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_07"
+  },
+  {
+    "tenantId": "portugal.vora.vianadoalentejo",
+    "code": "PT_07_VDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_07"
+  },
+  {
+    "tenantId": "portugal.vora.mourao.mour",
+    "code": "PT_07_MOUR_MOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_MOUR"
+  },
+  {
+    "tenantId": "portugal.vora.portel.montedotrigo",
+    "code": "PT_07_PORT_MDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_PORT"
+  },
+  {
+    "tenantId": "portugal.vora.portel.portel",
+    "code": "PT_07_PORT_PORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_PORT"
+  },
+  {
+    "tenantId": "portugal.vora.portel.uniodasfreguesiasdeamieiraealqueva",
+    "code": "PT_07_PORT_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_PORT"
+  },
+  {
+    "tenantId": "portugal.vora.portel.uniodasfreguesiasdes",
+    "code": "PT_07_PORT_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_PORT"
+  },
+  {
+    "tenantId": "portugal.vora.reguengosdemonsaraz.corval",
+    "code": "PT_07_RDM_CORV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_RDM"
+  },
+  {
+    "tenantId": "portugal.vora.reguengosdemonsaraz.monsaraz",
+    "code": "PT_07_RDM_MONS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_RDM"
+  },
+  {
+    "tenantId": "portugal.vora.reguengosdemonsaraz.reguengosdemonsaraz",
+    "code": "PT_07_RDM_RDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_RDM"
+  },
+  {
+    "tenantId": "portugal.vora.reguengosdemonsaraz.uniodasfreguesiasdecampoecampinho",
+    "code": "PT_07_RDM_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_RDM"
+  },
+  {
+    "tenantId": "portugal.vora.evora.canaviais",
+    "code": "PT_07_EVOR_CANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_EVOR"
+  },
+  {
+    "tenantId": "portugal.vora.evora.nossasenhoradagrabadodivor",
+    "code": "PT_07_EVOR_NSDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_EVOR"
+  },
+  {
+    "tenantId": "portugal.vora.evora.nossasenhorademachede",
+    "code": "PT_07_EVOR_NSDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_EVOR"
+  },
+  {
+    "tenantId": "portugal.vora.evora.pias",
+    "code": "PT_07_EVOR_PIAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_EVOR"
+  },
+  {
+    "tenantId": "portugal.vora.evora.sdobentodomato",
+    "code": "PT_07_EVOR_SBDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_EVOR"
+  },
+  {
+    "tenantId": "portugal.vora.evora.sdomigueldemachede",
+    "code": "PT_07_EVOR_SMDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_EVOR"
+  },
+  {
+    "tenantId": "portugal.vora.evora.torredecoelheiros",
+    "code": "PT_07_EVOR_TDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_EVOR"
+  },
+  {
+    "tenantId": "portugal.vora.evora.uniodasfreguesiasdebaceloesenhoradasaed",
+    "code": "PT_07_EVOR_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_EVOR"
+  },
+  {
+    "tenantId": "portugal.vora.evora.uniodasfreguesiasdevorasomamedesa",
+    "code": "PT_07_EVOR_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_EVOR"
+  },
+  {
+    "tenantId": "portugal.vora.evora.uniodasfreguesiasdemalagueiraehortadasfi",
+    "code": "PT_07_EVOR_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_EVOR"
+  },
+  {
+    "tenantId": "portugal.vora.evora.uniodasfreguesiasdenossasenhoradatourega",
+    "code": "PT_07_EVOR_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_EVOR"
+  },
+  {
+    "tenantId": "portugal.vora.evora.uniodasfreguesiasdes",
+    "code": "PT_07_EVOR_UDFD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_EVOR"
+  },
+  {
+    "tenantId": "portugal.vora.evora.uniodasfreguesiasdes",
+    "code": "PT_07_EVOR_UDFD6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_EVOR"
+  },
+  {
+    "tenantId": "portugal.vora.redondo.montoito",
+    "code": "PT_07_REDO_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_REDO"
+  },
+  {
+    "tenantId": "portugal.vora.redondo.redondo",
+    "code": "PT_07_REDO_REDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_REDO"
+  },
+  {
+    "tenantId": "portugal.vora.alandroal.bencatel",
+    "code": "PT_07_ALAN_BENC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_ALAN"
+  },
+  {
+    "tenantId": "portugal.vora.alandroal.capelinssantoantnio",
+    "code": "PT_07_ALAN_CA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_ALAN"
+  },
+  {
+    "tenantId": "portugal.vora.alandroal.pardais",
+    "code": "PT_07_ALAN_PARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_ALAN"
+  },
+  {
+    "tenantId": "portugal.vora.alandroal.terenasopedro",
+    "code": "PT_07_ALAN_TP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_ALAN"
+  },
+  {
+    "tenantId": "portugal.vora.alandroal.uniodasfreguesiasdealandroalnossasenhora",
+    "code": "PT_07_ALAN_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_ALAN"
+  },
+  {
+    "tenantId": "portugal.vora.alandroal.granja",
+    "code": "PT_07_ALAN_GRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_ALAN"
+  },
+  {
+    "tenantId": "portugal.vora.vilavicosa.ciladas",
+    "code": "PT_07_VIVI_CILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_VIVI"
+  },
+  {
+    "tenantId": "portugal.vora.vilavicosa.nossasenhoradaconceioesobartolomeu",
+    "code": "PT_07_VIVI_NSDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_VIVI"
+  },
+  {
+    "tenantId": "portugal.vora.montemoronovo.cabrela",
+    "code": "PT_07_MONT_CABR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_MONT"
+  },
+  {
+    "tenantId": "portugal.vora.montemoronovo.ciborro",
+    "code": "PT_07_MONT_CIBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_MONT"
+  },
+  {
+    "tenantId": "portugal.vora.montemoronovo.forosdevaledefigueira",
+    "code": "PT_07_MONT_FDVD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_MONT"
+  },
+  {
+    "tenantId": "portugal.vora.montemoronovo.santanadomato",
+    "code": "PT_07_MONT_SDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_MONT"
+  },
+  {
+    "tenantId": "portugal.vora.montemoronovo.santiagodoescoural",
+    "code": "PT_07_MONT_SDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_MONT"
+  },
+  {
+    "tenantId": "portugal.vora.montemoronovo.sdocristvo",
+    "code": "PT_07_MONT_SDCR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_MONT"
+  },
+  {
+    "tenantId": "portugal.vora.montemoronovo.uniodasfreguesiasdecortiaadasdelavreela",
+    "code": "PT_07_MONT_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_MONT"
+  },
+  {
+    "tenantId": "portugal.vora.montemoronovo.uniodasfreguesiasdenossasenhoradavilano",
+    "code": "PT_07_MONT_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_MONT"
+  },
+  {
+    "tenantId": "portugal.vora.vendasnovas.landeira",
+    "code": "PT_07_VENO_LAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_VENO"
+  },
+  {
+    "tenantId": "portugal.vora.vendasnovas.vendasnovas",
+    "code": "PT_07_VENO_VENO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_VENO"
+  },
+  {
+    "tenantId": "portugal.vora.arraiolos.arraiolos",
+    "code": "PT_07_ARRA_ARRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_ARRA"
+  },
+  {
+    "tenantId": "portugal.vora.arraiolos.brotas",
+    "code": "PT_07_ARRA_BROT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_ARRA"
+  },
+  {
+    "tenantId": "portugal.vora.arraiolos.igrejinha",
+    "code": "PT_07_ARRA_IGRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_ARRA"
+  },
+  {
+    "tenantId": "portugal.vora.arraiolos.uniodasfreguesiasdegafanhoeirasdopedro",
+    "code": "PT_07_ARRA_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_ARRA"
+  },
+  {
+    "tenantId": "portugal.vora.arraiolos.uniodasfreguesiasdes",
+    "code": "PT_07_ARRA_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_ARRA"
+  },
+  {
+    "tenantId": "portugal.vora.arraiolos.vimieiro",
+    "code": "PT_07_ARRA_VIMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_ARRA"
+  },
+  {
+    "tenantId": "portugal.vora.estremoz.avoramontesantamaria",
+    "code": "PT_07_ESTR_AMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_ESTR"
+  },
+  {
+    "tenantId": "portugal.vora.estremoz.glmria",
+    "code": "PT_07_ESTR_GLMR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_ESTR"
+  },
+  {
+    "tenantId": "portugal.vora.estremoz.santana",
+    "code": "PT_07_ESTR_SANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_ESTR"
+  },
+  {
+    "tenantId": "portugal.vora.estremoz.sdodomingosdeanaloura",
+    "code": "PT_07_ESTR_SDDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_ESTR"
+  },
+  {
+    "tenantId": "portugal.vora.estremoz.uniodasfreguesiasdeestremozsantamariaes",
+    "code": "PT_07_ESTR_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_ESTR"
+  },
+  {
+    "tenantId": "portugal.vora.estremoz.uniodasfreguesiasdes",
+    "code": "PT_07_ESTR_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_ESTR"
+  },
+  {
+    "tenantId": "portugal.vora.estremoz.uniodasfreguesiasdes",
+    "code": "PT_07_ESTR_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_ESTR"
+  },
+  {
+    "tenantId": "portugal.vora.estremoz.uniodasfreguesiasdoameixialsantavitvria",
+    "code": "PT_07_ESTR_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_ESTR"
+  },
+  {
+    "tenantId": "portugal.vora.estremoz.veiros",
+    "code": "PT_07_ESTR_VEIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_ESTR"
+  },
+  {
+    "tenantId": "portugal.vora.borba.borbamatriz",
+    "code": "PT_07_BORB_BOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_BORB"
+  },
+  {
+    "tenantId": "portugal.vora.borba.borbasobartolomeu",
+    "code": "PT_07_BORB_BB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_BORB"
+  },
+  {
+    "tenantId": "portugal.vora.borba.orada",
+    "code": "PT_07_BORB_ORAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_BORB"
+  },
+  {
+    "tenantId": "portugal.vora.mora.cabe",
+    "code": "PT_07_MORA_CABE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_MORA"
+  },
+  {
+    "tenantId": "portugal.vora.mora.couo",
+    "code": "PT_07_MORA_COU3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_MORA"
+  },
+  {
+    "tenantId": "portugal.vora.mora.mora",
+    "code": "PT_07_MORA_MORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_MORA"
+  },
+  {
+    "tenantId": "portugal.vora.mora.pavia",
+    "code": "PT_07_MORA_PAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_MORA"
+  },
+  {
+    "tenantId": "portugal.vora.mora.uniodasfreguesiasdealcorregoemaranhio",
+    "code": "PT_07_MORA_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_MORA"
+  },
+  {
+    "tenantId": "portugal.vora.vianadoalentejo.aguiar",
+    "code": "PT_07_VDA_AGUI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_VDA"
+  },
+  {
+    "tenantId": "portugal.vora.vianadoalentejo.alc",
+    "code": "PT_07_VDA_ALC3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_VDA"
+  },
+  {
+    "tenantId": "portugal.vora.vianadoalentejo.vianadoalentejo",
+    "code": "PT_07_VDA_VDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_07_VDA"
+  }
+]

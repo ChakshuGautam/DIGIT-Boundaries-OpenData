@@ -1,0 +1,79 @@
+[
+  {
+    "tenantId": "haiti",
+    "code": "HT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "haiti.dpartementdelouest",
+    "code": "HT_OU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "HT"
+  },
+  {
+    "tenantId": "haiti.dpartementdelagrandeanse",
+    "code": "HT_GA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "HT"
+  },
+  {
+    "tenantId": "haiti.dpartementdesnippes",
+    "code": "HT_NI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "HT"
+  },
+  {
+    "tenantId": "haiti.dpartementdusudest",
+    "code": "HT_SE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "HT"
+  },
+  {
+    "tenantId": "haiti.nordouestdepartment",
+    "code": "HT_NO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "HT"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord",
+    "code": "HT_ND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "HT"
+  },
+  {
+    "tenantId": "haiti.nordestdepartment",
+    "code": "HT_NE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "HT"
+  },
+  {
+    "tenantId": "haiti.centredepartment",
+    "code": "HT_CE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "HT"
+  },
+  {
+    "tenantId": "haiti.artibonitedepartment",
+    "code": "HT_AR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "HT"
+  },
+  {
+    "tenantId": "haiti.suddepartment",
+    "code": "HT_SD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "HT"
+  }
+]

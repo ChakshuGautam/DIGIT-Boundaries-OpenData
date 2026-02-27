@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "kiribati",
+    "code": "KI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "kiribati.gilbertislands",
+    "code": "KI_G",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "KI"
+  },
+  {
+    "tenantId": "kiribati.phoenixislands",
+    "code": "KI_P",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "KI"
+  },
+  {
+    "tenantId": "kiribati.lineislands",
+    "code": "KI_L",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "KI"
+  }
+]

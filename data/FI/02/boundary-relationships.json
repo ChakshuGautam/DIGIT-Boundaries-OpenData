@@ -1,0 +1,86 @@
+[
+  {
+    "tenantId": "finland.southkarelia",
+    "code": "FI_02",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "FI"
+  },
+  {
+    "tenantId": "finland.southkarelia.imatranseutukunta",
+    "code": "FI_02_IMSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_02"
+  },
+  {
+    "tenantId": "finland.southkarelia.lappeenrannanseutukunta",
+    "code": "FI_02_LASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_02"
+  },
+  {
+    "tenantId": "finland.southkarelia.imatranseutukunta.imatra",
+    "code": "FI_02_IMSE_IMAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_02_IMSE"
+  },
+  {
+    "tenantId": "finland.southkarelia.imatranseutukunta.parikkala",
+    "code": "FI_02_IMSE_PARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_02_IMSE"
+  },
+  {
+    "tenantId": "finland.southkarelia.imatranseutukunta.rautjrvi",
+    "code": "FI_02_IMSE_RAUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_02_IMSE"
+  },
+  {
+    "tenantId": "finland.southkarelia.imatranseutukunta.ruokolahti",
+    "code": "FI_02_IMSE_RUOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_02_IMSE"
+  },
+  {
+    "tenantId": "finland.southkarelia.lappeenrannanseutukunta.lemi",
+    "code": "FI_02_LASE_LEMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_02_LASE"
+  },
+  {
+    "tenantId": "finland.southkarelia.lappeenrannanseutukunta.lappeenranta",
+    "code": "FI_02_LASE_LAPP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_02_LASE"
+  },
+  {
+    "tenantId": "finland.southkarelia.lappeenrannanseutukunta.savitaipale",
+    "code": "FI_02_LASE_SAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_02_LASE"
+  },
+  {
+    "tenantId": "finland.southkarelia.lappeenrannanseutukunta.taipalsaari",
+    "code": "FI_02_LASE_TAIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_02_LASE"
+  },
+  {
+    "tenantId": "finland.southkarelia.lappeenrannanseutukunta.luumki",
+    "code": "FI_02_LASE_LUUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_02_LASE"
+  }
+]

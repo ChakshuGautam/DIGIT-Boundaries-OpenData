@@ -1,0 +1,380 @@
+[
+  {
+    "tenantId": "france.nouvelleaquitaine",
+    "code": "FR_NAQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "FR"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.charente",
+    "code": "FR_NAQ_CHAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_NAQ"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.charentemaritime",
+    "code": "FR_NAQ_CHAR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_NAQ"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.corrze",
+    "code": "FR_NAQ_CORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_NAQ"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.creuse",
+    "code": "FR_NAQ_CREU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_NAQ"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.dordogne",
+    "code": "FR_NAQ_DORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_NAQ"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.gironde",
+    "code": "FR_NAQ_GIRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_NAQ"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.landes",
+    "code": "FR_NAQ_LAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_NAQ"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.lotetgaronne",
+    "code": "FR_NAQ_LOT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_NAQ"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.pyrnesatlantiques",
+    "code": "FR_NAQ_PYR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_NAQ"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.deuxsvres",
+    "code": "FR_NAQ_DEUX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_NAQ"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.vienne",
+    "code": "FR_NAQ_VIEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_NAQ"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.hautevienne",
+    "code": "FR_NAQ_HAUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_NAQ"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.charente.angoulme",
+    "code": "FR_NAQ_CHAR_ANGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_CHAR"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.charente.cognac",
+    "code": "FR_NAQ_CHAR_COGN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_CHAR"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.charente.confolens",
+    "code": "FR_NAQ_CHAR_CONF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_CHAR"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.charentemaritime.jonzac",
+    "code": "FR_NAQ_CHAR2_JONZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_CHAR2"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.charentemaritime.rochefort",
+    "code": "FR_NAQ_CHAR2_ROCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_CHAR2"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.charentemaritime.larochelle",
+    "code": "FR_NAQ_CHAR2_LARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_CHAR2"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.charentemaritime.saintes",
+    "code": "FR_NAQ_CHAR2_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_CHAR2"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.charentemaritime.saintjeandangly",
+    "code": "FR_NAQ_CHAR2_SAIN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_CHAR2"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.corrze.brivelagaillarde",
+    "code": "FR_NAQ_CORR_BRIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_CORR"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.corrze.tulle",
+    "code": "FR_NAQ_CORR_TULL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_CORR"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.corrze.ussel",
+    "code": "FR_NAQ_CORR_USSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_CORR"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.creuse.aubusson",
+    "code": "FR_NAQ_CREU_AUBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_CREU"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.creuse.guret",
+    "code": "FR_NAQ_CREU_GUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_CREU"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.dordogne.bergerac",
+    "code": "FR_NAQ_DORD_BERG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_DORD"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.dordogne.nontron",
+    "code": "FR_NAQ_DORD_NONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_DORD"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.dordogne.prigueux",
+    "code": "FR_NAQ_DORD_PRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_DORD"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.dordogne.sarlatlacanda",
+    "code": "FR_NAQ_DORD_SARL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_DORD"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.gironde.blaye",
+    "code": "FR_NAQ_GIRO_BLAY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_GIRO"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.gironde.bordeaux",
+    "code": "FR_NAQ_GIRO_BORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_GIRO"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.gironde.langon",
+    "code": "FR_NAQ_GIRO_LANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_GIRO"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.gironde.lesparremdoc",
+    "code": "FR_NAQ_GIRO_LESP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_GIRO"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.gironde.libourne",
+    "code": "FR_NAQ_GIRO_LIBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_GIRO"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.gironde.arcachon",
+    "code": "FR_NAQ_GIRO_ARCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_GIRO"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.landes.dax",
+    "code": "FR_NAQ_LAND_DAX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_LAND"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.landes.montdemarsan",
+    "code": "FR_NAQ_LAND_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_LAND"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.lotetgaronne.agen",
+    "code": "FR_NAQ_LOT_AGEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_LOT"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.lotetgaronne.marmande",
+    "code": "FR_NAQ_LOT_MARM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_LOT"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.lotetgaronne.villeneuvesurlot",
+    "code": "FR_NAQ_LOT_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_LOT"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.lotetgaronne.nrac",
+    "code": "FR_NAQ_LOT_NRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_LOT"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.pyrnesatlantiques.bayonne",
+    "code": "FR_NAQ_PYR_BAYO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_PYR"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.pyrnesatlantiques.oloronsaintemarie",
+    "code": "FR_NAQ_PYR_OLOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_PYR"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.pyrnesatlantiques.pau",
+    "code": "FR_NAQ_PYR_PAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_PYR"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.deuxsvres.bressuire",
+    "code": "FR_NAQ_DEUX_BRES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_DEUX"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.deuxsvres.niort",
+    "code": "FR_NAQ_DEUX_NIOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_DEUX"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.deuxsvres.parthenay",
+    "code": "FR_NAQ_DEUX_PART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_DEUX"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.vienne.chtellerault",
+    "code": "FR_NAQ_VIEN_CHT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_VIEN"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.vienne.montmorillon",
+    "code": "FR_NAQ_VIEN_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_VIEN"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.vienne.poitiers",
+    "code": "FR_NAQ_VIEN_POIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_VIEN"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.hautevienne.bellac",
+    "code": "FR_NAQ_HAUT_BELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_HAUT"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.hautevienne.limoges",
+    "code": "FR_NAQ_HAUT_LIMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_HAUT"
+  },
+  {
+    "tenantId": "france.nouvelleaquitaine.hautevienne.rochechouart",
+    "code": "FR_NAQ_HAUT_ROCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NAQ_HAUT"
+  }
+]

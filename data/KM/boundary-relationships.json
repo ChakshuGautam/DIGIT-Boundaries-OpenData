@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "comoros",
+    "code": "KM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "comoros.moheli",
+    "code": "KM_M",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "KM"
+  },
+  {
+    "tenantId": "comoros.anjouan",
+    "code": "KM_A",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "KM"
+  },
+  {
+    "tenantId": "comoros.grandecomore",
+    "code": "KM_G",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "KM"
+  }
+]

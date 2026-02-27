@@ -1,0 +1,576 @@
+[
+  {
+    "tenantId": "romania.cluj",
+    "code": "RO_CJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "RO"
+  },
+  {
+    "tenantId": "romania.cluj.luna",
+    "code": "RO_CJ_LUNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.campiaturzii",
+    "code": "RO_CJ_CATU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.iara",
+    "code": "RO_CJ_IARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.maguriracatau",
+    "code": "RO_CJ_MAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.ceanumare",
+    "code": "RO_CJ_CEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.belis",
+    "code": "RO_CJ_BELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.ciurila",
+    "code": "RO_CJ_CIUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.marisel",
+    "code": "RO_CJ_MARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.savadisla",
+    "code": "RO_CJ_SAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.frata",
+    "code": "RO_CJ_FRAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.risca",
+    "code": "RO_CJ_RISC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.floresti",
+    "code": "RO_CJ_FLOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.suatu",
+    "code": "RO_CJ_SUAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.gilau",
+    "code": "RO_CJ_GILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.margau",
+    "code": "RO_CJ_MARG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.calatele",
+    "code": "RO_CJ_CALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.camarasu",
+    "code": "RO_CJ_CAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.manastireni",
+    "code": "RO_CJ_MANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.mociu",
+    "code": "RO_CJ_MOCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.capusumare",
+    "code": "RO_CJ_CAMA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.caianu",
+    "code": "RO_CJ_CAIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.sacuieu",
+    "code": "RO_CJ_SACU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.sancraiu",
+    "code": "RO_CJ_SANC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.jucu",
+    "code": "RO_CJ_JUCU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.izvorucrisului",
+    "code": "RO_CJ_IZCR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.catina",
+    "code": "RO_CJ_CATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.palatca",
+    "code": "RO_CJ_PALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.geaca",
+    "code": "RO_CJ_GEAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.garbau",
+    "code": "RO_CJ_GARB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.huedin",
+    "code": "RO_CJ_HUED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.bontida",
+    "code": "RO_CJ_BONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.borsa",
+    "code": "RO_CJ_BORS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.poieni",
+    "code": "RO_CJ_POIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.sanpaul",
+    "code": "RO_CJ_SANP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.sic",
+    "code": "RO_CJ_SIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.aghiresu",
+    "code": "RO_CJ_AGHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.vultureni",
+    "code": "RO_CJ_VULT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.negreni",
+    "code": "RO_CJ_NEGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.dabaca",
+    "code": "RO_CJ_DABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.aschileu",
+    "code": "RO_CJ_ASCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.gherla",
+    "code": "RO_CJ_GHER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.fizesugherlii",
+    "code": "RO_CJ_FIGH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.sanmartin",
+    "code": "RO_CJ_SANM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.alunis",
+    "code": "RO_CJ_ALUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.panticeu",
+    "code": "RO_CJ_PANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.mintiugherlii",
+    "code": "RO_CJ_MIGH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.bobalna",
+    "code": "RO_CJ_BOBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.receacristur",
+    "code": "RO_CJ_RECE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.cuzdrioara",
+    "code": "RO_CJ_CUZD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.vad",
+    "code": "RO_CJ_VAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.catcau",
+    "code": "RO_CJ_CATC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.caseiu",
+    "code": "RO_CJ_CASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.chiuiesti",
+    "code": "RO_CJ_CHIU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.baciu",
+    "code": "RO_CJ_BACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.chinteni",
+    "code": "RO_CJ_CHIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.buza",
+    "code": "RO_CJ_BUZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.taga",
+    "code": "RO_CJ_TAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.unguras",
+    "code": "RO_CJ_UNGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.mica",
+    "code": "RO_CJ_MICA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.apahida",
+    "code": "RO_CJ_APAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.cojocna",
+    "code": "RO_CJ_COJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.ploscos",
+    "code": "RO_CJ_PLOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.iclod",
+    "code": "RO_CJ_ICLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.cornesti",
+    "code": "RO_CJ_CORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.feleacu",
+    "code": "RO_CJ_FELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.aiton",
+    "code": "RO_CJ_AITO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.clujnapoca",
+    "code": "RO_CJ_CLUJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.calarasi",
+    "code": "RO_CJ_CALA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.petrestiidejos",
+    "code": "RO_CJ_PDJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.sandulesti",
+    "code": "RO_CJ_SAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.tureni",
+    "code": "RO_CJ_TURE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.jichisudejos",
+    "code": "RO_CJ_JDJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.dej",
+    "code": "RO_CJ_DEJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.mihaiviteazu",
+    "code": "RO_CJ_MIVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.turda",
+    "code": "RO_CJ_TURD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.moldovenesti",
+    "code": "RO_CJ_MOLD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.ciucea",
+    "code": "RO_CJ_CIUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.valeaierii",
+    "code": "RO_CJ_VAIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.baisoara",
+    "code": "RO_CJ_BAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.viisoara",
+    "code": "RO_CJ_VIIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  },
+  {
+    "tenantId": "romania.cluj.triteniidejos",
+    "code": "RO_CJ_TDJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_CJ"
+  }
+]

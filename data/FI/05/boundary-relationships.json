@@ -1,0 +1,79 @@
+[
+  {
+    "tenantId": "finland.kainuu",
+    "code": "FI_05",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "FI"
+  },
+  {
+    "tenantId": "finland.kainuu.kajaaninseutukunta",
+    "code": "FI_05_KASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_05"
+  },
+  {
+    "tenantId": "finland.kainuu.kehyskainuunseutukunta",
+    "code": "FI_05_KESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_05"
+  },
+  {
+    "tenantId": "finland.kainuu.kajaaninseutukunta.sotkamo",
+    "code": "FI_05_KASE_SOTK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_05_KASE"
+  },
+  {
+    "tenantId": "finland.kainuu.kajaaninseutukunta.ristijrvi",
+    "code": "FI_05_KASE_RIST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_05_KASE"
+  },
+  {
+    "tenantId": "finland.kainuu.kajaaninseutukunta.paltamo",
+    "code": "FI_05_KASE_PALT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_05_KASE"
+  },
+  {
+    "tenantId": "finland.kainuu.kajaaninseutukunta.kajaani",
+    "code": "FI_05_KASE_KAJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_05_KASE"
+  },
+  {
+    "tenantId": "finland.kainuu.kehyskainuunseutukunta.puolanka",
+    "code": "FI_05_KESE_PUOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_05_KESE"
+  },
+  {
+    "tenantId": "finland.kainuu.kehyskainuunseutukunta.hyrynsalmi",
+    "code": "FI_05_KESE_HYRY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_05_KESE"
+  },
+  {
+    "tenantId": "finland.kainuu.kehyskainuunseutukunta.suomussalmi",
+    "code": "FI_05_KESE_SUOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_05_KESE"
+  },
+  {
+    "tenantId": "finland.kainuu.kehyskainuunseutukunta.kuhmo",
+    "code": "FI_05_KESE_KUHM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_05_KESE"
+  }
+]

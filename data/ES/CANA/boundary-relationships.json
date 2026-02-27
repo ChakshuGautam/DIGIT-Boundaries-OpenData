@@ -1,0 +1,639 @@
+[
+  {
+    "tenantId": "spain.canarias",
+    "code": "ES_CANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "ES"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas",
+    "code": "ES_CANA_PALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_CANA"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife",
+    "code": "ES_CANA_SCDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_CANA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.agaete",
+    "code": "ES_CANA_PALA_AGAE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.agimes",
+    "code": "ES_CANA_PALA_AGI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.antigua",
+    "code": "ES_CANA_PALA_ANTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.arrecife",
+    "code": "ES_CANA_PALA_ARRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.artenara",
+    "code": "ES_CANA_PALA_ARTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.arucas",
+    "code": "ES_CANA_PALA_ARUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.betancuria",
+    "code": "ES_CANA_PALA_BETA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.firgas",
+    "code": "ES_CANA_PALA_FIRG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.gldar",
+    "code": "ES_CANA_PALA_GLD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.hara",
+    "code": "ES_CANA_PALA_HAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.ingenio",
+    "code": "ES_CANA_PALA_INGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.mogn",
+    "code": "ES_CANA_PALA_MOG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.moya",
+    "code": "ES_CANA_PALA_MOYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.laoliva",
+    "code": "ES_CANA_PALA_LAOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.laspalmasdegrancanaria",
+    "code": "ES_CANA_PALA_LPDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.puertodelrosario",
+    "code": "ES_CANA_PALA_PDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.sanbartolom",
+    "code": "ES_CANA_PALA_SABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.sanbartolomdetirajana",
+    "code": "ES_CANA_PALA_SBDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.laaldeadesannicols",
+    "code": "ES_CANA_PALA_LADS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.santabrgida",
+    "code": "ES_CANA_PALA_SABR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.santalucadetirajana",
+    "code": "ES_CANA_PALA_SLDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.santamaradeguadegrancanaria",
+    "code": "ES_CANA_PALA_SMDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.teguise",
+    "code": "ES_CANA_PALA_TEGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.tejeda",
+    "code": "ES_CANA_PALA_TEJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.telde",
+    "code": "ES_CANA_PALA_TELD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.teror",
+    "code": "ES_CANA_PALA_TERO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.tas",
+    "code": "ES_CANA_PALA_TAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.tuineje",
+    "code": "ES_CANA_PALA_TUIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.valsequillodegrancanaria",
+    "code": "ES_CANA_PALA_VDGC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.valleseco",
+    "code": "ES_CANA_PALA_VALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.vegadesanmateo",
+    "code": "ES_CANA_PALA_VDSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.yaiza",
+    "code": "ES_CANA_PALA_YAIZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.pjara",
+    "code": "ES_CANA_PALA_PJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.palmaslas.tinajo",
+    "code": "ES_CANA_PALA_TINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_PALA"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.adeje",
+    "code": "ES_CANA_SCDT_ADEJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.agulo",
+    "code": "ES_CANA_SCDT_AGUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.alajer",
+    "code": "ES_CANA_SCDT_ALAJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.arafo",
+    "code": "ES_CANA_SCDT_ARAF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.arico",
+    "code": "ES_CANA_SCDT_ARIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.arona",
+    "code": "ES_CANA_SCDT_ARON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.barlovento",
+    "code": "ES_CANA_SCDT_BARL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.breaalta",
+    "code": "ES_CANA_SCDT_BRAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.breabaja",
+    "code": "ES_CANA_SCDT_BRBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.buenavistadelnorte",
+    "code": "ES_CANA_SCDT_BDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.candelaria",
+    "code": "ES_CANA_SCDT_CAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.fasnia",
+    "code": "ES_CANA_SCDT_FASN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.fuencalientedelapalma",
+    "code": "ES_CANA_SCDT_FDLP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.garachico",
+    "code": "ES_CANA_SCDT_GARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.garafa",
+    "code": "ES_CANA_SCDT_GARA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.granadilladeabona",
+    "code": "ES_CANA_SCDT_GDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.laguancha",
+    "code": "ES_CANA_SCDT_LAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.guadeisora",
+    "code": "ES_CANA_SCDT_GDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.gmar",
+    "code": "ES_CANA_SCDT_GM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.hermigua",
+    "code": "ES_CANA_SCDT_HERM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.icoddelosvinos",
+    "code": "ES_CANA_SCDT_IDLV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.sancristbaldelalaguna",
+    "code": "ES_CANA_SCDT_SCDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.losllanosdearidane",
+    "code": "ES_CANA_SCDT_LLDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.lamatanzadeacentejo",
+    "code": "ES_CANA_SCDT_LMDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.laorotava",
+    "code": "ES_CANA_SCDT_LAOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.elpaso",
+    "code": "ES_CANA_SCDT_ELPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.puertodelacruz",
+    "code": "ES_CANA_SCDT_PDLC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.puntagorda",
+    "code": "ES_CANA_SCDT_PUNT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.puntallana",
+    "code": "ES_CANA_SCDT_PUNT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.losrealejos",
+    "code": "ES_CANA_SCDT_LORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.elrosario",
+    "code": "ES_CANA_SCDT_ELRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.sanandrsysauces",
+    "code": "ES_CANA_SCDT_SAYS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.sanjuandelarambla",
+    "code": "ES_CANA_SCDT_SJDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.sanmigueldeabona",
+    "code": "ES_CANA_SCDT_SMDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.sansebastindelagomera",
+    "code": "ES_CANA_SCDT_SSDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.santacruzdelapalma",
+    "code": "ES_CANA_SCDT_SCDL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.santacruzdetenerife",
+    "code": "ES_CANA_SCDT_SCDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.santarsula",
+    "code": "ES_CANA_SCDT_SAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.santiagodelteide",
+    "code": "ES_CANA_SCDT_SDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.elsauzal",
+    "code": "ES_CANA_SCDT_ELSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.lossilos",
+    "code": "ES_CANA_SCDT_LOSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.tacoronte",
+    "code": "ES_CANA_SCDT_TACO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.eltanque",
+    "code": "ES_CANA_SCDT_ELTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.tegueste",
+    "code": "ES_CANA_SCDT_TEGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.tijarafe",
+    "code": "ES_CANA_SCDT_TIJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.valverde",
+    "code": "ES_CANA_SCDT_VALV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.vallegranrey",
+    "code": "ES_CANA_SCDT_VGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.vallehermoso",
+    "code": "ES_CANA_SCDT_VALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.lavictoriadeacentejo",
+    "code": "ES_CANA_SCDT_LVDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.vilaflordechasna",
+    "code": "ES_CANA_SCDT_VDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.villademazo",
+    "code": "ES_CANA_SCDT_VDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.frontera",
+    "code": "ES_CANA_SCDT_FRON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.tazacorte",
+    "code": "ES_CANA_SCDT_TAZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  },
+  {
+    "tenantId": "spain.canarias.santacruzdetenerife.elpinardeelhierro",
+    "code": "ES_CANA_SCDT_EPDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANA_SCDT"
+  }
+]

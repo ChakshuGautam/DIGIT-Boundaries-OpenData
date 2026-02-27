@@ -1,0 +1,240 @@
+[
+  {
+    "tenantId": "newzealand.wellingtonregion",
+    "code": "NZ_WGN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NZ"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.mastertondistrict",
+    "code": "NZ_WGN_MADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_WGN"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.cartertondistrict",
+    "code": "NZ_WGN_CADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_WGN"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.southwairarapadistrict",
+    "code": "NZ_WGN_SWD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_WGN"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.kapiticoastdistrict",
+    "code": "NZ_WGN_KCD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_WGN"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.upperhuttcity",
+    "code": "NZ_WGN_UHC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_WGN"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.lowerhuttcity",
+    "code": "NZ_WGN_LHC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_WGN"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.wellingtoncity",
+    "code": "NZ_WGN_WECI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_WGN"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.poriruacity",
+    "code": "NZ_WGN_POCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_WGN"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.mastertondistrict.ruralward",
+    "code": "NZ_WGN_MADI_RUWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_MADI"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.mastertondistrict.urbanward",
+    "code": "NZ_WGN_MADI_URWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_MADI"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.cartertondistrict.areaoutsideward",
+    "code": "NZ_WGN_CADI_AOW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_CADI"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.southwairarapadistrict.greytownward",
+    "code": "NZ_WGN_SWD_GRWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_SWD"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.southwairarapadistrict.featherstonward",
+    "code": "NZ_WGN_SWD_FEWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_SWD"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.southwairarapadistrict.martinboroughward",
+    "code": "NZ_WGN_SWD_MAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_SWD"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.kapiticoastdistrict.otakiward",
+    "code": "NZ_WGN_KCD_OTWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_KCD"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.kapiticoastdistrict.waikanaeward",
+    "code": "NZ_WGN_KCD_WAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_KCD"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.kapiticoastdistrict.paekakarikiraumatiward",
+    "code": "NZ_WGN_KCD_PAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_KCD"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.kapiticoastdistrict.paraparaumuward",
+    "code": "NZ_WGN_KCD_PAWA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_KCD"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.upperhuttcity.areaoutsideward",
+    "code": "NZ_WGN_UHC_AOW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_UHC"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.lowerhuttcity.westernward",
+    "code": "NZ_WGN_LHC_WEWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_LHC"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.lowerhuttcity.northernward",
+    "code": "NZ_WGN_LHC_NOWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_LHC"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.lowerhuttcity.centralward",
+    "code": "NZ_WGN_LHC_CEWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_LHC"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.lowerhuttcity.easternward",
+    "code": "NZ_WGN_LHC_EAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_LHC"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.lowerhuttcity.wainuiomataward",
+    "code": "NZ_WGN_LHC_WAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_LHC"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.lowerhuttcity.harbourward",
+    "code": "NZ_WGN_LHC_HAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_LHC"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.wellingtoncity.northernward",
+    "code": "NZ_WGN_WECI_NOWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_WECI"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.wellingtoncity.onslowwesternward",
+    "code": "NZ_WGN_WECI_ONWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_WECI"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.wellingtoncity.easternward",
+    "code": "NZ_WGN_WECI_EAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_WECI"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.wellingtoncity.lambtonward",
+    "code": "NZ_WGN_WECI_LAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_WECI"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.wellingtoncity.southernward",
+    "code": "NZ_WGN_WECI_SOWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_WECI"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.poriruacity.northernward",
+    "code": "NZ_WGN_POCI_NOWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_POCI"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.poriruacity.westernward",
+    "code": "NZ_WGN_POCI_WEWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_POCI"
+  },
+  {
+    "tenantId": "newzealand.wellingtonregion.poriruacity.easternward",
+    "code": "NZ_WGN_POCI_EAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WGN_POCI"
+  }
+]

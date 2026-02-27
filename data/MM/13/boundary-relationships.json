@@ -1,0 +1,86 @@
+[
+  {
+    "tenantId": "myanmar.kayin",
+    "code": "MM_13",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MM"
+  },
+  {
+    "tenantId": "myanmar.kayin.hpaan",
+    "code": "MM_13_HPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MM_13"
+  },
+  {
+    "tenantId": "myanmar.kayin.hpapun",
+    "code": "MM_13_HPAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MM_13"
+  },
+  {
+    "tenantId": "myanmar.kayin.kawkareik",
+    "code": "MM_13_KAWK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MM_13"
+  },
+  {
+    "tenantId": "myanmar.kayin.myawaddy",
+    "code": "MM_13_MYAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MM_13"
+  },
+  {
+    "tenantId": "myanmar.kayin.hpaan.thandaunggyi",
+    "code": "MM_13_HPA_THAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_13_HPA"
+  },
+  {
+    "tenantId": "myanmar.kayin.hpaan.hlaingbwe",
+    "code": "MM_13_HPA_HLAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_13_HPA"
+  },
+  {
+    "tenantId": "myanmar.kayin.hpaan.hpaan",
+    "code": "MM_13_HPA_HPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_13_HPA"
+  },
+  {
+    "tenantId": "myanmar.kayin.hpapun.hpapun",
+    "code": "MM_13_HPAP_HPAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_13_HPAP"
+  },
+  {
+    "tenantId": "myanmar.kayin.kawkareik.kawkareik",
+    "code": "MM_13_KAWK_KAWK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_13_KAWK"
+  },
+  {
+    "tenantId": "myanmar.kayin.kawkareik.kyainseikgyi",
+    "code": "MM_13_KAWK_KYAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_13_KAWK"
+  },
+  {
+    "tenantId": "myanmar.kayin.myawaddy.myawaddy",
+    "code": "MM_13_MYAW_MYAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_13_MYAW"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "serbia.centralbanatdistrict",
+    "code": "RS_02",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "RS"
+  },
+  {
+    "tenantId": "serbia.centralbanatdistrict.zrenjanincity",
+    "code": "RS_02_ZRCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_02"
+  },
+  {
+    "tenantId": "serbia.centralbanatdistrict.novacrnjamunicipality",
+    "code": "RS_02_NCM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_02"
+  },
+  {
+    "tenantId": "serbia.centralbanatdistrict.novibecejmunicipality",
+    "code": "RS_02_NBM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_02"
+  },
+  {
+    "tenantId": "serbia.centralbanatdistrict.secanjmunicipality",
+    "code": "RS_02_SEMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_02"
+  },
+  {
+    "tenantId": "serbia.centralbanatdistrict.zitistemunicipality",
+    "code": "RS_02_ZIMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_02"
+  }
+]

@@ -1,0 +1,709 @@
+[
+  {
+    "tenantId": "philippines.northernmindanao",
+    "code": "PH_10",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "PH"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon",
+    "code": "PH_10_BUKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_10"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.camiguin",
+    "code": "PH_10_CAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_10"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte",
+    "code": "PH_10_LDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_10"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoccidental",
+    "code": "PH_10_MIOC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_10"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental",
+    "code": "PH_10_MIOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_10"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon.baungon",
+    "code": "PH_10_BUKI_BAUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_BUKI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon.cabanglasan",
+    "code": "PH_10_BUKI_CABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_BUKI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon.cityofmalaybalay",
+    "code": "PH_10_BUKI_COM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_BUKI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon.cityofvalencia",
+    "code": "PH_10_BUKI_COV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_BUKI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon.damulog",
+    "code": "PH_10_BUKI_DAMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_BUKI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon.dangcagan",
+    "code": "PH_10_BUKI_DANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_BUKI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon.doncarlos",
+    "code": "PH_10_BUKI_DOCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_BUKI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon.impasugong",
+    "code": "PH_10_BUKI_IMPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_BUKI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon.kadingilan",
+    "code": "PH_10_BUKI_KADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_BUKI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon.kalilangan",
+    "code": "PH_10_BUKI_KALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_BUKI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon.kibawe",
+    "code": "PH_10_BUKI_KIBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_BUKI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon.kitaotao",
+    "code": "PH_10_BUKI_KITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_BUKI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon.lantapan",
+    "code": "PH_10_BUKI_LANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_BUKI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon.libona",
+    "code": "PH_10_BUKI_LIBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_BUKI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon.malitbog",
+    "code": "PH_10_BUKI_MALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_BUKI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon.manolofortich",
+    "code": "PH_10_BUKI_MAFO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_BUKI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon.maramag",
+    "code": "PH_10_BUKI_MARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_BUKI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon.pangantucan",
+    "code": "PH_10_BUKI_PANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_BUKI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon.quezon",
+    "code": "PH_10_BUKI_QUEZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_BUKI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon.sanfernando",
+    "code": "PH_10_BUKI_SAFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_BUKI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon.sumilao",
+    "code": "PH_10_BUKI_SUMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_BUKI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.bukidnon.talakag",
+    "code": "PH_10_BUKI_TALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_BUKI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.camiguin.catarman",
+    "code": "PH_10_CAMI_CATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_CAMI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.camiguin.guinsiliban",
+    "code": "PH_10_CAMI_GUIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_CAMI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.camiguin.mahinog",
+    "code": "PH_10_CAMI_MAHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_CAMI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.camiguin.mambajao",
+    "code": "PH_10_CAMI_MAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_CAMI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.camiguin.sagay",
+    "code": "PH_10_CAMI_SAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_CAMI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.camiguin.talisayan",
+    "code": "PH_10_CAMI_TALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_CAMI"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.bacolod",
+    "code": "PH_10_LDN_BACO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.baloi",
+    "code": "PH_10_LDN_BALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.baroy",
+    "code": "PH_10_LDN_BARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.iligancity",
+    "code": "PH_10_LDN_ILCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.kapatagan",
+    "code": "PH_10_LDN_KAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.kauswagan",
+    "code": "PH_10_LDN_KAUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.kolambugan",
+    "code": "PH_10_LDN_KOLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.lala",
+    "code": "PH_10_LDN_LALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.linamon",
+    "code": "PH_10_LDN_LINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.magsaysay",
+    "code": "PH_10_LDN_MAGS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.maigo",
+    "code": "PH_10_LDN_MAIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.matungao",
+    "code": "PH_10_LDN_MATU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.munai",
+    "code": "PH_10_LDN_MUNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.nunungan",
+    "code": "PH_10_LDN_NUNU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.pantaoragat",
+    "code": "PH_10_LDN_PARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.pantar",
+    "code": "PH_10_LDN_PANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.poonapiagapo",
+    "code": "PH_10_LDN_POPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.salvador",
+    "code": "PH_10_LDN_SALV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.sapad",
+    "code": "PH_10_LDN_SAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.tagoloan",
+    "code": "PH_10_LDN_TAGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.tangcal",
+    "code": "PH_10_LDN_TANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.tubod",
+    "code": "PH_10_LDN_TUBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.dumalinao",
+    "code": "PH_10_LDN_DUMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.lugait",
+    "code": "PH_10_LDN_LUGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.pagadiancity",
+    "code": "PH_10_LDN_PACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.lanaodelnorte.sultannagadimaporo",
+    "code": "PH_10_LDN_SND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_LDN"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoccidental.aloran",
+    "code": "PH_10_MIOC_ALOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOC"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoccidental.baliangao",
+    "code": "PH_10_MIOC_BALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOC"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoccidental.bonifacio",
+    "code": "PH_10_MIOC_BONI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOC"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoccidental.calamba",
+    "code": "PH_10_MIOC_CALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOC"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoccidental.clarin",
+    "code": "PH_10_MIOC_CLAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOC"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoccidental.concepcion",
+    "code": "PH_10_MIOC_CONC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOC"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoccidental.donvictorianochiongbian",
+    "code": "PH_10_MIOC_DVC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOC"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoccidental.jimenez",
+    "code": "PH_10_MIOC_JIME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOC"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoccidental.lopezjaena",
+    "code": "PH_10_MIOC_LOJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOC"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoccidental.oroquietacity",
+    "code": "PH_10_MIOC_ORCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOC"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoccidental.ozamiscity",
+    "code": "PH_10_MIOC_OZCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOC"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoccidental.panaon",
+    "code": "PH_10_MIOC_PANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOC"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoccidental.sinacaban",
+    "code": "PH_10_MIOC_SINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOC"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoccidental.tangubcity",
+    "code": "PH_10_MIOC_TACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOC"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoccidental.tudela",
+    "code": "PH_10_MIOC_TUDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOC"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoccidental.plaridel",
+    "code": "PH_10_MIOC_PLAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOC"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoccidental.sapangdalaga",
+    "code": "PH_10_MIOC_SADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOC"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.alubijid",
+    "code": "PH_10_MIOR_ALUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.balingoan",
+    "code": "PH_10_MIOR_BALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.binuangan",
+    "code": "PH_10_MIOR_BINU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.cagayandeorocity",
+    "code": "PH_10_MIOR_CDOC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.claveria",
+    "code": "PH_10_MIOR_CLAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.gitagum",
+    "code": "PH_10_MIOR_GITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.jasaan",
+    "code": "PH_10_MIOR_JASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.kinoguitan",
+    "code": "PH_10_MIOR_KINO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.laguindingan",
+    "code": "PH_10_MIOR_LAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.magsaysay",
+    "code": "PH_10_MIOR_MAGS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.manticao",
+    "code": "PH_10_MIOR_MANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.medina",
+    "code": "PH_10_MIOR_MEDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.naawan",
+    "code": "PH_10_MIOR_NAAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.opol",
+    "code": "PH_10_MIOR_OPOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.sugbongcogon",
+    "code": "PH_10_MIOR_SUGB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.tagoloan",
+    "code": "PH_10_MIOR_TAGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.villanueva",
+    "code": "PH_10_MIOR_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.balingasag",
+    "code": "PH_10_MIOR_BALI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.cityofelsalvador",
+    "code": "PH_10_MIOR_COES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.gingoogcity",
+    "code": "PH_10_MIOR_GICI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.initao",
+    "code": "PH_10_MIOR_INIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.lagonglong",
+    "code": "PH_10_MIOR_LAGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.libertad",
+    "code": "PH_10_MIOR_LIBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  },
+  {
+    "tenantId": "philippines.northernmindanao.misamisoriental.salay",
+    "code": "PH_10_MIOR_SALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_10_MIOR"
+  }
+]

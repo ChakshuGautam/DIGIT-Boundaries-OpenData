@@ -1,0 +1,16 @@
+[
+  {
+    "tenantId": "dominicanrepublic.distritonacional",
+    "code": "DO_01",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "DO"
+  },
+  {
+    "tenantId": "dominicanrepublic.distritonacional.distritonacional",
+    "code": "DO_01_DINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DO_01"
+  }
+]

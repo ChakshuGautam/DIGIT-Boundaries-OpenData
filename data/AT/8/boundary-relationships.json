@@ -1,0 +1,695 @@
+[
+  {
+    "tenantId": "austria.vorarlberg",
+    "code": "AT_8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "AT"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz",
+    "code": "AT_8_BLUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_8"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz",
+    "code": "AT_8_BREG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_8"
+  },
+  {
+    "tenantId": "austria.vorarlberg.dornbirn",
+    "code": "AT_8_DORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_8"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch",
+    "code": "AT_8_FELD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_8"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.bartholomberg",
+    "code": "AT_8_BLUD_BART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.blons",
+    "code": "AT_8_BLUD_BLON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.bludenz",
+    "code": "AT_8_BLUD_BLUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.bludesch",
+    "code": "AT_8_BLUD_BLUD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.brand",
+    "code": "AT_8_BLUD_BRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.brs",
+    "code": "AT_8_BLUD_BRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.brserberg",
+    "code": "AT_8_BLUD_BRS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.dalaas",
+    "code": "AT_8_BLUD_DALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.fontanella",
+    "code": "AT_8_BLUD_FONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.gaschurn",
+    "code": "AT_8_BLUD_GASC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.innerbraz",
+    "code": "AT_8_BLUD_INNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.klsterle",
+    "code": "AT_8_BLUD_KLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.lech",
+    "code": "AT_8_BLUD_LECH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.lorns",
+    "code": "AT_8_BLUD_LOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.ludesch",
+    "code": "AT_8_BLUD_LUDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.nenzing",
+    "code": "AT_8_BLUD_NENZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.nziders",
+    "code": "AT_8_BLUD_NZI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.raggal",
+    "code": "AT_8_BLUD_RAGG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.schruns",
+    "code": "AT_8_BLUD_SCHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.silbertal",
+    "code": "AT_8_BLUD_SILB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.sonntag",
+    "code": "AT_8_BLUD_SONN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.stantonimmontafon",
+    "code": "AT_8_BLUD_SAIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.stgallenkirch",
+    "code": "AT_8_BLUD_STGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.stgerold",
+    "code": "AT_8_BLUD_STGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.stallehr",
+    "code": "AT_8_BLUD_STAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.thringen",
+    "code": "AT_8_BLUD_THR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.thringerberg",
+    "code": "AT_8_BLUD_THR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.tschagguns",
+    "code": "AT_8_BLUD_TSCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bludenz.vandans",
+    "code": "AT_8_BLUD_VAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BLUD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.alberschwende",
+    "code": "AT_8_BREG_ALBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.andelsbuch",
+    "code": "AT_8_BREG_ANDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.au",
+    "code": "AT_8_BREG_AU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.bezau",
+    "code": "AT_8_BREG_BEZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.bildstein",
+    "code": "AT_8_BREG_BILD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.bizau",
+    "code": "AT_8_BREG_BIZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.bregenz",
+    "code": "AT_8_BREG_BREG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.buch",
+    "code": "AT_8_BREG_BUCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.damls",
+    "code": "AT_8_BREG_DAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.doren",
+    "code": "AT_8_BREG_DORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.egg",
+    "code": "AT_8_BREG_EGG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.eichenberg",
+    "code": "AT_8_BREG_EICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.fuach",
+    "code": "AT_8_BREG_FUSSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.gaiau",
+    "code": "AT_8_BREG_GAISS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.hard",
+    "code": "AT_8_BREG_HARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.hittisau",
+    "code": "AT_8_BREG_HITT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.hchst",
+    "code": "AT_8_BREG_HCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.hohenweiler",
+    "code": "AT_8_BREG_HOHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.hrbranz",
+    "code": "AT_8_BREG_HRB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.kennelbach",
+    "code": "AT_8_BREG_KENN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.langenbeibregenz",
+    "code": "AT_8_BREG_LBB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.langenegg",
+    "code": "AT_8_BREG_LANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.lauterach",
+    "code": "AT_8_BREG_LAUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.lingenau",
+    "code": "AT_8_BREG_LING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.lochau",
+    "code": "AT_8_BREG_LOCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.mellau",
+    "code": "AT_8_BREG_MELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.mittelberg",
+    "code": "AT_8_BREG_MITT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.mggers",
+    "code": "AT_8_BREG_MGG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.reuthe",
+    "code": "AT_8_BREG_REUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.riefensberg",
+    "code": "AT_8_BREG_RIEF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.schnepfau",
+    "code": "AT_8_BREG_SCHN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.schoppernau",
+    "code": "AT_8_BREG_SCHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.schrcken",
+    "code": "AT_8_BREG_SCHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.schwarzach",
+    "code": "AT_8_BREG_SCHW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.schwarzenberg",
+    "code": "AT_8_BREG_SCHW2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.sibratsgfll",
+    "code": "AT_8_BREG_SIBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.wolfurt",
+    "code": "AT_8_BREG_WOLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.bregenz.sulzberg",
+    "code": "AT_8_BREG_SULZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_BREG"
+  },
+  {
+    "tenantId": "austria.vorarlberg.dornbirn.dornbirn",
+    "code": "AT_8_DORN_DORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_DORN"
+  },
+  {
+    "tenantId": "austria.vorarlberg.dornbirn.hohenems",
+    "code": "AT_8_DORN_HOHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_DORN"
+  },
+  {
+    "tenantId": "austria.vorarlberg.dornbirn.lustenau",
+    "code": "AT_8_DORN_LUST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_DORN"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.altach",
+    "code": "AT_8_FELD_ALTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.dns",
+    "code": "AT_8_FELD_DNS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.dnserberg",
+    "code": "AT_8_FELD_DNS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.feldkirch",
+    "code": "AT_8_FELD_FELD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.frastanz",
+    "code": "AT_8_FELD_FRAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.fraxern",
+    "code": "AT_8_FELD_FRAX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.gfis",
+    "code": "AT_8_FELD_GFI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.gtzis",
+    "code": "AT_8_FELD_GTZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.klaus",
+    "code": "AT_8_FELD_KLAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.koblach",
+    "code": "AT_8_FELD_KOBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.laterns",
+    "code": "AT_8_FELD_LATE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.mder",
+    "code": "AT_8_FELD_MDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.meiningen",
+    "code": "AT_8_FELD_MEIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.rankweil",
+    "code": "AT_8_FELD_RANK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.rns",
+    "code": "AT_8_FELD_RNS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.rthis",
+    "code": "AT_8_FELD_RTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.satteins",
+    "code": "AT_8_FELD_SATT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.schlins",
+    "code": "AT_8_FELD_SCHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.schnifis",
+    "code": "AT_8_FELD_SCHN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.sulz",
+    "code": "AT_8_FELD_SULZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.bersaxen",
+    "code": "AT_8_FELD_BER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.viktorsberg",
+    "code": "AT_8_FELD_VIKT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.weiler",
+    "code": "AT_8_FELD_WEIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  },
+  {
+    "tenantId": "austria.vorarlberg.feldkirch.zwischenwasser",
+    "code": "AT_8_FELD_ZWIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_8_FELD"
+  }
+]

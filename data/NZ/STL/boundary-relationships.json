@@ -1,0 +1,100 @@
+[
+  {
+    "tenantId": "newzealand.southlandregion",
+    "code": "NZ_STL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NZ"
+  },
+  {
+    "tenantId": "newzealand.southlandregion.goredistrict",
+    "code": "NZ_STL_GODI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_STL"
+  },
+  {
+    "tenantId": "newzealand.southlandregion.southlanddistrict",
+    "code": "NZ_STL_SODI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_STL"
+  },
+  {
+    "tenantId": "newzealand.southlandregion.invercargillcity",
+    "code": "NZ_STL_INCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_STL"
+  },
+  {
+    "tenantId": "newzealand.southlandregion.goredistrict.waikakaward",
+    "code": "NZ_STL_GODI_WAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_STL_GODI"
+  },
+  {
+    "tenantId": "newzealand.southlandregion.goredistrict.kaiwerawaimumuward",
+    "code": "NZ_STL_GODI_KAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_STL_GODI"
+  },
+  {
+    "tenantId": "newzealand.southlandregion.goredistrict.goreward",
+    "code": "NZ_STL_GODI_GOWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_STL_GODI"
+  },
+  {
+    "tenantId": "newzealand.southlandregion.goredistrict.matauraward",
+    "code": "NZ_STL_GODI_MAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_STL_GODI"
+  },
+  {
+    "tenantId": "newzealand.southlandregion.southlanddistrict.mararoawaimeaward",
+    "code": "NZ_STL_SODI_MAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_STL_SODI"
+  },
+  {
+    "tenantId": "newzealand.southlandregion.southlanddistrict.wintonwallacetownward",
+    "code": "NZ_STL_SODI_WIWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_STL_SODI"
+  },
+  {
+    "tenantId": "newzealand.southlandregion.southlanddistrict.waihopaitoetoesward",
+    "code": "NZ_STL_SODI_WAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_STL_SODI"
+  },
+  {
+    "tenantId": "newzealand.southlandregion.southlanddistrict.stewartislandrakiuraward",
+    "code": "NZ_STL_SODI_SIW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_STL_SODI"
+  },
+  {
+    "tenantId": "newzealand.southlandregion.southlanddistrict.waiauaparimaward",
+    "code": "NZ_STL_SODI_WAWA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_STL_SODI"
+  },
+  {
+    "tenantId": "newzealand.southlandregion.invercargillcity.areaoutsideward",
+    "code": "NZ_STL_INCI_AOW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_STL_INCI"
+  }
+]

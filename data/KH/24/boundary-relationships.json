@@ -1,0 +1,79 @@
+[
+  {
+    "tenantId": "cambodia.pailin",
+    "code": "KH_24",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "KH"
+  },
+  {
+    "tenantId": "cambodia.pailin.salakrau",
+    "code": "KH_24_SAKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KH_24"
+  },
+  {
+    "tenantId": "cambodia.pailin.pailin",
+    "code": "KH_24_PAIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KH_24"
+  },
+  {
+    "tenantId": "cambodia.pailin.salakrau.stuengtrang",
+    "code": "KH_24_SAKR_STTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_24_SAKR"
+  },
+  {
+    "tenantId": "cambodia.pailin.salakrau.ouandoung",
+    "code": "KH_24_SAKR_OUAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_24_SAKR"
+  },
+  {
+    "tenantId": "cambodia.pailin.salakrau.salakrau",
+    "code": "KH_24_SAKR_SAKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_24_SAKR"
+  },
+  {
+    "tenantId": "cambodia.pailin.salakrau.stuengkach",
+    "code": "KH_24_SAKR_STKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_24_SAKR"
+  },
+  {
+    "tenantId": "cambodia.pailin.pailin.tuollvea",
+    "code": "KH_24_PAIL_TULV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_24_PAIL"
+  },
+  {
+    "tenantId": "cambodia.pailin.pailin.pailin",
+    "code": "KH_24_PAIL_PAIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_24_PAIL"
+  },
+  {
+    "tenantId": "cambodia.pailin.pailin.outavau",
+    "code": "KH_24_PAIL_OTV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_24_PAIL"
+  },
+  {
+    "tenantId": "cambodia.pailin.pailin.baryakha",
+    "code": "KH_24_PAIL_BAYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_24_PAIL"
+  }
+]

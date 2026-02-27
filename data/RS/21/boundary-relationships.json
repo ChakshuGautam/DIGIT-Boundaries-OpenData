@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "serbia.toplicadistrict",
+    "code": "RS_21",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "RS"
+  },
+  {
+    "tenantId": "serbia.toplicadistrict.zitoradjamunicipality",
+    "code": "RS_21_ZIMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_21"
+  },
+  {
+    "tenantId": "serbia.toplicadistrict.blacemunicipality",
+    "code": "RS_21_BLMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_21"
+  },
+  {
+    "tenantId": "serbia.toplicadistrict.kursumlijamunicipality",
+    "code": "RS_21_KUMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_21"
+  },
+  {
+    "tenantId": "serbia.toplicadistrict.prokupljemunicipality",
+    "code": "RS_21_PRMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_21"
+  }
+]

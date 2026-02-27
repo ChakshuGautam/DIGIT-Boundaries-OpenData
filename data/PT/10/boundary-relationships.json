@@ -1,0 +1,828 @@
+[
+  {
+    "tenantId": "portugal.leiria",
+    "code": "PT_10",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PT"
+  },
+  {
+    "tenantId": "portugal.leiria.bombarral",
+    "code": "PT_10_BOMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_10"
+  },
+  {
+    "tenantId": "portugal.leiria.peniche",
+    "code": "PT_10_PENI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_10"
+  },
+  {
+    "tenantId": "portugal.leiria.obidos",
+    "code": "PT_10_OBID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_10"
+  },
+  {
+    "tenantId": "portugal.leiria.caldasdarainha",
+    "code": "PT_10_CDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_10"
+  },
+  {
+    "tenantId": "portugal.leiria.alcobaca",
+    "code": "PT_10_ALCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_10"
+  },
+  {
+    "tenantId": "portugal.leiria.portodemos",
+    "code": "PT_10_PDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_10"
+  },
+  {
+    "tenantId": "portugal.leiria.batalha",
+    "code": "PT_10_BATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_10"
+  },
+  {
+    "tenantId": "portugal.leiria.leiria",
+    "code": "PT_10_LEIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_10"
+  },
+  {
+    "tenantId": "portugal.leiria.marinhagrande",
+    "code": "PT_10_MAGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_10"
+  },
+  {
+    "tenantId": "portugal.leiria.alvaiazere",
+    "code": "PT_10_ALVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_10"
+  },
+  {
+    "tenantId": "portugal.leiria.pombal",
+    "code": "PT_10_POMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_10"
+  },
+  {
+    "tenantId": "portugal.leiria.ansiao",
+    "code": "PT_10_ANSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_10"
+  },
+  {
+    "tenantId": "portugal.leiria.figueirodosvinhos",
+    "code": "PT_10_FDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_10"
+  },
+  {
+    "tenantId": "portugal.leiria.pedrogaogrande",
+    "code": "PT_10_PEGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_10"
+  },
+  {
+    "tenantId": "portugal.leiria.castanheiradepera",
+    "code": "PT_10_CDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_10"
+  },
+  {
+    "tenantId": "portugal.leiria.nazare",
+    "code": "PT_10_NAZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_10"
+  },
+  {
+    "tenantId": "portugal.leiria.bombarral.roli",
+    "code": "PT_10_BOMB_ROLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_BOMB"
+  },
+  {
+    "tenantId": "portugal.leiria.peniche.atouguiadabaleia",
+    "code": "PT_10_PENI_ADB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_PENI"
+  },
+  {
+    "tenantId": "portugal.leiria.peniche.ferrel",
+    "code": "PT_10_PENI_FERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_PENI"
+  },
+  {
+    "tenantId": "portugal.leiria.peniche.peniche",
+    "code": "PT_10_PENI_PENI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_PENI"
+  },
+  {
+    "tenantId": "portugal.leiria.obidos.adosnegros",
+    "code": "PT_10_OBID_ADN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_OBID"
+  },
+  {
+    "tenantId": "portugal.leiria.obidos.amoreira",
+    "code": "PT_10_OBID_AMOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_OBID"
+  },
+  {
+    "tenantId": "portugal.leiria.obidos.gaeiras",
+    "code": "PT_10_OBID_GAEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_OBID"
+  },
+  {
+    "tenantId": "portugal.leiria.obidos.nadadouro",
+    "code": "PT_10_OBID_NADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_OBID"
+  },
+  {
+    "tenantId": "portugal.leiria.obidos.olhomarinho",
+    "code": "PT_10_OBID_OLMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_OBID"
+  },
+  {
+    "tenantId": "portugal.leiria.obidos.santamariasopedroesobraldalagoa",
+    "code": "PT_10_OBID_SMSP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_OBID"
+  },
+  {
+    "tenantId": "portugal.leiria.obidos.serradelrei",
+    "code": "PT_10_OBID_SED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_OBID"
+  },
+  {
+    "tenantId": "portugal.leiria.obidos.usseira",
+    "code": "PT_10_OBID_USSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_OBID"
+  },
+  {
+    "tenantId": "portugal.leiria.obidos.vau",
+    "code": "PT_10_OBID_VAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_OBID"
+  },
+  {
+    "tenantId": "portugal.leiria.caldasdarainha.alvorninha",
+    "code": "PT_10_CDR_ALVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_CDR"
+  },
+  {
+    "tenantId": "portugal.leiria.caldasdarainha.benedita",
+    "code": "PT_10_CDR_BENE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_CDR"
+  },
+  {
+    "tenantId": "portugal.leiria.caldasdarainha.carvalhalbenfeito",
+    "code": "PT_10_CDR_CABE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_CDR"
+  },
+  {
+    "tenantId": "portugal.leiria.caldasdarainha.fozdoarelho",
+    "code": "PT_10_CDR_FDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_CDR"
+  },
+  {
+    "tenantId": "portugal.leiria.caldasdarainha.salirdematos",
+    "code": "PT_10_CDR_SDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_CDR"
+  },
+  {
+    "tenantId": "portugal.leiria.caldasdarainha.uniodasfreguesiasdecaldasdarainhanossa",
+    "code": "PT_10_CDR_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_CDR"
+  },
+  {
+    "tenantId": "portugal.leiria.caldasdarainha.uniodasfreguesiasdecaldasdarainhasanto",
+    "code": "PT_10_CDR_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_CDR"
+  },
+  {
+    "tenantId": "portugal.leiria.caldasdarainha.uniodasfreguesiasdetornadaesalirdoporto",
+    "code": "PT_10_CDR_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_CDR"
+  },
+  {
+    "tenantId": "portugal.leiria.caldasdarainha.vidais",
+    "code": "PT_10_CDR_VIDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_CDR"
+  },
+  {
+    "tenantId": "portugal.leiria.caldasdarainha.vimeiro",
+    "code": "PT_10_CDR_VIME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_CDR"
+  },
+  {
+    "tenantId": "portugal.leiria.alcobaca.alfeizero",
+    "code": "PT_10_ALCO_ALFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_ALCO"
+  },
+  {
+    "tenantId": "portugal.leiria.alcobaca.bdrrio",
+    "code": "PT_10_ALCO_BDRR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_ALCO"
+  },
+  {
+    "tenantId": "portugal.leiria.alcobaca.cela",
+    "code": "PT_10_ALCO_CELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_ALCO"
+  },
+  {
+    "tenantId": "portugal.leiria.alcobaca.avoradealcobaa",
+    "code": "PT_10_ALCO_ADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_ALCO"
+  },
+  {
+    "tenantId": "portugal.leiria.alcobaca.maiorga",
+    "code": "PT_10_ALCO_MAIO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_ALCO"
+  },
+  {
+    "tenantId": "portugal.leiria.alcobaca.santacatarina",
+    "code": "PT_10_ALCO_SACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_ALCO"
+  },
+  {
+    "tenantId": "portugal.leiria.alcobaca.turquel",
+    "code": "PT_10_ALCO_TURQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_ALCO"
+  },
+  {
+    "tenantId": "portugal.leiria.alcobaca.uniodasfreguesiasdealcobaaaevestiaria",
+    "code": "PT_10_ALCO_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_ALCO"
+  },
+  {
+    "tenantId": "portugal.leiria.alcobaca.uniodasfreguesiasdecozalpedrizemontes",
+    "code": "PT_10_ALCO_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_ALCO"
+  },
+  {
+    "tenantId": "portugal.leiria.alcobaca.uniodasfreguesiasdepataiasemartinganra",
+    "code": "PT_10_ALCO_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_ALCO"
+  },
+  {
+    "tenantId": "portugal.leiria.alcobaca.valadodosfrades",
+    "code": "PT_10_ALCO_VDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_ALCO"
+  },
+  {
+    "tenantId": "portugal.leiria.portodemos.aljubarrota",
+    "code": "PT_10_PDM_ALJU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_PDM"
+  },
+  {
+    "tenantId": "portugal.leiria.portodemos.alqueidodaserra",
+    "code": "PT_10_PDM_ADS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_PDM"
+  },
+  {
+    "tenantId": "portugal.leiria.portodemos.batalha",
+    "code": "PT_10_PDM_BATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_PDM"
+  },
+  {
+    "tenantId": "portugal.leiria.portodemos.calvariadecima",
+    "code": "PT_10_PDM_CDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_PDM"
+  },
+  {
+    "tenantId": "portugal.leiria.portodemos.juncal",
+    "code": "PT_10_PDM_JUNC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_PDM"
+  },
+  {
+    "tenantId": "portugal.leiria.portodemos.moita",
+    "code": "PT_10_PDM_MOIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_PDM"
+  },
+  {
+    "tenantId": "portugal.leiria.portodemos.pedreiras",
+    "code": "PT_10_PDM_PEDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_PDM"
+  },
+  {
+    "tenantId": "portugal.leiria.portodemos.portodemssojoobaptistaesuopedro",
+    "code": "PT_10_PDM_PDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_PDM"
+  },
+  {
+    "tenantId": "portugal.leiria.portodemos.serroventoso",
+    "code": "PT_10_PDM_SEVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_PDM"
+  },
+  {
+    "tenantId": "portugal.leiria.portodemos.uniodasfreguesiasdealvadosealcaria",
+    "code": "PT_10_PDM_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_PDM"
+  },
+  {
+    "tenantId": "portugal.leiria.batalha.golpilheira",
+    "code": "PT_10_BATA_GOLP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_BATA"
+  },
+  {
+    "tenantId": "portugal.leiria.batalha.reguengodofetal",
+    "code": "PT_10_BATA_RDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_BATA"
+  },
+  {
+    "tenantId": "portugal.leiria.batalha.sdomamede",
+    "code": "PT_10_BATA_SDMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_BATA"
+  },
+  {
+    "tenantId": "portugal.leiria.batalha.uniodasfreguesiasdeparceiroseazoia",
+    "code": "PT_10_BATA_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_BATA"
+  },
+  {
+    "tenantId": "portugal.leiria.leiria.amor",
+    "code": "PT_10_LEIR_AMOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_LEIR"
+  },
+  {
+    "tenantId": "portugal.leiria.leiria.arrabal",
+    "code": "PT_10_LEIR_ARRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_LEIR"
+  },
+  {
+    "tenantId": "portugal.leiria.leiria.bajouca",
+    "code": "PT_10_LEIR_BAJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_LEIR"
+  },
+  {
+    "tenantId": "portugal.leiria.leiria.bidoeiradecima",
+    "code": "PT_10_LEIR_BDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_LEIR"
+  },
+  {
+    "tenantId": "portugal.leiria.leiria.caranguejeira",
+    "code": "PT_10_LEIR_CARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_LEIR"
+  },
+  {
+    "tenantId": "portugal.leiria.leiria.coimbrmo",
+    "code": "PT_10_LEIR_COIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_LEIR"
+  },
+  {
+    "tenantId": "portugal.leiria.leiria.maceira",
+    "code": "PT_10_LEIR_MACE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_LEIR"
+  },
+  {
+    "tenantId": "portugal.leiria.leiria.meirinhas",
+    "code": "PT_10_LEIR_MEIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_LEIR"
+  },
+  {
+    "tenantId": "portugal.leiria.leiria.milagres",
+    "code": "PT_10_LEIR_MILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_LEIR"
+  },
+  {
+    "tenantId": "portugal.leiria.leiria.regueiradepontes",
+    "code": "PT_10_LEIR_RDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_LEIR"
+  },
+  {
+    "tenantId": "portugal.leiria.leiria.uniodasfreguesiasdeleiriapousosbarreira",
+    "code": "PT_10_LEIR_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_LEIR"
+  },
+  {
+    "tenantId": "portugal.leiria.leiria.uniodasfreguesiasdemarrazesebarosa",
+    "code": "PT_10_LEIR_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_LEIR"
+  },
+  {
+    "tenantId": "portugal.leiria.leiria.uniodasfreguesiasdematasecercal",
+    "code": "PT_10_LEIR_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_LEIR"
+  },
+  {
+    "tenantId": "portugal.leiria.leiria.uniodasfreguesiasdemonterealecarvide",
+    "code": "PT_10_LEIR_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_LEIR"
+  },
+  {
+    "tenantId": "portugal.leiria.leiria.uniodasfreguesiasdemonteredondoecarreira",
+    "code": "PT_10_LEIR_UDFD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_LEIR"
+  },
+  {
+    "tenantId": "portugal.leiria.leiria.uniodasfreguesiasdesantaeufzmiaeboavist",
+    "code": "PT_10_LEIR_UDFD6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_LEIR"
+  },
+  {
+    "tenantId": "portugal.leiria.leiria.uniodasfreguesiasdesoutodacarpalhosaeort",
+    "code": "PT_10_LEIR_UDFD7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_LEIR"
+  },
+  {
+    "tenantId": "portugal.leiria.marinhagrande.marinhagrande",
+    "code": "PT_10_MAGR_MAGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_MAGR"
+  },
+  {
+    "tenantId": "portugal.leiria.marinhagrande.vieiradeleiria",
+    "code": "PT_10_MAGR_VDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_MAGR"
+  },
+  {
+    "tenantId": "portugal.leiria.alvaiazere.abiul",
+    "code": "PT_10_ALVA_ABIU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_ALVA"
+  },
+  {
+    "tenantId": "portugal.leiria.alvaiazere.alvaidzere",
+    "code": "PT_10_ALVA_ALVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_ALVA"
+  },
+  {
+    "tenantId": "portugal.leiria.alvaiazere.avelar",
+    "code": "PT_10_ALVA_AVEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_ALVA"
+  },
+  {
+    "tenantId": "portugal.leiria.alvaiazere.pousaflores",
+    "code": "PT_10_ALVA_POUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_ALVA"
+  },
+  {
+    "tenantId": "portugal.leiria.pombal.almagreira",
+    "code": "PT_10_POMB_ALMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_POMB"
+  },
+  {
+    "tenantId": "portugal.leiria.pombal.carrido",
+    "code": "PT_10_POMB_CARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_POMB"
+  },
+  {
+    "tenantId": "portugal.leiria.pombal.louridal",
+    "code": "PT_10_POMB_LOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_POMB"
+  },
+  {
+    "tenantId": "portugal.leiria.pombal.marinhadasondas",
+    "code": "PT_10_POMB_MDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_POMB"
+  },
+  {
+    "tenantId": "portugal.leiria.pombal.pelariga",
+    "code": "PT_10_POMB_PELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_POMB"
+  },
+  {
+    "tenantId": "portugal.leiria.pombal.redinha",
+    "code": "PT_10_POMB_REDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_POMB"
+  },
+  {
+    "tenantId": "portugal.leiria.pombal.soure",
+    "code": "PT_10_POMB_SOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_POMB"
+  },
+  {
+    "tenantId": "portugal.leiria.pombal.uniodasfreguesiasdeguiailhaematamourisc",
+    "code": "PT_10_POMB_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_POMB"
+  },
+  {
+    "tenantId": "portugal.leiria.pombal.uniodasfreguesiasdesantiagoescosimode",
+    "code": "PT_10_POMB_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_POMB"
+  },
+  {
+    "tenantId": "portugal.leiria.pombal.vermoil",
+    "code": "PT_10_POMB_VERM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_POMB"
+  },
+  {
+    "tenantId": "portugal.leiria.pombal.vilacm",
+    "code": "PT_10_POMB_VICM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_POMB"
+  },
+  {
+    "tenantId": "portugal.leiria.ansiao.alvorge",
+    "code": "PT_10_ANSI_ALVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_ANSI"
+  },
+  {
+    "tenantId": "portugal.leiria.ansiao.ansi",
+    "code": "PT_10_ANSI_ANSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_ANSI"
+  },
+  {
+    "tenantId": "portugal.leiria.ansiao.arroios",
+    "code": "PT_10_ANSI_ARRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_ANSI"
+  },
+  {
+    "tenantId": "portugal.leiria.ansiao.chmodecouce",
+    "code": "PT_10_ANSI_CDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_ANSI"
+  },
+  {
+    "tenantId": "portugal.leiria.ansiao.santiagodaguarda",
+    "code": "PT_10_ANSI_SDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_ANSI"
+  },
+  {
+    "tenantId": "portugal.leiria.ansiao.uniodasfreguesiasdedegraciasepombalinho",
+    "code": "PT_10_ANSI_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_ANSI"
+  },
+  {
+    "tenantId": "portugal.leiria.ansiao.zambujal",
+    "code": "PT_10_ANSI_ZAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_ANSI"
+  },
+  {
+    "tenantId": "portugal.leiria.figueirodosvinhos.aguda",
+    "code": "PT_10_FDV_AGUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_FDV"
+  },
+  {
+    "tenantId": "portugal.leiria.figueirodosvinhos.cumeeira",
+    "code": "PT_10_FDV_CUME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_FDV"
+  },
+  {
+    "tenantId": "portugal.leiria.figueirodosvinhos.espinhal",
+    "code": "PT_10_FDV_ESPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_FDV"
+  },
+  {
+    "tenantId": "portugal.leiria.figueirodosvinhos.mamsdedonamaria",
+    "code": "PT_10_FDV_MDDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_FDV"
+  },
+  {
+    "tenantId": "portugal.leiria.figueirodosvinhos.vilanova",
+    "code": "PT_10_FDV_VINO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_FDV"
+  },
+  {
+    "tenantId": "portugal.leiria.pedrogaogrande.lousa",
+    "code": "PT_10_PEGR_LOUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_PEGR"
+  },
+  {
+    "tenantId": "portugal.leiria.pedrogaogrande.pedr",
+    "code": "PT_10_PEGR_PEDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_PEGR"
+  },
+  {
+    "tenantId": "portugal.leiria.pedrogaogrande.uniodasfreguesiasdecastanheiradeprraeco",
+    "code": "PT_10_PEGR_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_PEGR"
+  },
+  {
+    "tenantId": "portugal.leiria.pedrogaogrande.vilafacaia",
+    "code": "PT_10_PEGR_VIFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_PEGR"
+  },
+  {
+    "tenantId": "portugal.leiria.castanheiradepera.campelo",
+    "code": "PT_10_CDP_CAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_CDP"
+  },
+  {
+    "tenantId": "portugal.leiria.nazare.nazard",
+    "code": "PT_10_NAZA_NAZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_NAZA"
+  },
+  {
+    "tenantId": "portugal.leiria.nazare.sdomartinhodoporto",
+    "code": "PT_10_NAZA_SMDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_10_NAZA"
+  }
+]

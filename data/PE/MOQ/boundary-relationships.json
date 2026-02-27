@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "peru.moquegua",
+    "code": "PE_MOQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PE"
+  },
+  {
+    "tenantId": "peru.moquegua.generalsanchezcerro",
+    "code": "PE_MOQ_GSC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_MOQ"
+  },
+  {
+    "tenantId": "peru.moquegua.ilo",
+    "code": "PE_MOQ_ILO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_MOQ"
+  },
+  {
+    "tenantId": "peru.moquegua.mariscalnieto",
+    "code": "PE_MOQ_MANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_MOQ"
+  }
+]

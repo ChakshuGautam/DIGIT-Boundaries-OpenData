@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "caboverde.portonovo",
+    "code": "CV_PN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CV"
+  },
+  {
+    "tenantId": "caboverde.portonovo.santoandre",
+    "code": "CV_PN_SAAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CV_PN"
+  },
+  {
+    "tenantId": "caboverde.portonovo.saojoaobaptista",
+    "code": "CV_PN_SJB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CV_PN"
+  }
+]

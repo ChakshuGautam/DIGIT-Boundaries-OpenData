@@ -1,0 +1,107 @@
+[
+  {
+    "tenantId": "southafrica.gauteng",
+    "code": "ZA_GAUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "ZA"
+  },
+  {
+    "tenantId": "southafrica.gauteng.cityofjohannesburg",
+    "code": "ZA_GAUT_COJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ZA_GAUT"
+  },
+  {
+    "tenantId": "southafrica.gauteng.cityoftshwane",
+    "code": "ZA_GAUT_COT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ZA_GAUT"
+  },
+  {
+    "tenantId": "southafrica.gauteng.ekurhuleni",
+    "code": "ZA_GAUT_EKUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ZA_GAUT"
+  },
+  {
+    "tenantId": "southafrica.gauteng.sedibeng",
+    "code": "ZA_GAUT_SEDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ZA_GAUT"
+  },
+  {
+    "tenantId": "southafrica.gauteng.westrand",
+    "code": "ZA_GAUT_WERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ZA_GAUT"
+  },
+  {
+    "tenantId": "southafrica.gauteng.cityofjohannesburg.cityofjohannesburg",
+    "code": "ZA_GAUT_COJ_COJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "ZA_GAUT_COJ"
+  },
+  {
+    "tenantId": "southafrica.gauteng.cityoftshwane.cityoftshwane",
+    "code": "ZA_GAUT_COT_COT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "ZA_GAUT_COT"
+  },
+  {
+    "tenantId": "southafrica.gauteng.ekurhuleni.ekurhuleni",
+    "code": "ZA_GAUT_EKUR_EKUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "ZA_GAUT_EKUR"
+  },
+  {
+    "tenantId": "southafrica.gauteng.sedibeng.emfuleni",
+    "code": "ZA_GAUT_SEDI_EMFU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "ZA_GAUT_SEDI"
+  },
+  {
+    "tenantId": "southafrica.gauteng.sedibeng.lesedi",
+    "code": "ZA_GAUT_SEDI_LESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "ZA_GAUT_SEDI"
+  },
+  {
+    "tenantId": "southafrica.gauteng.sedibeng.midvaal",
+    "code": "ZA_GAUT_SEDI_MIDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "ZA_GAUT_SEDI"
+  },
+  {
+    "tenantId": "southafrica.gauteng.westrand.merafongcity",
+    "code": "ZA_GAUT_WERA_MECI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "ZA_GAUT_WERA"
+  },
+  {
+    "tenantId": "southafrica.gauteng.westrand.mogalecity",
+    "code": "ZA_GAUT_WERA_MOCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "ZA_GAUT_WERA"
+  },
+  {
+    "tenantId": "southafrica.gauteng.westrand.randwestcity",
+    "code": "ZA_GAUT_WERA_RWC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "ZA_GAUT_WERA"
+  }
+]

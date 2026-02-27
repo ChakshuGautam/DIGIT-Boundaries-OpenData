@@ -1,0 +1,16 @@
+[
+  {
+    "tenantId": "saotomeandprincipe.prncipeprovince",
+    "code": "ST_P",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "ST"
+  },
+  {
+    "tenantId": "saotomeandprincipe.prncipeprovince.pagu",
+    "code": "ST_P_PAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ST_P"
+  }
+]

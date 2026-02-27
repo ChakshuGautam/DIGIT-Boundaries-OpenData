@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "bahrain",
+    "code": "BH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "bahrain.northerngovernorate",
+    "code": "BH_17",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BH"
+  },
+  {
+    "tenantId": "bahrain.southerngovernorate",
+    "code": "BH_14",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BH"
+  },
+  {
+    "tenantId": "bahrain.capitalgovernorate",
+    "code": "BH_13",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BH"
+  },
+  {
+    "tenantId": "bahrain.muharraqgovernorate",
+    "code": "BH_15",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BH"
+  }
+]

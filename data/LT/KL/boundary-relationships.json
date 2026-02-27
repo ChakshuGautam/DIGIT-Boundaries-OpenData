@@ -1,0 +1,352 @@
+[
+  {
+    "tenantId": "lithuania.klaipedacounty",
+    "code": "LT_KL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "LT"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.neringossavivaldyb",
+    "code": "LT_KL_NESA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_KL"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.palangosmiestosavivaldyb",
+    "code": "LT_KL_PMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_KL"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.klaipdadistrictmunicipality",
+    "code": "LT_KL_KDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_KL"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.kretingadistrictmunicipality",
+    "code": "LT_KL_KDM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_KL"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.skuodorajonosavivaldyb",
+    "code": "LT_KL_SRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_KL"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.ilutdistrictmunicipality",
+    "code": "LT_KL_DM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_KL"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.klaipdacitymunicipality",
+    "code": "LT_KL_KCM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_KL"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.neringossavivaldyb.judokrantespreliospervalkosseninija",
+    "code": "LT_KL_NESA_JPS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_NESA"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.palangosmiestosavivaldyb.palangosseninija",
+    "code": "LT_KL_PMS_PASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_PMS"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.klaipdadistrictmunicipality.vaiiseninija",
+    "code": "LT_KL_KDM_VSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_KDM"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.klaipdadistrictmunicipality.gargdseninija",
+    "code": "LT_KL_KDM_GASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_KDM"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.klaipdadistrictmunicipality.sendvarioseninija",
+    "code": "LT_KL_KDM_SESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_KDM"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.klaipdadistrictmunicipality.judrnseninija",
+    "code": "LT_KL_KDM_JUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_KDM"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.klaipdadistrictmunicipality.dovilseninija",
+    "code": "LT_KL_KDM_DOSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_KDM"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.klaipdadistrictmunicipality.kretingalsseninija",
+    "code": "LT_KL_KDM_KRSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_KDM"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.klaipdadistrictmunicipality.priekulsseninija",
+    "code": "LT_KL_KDM_PRSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_KDM"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.klaipdadistrictmunicipality.vknosseninija",
+    "code": "LT_KL_KDM_VSE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_KDM"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.klaipdadistrictmunicipality.agluonnseninija",
+    "code": "LT_KL_KDM_AGSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_KDM"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.klaipdadistrictmunicipality.dauparkvietiniseninija",
+    "code": "LT_KL_KDM_DASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_KDM"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.klaipdadistrictmunicipality.endriejavoseninija",
+    "code": "LT_KL_KDM_ENSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_KDM"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.kretingadistrictmunicipality.imbarsseninija",
+    "code": "LT_KL_KDM2_IMSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_KDM2"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.kretingadistrictmunicipality.kretingosmiestoseninija",
+    "code": "LT_KL_KDM2_KMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_KDM2"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.kretingadistrictmunicipality.kretingosseninija",
+    "code": "LT_KL_KDM2_KRSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_KDM2"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.kretingadistrictmunicipality.kartenosseninija",
+    "code": "LT_KL_KDM2_KASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_KDM2"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.kretingadistrictmunicipality.darbnseninija",
+    "code": "LT_KL_KDM2_DASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_KDM2"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.kretingadistrictmunicipality.algirioseninija",
+    "code": "LT_KL_KDM2_ASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_KDM2"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.kretingadistrictmunicipality.salantmiestoseninija",
+    "code": "LT_KL_KDM2_SMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_KDM2"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.kretingadistrictmunicipality.klupnseninija",
+    "code": "LT_KL_KDM2_KSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_KDM2"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.skuodorajonosavivaldyb.skuodoseninija",
+    "code": "LT_KL_SRS_SKSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_SRS"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.skuodorajonosavivaldyb.mosdioseninija",
+    "code": "LT_KL_SRS_MOSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_SRS"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.skuodorajonosavivaldyb.notnseninija",
+    "code": "LT_KL_SRS_NOSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_SRS"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.skuodorajonosavivaldyb.aiseninija",
+    "code": "LT_KL_SRS_ASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_SRS"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.skuodorajonosavivaldyb.skuodomiestoseninija",
+    "code": "LT_KL_SRS_SMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_SRS"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.skuodorajonosavivaldyb.lenkimseninija",
+    "code": "LT_KL_SRS_LESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_SRS"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.skuodorajonosavivaldyb.ylakiseninija",
+    "code": "LT_KL_SRS_YLSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_SRS"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.skuodorajonosavivaldyb.barstyiseninija",
+    "code": "LT_KL_SRS_BASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_SRS"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.skuodorajonosavivaldyb.aleksandrijosseninija",
+    "code": "LT_KL_SRS_ALSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_SRS"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.ilutdistrictmunicipality.katyiseninija",
+    "code": "LT_KL_DM_KASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_DM"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.ilutdistrictmunicipality.gardamoseninija",
+    "code": "LT_KL_DM_GASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_DM"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.ilutdistrictmunicipality.juknaiiseninija",
+    "code": "LT_KL_DM_JUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_DM"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.ilutdistrictmunicipality.rusnsseninija",
+    "code": "LT_KL_DM_RUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_DM"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.ilutdistrictmunicipality.ilutsseninija",
+    "code": "LT_KL_DM_ISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_DM"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.ilutdistrictmunicipality.usnseninija",
+    "code": "LT_KL_DM_USSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_DM"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.ilutdistrictmunicipality.vainutoseninija",
+    "code": "LT_KL_DM_VASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_DM"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.ilutdistrictmunicipality.emaiinaumiesioseninija",
+    "code": "LT_KL_DM_NS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_DM"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.ilutdistrictmunicipality.saugseninija",
+    "code": "LT_KL_DM_SASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_DM"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.ilutdistrictmunicipality.veivirnseninija",
+    "code": "LT_KL_DM_VESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_DM"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.ilutdistrictmunicipality.kintseninija",
+    "code": "LT_KL_DM_KISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_DM"
+  },
+  {
+    "tenantId": "lithuania.klaipedacounty.klaipdacitymunicipality.klaipedosmiestoseninija",
+    "code": "LT_KL_KCM_KMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_KL_KCM"
+  }
+]

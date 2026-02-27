@@ -1,0 +1,3824 @@
+[
+  {
+    "tenantId": "spain.comunitatvalenciana",
+    "code": "ES_COVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "ES"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon",
+    "code": "ES_COVA_CAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_COVA"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia",
+    "code": "ES_COVA_VALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_COVA"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante",
+    "code": "ES_COVA_ALIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_COVA"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.benafigos",
+    "code": "ES_COVA_CAST_BENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.benassal",
+    "code": "ES_COVA_CAST_BENA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.borrianaburriana",
+    "code": "ES_COVA_CAST_BORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.cabanes",
+    "code": "ES_COVA_CAST_CABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.clig",
+    "code": "ES_COVA_CAST_CLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.canetloroig",
+    "code": "ES_COVA_CAST_CLR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.castelldecabres",
+    "code": "ES_COVA_CAST_CDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.onda",
+    "code": "ES_COVA_CAST_ONDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.oropesadelmarorpesa",
+    "code": "ES_COVA_CAST_ODM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.palanques",
+    "code": "ES_COVA_CAST_PALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.pavas",
+    "code": "ES_COVA_CAST_PAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.penscolapescola",
+    "code": "ES_COVA_CAST_PEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.pinademontalgrao",
+    "code": "ES_COVA_CAST_PDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.portelldemorella",
+    "code": "ES_COVA_CAST_PDM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.puebladearenoso",
+    "code": "ES_COVA_CAST_PDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.lapobladebenifass",
+    "code": "ES_COVA_CAST_LPDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.lapoblatornesa",
+    "code": "ES_COVA_CAST_LPT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.ribesalbes",
+    "code": "ES_COVA_CAST_RIBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.rossell",
+    "code": "ES_COVA_CAST_ROSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.sacaet",
+    "code": "ES_COVA_CAST_SACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.lasalzadella",
+    "code": "ES_COVA_CAST_LASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.santjordisanjorge",
+    "code": "ES_COVA_CAST_SJJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.santmateu",
+    "code": "ES_COVA_CAST_SAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.sanrafaeldelro",
+    "code": "ES_COVA_CAST_SRDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.santamagdalenadepulpis",
+    "code": "ES_COVA_CAST_SMDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.laserratella",
+    "code": "ES_COVA_CAST_LASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.segorbe",
+    "code": "ES_COVA_CAST_SEGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.sierraengarcern",
+    "code": "ES_COVA_CAST_SIEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.soneja",
+    "code": "ES_COVA_CAST_SONE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.sotdeferrer",
+    "code": "ES_COVA_CAST_SDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.suerassuera",
+    "code": "ES_COVA_CAST_SUER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.tales",
+    "code": "ES_COVA_CAST_TALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.teresa",
+    "code": "ES_COVA_CAST_TERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.atzenetadelmaestrat",
+    "code": "ES_COVA_CAST_ADM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.an",
+    "code": "ES_COVA_CAST_AN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.albocsser",
+    "code": "ES_COVA_CAST_ALBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.alcaldexivert",
+    "code": "ES_COVA_CAST_ADX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.lalcora",
+    "code": "ES_COVA_CAST_LAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.alcudiadeveo",
+    "code": "ES_COVA_CAST_ADV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.alfondeguilla",
+    "code": "ES_COVA_CAST_ALFO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.algimiadealmonacid",
+    "code": "ES_COVA_CAST_ADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.vilanovadalcolea",
+    "code": "ES_COVA_CAST_VID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.villanuevadeviver",
+    "code": "ES_COVA_CAST_VDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.vilardecanes",
+    "code": "ES_COVA_CAST_VDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.vilareal",
+    "code": "ES_COVA_CAST_VILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.lavilavella",
+    "code": "ES_COVA_CAST_LAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.villores",
+    "code": "ES_COVA_CAST_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.vinars",
+    "code": "ES_COVA_CAST_VINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.vistabelladelmaestrat",
+    "code": "ES_COVA_CAST_VDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.viver",
+    "code": "ES_COVA_CAST_VIVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.zoritadelmaestrazgo",
+    "code": "ES_COVA_CAST_ZDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.zucaina",
+    "code": "ES_COVA_CAST_ZUCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.lesalqueriesalquerasdelnioperdido",
+    "code": "ES_COVA_CAST_LADN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.santjoandemor",
+    "code": "ES_COVA_CAST_SJDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.vilafams",
+    "code": "ES_COVA_CAST_VILA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.villahermosadelro",
+    "code": "ES_COVA_CAST_VDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.villamalur",
+    "code": "ES_COVA_CAST_VILL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.almedjar",
+    "code": "ES_COVA_CAST_ALME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.almenara",
+    "code": "ES_COVA_CAST_ALME2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.altura",
+    "code": "ES_COVA_CAST_ALTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.arauel",
+    "code": "ES_COVA_CAST_ARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.aresdelmaestrat",
+    "code": "ES_COVA_CAST_ADM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.argelita",
+    "code": "ES_COVA_CAST_ARGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.artana",
+    "code": "ES_COVA_CAST_ARTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.aydar",
+    "code": "ES_COVA_CAST_AYD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.azubar",
+    "code": "ES_COVA_CAST_AZU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.barracas",
+    "code": "ES_COVA_CAST_BARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.betx",
+    "code": "ES_COVA_CAST_BETX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.bejs",
+    "code": "ES_COVA_CAST_BEJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.benafer",
+    "code": "ES_COVA_CAST_BENA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.benlloc",
+    "code": "ES_COVA_CAST_BENL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.borriol",
+    "code": "ES_COVA_CAST_BORR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.castellnovo",
+    "code": "ES_COVA_CAST_CAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.caudiel",
+    "code": "ES_COVA_CAST_CAUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.cerveradelmaestre",
+    "code": "ES_COVA_CAST_CDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.cinctorres",
+    "code": "ES_COVA_CAST_CINC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.cirat",
+    "code": "ES_COVA_CAST_CIRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.cortesdearenoso",
+    "code": "ES_COVA_CAST_CDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.costur",
+    "code": "ES_COVA_CAST_COST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.lescovesdevinrom",
+    "code": "ES_COVA_CAST_LCDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.culla",
+    "code": "ES_COVA_CAST_CULL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.xert",
+    "code": "ES_COVA_CAST_XERT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.chilchesxilxes",
+    "code": "ES_COVA_CAST_CHIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.chodosxodos",
+    "code": "ES_COVA_CAST_CHOD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.chvar",
+    "code": "ES_COVA_CAST_CHV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.eslida",
+    "code": "ES_COVA_CAST_ESLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.espadilla",
+    "code": "ES_COVA_CAST_ESPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.fanzara",
+    "code": "ES_COVA_CAST_FANZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.figueroles",
+    "code": "ES_COVA_CAST_FIGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.forcall",
+    "code": "ES_COVA_CAST_FORC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.fuentelareina",
+    "code": "ES_COVA_CAST_FLR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.fuentesdeaydar",
+    "code": "ES_COVA_CAST_FDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.gaibiel",
+    "code": "ES_COVA_CAST_GAIB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.geldo",
+    "code": "ES_COVA_CAST_GELD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.herbs",
+    "code": "ES_COVA_CAST_HERB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.higueras",
+    "code": "ES_COVA_CAST_HIGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.lajana",
+    "code": "ES_COVA_CAST_LAJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.ludiente",
+    "code": "ES_COVA_CAST_LUDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.lallosa",
+    "code": "ES_COVA_CAST_LALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.lamatademorella",
+    "code": "ES_COVA_CAST_LMDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.matet",
+    "code": "ES_COVA_CAST_MATE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.moncofa",
+    "code": "ES_COVA_CAST_MONC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.montn",
+    "code": "ES_COVA_CAST_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.montanejos",
+    "code": "ES_COVA_CAST_MONT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.morella",
+    "code": "ES_COVA_CAST_MORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.navajas",
+    "code": "ES_COVA_CAST_NAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.olocaudelrey",
+    "code": "ES_COVA_CAST_ODR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.todolella",
+    "code": "ES_COVA_CAST_TODO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.toga",
+    "code": "ES_COVA_CAST_TOGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.tors",
+    "code": "ES_COVA_CAST_TOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.torralbadelpinar",
+    "code": "ES_COVA_CAST_TDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.torrechiva",
+    "code": "ES_COVA_CAST_TORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.latorredenbesora",
+    "code": "ES_COVA_CAST_LTDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.latorredendomnec",
+    "code": "ES_COVA_CAST_LTDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.traiguera",
+    "code": "ES_COVA_CAST_TRAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.vallat",
+    "code": "ES_COVA_CAST_VALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.valldalba",
+    "code": "ES_COVA_CAST_VAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.valldealmonacid",
+    "code": "ES_COVA_CAST_VDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.lavallduix",
+    "code": "ES_COVA_CAST_LVD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.vallibona",
+    "code": "ES_COVA_CAST_VALL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.almassora",
+    "code": "ES_COVA_CAST_ALMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.benicarl",
+    "code": "ES_COVA_CAST_BENI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.castellfort",
+    "code": "ES_COVA_CAST_CAST2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.castillodevillamalefa",
+    "code": "ES_COVA_CAST_CDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.cat",
+    "code": "ES_COVA_CAST_CAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.jrica",
+    "code": "ES_COVA_CAST_JRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.llucenalucenadelcid",
+    "code": "ES_COVA_CAST_LDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.nules",
+    "code": "ES_COVA_CAST_NULE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.trig",
+    "code": "ES_COVA_CAST_TRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.eltoro",
+    "code": "ES_COVA_CAST_ELTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.torreblanca",
+    "code": "ES_COVA_CAST_TORR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.useraslesuseres",
+    "code": "ES_COVA_CAST_USUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.vilafrancavillafrancadelcid",
+    "code": "ES_COVA_CAST_VDC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.castellndelaplanacastelldelaplana",
+    "code": "ES_COVA_CAST_CDLP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.castellon.benicasimbenicssim",
+    "code": "ES_COVA_CAST_BENI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_CAST"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.ademuz",
+    "code": "ES_COVA_VALE_ADEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.ador",
+    "code": "ES_COVA_VALE_ADOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.atzenetadalbaida",
+    "code": "ES_COVA_VALE_ATD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.agullent",
+    "code": "ES_COVA_VALE_AGUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.alaqus",
+    "code": "ES_COVA_VALE_ALAQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.albaida",
+    "code": "ES_COVA_VALE_ALBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.albal",
+    "code": "ES_COVA_VALE_ALBA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.albalatdelaribera",
+    "code": "ES_COVA_VALE_ADLR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.albalatdelssorells",
+    "code": "ES_COVA_VALE_ADS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.albalatdelstarongers",
+    "code": "ES_COVA_VALE_ADT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.alberic",
+    "code": "ES_COVA_VALE_ALBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.alborache",
+    "code": "ES_COVA_VALE_ALBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.alboraiaalboraya",
+    "code": "ES_COVA_VALE_ALBO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.albuixech",
+    "code": "ES_COVA_VALE_ALBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.alcsser",
+    "code": "ES_COVA_VALE_ALC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.alcnteradexquer",
+    "code": "ES_COVA_VALE_ADX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.alzira",
+    "code": "ES_COVA_VALE_ALZI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.alcublas",
+    "code": "ES_COVA_VALE_ALCU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.lalcdia",
+    "code": "ES_COVA_VALE_LAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.lalcdiadecrespins",
+    "code": "ES_COVA_VALE_LDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.aldaia",
+    "code": "ES_COVA_VALE_ALDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.alfafar",
+    "code": "ES_COVA_VALE_ALFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.alfauir",
+    "code": "ES_COVA_VALE_ALFA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.alfaradelabaronia",
+    "code": "ES_COVA_VALE_ADLB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.alfaradelpatriarca",
+    "code": "ES_COVA_VALE_ADP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.alfarp",
+    "code": "ES_COVA_VALE_ALFA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.alfarras",
+    "code": "ES_COVA_VALE_ALFA4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.algardepalancia",
+    "code": "ES_COVA_VALE_ADP2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.algemes",
+    "code": "ES_COVA_VALE_ALGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.algmiadalfara",
+    "code": "ES_COVA_VALE_ALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.alginet",
+    "code": "ES_COVA_VALE_ALGI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.almssera",
+    "code": "ES_COVA_VALE_ALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.almiser",
+    "code": "ES_COVA_VALE_ALMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.almoines",
+    "code": "ES_COVA_VALE_ALMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.almussafes",
+    "code": "ES_COVA_VALE_ALMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.alpuente",
+    "code": "ES_COVA_VALE_ALPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.lalqueriadelacomtessa",
+    "code": "ES_COVA_VALE_LDLC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.andilla",
+    "code": "ES_COVA_VALE_ANDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.anna",
+    "code": "ES_COVA_VALE_ANNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.antella",
+    "code": "ES_COVA_VALE_ANTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.arasdelosolmos",
+    "code": "ES_COVA_VALE_ADLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.aielodemalferit",
+    "code": "ES_COVA_VALE_ADM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.aieloderugat",
+    "code": "ES_COVA_VALE_ADR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.ayora",
+    "code": "ES_COVA_VALE_AYOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.barxeta",
+    "code": "ES_COVA_VALE_BARX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.barx",
+    "code": "ES_COVA_VALE_BARX2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.blgida",
+    "code": "ES_COVA_VALE_BLG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.bellreguard",
+    "code": "ES_COVA_VALE_BELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.bells",
+    "code": "ES_COVA_VALE_BELL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.benagber",
+    "code": "ES_COVA_VALE_BENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.benaguasil",
+    "code": "ES_COVA_VALE_BENA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.benavites",
+    "code": "ES_COVA_VALE_BENA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.beneixida",
+    "code": "ES_COVA_VALE_BENE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.benetsser",
+    "code": "ES_COVA_VALE_BENE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.beniarj",
+    "code": "ES_COVA_VALE_BENI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.beniatjar",
+    "code": "ES_COVA_VALE_BENI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.benicolet",
+    "code": "ES_COVA_VALE_BENI3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.benifairdelesvalls",
+    "code": "ES_COVA_VALE_BDLV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.benifairdelavalldigna",
+    "code": "ES_COVA_VALE_BDLV2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.benifai",
+    "code": "ES_COVA_VALE_BENI4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.benifl",
+    "code": "ES_COVA_VALE_BENI5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.benignim",
+    "code": "ES_COVA_VALE_BENI6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.benimodo",
+    "code": "ES_COVA_VALE_BENI7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.benimuslem",
+    "code": "ES_COVA_VALE_BENI8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.beniparrell",
+    "code": "ES_COVA_VALE_BENI9",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.benirredr",
+    "code": "ES_COVA_VALE_BENI10",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.benissan",
+    "code": "ES_COVA_VALE_BENI11",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.benissoda",
+    "code": "ES_COVA_VALE_BENI12",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.benissuera",
+    "code": "ES_COVA_VALE_BENI13",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.btera",
+    "code": "ES_COVA_VALE_BTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.llria",
+    "code": "ES_COVA_VALE_LLR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.elpuigdesantamaria",
+    "code": "ES_COVA_VALE_EPDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.puol",
+    "code": "ES_COVA_VALE_PUO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.quesa",
+    "code": "ES_COVA_VALE_QUES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.rafelbunyol",
+    "code": "ES_COVA_VALE_RAFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.rafelcofer",
+    "code": "ES_COVA_VALE_RAFE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.rafelguaraf",
+    "code": "ES_COVA_VALE_RAFE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.rfoldesalem",
+    "code": "ES_COVA_VALE_RDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.elrealdegandia",
+    "code": "ES_COVA_VALE_ERDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.real",
+    "code": "ES_COVA_VALE_REAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.requena",
+    "code": "ES_COVA_VALE_REQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.ribarojadetria",
+    "code": "ES_COVA_VALE_RDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.riola",
+    "code": "ES_COVA_VALE_RIOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.rocafort",
+    "code": "ES_COVA_VALE_ROCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.rotglicorber",
+    "code": "ES_COVA_VALE_RIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.rtova",
+    "code": "ES_COVA_VALE_RTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.rugat",
+    "code": "ES_COVA_VALE_RUGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.saguntosagunt",
+    "code": "ES_COVA_VALE_SAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.salem",
+    "code": "ES_COVA_VALE_SALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.santjoanet",
+    "code": "ES_COVA_VALE_SAJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.sedav",
+    "code": "ES_COVA_VALE_SEDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.segart",
+    "code": "ES_COVA_VALE_SEGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.sellent",
+    "code": "ES_COVA_VALE_SELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.sempere",
+    "code": "ES_COVA_VALE_SEMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.senyera",
+    "code": "ES_COVA_VALE_SENY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.serra",
+    "code": "ES_COVA_VALE_SERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.sieteaguas",
+    "code": "ES_COVA_VALE_SIAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.silla",
+    "code": "ES_COVA_VALE_SILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.simatdelavalldigna",
+    "code": "ES_COVA_VALE_SDLV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.sinarcas",
+    "code": "ES_COVA_VALE_SINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.sollana",
+    "code": "ES_COVA_VALE_SOLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.sotdechera",
+    "code": "ES_COVA_VALE_SDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.sueca",
+    "code": "ES_COVA_VALE_SUEC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.sumacrcer",
+    "code": "ES_COVA_VALE_SUMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.tavernesblanques",
+    "code": "ES_COVA_VALE_TABL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.teresadecofrentes",
+    "code": "ES_COVA_VALE_TDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.terrateig",
+    "code": "ES_COVA_VALE_TERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.titaguas",
+    "code": "ES_COVA_VALE_TITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.torrebaja",
+    "code": "ES_COVA_VALE_TORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.torrella",
+    "code": "ES_COVA_VALE_TORR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.torrent",
+    "code": "ES_COVA_VALE_TORR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.torrestorres",
+    "code": "ES_COVA_VALE_TOTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.tous",
+    "code": "ES_COVA_VALE_TOUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.tujar",
+    "code": "ES_COVA_VALE_TUJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.turs",
+    "code": "ES_COVA_VALE_TUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.bolbaite",
+    "code": "ES_COVA_VALE_BOLB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.bonrepsimirambell",
+    "code": "ES_COVA_VALE_BIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.bufali",
+    "code": "ES_COVA_VALE_BUFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.bugarra",
+    "code": "ES_COVA_VALE_BUGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.buol",
+    "code": "ES_COVA_VALE_BUO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.burjassot",
+    "code": "ES_COVA_VALE_BURJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.calles",
+    "code": "ES_COVA_VALE_CALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.camporrobles",
+    "code": "ES_COVA_VALE_CAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.canetdenberenguer",
+    "code": "ES_COVA_VALE_CDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.crcer",
+    "code": "ES_COVA_VALE_CRC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.carlet",
+    "code": "ES_COVA_VALE_CARL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.carrcola",
+    "code": "ES_COVA_VALE_CARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.casasaltas",
+    "code": "ES_COVA_VALE_CAAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.casasbajas",
+    "code": "ES_COVA_VALE_CABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.casinos",
+    "code": "ES_COVA_VALE_CASI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.castellderugat",
+    "code": "ES_COVA_VALE_CDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.castellonetdelaconquesta",
+    "code": "ES_COVA_VALE_CDLC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.castielfabib",
+    "code": "ES_COVA_VALE_CAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.catadau",
+    "code": "ES_COVA_VALE_CATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.catarroja",
+    "code": "ES_COVA_VALE_CATA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.caudetedelasfuentes",
+    "code": "ES_COVA_VALE_CDLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.cerd",
+    "code": "ES_COVA_VALE_CERD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.cofrentes",
+    "code": "ES_COVA_VALE_COFR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.corbera",
+    "code": "ES_COVA_VALE_CORB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.cortesdepalls",
+    "code": "ES_COVA_VALE_CDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.cotes",
+    "code": "ES_COVA_VALE_COTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.quartdelesvalls",
+    "code": "ES_COVA_VALE_QDLV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.quartdepoblet",
+    "code": "ES_COVA_VALE_QDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.quartell",
+    "code": "ES_COVA_VALE_QUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.quatretonda",
+    "code": "ES_COVA_VALE_QUAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.chelva",
+    "code": "ES_COVA_VALE_CHEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.chella",
+    "code": "ES_COVA_VALE_CHEL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.chera",
+    "code": "ES_COVA_VALE_CHER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.cheste",
+    "code": "ES_COVA_VALE_CHES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.xirivella",
+    "code": "ES_COVA_VALE_XIRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.chiva",
+    "code": "ES_COVA_VALE_CHIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.chulilla",
+    "code": "ES_COVA_VALE_CHUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.daims",
+    "code": "ES_COVA_VALE_DAIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.emperador",
+    "code": "ES_COVA_VALE_EMPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.enguera",
+    "code": "ES_COVA_VALE_ENGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.lnova",
+    "code": "ES_COVA_VALE_LN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.estivella",
+    "code": "ES_COVA_VALE_ESTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.estubeny",
+    "code": "ES_COVA_VALE_ESTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.faura",
+    "code": "ES_COVA_VALE_FAUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.favara",
+    "code": "ES_COVA_VALE_FAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.fontanarsdelsalforins",
+    "code": "ES_COVA_VALE_FDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.fortaleny",
+    "code": "ES_COVA_VALE_FORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.foios",
+    "code": "ES_COVA_VALE_FOIO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.lafontdencarrs",
+    "code": "ES_COVA_VALE_LFDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.lafontdelafiguera",
+    "code": "ES_COVA_VALE_LFDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.fuenterrobles",
+    "code": "ES_COVA_VALE_FUEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.gavarda",
+    "code": "ES_COVA_VALE_GAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.gandia",
+    "code": "ES_COVA_VALE_GAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.gestalgar",
+    "code": "ES_COVA_VALE_GEST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.gilet",
+    "code": "ES_COVA_VALE_GILE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.godella",
+    "code": "ES_COVA_VALE_GODE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.godelleta",
+    "code": "ES_COVA_VALE_GODE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.lagranjadelacostera",
+    "code": "ES_COVA_VALE_LGDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.guadassquies",
+    "code": "ES_COVA_VALE_GUAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.guadassuar",
+    "code": "ES_COVA_VALE_GUAD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.guardamardelasafor",
+    "code": "ES_COVA_VALE_GDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.higueruelas",
+    "code": "ES_COVA_VALE_HIGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.jalance",
+    "code": "ES_COVA_VALE_JALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.xeraco",
+    "code": "ES_COVA_VALE_XERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.jarafuel",
+    "code": "ES_COVA_VALE_JARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.xtiva",
+    "code": "ES_COVA_VALE_XTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.xeresa",
+    "code": "ES_COVA_VALE_XERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.llutxent",
+    "code": "ES_COVA_VALE_LLUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.llocnoudenfenollet",
+    "code": "ES_COVA_VALE_LDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.llocnoudelacorona",
+    "code": "ES_COVA_VALE_LDLC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.llocnoudesantjeroni",
+    "code": "ES_COVA_VALE_LDSJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.paterna",
+    "code": "ES_COVA_VALE_PATE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.llaur",
+    "code": "ES_COVA_VALE_LLAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.llombai",
+    "code": "ES_COVA_VALE_LLOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.pedralba",
+    "code": "ES_COVA_VALE_PEDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.petrs",
+    "code": "ES_COVA_VALE_PETR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.picanya",
+    "code": "ES_COVA_VALE_PICA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.picassent",
+    "code": "ES_COVA_VALE_PICA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.piles",
+    "code": "ES_COVA_VALE_PILE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.pinet",
+    "code": "ES_COVA_VALE_PINE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.lallosaderanes",
+    "code": "ES_COVA_VALE_LLDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.macastre",
+    "code": "ES_COVA_VALE_MACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.manises",
+    "code": "ES_COVA_VALE_MANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.manuel",
+    "code": "ES_COVA_VALE_MANU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.marines",
+    "code": "ES_COVA_VALE_MARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.massalavs",
+    "code": "ES_COVA_VALE_MASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.massalfassar",
+    "code": "ES_COVA_VALE_MASS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.massamagrell",
+    "code": "ES_COVA_VALE_MASS3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.massanassa",
+    "code": "ES_COVA_VALE_MASS4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.meliana",
+    "code": "ES_COVA_VALE_MELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.millares",
+    "code": "ES_COVA_VALE_MILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.miramar",
+    "code": "ES_COVA_VALE_MIRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.mislata",
+    "code": "ES_COVA_VALE_MISL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.moncada",
+    "code": "ES_COVA_VALE_MONC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.montserrat",
+    "code": "ES_COVA_VALE_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.montaverner",
+    "code": "ES_COVA_VALE_MONT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.montesa",
+    "code": "ES_COVA_VALE_MONT3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.montitxelvomontichelvo",
+    "code": "ES_COVA_VALE_MONT4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.montroimontroy",
+    "code": "ES_COVA_VALE_MONT5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.museros",
+    "code": "ES_COVA_VALE_MUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.nquera",
+    "code": "ES_COVA_VALE_NQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.navarrs",
+    "code": "ES_COVA_VALE_NAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.novelnovetl",
+    "code": "ES_COVA_VALE_NOVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.oliva",
+    "code": "ES_COVA_VALE_OLIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.olocau",
+    "code": "ES_COVA_VALE_OLOC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.lolleria",
+    "code": "ES_COVA_VALE_LOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.ontinyent",
+    "code": "ES_COVA_VALE_ONTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.otos",
+    "code": "ES_COVA_VALE_OTOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.paiporta",
+    "code": "ES_COVA_VALE_PAIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.palmadeganda",
+    "code": "ES_COVA_VALE_PDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.palmera",
+    "code": "ES_COVA_VALE_PALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.elpalomar",
+    "code": "ES_COVA_VALE_ELPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.polinydexquer",
+    "code": "ES_COVA_VALE_PDX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.potries",
+    "code": "ES_COVA_VALE_POTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.lapobladefarnals",
+    "code": "ES_COVA_VALE_LPDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.lapobladelduc",
+    "code": "ES_COVA_VALE_LPDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.puebladesanmiguel",
+    "code": "ES_COVA_VALE_PDSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.lapobladevallbona",
+    "code": "ES_COVA_VALE_LPDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.lapoblallarga",
+    "code": "ES_COVA_VALE_LPL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.vallada",
+    "code": "ES_COVA_VALE_VALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.vallanca",
+    "code": "ES_COVA_VALE_VALL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.valls",
+    "code": "ES_COVA_VALE_VALL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.ventadelmoro",
+    "code": "ES_COVA_VALE_VDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.vilallongavillalonga",
+    "code": "ES_COVA_VALE_VILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.vilamarxant",
+    "code": "ES_COVA_VALE_VILA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.villanuevadecastelln",
+    "code": "ES_COVA_VALE_VDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.villardelarzobispo",
+    "code": "ES_COVA_VALE_VDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.villargordodelcabriel",
+    "code": "ES_COVA_VALE_VDC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.vinalesa",
+    "code": "ES_COVA_VALE_VINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.ytova",
+    "code": "ES_COVA_VALE_YTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.layesa",
+    "code": "ES_COVA_VALE_LAYE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.zarra",
+    "code": "ES_COVA_VALE_ZARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.gtova",
+    "code": "ES_COVA_VALE_GTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.sanantoniodebenagber",
+    "code": "ES_COVA_VALE_SADB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.beniculldexquer",
+    "code": "ES_COVA_VALE_BDX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.bicorp",
+    "code": "ES_COVA_VALE_BICO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.bocairent",
+    "code": "ES_COVA_VALE_BOCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.canals",
+    "code": "ES_COVA_VALE_CANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.carcaixent",
+    "code": "ES_COVA_VALE_CARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.domeo",
+    "code": "ES_COVA_VALE_DOME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.dosaguas",
+    "code": "ES_COVA_VALE_DOAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.leliana",
+    "code": "ES_COVA_VALE_LEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.genovs",
+    "code": "ES_COVA_VALE_GENO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.loriguilla",
+    "code": "ES_COVA_VALE_LORI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.losadelobispo",
+    "code": "ES_COVA_VALE_LDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.llaneraderanes",
+    "code": "ES_COVA_VALE_LDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.mogentemoixent",
+    "code": "ES_COVA_VALE_MOGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.tavernesdelavalldigna",
+    "code": "ES_COVA_VALE_TDLV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.utiel",
+    "code": "ES_COVA_VALE_UTIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.valncia",
+    "code": "ES_COVA_VALE_VAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.valencia.cullera",
+    "code": "ES_COVA_VALE_CULL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_VALE"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.latzbia",
+    "code": "ES_COVA_ALIC_LAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.agost",
+    "code": "ES_COVA_ALIC_AGOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.agres",
+    "code": "ES_COVA_ALIC_AGRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.aiges",
+    "code": "ES_COVA_ALIC_AIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.albatera",
+    "code": "ES_COVA_ALIC_ALBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.alcalal",
+    "code": "ES_COVA_ALIC_ALCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.alcocerdeplanes",
+    "code": "ES_COVA_ALIC_ADP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.alcoleja",
+    "code": "ES_COVA_ALIC_ALCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.alcoyalcoi",
+    "code": "ES_COVA_ALIC_ALCO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.alfafara",
+    "code": "ES_COVA_ALIC_ALFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.lalfsdelpi",
+    "code": "ES_COVA_ALIC_LDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.algorfa",
+    "code": "ES_COVA_ALIC_ALGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.alguea",
+    "code": "ES_COVA_ALIC_ALGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.alicantealacant",
+    "code": "ES_COVA_ALIC_ALIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.almorad",
+    "code": "ES_COVA_ALIC_ALMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.almudaina",
+    "code": "ES_COVA_ALIC_ALMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.lalqueriadasnar",
+    "code": "ES_COVA_ALIC_LD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.aspe",
+    "code": "ES_COVA_ALIC_ASPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.balones",
+    "code": "ES_COVA_ALIC_BALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.banyeresdemariola",
+    "code": "ES_COVA_ALIC_BDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.benasau",
+    "code": "ES_COVA_ALIC_BENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.beneixama",
+    "code": "ES_COVA_ALIC_BENE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.benejzar",
+    "code": "ES_COVA_ALIC_BENE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.benferri",
+    "code": "ES_COVA_ALIC_BENF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.beniarbeig",
+    "code": "ES_COVA_ALIC_BENI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.beniard",
+    "code": "ES_COVA_ALIC_BENI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.beniarrs",
+    "code": "ES_COVA_ALIC_BENI3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.benigembla",
+    "code": "ES_COVA_ALIC_BENI4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.benidoleig",
+    "code": "ES_COVA_ALIC_BENI5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.benifallim",
+    "code": "ES_COVA_ALIC_BENI6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.benifato",
+    "code": "ES_COVA_ALIC_BENI7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.benijfar",
+    "code": "ES_COVA_ALIC_BENI8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.benilloba",
+    "code": "ES_COVA_ALIC_BENI9",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.benillup",
+    "code": "ES_COVA_ALIC_BENI10",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.benimantell",
+    "code": "ES_COVA_ALIC_BENI11",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.benimarfull",
+    "code": "ES_COVA_ALIC_BENI12",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.benimassot",
+    "code": "ES_COVA_ALIC_BENI13",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.benimeli",
+    "code": "ES_COVA_ALIC_BENI14",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.benissa",
+    "code": "ES_COVA_ALIC_BENI15",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.benitachellelpoblenoudebenitatxell",
+    "code": "ES_COVA_ALIC_BPND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.biar",
+    "code": "ES_COVA_ALIC_BIAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.bigastro",
+    "code": "ES_COVA_ALIC_BIGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.bolulla",
+    "code": "ES_COVA_ALIC_BOLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.busot",
+    "code": "ES_COVA_ALIC_BUSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.callosadensarri",
+    "code": "ES_COVA_ALIC_CDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.callosadesegura",
+    "code": "ES_COVA_ALIC_CDS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.elcampello",
+    "code": "ES_COVA_ALIC_ELCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.campodemirraelcampdemirra",
+    "code": "ES_COVA_ALIC_CDMC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.caada",
+    "code": "ES_COVA_ALIC_CAA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.castalla",
+    "code": "ES_COVA_ALIC_CAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.castelldecastells",
+    "code": "ES_COVA_ALIC_CDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.catral",
+    "code": "ES_COVA_ALIC_CATR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.cocentaina",
+    "code": "ES_COVA_ALIC_COCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.confrides",
+    "code": "ES_COVA_ALIC_CONF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.cox",
+    "code": "ES_COVA_ALIC_COX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.crevillent",
+    "code": "ES_COVA_ALIC_CREV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.quatretondeta",
+    "code": "ES_COVA_ALIC_QUAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.dayanueva",
+    "code": "ES_COVA_ALIC_DANU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.dayavieja",
+    "code": "ES_COVA_ALIC_DAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.dnia",
+    "code": "ES_COVA_ALIC_DNI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.dolores",
+    "code": "ES_COVA_ALIC_DOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.elcheelx",
+    "code": "ES_COVA_ALIC_ELCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.elda",
+    "code": "ES_COVA_ALIC_ELDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.facheca",
+    "code": "ES_COVA_ALIC_FACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.famorca",
+    "code": "ES_COVA_ALIC_FAMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.finestrat",
+    "code": "ES_COVA_ALIC_FINE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.formenteradelsegura",
+    "code": "ES_COVA_ALIC_FDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.gatadegorgos",
+    "code": "ES_COVA_ALIC_GDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.gaianes",
+    "code": "ES_COVA_ALIC_GAIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.gorga",
+    "code": "ES_COVA_ALIC_GORG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.granjaderocamora",
+    "code": "ES_COVA_ALIC_GDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.elcastelldeguadalest",
+    "code": "ES_COVA_ALIC_ECDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.guardamardelsegura",
+    "code": "ES_COVA_ALIC_GDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.elfonddelesneushondndelasnieves",
+    "code": "ES_COVA_ALIC_EFDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.hondndelosfrailes",
+    "code": "ES_COVA_ALIC_HDLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.ibi",
+    "code": "ES_COVA_ALIC_IBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.jacarilla",
+    "code": "ES_COVA_ALIC_JACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.xal",
+    "code": "ES_COVA_ALIC_XAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.jveaxbia",
+    "code": "ES_COVA_ALIC_JVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.jijonaxixona",
+    "code": "ES_COVA_ALIC_JIJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.lorchalorxa",
+    "code": "ES_COVA_ALIC_LORC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.llber",
+    "code": "ES_COVA_ALIC_LLB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.millena",
+    "code": "ES_COVA_ALIC_MILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.monfortedelcid",
+    "code": "ES_COVA_ALIC_MDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.monvarmonver",
+    "code": "ES_COVA_ALIC_MON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.mutxamel",
+    "code": "ES_COVA_ALIC_MUTX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.murla",
+    "code": "ES_COVA_ALIC_MURL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.murodealcoy",
+    "code": "ES_COVA_ALIC_MDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.novelda",
+    "code": "ES_COVA_ALIC_NOVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.lanucia",
+    "code": "ES_COVA_ALIC_LANU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.ondara",
+    "code": "ES_COVA_ALIC_ONDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.onil",
+    "code": "ES_COVA_ALIC_ONIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.orba",
+    "code": "ES_COVA_ALIC_ORBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.orxeta",
+    "code": "ES_COVA_ALIC_ORXE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.orihuela",
+    "code": "ES_COVA_ALIC_ORIH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.parcent",
+    "code": "ES_COVA_ALIC_PARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.pedreguer",
+    "code": "ES_COVA_ALIC_PEDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.pego",
+    "code": "ES_COVA_ALIC_PEGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.penguila",
+    "code": "ES_COVA_ALIC_PEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.petrer",
+    "code": "ES_COVA_ALIC_PETR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.elpinspinoso",
+    "code": "ES_COVA_ALIC_ELPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.planes",
+    "code": "ES_COVA_ALIC_PLAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.polop",
+    "code": "ES_COVA_ALIC_POLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.rafal",
+    "code": "ES_COVA_ALIC_RAFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.elrfoldalmnia",
+    "code": "ES_COVA_ALIC_ERD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.redovn",
+    "code": "ES_COVA_ALIC_REDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.relleu",
+    "code": "ES_COVA_ALIC_RELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.rojales",
+    "code": "ES_COVA_ALIC_ROJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.laromana",
+    "code": "ES_COVA_ALIC_LARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.sagra",
+    "code": "ES_COVA_ALIC_SAGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.salinas",
+    "code": "ES_COVA_ALIC_SALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.sanetynegrals",
+    "code": "ES_COVA_ALIC_SYN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.sanfulgencio",
+    "code": "ES_COVA_ALIC_SAFU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.santjoandalacant",
+    "code": "ES_COVA_ALIC_SJD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.sanmigueldesalinas",
+    "code": "ES_COVA_ALIC_SMDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.santapola",
+    "code": "ES_COVA_ALIC_SAPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.sanvicentedelraspeigsantvicentdelraspeig",
+    "code": "ES_COVA_ALIC_SVDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.sax",
+    "code": "ES_COVA_ALIC_SAX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.sella",
+    "code": "ES_COVA_ALIC_SELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.senija",
+    "code": "ES_COVA_ALIC_SENI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.trbena",
+    "code": "ES_COVA_ALIC_TRB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.teulada",
+    "code": "ES_COVA_ALIC_TEUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.tibi",
+    "code": "ES_COVA_ALIC_TIBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.tollos",
+    "code": "ES_COVA_ALIC_TOLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.tormos",
+    "code": "ES_COVA_ALIC_TORM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.torremanzanaslatorredelesmaanes",
+    "code": "ES_COVA_ALIC_TTDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.torrevieja",
+    "code": "ES_COVA_ALIC_TORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.lavalldalcal",
+    "code": "ES_COVA_ALIC_LVD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.lavalldebo",
+    "code": "ES_COVA_ALIC_LVD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.valldegallinera",
+    "code": "ES_COVA_ALIC_VDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.lavalldelaguar",
+    "code": "ES_COVA_ALIC_LVDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.elverger",
+    "code": "ES_COVA_ALIC_ELVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.villajoyosalavilajoiosa",
+    "code": "ES_COVA_ALIC_VVJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.villena",
+    "code": "ES_COVA_ALIC_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.elspoblets",
+    "code": "ES_COVA_ALIC_ELPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.pilardelahoradada",
+    "code": "ES_COVA_ALIC_PDLH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.losmontesinos",
+    "code": "ES_COVA_ALIC_LOMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.sanisidro",
+    "code": "ES_COVA_ALIC_SAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.altea",
+    "code": "ES_COVA_ALIC_ALTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.benidorm",
+    "code": "ES_COVA_ALIC_BENI16",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  },
+  {
+    "tenantId": "spain.comunitatvalenciana.alicante.calp",
+    "code": "ES_COVA_ALIC_CALP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_COVA_ALIC"
+  }
+]

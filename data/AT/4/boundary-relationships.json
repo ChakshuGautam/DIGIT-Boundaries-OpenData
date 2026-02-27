@@ -1,0 +1,3236 @@
+[
+  {
+    "tenantId": "austria.obersterreich",
+    "code": "AT_4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "AT"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn",
+    "code": "AT_4_BAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_4"
+  },
+  {
+    "tenantId": "austria.obersterreich.eferding",
+    "code": "AT_4_EFER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_4"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt",
+    "code": "AT_4_FREI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_4"
+  },
+  {
+    "tenantId": "austria.obersterreich.gmunden",
+    "code": "AT_4_GMUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_4"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen",
+    "code": "AT_4_GRIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_4"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems",
+    "code": "AT_4_KADK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_4"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland",
+    "code": "AT_4_LINZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_4"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzstadt",
+    "code": "AT_4_LINZ2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_4"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg",
+    "code": "AT_4_PERG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_4"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis",
+    "code": "AT_4_RII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_4"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach",
+    "code": "AT_4_ROHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_4"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding",
+    "code": "AT_4_SCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_4"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrland",
+    "code": "AT_4_STEY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_4"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrstadt",
+    "code": "AT_4_STEY2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_4"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung",
+    "code": "AT_4_URFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_4"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck",
+    "code": "AT_4_VCK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_4"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland",
+    "code": "AT_4_WELS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_4"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsstadt",
+    "code": "AT_4_WELS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_4"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.altheim",
+    "code": "AT_4_BAI_ALTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.aspach",
+    "code": "AT_4_BAI_ASPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.auerbach",
+    "code": "AT_4_BAI_AUER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.braunauaminn",
+    "code": "AT_4_BAI_BAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.burgkirchen",
+    "code": "AT_4_BAI_BURG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.eggelsberg",
+    "code": "AT_4_BAI_EGGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.feldkirchenbeimattighofen",
+    "code": "AT_4_BAI_FBM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.franking",
+    "code": "AT_4_BAI_FRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.geretsberg",
+    "code": "AT_4_BAI_GERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.gilgenbergamweilhart",
+    "code": "AT_4_BAI_GAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.haigermoos",
+    "code": "AT_4_BAI_HAIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.handenberg",
+    "code": "AT_4_BAI_HAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.helpfauuttendorf",
+    "code": "AT_4_BAI_HELP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.hochburgach",
+    "code": "AT_4_BAI_HOCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.hhnhart",
+    "code": "AT_4_BAI_HHN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.jeging",
+    "code": "AT_4_BAI_JEGI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.kirchbergbeimattighofen",
+    "code": "AT_4_BAI_KBM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.lengau",
+    "code": "AT_4_BAI_LENG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.lochenamsee",
+    "code": "AT_4_BAI_LAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.mariaschmolln",
+    "code": "AT_4_BAI_MASC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.mattighofen",
+    "code": "AT_4_BAI_MATT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.mauerkirchen",
+    "code": "AT_4_BAI_MAUE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.mining",
+    "code": "AT_4_BAI_MINI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.moosbach",
+    "code": "AT_4_BAI_MOOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.moosdorf",
+    "code": "AT_4_BAI_MOOS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.munderfing",
+    "code": "AT_4_BAI_MUND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.neukirchenanderenknach",
+    "code": "AT_4_BAI_NADE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.ostermiething",
+    "code": "AT_4_BAI_OSTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.palting",
+    "code": "AT_4_BAI_PALT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.perwangamgrabensee",
+    "code": "AT_4_BAI_PAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.pfaffsttt",
+    "code": "AT_4_BAI_PFAF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.pischelsdorfamengelbach",
+    "code": "AT_4_BAI_PAE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.pollingiminnkreis",
+    "code": "AT_4_BAI_PII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.robach",
+    "code": "AT_4_BAI_ROSSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.schalchen",
+    "code": "AT_4_BAI_SCHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.schwandiminnkreis",
+    "code": "AT_4_BAI_SII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.stgeorgenamfillmannsbach",
+    "code": "AT_4_BAI_SGAF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.stjohannamwalde",
+    "code": "AT_4_BAI_SJAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.stpantaleon",
+    "code": "AT_4_BAI_STPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.stpeteramhart",
+    "code": "AT_4_BAI_SPAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.stradegund",
+    "code": "AT_4_BAI_STRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.stveitiminnkreis",
+    "code": "AT_4_BAI_SVII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.tarsdorf",
+    "code": "AT_4_BAI_TARS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.treubach",
+    "code": "AT_4_BAI_TREU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.berackern",
+    "code": "AT_4_BAI_BER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.braunauaminn.wengiminnkreis",
+    "code": "AT_4_BAI_WII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_BAI"
+  },
+  {
+    "tenantId": "austria.obersterreich.eferding.alkoven",
+    "code": "AT_4_EFER_ALKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_EFER"
+  },
+  {
+    "tenantId": "austria.obersterreich.eferding.aschachanderdonau",
+    "code": "AT_4_EFER_AADD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_EFER"
+  },
+  {
+    "tenantId": "austria.obersterreich.eferding.eferding",
+    "code": "AT_4_EFER_EFER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_EFER"
+  },
+  {
+    "tenantId": "austria.obersterreich.eferding.fraham",
+    "code": "AT_4_EFER_FRAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_EFER"
+  },
+  {
+    "tenantId": "austria.obersterreich.eferding.haibachobderdonau",
+    "code": "AT_4_EFER_HODD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_EFER"
+  },
+  {
+    "tenantId": "austria.obersterreich.eferding.hartkirchen",
+    "code": "AT_4_EFER_HART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_EFER"
+  },
+  {
+    "tenantId": "austria.obersterreich.eferding.hinzenbach",
+    "code": "AT_4_EFER_HINZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_EFER"
+  },
+  {
+    "tenantId": "austria.obersterreich.eferding.prambachkirchen",
+    "code": "AT_4_EFER_PRAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_EFER"
+  },
+  {
+    "tenantId": "austria.obersterreich.eferding.pupping",
+    "code": "AT_4_EFER_PUPP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_EFER"
+  },
+  {
+    "tenantId": "austria.obersterreich.eferding.scharten",
+    "code": "AT_4_EFER_SCHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_EFER"
+  },
+  {
+    "tenantId": "austria.obersterreich.eferding.stmarienkirchenanderpols",
+    "code": "AT_4_EFER_SMAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_EFER"
+  },
+  {
+    "tenantId": "austria.obersterreich.eferding.stroheim",
+    "code": "AT_4_EFER_STRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_EFER"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.badzell",
+    "code": "AT_4_FREI_BAZE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.freistadt",
+    "code": "AT_4_FREI_FREI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.grnbach",
+    "code": "AT_4_FREI_GRN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.gutau",
+    "code": "AT_4_FREI_GUTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.hagenbergimmhlkreis",
+    "code": "AT_4_FREI_HIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.hirschbachimmhlkreis",
+    "code": "AT_4_FREI_HIM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.kaltenberg",
+    "code": "AT_4_FREI_KALT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.kefermarkt",
+    "code": "AT_4_FREI_KEFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.knigswiesen",
+    "code": "AT_4_FREI_KNI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.lasberg",
+    "code": "AT_4_FREI_LASB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.leopoldschlag",
+    "code": "AT_4_FREI_LEOP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.liebenau",
+    "code": "AT_4_FREI_LIEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.neumarktimmhlkreis",
+    "code": "AT_4_FREI_NIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.pierbach",
+    "code": "AT_4_FREI_PIER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.pregarten",
+    "code": "AT_4_FREI_PREG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.rainbachimmhlkreis",
+    "code": "AT_4_FREI_RIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.sandl",
+    "code": "AT_4_FREI_SAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.schnauimmhlkreis",
+    "code": "AT_4_FREI_SIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.stleonhardbeifreistadt",
+    "code": "AT_4_FREI_SLBF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.stoswaldbeifreistadt",
+    "code": "AT_4_FREI_SOBF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.tragwein",
+    "code": "AT_4_FREI_TRAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.unterweienbach",
+    "code": "AT_4_FREI_UNTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.unterweitersdorf",
+    "code": "AT_4_FREI_UNTE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.waldburg",
+    "code": "AT_4_FREI_WALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.wartbergobderaist",
+    "code": "AT_4_FREI_WODA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.weitersfelden",
+    "code": "AT_4_FREI_WEIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.freistadt.windhaagbeifreistadt",
+    "code": "AT_4_FREI_WBF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_FREI"
+  },
+  {
+    "tenantId": "austria.obersterreich.gmunden.altmnster",
+    "code": "AT_4_GMUN_ALTM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GMUN"
+  },
+  {
+    "tenantId": "austria.obersterreich.gmunden.badgoisernamhallstttersee",
+    "code": "AT_4_GMUN_BGAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GMUN"
+  },
+  {
+    "tenantId": "austria.obersterreich.gmunden.badischl",
+    "code": "AT_4_GMUN_BAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GMUN"
+  },
+  {
+    "tenantId": "austria.obersterreich.gmunden.ebensee",
+    "code": "AT_4_GMUN_EBEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GMUN"
+  },
+  {
+    "tenantId": "austria.obersterreich.gmunden.gmunden",
+    "code": "AT_4_GMUN_GMUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GMUN"
+  },
+  {
+    "tenantId": "austria.obersterreich.gmunden.gosau",
+    "code": "AT_4_GMUN_GOSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GMUN"
+  },
+  {
+    "tenantId": "austria.obersterreich.gmunden.grnauimalmtal",
+    "code": "AT_4_GMUN_GIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GMUN"
+  },
+  {
+    "tenantId": "austria.obersterreich.gmunden.gschwandt",
+    "code": "AT_4_GMUN_GSCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GMUN"
+  },
+  {
+    "tenantId": "austria.obersterreich.gmunden.hallstatt",
+    "code": "AT_4_GMUN_HALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GMUN"
+  },
+  {
+    "tenantId": "austria.obersterreich.gmunden.kirchham",
+    "code": "AT_4_GMUN_KIRC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GMUN"
+  },
+  {
+    "tenantId": "austria.obersterreich.gmunden.laakirchen",
+    "code": "AT_4_GMUN_LAAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GMUN"
+  },
+  {
+    "tenantId": "austria.obersterreich.gmunden.obertraun",
+    "code": "AT_4_GMUN_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GMUN"
+  },
+  {
+    "tenantId": "austria.obersterreich.gmunden.ohlsdorf",
+    "code": "AT_4_GMUN_OHLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GMUN"
+  },
+  {
+    "tenantId": "austria.obersterreich.gmunden.pinsdorf",
+    "code": "AT_4_GMUN_PINS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GMUN"
+  },
+  {
+    "tenantId": "austria.obersterreich.gmunden.roitham",
+    "code": "AT_4_GMUN_ROIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GMUN"
+  },
+  {
+    "tenantId": "austria.obersterreich.gmunden.scharnstein",
+    "code": "AT_4_GMUN_SCHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GMUN"
+  },
+  {
+    "tenantId": "austria.obersterreich.gmunden.stkonrad",
+    "code": "AT_4_GMUN_STKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GMUN"
+  },
+  {
+    "tenantId": "austria.obersterreich.gmunden.stwolfgangimsalzkammergut",
+    "code": "AT_4_GMUN_SWIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GMUN"
+  },
+  {
+    "tenantId": "austria.obersterreich.gmunden.traunkirchen",
+    "code": "AT_4_GMUN_TRAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GMUN"
+  },
+  {
+    "tenantId": "austria.obersterreich.gmunden.vorchdorf",
+    "code": "AT_4_GMUN_VORC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GMUN"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.aistersheim",
+    "code": "AT_4_GRIE_AIST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.badschallerbach",
+    "code": "AT_4_GRIE_BASC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.bruckwaasen",
+    "code": "AT_4_GRIE_BRUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.eschenauimhausruckkreis",
+    "code": "AT_4_GRIE_EIH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.gallspach",
+    "code": "AT_4_GRIE_GALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.gaspoltshofen",
+    "code": "AT_4_GRIE_GASP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.geboltskirchen",
+    "code": "AT_4_GRIE_GEBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.grieskirchen",
+    "code": "AT_4_GRIE_GRIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.haagamhausruck",
+    "code": "AT_4_GRIE_HAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.heiligenberg",
+    "code": "AT_4_GRIE_HEIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.hofkirchenandertrattnach",
+    "code": "AT_4_GRIE_HADT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.kallham",
+    "code": "AT_4_GRIE_KALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.kematenaminnbach",
+    "code": "AT_4_GRIE_KAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.meggenhofen",
+    "code": "AT_4_GRIE_MEGG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.michaelnbach",
+    "code": "AT_4_GRIE_MICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.natternbach",
+    "code": "AT_4_GRIE_NATT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.neukirchenamwalde",
+    "code": "AT_4_GRIE_NAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.neumarktimhausruckkreis",
+    "code": "AT_4_GRIE_NIH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.peuerbach",
+    "code": "AT_4_GRIE_PEUE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.pollham",
+    "code": "AT_4_GRIE_POLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.ptting",
+    "code": "AT_4_GRIE_PTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.pram",
+    "code": "AT_4_GRIE_PRAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.rottenbach",
+    "code": "AT_4_GRIE_ROTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.schllberg",
+    "code": "AT_4_GRIE_SCHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.stagatha",
+    "code": "AT_4_GRIE_STAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.stgeorgenbeigrieskirchen",
+    "code": "AT_4_GRIE_SGBG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.stthomas",
+    "code": "AT_4_GRIE_STTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.steegen",
+    "code": "AT_4_GRIE_STEE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.taufkirchenandertrattnach",
+    "code": "AT_4_GRIE_TADT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.tollet",
+    "code": "AT_4_GRIE_TOLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.waizenkirchen",
+    "code": "AT_4_GRIE_WAIZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.wallernandertrattnach",
+    "code": "AT_4_GRIE_WADT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.weibern",
+    "code": "AT_4_GRIE_WEIB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.grieskirchen.wendling",
+    "code": "AT_4_GRIE_WEND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_GRIE"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.edlbach",
+    "code": "AT_4_KADK_EDLB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.grnburg",
+    "code": "AT_4_KADK_GRN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.hinterstoder",
+    "code": "AT_4_KADK_HINT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.inzersdorfimkremstal",
+    "code": "AT_4_KADK_IIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.kirchdorfanderkrems",
+    "code": "AT_4_KADK_KADK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.klausanderpyhrnbahn",
+    "code": "AT_4_KADK_KADP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.kremsmnster",
+    "code": "AT_4_KADK_KREM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.micheldorfinobersterreich",
+    "code": "AT_4_KADK_MIO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.molln",
+    "code": "AT_4_KADK_MOLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.nubach",
+    "code": "AT_4_KADK_NUSSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.oberschlierbach",
+    "code": "AT_4_KADK_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.pettenbach",
+    "code": "AT_4_KADK_PETT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.riedimtraunkreis",
+    "code": "AT_4_KADK_RIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.rosenauamhengstpa",
+    "code": "AT_4_KADK_RAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.roleithen",
+    "code": "AT_4_KADK_ROSSL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.schlierbach",
+    "code": "AT_4_KADK_SCHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.spitalampyhrn",
+    "code": "AT_4_KADK_SAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.stpankraz",
+    "code": "AT_4_KADK_STPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.steinbachamziehberg",
+    "code": "AT_4_KADK_SAZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.steinbachandersteyr",
+    "code": "AT_4_KADK_SADS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.vorderstoder",
+    "code": "AT_4_KADK_VORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.wartberganderkrems",
+    "code": "AT_4_KADK_WADK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.kirchdorfanderkrems.windischgarsten",
+    "code": "AT_4_KADK_WIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_KADK"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland.allhaming",
+    "code": "AT_4_LINZ_ALLH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland.ansfelden",
+    "code": "AT_4_LINZ_ANSF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland.asten",
+    "code": "AT_4_LINZ_ASTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland.eggendorfimtraunkreis",
+    "code": "AT_4_LINZ_EIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland.enns",
+    "code": "AT_4_LINZ_ENNS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland.hargelsberg",
+    "code": "AT_4_LINZ_HARG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland.hofkirchenimtraunkreis",
+    "code": "AT_4_LINZ_HIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland.hrsching",
+    "code": "AT_4_LINZ_HRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland.kematenanderkrems",
+    "code": "AT_4_LINZ_KADK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland.kirchbergthening",
+    "code": "AT_4_LINZ_KIRC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland.kronstorf",
+    "code": "AT_4_LINZ_KRON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland.leonding",
+    "code": "AT_4_LINZ_LEON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland.neuhofenanderkrems",
+    "code": "AT_4_LINZ_NADK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland.niederneukirchen",
+    "code": "AT_4_LINZ_NIED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland.oftering",
+    "code": "AT_4_LINZ_OFTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland.pasching",
+    "code": "AT_4_LINZ_PASC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland.piberbach",
+    "code": "AT_4_LINZ_PIBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland.pucking",
+    "code": "AT_4_LINZ_PUCK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland.stflorian",
+    "code": "AT_4_LINZ_STFL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland.stmarien",
+    "code": "AT_4_LINZ_STMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland.traun",
+    "code": "AT_4_LINZ_TRAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzland.wilhering",
+    "code": "AT_4_LINZ_WILH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ"
+  },
+  {
+    "tenantId": "austria.obersterreich.linzstadt.linz",
+    "code": "AT_4_LINZ2_LINZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_LINZ2"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.allerheiligenimmhlkreis",
+    "code": "AT_4_PERG_AIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.arbing",
+    "code": "AT_4_PERG_ARBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.badkreuzen",
+    "code": "AT_4_PERG_BAKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.baumgartenberg",
+    "code": "AT_4_PERG_BAUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.dimbach",
+    "code": "AT_4_PERG_DIMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.grein",
+    "code": "AT_4_PERG_GREI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.katsdorf",
+    "code": "AT_4_PERG_KATS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.klam",
+    "code": "AT_4_PERG_KLAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.langenstein",
+    "code": "AT_4_PERG_LANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.luftenberganderdonau",
+    "code": "AT_4_PERG_LADD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.mauthausen",
+    "code": "AT_4_PERG_MAUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.mitterkirchenimmachland",
+    "code": "AT_4_PERG_MIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.mnzbach",
+    "code": "AT_4_PERG_MNZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.naarnimmachlande",
+    "code": "AT_4_PERG_NIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.pabneukirchen",
+    "code": "AT_4_PERG_PABN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.perg",
+    "code": "AT_4_PERG_PERG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.rechberg",
+    "code": "AT_4_PERG_RECH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.riedinderriedmark",
+    "code": "AT_4_PERG_RIDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.saxen",
+    "code": "AT_4_PERG_SAXE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.schwertberg",
+    "code": "AT_4_PERG_SCHW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.stgeorgenamwalde",
+    "code": "AT_4_PERG_SGAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.stgeorgenandergusen",
+    "code": "AT_4_PERG_SGAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.stnikolaanderdonau",
+    "code": "AT_4_PERG_SNAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.stthomasamblasenstein",
+    "code": "AT_4_PERG_STAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.waldhausenimstrudengau",
+    "code": "AT_4_PERG_WIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.perg.windhaagbeiperg",
+    "code": "AT_4_PERG_WBP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_PERG"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.andrichsfurt",
+    "code": "AT_4_RII_ANDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.antiesenhofen",
+    "code": "AT_4_RII_ANTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.aurolzmnster",
+    "code": "AT_4_RII_AURO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.eberschwang",
+    "code": "AT_4_RII_EBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.eitzing",
+    "code": "AT_4_RII_EITZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.geiersberg",
+    "code": "AT_4_RII_GEIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.geinberg",
+    "code": "AT_4_RII_GEIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.gurten",
+    "code": "AT_4_RII_GURT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.hohenzell",
+    "code": "AT_4_RII_HOHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.kirchdorfaminn",
+    "code": "AT_4_RII_KAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.kirchheimiminnkreis",
+    "code": "AT_4_RII_KII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.lambrechten",
+    "code": "AT_4_RII_LAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.lohnsburgamkobernauerwald",
+    "code": "AT_4_RII_LAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.mehrnbach",
+    "code": "AT_4_RII_MEHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.mettmach",
+    "code": "AT_4_RII_METT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.mrschwang",
+    "code": "AT_4_RII_MRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.mhlheimaminn",
+    "code": "AT_4_RII_MAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.neuhofeniminnkreis",
+    "code": "AT_4_RII_NII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.obernbergaminn",
+    "code": "AT_4_RII_OAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.ortiminnkreis",
+    "code": "AT_4_RII_OII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.pattigham",
+    "code": "AT_4_RII_PATT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.peterskirchen",
+    "code": "AT_4_RII_PETE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.pramet",
+    "code": "AT_4_RII_PRAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.reichersberg",
+    "code": "AT_4_RII_REIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.riediminnkreis",
+    "code": "AT_4_RII_RII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.schildorn",
+    "code": "AT_4_RII_SCHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.senftenbach",
+    "code": "AT_4_RII_SENF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.stgeorgenbeiobernbergam",
+    "code": "AT_4_RII_SGBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.stmarienkirchenamhausruck",
+    "code": "AT_4_RII_SMAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.stmartiniminnkreis",
+    "code": "AT_4_RII_SMII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.taiskircheniminnkreis",
+    "code": "AT_4_RII_TII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.tumeltsham",
+    "code": "AT_4_RII_TUME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.utzenaich",
+    "code": "AT_4_RII_UTZE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.waldzell",
+    "code": "AT_4_RII_WALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.weilbach",
+    "code": "AT_4_RII_WEIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.riediminnkreis.wippenham",
+    "code": "AT_4_RII_WIPP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_RII"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.afiesl",
+    "code": "AT_4_ROHR_AFIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.ahorn",
+    "code": "AT_4_ROHR_AHOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.aigenschlgl",
+    "code": "AT_4_ROHR_AIGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.altenfelden",
+    "code": "AT_4_ROHR_ALTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.arnreit",
+    "code": "AT_4_ROHR_ARNR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.atzesberg",
+    "code": "AT_4_ROHR_ATZE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.auberg",
+    "code": "AT_4_ROHR_AUBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.haslachandermhl",
+    "code": "AT_4_ROHR_HADM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.helfenberg",
+    "code": "AT_4_ROHR_HELF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.hofkirchenimmhlkreis",
+    "code": "AT_4_ROHR_HIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.hrbich",
+    "code": "AT_4_ROHR_HRB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.julbach",
+    "code": "AT_4_ROHR_JULB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.kirchbergobderdonau",
+    "code": "AT_4_ROHR_KODD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.klafferamhochficht",
+    "code": "AT_4_ROHR_KAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.kleinzellimmhlkreis",
+    "code": "AT_4_ROHR_KIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.kollerschlag",
+    "code": "AT_4_ROHR_KOLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.lembachimmhlkreis",
+    "code": "AT_4_ROHR_LIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.lichtenauimmhlkreis",
+    "code": "AT_4_ROHR_LIM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.nebelberg",
+    "code": "AT_4_ROHR_NEBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.neufelden",
+    "code": "AT_4_ROHR_NEUF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.neustiftimmhlkreis",
+    "code": "AT_4_ROHR_NIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.niederkappel",
+    "code": "AT_4_ROHR_NIED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.niederwaldkirchen",
+    "code": "AT_4_ROHR_NIED2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.oberkappel",
+    "code": "AT_4_ROHR_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.oepping",
+    "code": "AT_4_ROHR_OEPP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.peilsteinimmhlviertel",
+    "code": "AT_4_ROHR_PIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.pfarrkirchenimmhlkreis",
+    "code": "AT_4_ROHR_PIM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.putzleinsdorf",
+    "code": "AT_4_ROHR_PUTZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.rohrbachberg",
+    "code": "AT_4_ROHR_ROHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.sarleinsbach",
+    "code": "AT_4_ROHR_SARL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.schnegg",
+    "code": "AT_4_ROHR_SCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.schwarzenbergambhmerwald",
+    "code": "AT_4_ROHR_SAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.stjohannamwimberg",
+    "code": "AT_4_ROHR_SJAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.stmartinimmhlkreis",
+    "code": "AT_4_ROHR_SMIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.stoswaldbeihaslach",
+    "code": "AT_4_ROHR_SOBH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.stpeteramwimberg",
+    "code": "AT_4_ROHR_SPAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.ststefanamwalde",
+    "code": "AT_4_ROHR_SSAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.stulrichimmhlkreis",
+    "code": "AT_4_ROHR_SUIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.stveitimmhlkreis",
+    "code": "AT_4_ROHR_SVIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.rohrbach.ulrichsberg",
+    "code": "AT_4_ROHR_ULRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_ROHR"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.altschwendt",
+    "code": "AT_4_SCH_ALTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.andorf",
+    "code": "AT_4_SCH_ANDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.brunnenthal",
+    "code": "AT_4_SCH_BRUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.diersbach",
+    "code": "AT_4_SCH_DIER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.dorfanderpram",
+    "code": "AT_4_SCH_DADP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.eggerding",
+    "code": "AT_4_SCH_EGGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.engelhartszell",
+    "code": "AT_4_SCH_ENGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.enzenkirchen",
+    "code": "AT_4_SCH_ENZE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.esternberg",
+    "code": "AT_4_SCH_ESTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.freinberg",
+    "code": "AT_4_SCH_FREI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.kopfingiminnkreis",
+    "code": "AT_4_SCH_KII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.mayrhof",
+    "code": "AT_4_SCH_MAYR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.mnzkirchen",
+    "code": "AT_4_SCH_MNZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.raab",
+    "code": "AT_4_SCH_RAAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.rainbachiminnkreis",
+    "code": "AT_4_SCH_RII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.riedau",
+    "code": "AT_4_SCH_RIED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.schardenberg",
+    "code": "AT_4_SCH_SCHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.schrding",
+    "code": "AT_4_SCH_SCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.sigharting",
+    "code": "AT_4_SCH_SIGH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.staegidi",
+    "code": "AT_4_SCH_STAE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.stflorianaminn",
+    "code": "AT_4_SCH_SFAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.stmarienkirchenbeischrdi",
+    "code": "AT_4_SCH_SMBS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.stroman",
+    "code": "AT_4_SCH_STRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.stwillibald",
+    "code": "AT_4_SCH_STWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.suben",
+    "code": "AT_4_SCH_SUBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.taufkirchenanderpram",
+    "code": "AT_4_SCH_TADP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.vichtenstein",
+    "code": "AT_4_SCH_VICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.waldkirchenamwesen",
+    "code": "AT_4_SCH_WAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.wernsteinaminn",
+    "code": "AT_4_SCH_WAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.schrding.zellanderpram",
+    "code": "AT_4_SCH_ZADP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_SCH"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrland.adlwang",
+    "code": "AT_4_STEY_ADLW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_STEY"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrland.aschachandersteyr",
+    "code": "AT_4_STEY_AADS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_STEY"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrland.badhall",
+    "code": "AT_4_STEY_BAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_STEY"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrland.dietach",
+    "code": "AT_4_STEY_DIET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_STEY"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrland.gaflenz",
+    "code": "AT_4_STEY_GAFL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_STEY"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrland.garsten",
+    "code": "AT_4_STEY_GARS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_STEY"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrland.groraming",
+    "code": "AT_4_STEY_GROSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_STEY"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrland.laussa",
+    "code": "AT_4_STEY_LAUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_STEY"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrland.losenstein",
+    "code": "AT_4_STEY_LOSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_STEY"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrland.marianeustift",
+    "code": "AT_4_STEY_MANE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_STEY"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrland.mhldorf",
+    "code": "AT_4_STEY_MHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_STEY"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrland.pfarrkirchenbeibadhall",
+    "code": "AT_4_STEY_PBBH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_STEY"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrland.reichraming",
+    "code": "AT_4_STEY_REIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_STEY"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrland.rohrimkremstal",
+    "code": "AT_4_STEY_RIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_STEY"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrland.schiedlberg",
+    "code": "AT_4_STEY_SCHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_STEY"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrland.sierning",
+    "code": "AT_4_STEY_SIER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_STEY"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrland.stulrichbeisteyr",
+    "code": "AT_4_STEY_SUBS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_STEY"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrland.ternberg",
+    "code": "AT_4_STEY_TERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_STEY"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrland.waldneukirchen",
+    "code": "AT_4_STEY_WALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_STEY"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrland.weyer",
+    "code": "AT_4_STEY_WEYE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_STEY"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrland.wolfern",
+    "code": "AT_4_STEY_WOLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_STEY"
+  },
+  {
+    "tenantId": "austria.obersterreich.steyrstadt.steyr",
+    "code": "AT_4_STEY2_STEY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_STEY2"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.alberndorfinderriedmark",
+    "code": "AT_4_URFA_AIDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.altenbergbeilinz",
+    "code": "AT_4_URFA_ABL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.badleonfelden",
+    "code": "AT_4_URFA_BALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.eidenberg",
+    "code": "AT_4_URFA_EIDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.engerwitzdorf",
+    "code": "AT_4_URFA_ENGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.feldkirchenanderdonau",
+    "code": "AT_4_URFA_FADD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.gallneukirchen",
+    "code": "AT_4_URFA_GALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.goldwrth",
+    "code": "AT_4_URFA_GOLD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.gramastetten",
+    "code": "AT_4_URFA_GRAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.haibachimmhlkreis",
+    "code": "AT_4_URFA_HIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.hellmonsdt",
+    "code": "AT_4_URFA_HELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.herzogsdorf",
+    "code": "AT_4_URFA_HERZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.kirchschlagbeilinz",
+    "code": "AT_4_URFA_KBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.lichtenberg",
+    "code": "AT_4_URFA_LICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.oberneukirchen",
+    "code": "AT_4_URFA_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.ottenschlagimmhlkreis",
+    "code": "AT_4_URFA_OIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.ottensheim",
+    "code": "AT_4_URFA_OTTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.puchenau",
+    "code": "AT_4_URFA_PUCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.reichenauimmhlkreis",
+    "code": "AT_4_URFA_RIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.reichenthal",
+    "code": "AT_4_URFA_REIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.schenkenfelden",
+    "code": "AT_4_URFA_SCHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.sonnbergimmhlkreis",
+    "code": "AT_4_URFA_SIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.stgotthardimmhlkreis",
+    "code": "AT_4_URFA_SGIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.steyregg",
+    "code": "AT_4_URFA_STEY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.vorderweienbach",
+    "code": "AT_4_URFA_VORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.walding",
+    "code": "AT_4_URFA_WALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.urfahrumgebung.zwettlanderrodl",
+    "code": "AT_4_URFA_ZADR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_URFA"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.ampflwangimhausruckwald",
+    "code": "AT_4_VCK_AIH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.atterseeamattersee",
+    "code": "AT_4_VCK_AAA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.attnangpuchheim",
+    "code": "AT_4_VCK_ATTN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.atzbach",
+    "code": "AT_4_VCK_ATZB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.aurachamhongar",
+    "code": "AT_4_VCK_AAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.bergimattergau",
+    "code": "AT_4_VCK_BIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.desselbrunn",
+    "code": "AT_4_VCK_DESS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.fornach",
+    "code": "AT_4_VCK_FORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.frankenburgamhausruck",
+    "code": "AT_4_VCK_FAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.frankenmarkt",
+    "code": "AT_4_VCK_FRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.gampern",
+    "code": "AT_4_VCK_GAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.innerschwandammondsee",
+    "code": "AT_4_VCK_IAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.lenzing",
+    "code": "AT_4_VCK_LENZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.manning",
+    "code": "AT_4_VCK_MANN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.mondsee",
+    "code": "AT_4_VCK_MOND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.neukirchenandervckla",
+    "code": "AT_4_VCK_NADV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.niederthalheim",
+    "code": "AT_4_VCK_NIED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.nudorfamattersee",
+    "code": "AT_4_VCK_NAA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.oberhofenamirrsee",
+    "code": "AT_4_VCK_OAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.oberndorfbeischwanenstadt",
+    "code": "AT_4_VCK_OBS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.oberwang",
+    "code": "AT_4_VCK_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.ottnangamhausruck",
+    "code": "AT_4_VCK_OAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.pfaffing",
+    "code": "AT_4_VCK_PFAF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.pilsbach",
+    "code": "AT_4_VCK_PILS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.pitzenberg",
+    "code": "AT_4_VCK_PITZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.pndorf",
+    "code": "AT_4_VCK_PND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.puchkirchenamtrattberg",
+    "code": "AT_4_VCK_PAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.phret",
+    "code": "AT_4_VCK_PHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.redleiten",
+    "code": "AT_4_VCK_REDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.redlham",
+    "code": "AT_4_VCK_REDL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.regau",
+    "code": "AT_4_VCK_REGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.rstorf",
+    "code": "AT_4_VCK_RST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.rutzenham",
+    "code": "AT_4_VCK_RUTZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.schlatt",
+    "code": "AT_4_VCK_SCHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.schrflingamattersee",
+    "code": "AT_4_VCK_SAA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.schwanenstadt",
+    "code": "AT_4_VCK_SCHW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.seewalchenamattersee",
+    "code": "AT_4_VCK_SAA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.stgeorgenimattergau",
+    "code": "AT_4_VCK_SGIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.stlorenz",
+    "code": "AT_4_VCK_STLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.steinbachamattersee",
+    "code": "AT_4_VCK_SAA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.straimattergau",
+    "code": "AT_4_VCK_SIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.tiefgraben",
+    "code": "AT_4_VCK_TIEF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.timelkam",
+    "code": "AT_4_VCK_TIME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.ungenach",
+    "code": "AT_4_VCK_UNGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.unterachamattersee",
+    "code": "AT_4_VCK_UAA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.vcklabruck",
+    "code": "AT_4_VCK_VCK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.vcklamarkt",
+    "code": "AT_4_VCK_VCK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.weienkirchenimattergau",
+    "code": "AT_4_VCK_WIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.weyreggamattersee",
+    "code": "AT_4_VCK_WAA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.wolfseggamhausruck",
+    "code": "AT_4_VCK_WAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.zellammoos",
+    "code": "AT_4_VCK_ZAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.vcklabruck.zellampettenfirst",
+    "code": "AT_4_VCK_ZAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_VCK"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.aichkirchen",
+    "code": "AT_4_WELS_AICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.bachmanning",
+    "code": "AT_4_WELS_BACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.badwimsbachneydharting",
+    "code": "AT_4_WELS_BAWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.buchkirchen",
+    "code": "AT_4_WELS_BUCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.eberstalzell",
+    "code": "AT_4_WELS_EBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.edtbeilambach",
+    "code": "AT_4_WELS_EBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.fischlham",
+    "code": "AT_4_WELS_FISC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.gunskirchen",
+    "code": "AT_4_WELS_GUNS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.holzhausen",
+    "code": "AT_4_WELS_HOLZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.krenglbach",
+    "code": "AT_4_WELS_KREN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.lambach",
+    "code": "AT_4_WELS_LAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.marchtrenk",
+    "code": "AT_4_WELS_MARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.neukirchenbeilambach",
+    "code": "AT_4_WELS_NBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.offenhausen",
+    "code": "AT_4_WELS_OFFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.pennewang",
+    "code": "AT_4_WELS_PENN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.pichlbeiwels",
+    "code": "AT_4_WELS_PBW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.sattledt",
+    "code": "AT_4_WELS_SATT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.schleiheim",
+    "code": "AT_4_WELS_SCHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.sipbachzell",
+    "code": "AT_4_WELS_SIPB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.stadlpaura",
+    "code": "AT_4_WELS_STAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.steinerkirchenandertraun",
+    "code": "AT_4_WELS_SADT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.steinhaus",
+    "code": "AT_4_WELS_STEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.thalheimbeiwels",
+    "code": "AT_4_WELS_TBW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsland.weikirchenandertraun",
+    "code": "AT_4_WELS_WADT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS"
+  },
+  {
+    "tenantId": "austria.obersterreich.welsstadt.wels",
+    "code": "AT_4_WELS2_WELS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_4_WELS2"
+  }
+]

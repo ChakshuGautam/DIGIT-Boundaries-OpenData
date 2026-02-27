@@ -1,0 +1,240 @@
+[
+  {
+    "tenantId": "france.ledefrance",
+    "code": "FR_IDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "FR"
+  },
+  {
+    "tenantId": "france.ledefrance.paris",
+    "code": "FR_IDF_PARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_IDF"
+  },
+  {
+    "tenantId": "france.ledefrance.seineetmarne",
+    "code": "FR_IDF_SEIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_IDF"
+  },
+  {
+    "tenantId": "france.ledefrance.yvelines",
+    "code": "FR_IDF_YVEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_IDF"
+  },
+  {
+    "tenantId": "france.ledefrance.essonne",
+    "code": "FR_IDF_ESSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_IDF"
+  },
+  {
+    "tenantId": "france.ledefrance.hautsdeseine",
+    "code": "FR_IDF_HAUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_IDF"
+  },
+  {
+    "tenantId": "france.ledefrance.seinesaintdenis",
+    "code": "FR_IDF_SEIN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_IDF"
+  },
+  {
+    "tenantId": "france.ledefrance.valdemarne",
+    "code": "FR_IDF_VAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_IDF"
+  },
+  {
+    "tenantId": "france.ledefrance.valdoise",
+    "code": "FR_IDF_VAL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_IDF"
+  },
+  {
+    "tenantId": "france.ledefrance.paris.paris",
+    "code": "FR_IDF_PARI_PARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_PARI"
+  },
+  {
+    "tenantId": "france.ledefrance.seineetmarne.meaux",
+    "code": "FR_IDF_SEIN_MEAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_SEIN"
+  },
+  {
+    "tenantId": "france.ledefrance.seineetmarne.melun",
+    "code": "FR_IDF_SEIN_MELU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_SEIN"
+  },
+  {
+    "tenantId": "france.ledefrance.seineetmarne.provins",
+    "code": "FR_IDF_SEIN_PROV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_SEIN"
+  },
+  {
+    "tenantId": "france.ledefrance.seineetmarne.fontainebleau",
+    "code": "FR_IDF_SEIN_FONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_SEIN"
+  },
+  {
+    "tenantId": "france.ledefrance.seineetmarne.torcy",
+    "code": "FR_IDF_SEIN_TORC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_SEIN"
+  },
+  {
+    "tenantId": "france.ledefrance.yvelines.manteslajolie",
+    "code": "FR_IDF_YVEL_MANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_YVEL"
+  },
+  {
+    "tenantId": "france.ledefrance.yvelines.rambouillet",
+    "code": "FR_IDF_YVEL_RAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_YVEL"
+  },
+  {
+    "tenantId": "france.ledefrance.yvelines.saintgermainenlaye",
+    "code": "FR_IDF_YVEL_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_YVEL"
+  },
+  {
+    "tenantId": "france.ledefrance.yvelines.versailles",
+    "code": "FR_IDF_YVEL_VERS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_YVEL"
+  },
+  {
+    "tenantId": "france.ledefrance.essonne.tampes",
+    "code": "FR_IDF_ESSO_TAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_ESSO"
+  },
+  {
+    "tenantId": "france.ledefrance.essonne.vrycourcouronnes",
+    "code": "FR_IDF_ESSO_VRY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_ESSO"
+  },
+  {
+    "tenantId": "france.ledefrance.essonne.palaiseau",
+    "code": "FR_IDF_ESSO_PALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_ESSO"
+  },
+  {
+    "tenantId": "france.ledefrance.hautsdeseine.antony",
+    "code": "FR_IDF_HAUT_ANTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_HAUT"
+  },
+  {
+    "tenantId": "france.ledefrance.hautsdeseine.nanterre",
+    "code": "FR_IDF_HAUT_NANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_HAUT"
+  },
+  {
+    "tenantId": "france.ledefrance.hautsdeseine.boulognebillancourt",
+    "code": "FR_IDF_HAUT_BOUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_HAUT"
+  },
+  {
+    "tenantId": "france.ledefrance.seinesaintdenis.bobigny",
+    "code": "FR_IDF_SEIN2_BOBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_SEIN2"
+  },
+  {
+    "tenantId": "france.ledefrance.seinesaintdenis.leraincy",
+    "code": "FR_IDF_SEIN2_LERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_SEIN2"
+  },
+  {
+    "tenantId": "france.ledefrance.seinesaintdenis.saintdenis",
+    "code": "FR_IDF_SEIN2_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_SEIN2"
+  },
+  {
+    "tenantId": "france.ledefrance.valdemarne.crteil",
+    "code": "FR_IDF_VAL_CRT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_VAL"
+  },
+  {
+    "tenantId": "france.ledefrance.valdemarne.nogentsurmarne",
+    "code": "FR_IDF_VAL_NOGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_VAL"
+  },
+  {
+    "tenantId": "france.ledefrance.valdemarne.lhalesroses",
+    "code": "FR_IDF_VAL_LHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_VAL"
+  },
+  {
+    "tenantId": "france.ledefrance.valdoise.argenteuil",
+    "code": "FR_IDF_VAL2_ARGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_VAL2"
+  },
+  {
+    "tenantId": "france.ledefrance.valdoise.sarcelles",
+    "code": "FR_IDF_VAL2_SARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_VAL2"
+  },
+  {
+    "tenantId": "france.ledefrance.valdoise.pontoise",
+    "code": "FR_IDF_VAL2_PONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_IDF_VAL2"
+  }
+]

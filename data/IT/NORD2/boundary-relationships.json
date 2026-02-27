@@ -1,0 +1,184 @@
+[
+  {
+    "tenantId": "italy.nordest",
+    "code": "IT_NORD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IT"
+  },
+  {
+    "tenantId": "italy.nordest.trentinoaltoadige",
+    "code": "IT_NORD2_TRAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IT_NORD2"
+  },
+  {
+    "tenantId": "italy.nordest.veneto",
+    "code": "IT_NORD2_VENE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IT_NORD2"
+  },
+  {
+    "tenantId": "italy.nordest.friuliveneziagiulia",
+    "code": "IT_NORD2_FVG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IT_NORD2"
+  },
+  {
+    "tenantId": "italy.nordest.emiliaromagna",
+    "code": "IT_NORD2_EMIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IT_NORD2"
+  },
+  {
+    "tenantId": "italy.nordest.trentinoaltoadige.bolzano",
+    "code": "IT_NORD2_TRAD_BOLZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_NORD2_TRAD"
+  },
+  {
+    "tenantId": "italy.nordest.trentinoaltoadige.trento",
+    "code": "IT_NORD2_TRAD_TREN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_NORD2_TRAD"
+  },
+  {
+    "tenantId": "italy.nordest.veneto.verona",
+    "code": "IT_NORD2_VENE_VERO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_NORD2_VENE"
+  },
+  {
+    "tenantId": "italy.nordest.veneto.vicenza",
+    "code": "IT_NORD2_VENE_VICE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_NORD2_VENE"
+  },
+  {
+    "tenantId": "italy.nordest.veneto.belluno",
+    "code": "IT_NORD2_VENE_BELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_NORD2_VENE"
+  },
+  {
+    "tenantId": "italy.nordest.veneto.treviso",
+    "code": "IT_NORD2_VENE_TREV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_NORD2_VENE"
+  },
+  {
+    "tenantId": "italy.nordest.veneto.venezia",
+    "code": "IT_NORD2_VENE_VENE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_NORD2_VENE"
+  },
+  {
+    "tenantId": "italy.nordest.veneto.padova",
+    "code": "IT_NORD2_VENE_PADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_NORD2_VENE"
+  },
+  {
+    "tenantId": "italy.nordest.veneto.rovigo",
+    "code": "IT_NORD2_VENE_ROVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_NORD2_VENE"
+  },
+  {
+    "tenantId": "italy.nordest.friuliveneziagiulia.udine",
+    "code": "IT_NORD2_FVG_UDIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_NORD2_FVG"
+  },
+  {
+    "tenantId": "italy.nordest.friuliveneziagiulia.gorizia",
+    "code": "IT_NORD2_FVG_GORI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_NORD2_FVG"
+  },
+  {
+    "tenantId": "italy.nordest.friuliveneziagiulia.pordenone",
+    "code": "IT_NORD2_FVG_PORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_NORD2_FVG"
+  },
+  {
+    "tenantId": "italy.nordest.friuliveneziagiulia.trieste",
+    "code": "IT_NORD2_FVG_TRIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_NORD2_FVG"
+  },
+  {
+    "tenantId": "italy.nordest.emiliaromagna.piacenza",
+    "code": "IT_NORD2_EMIL_PIAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_NORD2_EMIL"
+  },
+  {
+    "tenantId": "italy.nordest.emiliaromagna.parma",
+    "code": "IT_NORD2_EMIL_PARM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_NORD2_EMIL"
+  },
+  {
+    "tenantId": "italy.nordest.emiliaromagna.reggionellemilia",
+    "code": "IT_NORD2_EMIL_RENE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_NORD2_EMIL"
+  },
+  {
+    "tenantId": "italy.nordest.emiliaromagna.modena",
+    "code": "IT_NORD2_EMIL_MODE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_NORD2_EMIL"
+  },
+  {
+    "tenantId": "italy.nordest.emiliaromagna.bologna",
+    "code": "IT_NORD2_EMIL_BOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_NORD2_EMIL"
+  },
+  {
+    "tenantId": "italy.nordest.emiliaromagna.ferrara",
+    "code": "IT_NORD2_EMIL_FERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_NORD2_EMIL"
+  },
+  {
+    "tenantId": "italy.nordest.emiliaromagna.ravenna",
+    "code": "IT_NORD2_EMIL_RAVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_NORD2_EMIL"
+  },
+  {
+    "tenantId": "italy.nordest.emiliaromagna.forlicesena",
+    "code": "IT_NORD2_EMIL_FORL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_NORD2_EMIL"
+  }
+]

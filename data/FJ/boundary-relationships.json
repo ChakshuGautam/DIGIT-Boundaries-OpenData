@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "fiji",
+    "code": "FJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "fiji.northern",
+    "code": "FJ_N",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "FJ"
+  },
+  {
+    "tenantId": "fiji.eastern",
+    "code": "FJ_E",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "FJ"
+  },
+  {
+    "tenantId": "fiji.central",
+    "code": "FJ_C",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "FJ"
+  },
+  {
+    "tenantId": "fiji.western",
+    "code": "FJ_W",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "FJ"
+  }
+]

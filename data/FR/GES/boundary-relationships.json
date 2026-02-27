@@ -1,0 +1,345 @@
+[
+  {
+    "tenantId": "france.grandest",
+    "code": "FR_GES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "FR"
+  },
+  {
+    "tenantId": "france.grandest.ardennes",
+    "code": "FR_GES_ARDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_GES"
+  },
+  {
+    "tenantId": "france.grandest.aube",
+    "code": "FR_GES_AUBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_GES"
+  },
+  {
+    "tenantId": "france.grandest.marne",
+    "code": "FR_GES_MARN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_GES"
+  },
+  {
+    "tenantId": "france.grandest.hautemarne",
+    "code": "FR_GES_HAUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_GES"
+  },
+  {
+    "tenantId": "france.grandest.meurtheetmoselle",
+    "code": "FR_GES_MEUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_GES"
+  },
+  {
+    "tenantId": "france.grandest.meuse",
+    "code": "FR_GES_MEUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_GES"
+  },
+  {
+    "tenantId": "france.grandest.moselle",
+    "code": "FR_GES_MOSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_GES"
+  },
+  {
+    "tenantId": "france.grandest.basrhin",
+    "code": "FR_GES_BAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_GES"
+  },
+  {
+    "tenantId": "france.grandest.hautrhin",
+    "code": "FR_GES_HAUT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_GES"
+  },
+  {
+    "tenantId": "france.grandest.vosges",
+    "code": "FR_GES_VOSG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_GES"
+  },
+  {
+    "tenantId": "france.grandest.ardennes.charlevillemzires",
+    "code": "FR_GES_ARDE_CHAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_ARDE"
+  },
+  {
+    "tenantId": "france.grandest.ardennes.rethel",
+    "code": "FR_GES_ARDE_RETH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_ARDE"
+  },
+  {
+    "tenantId": "france.grandest.ardennes.sedan",
+    "code": "FR_GES_ARDE_SEDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_ARDE"
+  },
+  {
+    "tenantId": "france.grandest.ardennes.vouziers",
+    "code": "FR_GES_ARDE_VOUZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_ARDE"
+  },
+  {
+    "tenantId": "france.grandest.aube.barsuraube",
+    "code": "FR_GES_AUBE_BAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_AUBE"
+  },
+  {
+    "tenantId": "france.grandest.aube.nogentsurseine",
+    "code": "FR_GES_AUBE_NOGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_AUBE"
+  },
+  {
+    "tenantId": "france.grandest.aube.troyes",
+    "code": "FR_GES_AUBE_TROY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_AUBE"
+  },
+  {
+    "tenantId": "france.grandest.marne.chlonsenchampagne",
+    "code": "FR_GES_MARN_CHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_MARN"
+  },
+  {
+    "tenantId": "france.grandest.marne.pernay",
+    "code": "FR_GES_MARN_PER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_MARN"
+  },
+  {
+    "tenantId": "france.grandest.marne.reims",
+    "code": "FR_GES_MARN_REIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_MARN"
+  },
+  {
+    "tenantId": "france.grandest.marne.vitrylefranois",
+    "code": "FR_GES_MARN_VITR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_MARN"
+  },
+  {
+    "tenantId": "france.grandest.hautemarne.chaumont",
+    "code": "FR_GES_HAUT_CHAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_HAUT"
+  },
+  {
+    "tenantId": "france.grandest.hautemarne.langres",
+    "code": "FR_GES_HAUT_LANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_HAUT"
+  },
+  {
+    "tenantId": "france.grandest.hautemarne.saintdizier",
+    "code": "FR_GES_HAUT_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_HAUT"
+  },
+  {
+    "tenantId": "france.grandest.meurtheetmoselle.valdebriey",
+    "code": "FR_GES_MEUR_VDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_MEUR"
+  },
+  {
+    "tenantId": "france.grandest.meurtheetmoselle.lunville",
+    "code": "FR_GES_MEUR_LUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_MEUR"
+  },
+  {
+    "tenantId": "france.grandest.meurtheetmoselle.nancy",
+    "code": "FR_GES_MEUR_NANC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_MEUR"
+  },
+  {
+    "tenantId": "france.grandest.meurtheetmoselle.toul",
+    "code": "FR_GES_MEUR_TOUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_MEUR"
+  },
+  {
+    "tenantId": "france.grandest.meuse.barleduc",
+    "code": "FR_GES_MEUS_BAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_MEUS"
+  },
+  {
+    "tenantId": "france.grandest.meuse.commercy",
+    "code": "FR_GES_MEUS_COMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_MEUS"
+  },
+  {
+    "tenantId": "france.grandest.meuse.verdun",
+    "code": "FR_GES_MEUS_VERD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_MEUS"
+  },
+  {
+    "tenantId": "france.grandest.moselle.forbach",
+    "code": "FR_GES_MOSE_FORB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_MOSE"
+  },
+  {
+    "tenantId": "france.grandest.moselle.sarrebourg",
+    "code": "FR_GES_MOSE_SARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_MOSE"
+  },
+  {
+    "tenantId": "france.grandest.moselle.sarreguemines",
+    "code": "FR_GES_MOSE_SARR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_MOSE"
+  },
+  {
+    "tenantId": "france.grandest.moselle.thionville",
+    "code": "FR_GES_MOSE_THIO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_MOSE"
+  },
+  {
+    "tenantId": "france.grandest.moselle.metz",
+    "code": "FR_GES_MOSE_METZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_MOSE"
+  },
+  {
+    "tenantId": "france.grandest.basrhin.haguenau",
+    "code": "FR_GES_BAS_HAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_BAS"
+  },
+  {
+    "tenantId": "france.grandest.basrhin.molsheim",
+    "code": "FR_GES_BAS_MOLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_BAS"
+  },
+  {
+    "tenantId": "france.grandest.basrhin.saverne",
+    "code": "FR_GES_BAS_SAVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_BAS"
+  },
+  {
+    "tenantId": "france.grandest.basrhin.slestat",
+    "code": "FR_GES_BAS_SLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_BAS"
+  },
+  {
+    "tenantId": "france.grandest.basrhin.strasbourg",
+    "code": "FR_GES_BAS_STRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_BAS"
+  },
+  {
+    "tenantId": "france.grandest.hautrhin.altkirch",
+    "code": "FR_GES_HAUT2_ALTK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_HAUT2"
+  },
+  {
+    "tenantId": "france.grandest.hautrhin.colmar",
+    "code": "FR_GES_HAUT2_COLM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_HAUT2"
+  },
+  {
+    "tenantId": "france.grandest.hautrhin.mulhouse",
+    "code": "FR_GES_HAUT2_MULH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_HAUT2"
+  },
+  {
+    "tenantId": "france.grandest.hautrhin.thann",
+    "code": "FR_GES_HAUT2_THAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_HAUT2"
+  },
+  {
+    "tenantId": "france.grandest.vosges.pinal",
+    "code": "FR_GES_VOSG_PIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_VOSG"
+  },
+  {
+    "tenantId": "france.grandest.vosges.neufchteau",
+    "code": "FR_GES_VOSG_NEUF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_VOSG"
+  },
+  {
+    "tenantId": "france.grandest.vosges.saintdidesvosges",
+    "code": "FR_GES_VOSG_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_GES_VOSG"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "tenantId": "turkmenistan",
+  "moduleName": "module-common",
+  "hierarchyType": [
+    {
+      "type": "ADMIN",
+      "levels": [
+        {
+          "level": 0,
+          "boundaryType": "Country"
+        },
+        {
+          "level": 1,
+          "boundaryType": "State"
+        },
+        {
+          "level": 2,
+          "boundaryType": "District"
+        }
+      ]
+    }
+  ]
+}

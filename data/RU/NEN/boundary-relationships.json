@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "russianfederation.nenetsautonomousokrug",
+    "code": "RU_NEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "RU"
+  },
+  {
+    "tenantId": "russianfederation.nenetsautonomousokrug.naryanmar",
+    "code": "RU_NEN_NARY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RU_NEN"
+  },
+  {
+    "tenantId": "russianfederation.nenetsautonomousokrug.zapolyarnydistrict",
+    "code": "RU_NEN_ZADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RU_NEN"
+  },
+  {
+    "tenantId": "russianfederation.nenetsautonomousokrug.unknown",
+    "code": "RU_NEN_UNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RU_NEN"
+  }
+]

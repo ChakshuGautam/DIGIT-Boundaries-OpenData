@@ -1,0 +1,121 @@
+[
+  {
+    "tenantId": "haiti.centredepartment",
+    "code": "HT_CE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "HT"
+  },
+  {
+    "tenantId": "haiti.centredepartment.arrondissementcercalasource",
+    "code": "HT_CE_ACLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_CE"
+  },
+  {
+    "tenantId": "haiti.centredepartment.arrondissementdehinche",
+    "code": "HT_CE_ADH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_CE"
+  },
+  {
+    "tenantId": "haiti.centredepartment.arrondissementlascahobas",
+    "code": "HT_CE_ARLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_CE"
+  },
+  {
+    "tenantId": "haiti.centredepartment.arrondissementdemirebalais",
+    "code": "HT_CE_ADM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_CE"
+  },
+  {
+    "tenantId": "haiti.centredepartment.arrondissementcercalasource.cercalasource",
+    "code": "HT_CE_ACLS_CLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_CE_ACLS"
+  },
+  {
+    "tenantId": "haiti.centredepartment.arrondissementcercalasource.thomassique",
+    "code": "HT_CE_ACLS_THOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_CE_ACLS"
+  },
+  {
+    "tenantId": "haiti.centredepartment.arrondissementdehinche.hinche",
+    "code": "HT_CE_ADH_HINC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_CE_ADH"
+  },
+  {
+    "tenantId": "haiti.centredepartment.arrondissementdehinche.maissade",
+    "code": "HT_CE_ADH_MAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_CE_ADH"
+  },
+  {
+    "tenantId": "haiti.centredepartment.arrondissementdehinche.thomonde",
+    "code": "HT_CE_ADH_THOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_CE_ADH"
+  },
+  {
+    "tenantId": "haiti.centredepartment.arrondissementdehinche.cercacarvajal",
+    "code": "HT_CE_ADH_CECA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_CE_ADH"
+  },
+  {
+    "tenantId": "haiti.centredepartment.arrondissementdehinche.lascahobas",
+    "code": "HT_CE_ADH_LASC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_CE_ADH"
+  },
+  {
+    "tenantId": "haiti.centredepartment.arrondissementlascahobas.belladere",
+    "code": "HT_CE_ARLA_BELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_CE_ARLA"
+  },
+  {
+    "tenantId": "haiti.centredepartment.arrondissementlascahobas.savanette",
+    "code": "HT_CE_ARLA_SAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_CE_ARLA"
+  },
+  {
+    "tenantId": "haiti.centredepartment.arrondissementdemirebalais.mirebalais",
+    "code": "HT_CE_ADM_MIRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_CE_ADM"
+  },
+  {
+    "tenantId": "haiti.centredepartment.arrondissementdemirebalais.sautdeau",
+    "code": "HT_CE_ADM_SAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_CE_ADM"
+  },
+  {
+    "tenantId": "haiti.centredepartment.arrondissementdemirebalais.boucancarre",
+    "code": "HT_CE_ADM_BOCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_CE_ADM"
+  }
+]

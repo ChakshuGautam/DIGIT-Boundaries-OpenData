@@ -1,0 +1,5378 @@
+[
+  {
+    "tenantId": "spain.cataluacatalunya",
+    "code": "ES_CATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "ES"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona",
+    "code": "ES_CATA_BARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_CATA"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona",
+    "code": "ES_CATA_GIRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_CATA"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida",
+    "code": "ES_CATA_LLEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_CATA"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.abrera",
+    "code": "ES_CATA_BARC_ABRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.aguilardesegarra",
+    "code": "ES_CATA_BARC_ADS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.alella",
+    "code": "ES_CATA_BARC_ALEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.lametlladelvalls",
+    "code": "ES_CATA_BARC_LDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.arenysdemunt",
+    "code": "ES_CATA_BARC_ADM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.argenola",
+    "code": "ES_CATA_BARC_ARGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.argentona",
+    "code": "ES_CATA_BARC_ARGE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.arts",
+    "code": "ES_CATA_BARC_ART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.avi",
+    "code": "ES_CATA_BARC_AVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.aviny",
+    "code": "ES_CATA_BARC_AVIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.avinyonetdelpeneds",
+    "code": "ES_CATA_BARC_ADP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.aiguafreda",
+    "code": "ES_CATA_BARC_AIGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.badalona",
+    "code": "ES_CATA_BARC_BADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.bag",
+    "code": "ES_CATA_BARC_BAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.baleny",
+    "code": "ES_CATA_BARC_BALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.balsareny",
+    "code": "ES_CATA_BARC_BALS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.barcelona",
+    "code": "ES_CATA_BARC_BARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.begues",
+    "code": "ES_CATA_BARC_BEGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.bellprat",
+    "code": "ES_CATA_BARC_BELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.berga",
+    "code": "ES_CATA_BARC_BERG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.biguesiriells",
+    "code": "ES_CATA_BARC_BIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.borred",
+    "code": "ES_CATA_BARC_BORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.elbruc",
+    "code": "ES_CATA_BARC_ELBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.elbrull",
+    "code": "ES_CATA_BARC_ELBR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.lescabanyes",
+    "code": "ES_CATA_BARC_LECA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.cabreradanoia",
+    "code": "ES_CATA_BARC_CAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.cabrerademar",
+    "code": "ES_CATA_BARC_CDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.cabrils",
+    "code": "ES_CATA_BARC_CABR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.calaf",
+    "code": "ES_CATA_BARC_CALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.caldesdestrac",
+    "code": "ES_CATA_BARC_CAD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.caldesdemontbui",
+    "code": "ES_CATA_BARC_CDM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.calders",
+    "code": "ES_CATA_BARC_CALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.calella",
+    "code": "ES_CATA_BARC_CALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.calongedesegarra",
+    "code": "ES_CATA_BARC_CDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.calldetenes",
+    "code": "ES_CATA_BARC_CALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.calls",
+    "code": "ES_CATA_BARC_CALL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.campins",
+    "code": "ES_CATA_BARC_CAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.canetdemar",
+    "code": "ES_CATA_BARC_CDM3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.canovelles",
+    "code": "ES_CATA_BARC_CANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.cnovesisamals",
+    "code": "ES_CATA_BARC_CIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.canyelles",
+    "code": "ES_CATA_BARC_CANY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.capellades",
+    "code": "ES_CATA_BARC_CAPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.capolat",
+    "code": "ES_CATA_BARC_CAPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.cardedeu",
+    "code": "ES_CATA_BARC_CARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.cardona",
+    "code": "ES_CATA_BARC_CARD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.carme",
+    "code": "ES_CATA_BARC_CARM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.casserres",
+    "code": "ES_CATA_BARC_CASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.castellardelriu",
+    "code": "ES_CATA_BARC_CDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.castellardelvalls",
+    "code": "ES_CATA_BARC_CDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.castellardenhug",
+    "code": "ES_CATA_BARC_CDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.castellbellielvilar",
+    "code": "ES_CATA_BARC_CIEV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.castellbisbal",
+    "code": "ES_CATA_BARC_CAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.castellcir",
+    "code": "ES_CATA_BARC_CAST2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.castelldefels",
+    "code": "ES_CATA_BARC_CAST3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.castelletilagornal",
+    "code": "ES_CATA_BARC_CILG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.castellfollitdelboix",
+    "code": "ES_CATA_BARC_CDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.castellfollitderiubregs",
+    "code": "ES_CATA_BARC_CDR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.castellgal",
+    "code": "ES_CATA_BARC_CAST4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.castellnoudebages",
+    "code": "ES_CATA_BARC_CDB2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.castellol",
+    "code": "ES_CATA_BARC_CAST5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.castellterol",
+    "code": "ES_CATA_BARC_CAST6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.castellvdelamarca",
+    "code": "ES_CATA_BARC_CDLM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.castellvderosanes",
+    "code": "ES_CATA_BARC_CDR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.centelles",
+    "code": "ES_CATA_BARC_CENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.cervell",
+    "code": "ES_CATA_BARC_CERV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.collbat",
+    "code": "ES_CATA_BARC_COLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.collsuspina",
+    "code": "ES_CATA_BARC_COLL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.copons",
+    "code": "ES_CATA_BARC_COPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.corberadellobregat",
+    "code": "ES_CATA_BARC_CDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.cornelldellobregat",
+    "code": "ES_CATA_BARC_CDL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.cubelles",
+    "code": "ES_CATA_BARC_CUBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.dosrius",
+    "code": "ES_CATA_BARC_DOSR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.esparreguera",
+    "code": "ES_CATA_BARC_ESPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.espluguesdellobregat",
+    "code": "ES_CATA_BARC_EDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.lespunyola",
+    "code": "ES_CATA_BARC_LES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.lestany",
+    "code": "ES_CATA_BARC_LES2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.fgols",
+    "code": "ES_CATA_BARC_FGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.fogarsdemontcls",
+    "code": "ES_CATA_BARC_FDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.fogarsdelaselva",
+    "code": "ES_CATA_BARC_FDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.folgueroles",
+    "code": "ES_CATA_BARC_FOLG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.fonollosa",
+    "code": "ES_CATA_BARC_FONO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.fontrub",
+    "code": "ES_CATA_BARC_FONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.lesfranquesesdelvalls",
+    "code": "ES_CATA_BARC_LFDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.gallifa",
+    "code": "ES_CATA_BARC_GALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.lagarriga",
+    "code": "ES_CATA_BARC_LAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.gav",
+    "code": "ES_CATA_BARC_GAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.gai",
+    "code": "ES_CATA_BARC_GAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.gelida",
+    "code": "ES_CATA_BARC_GELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.gironella",
+    "code": "ES_CATA_BARC_GIRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.gisclareny",
+    "code": "ES_CATA_BARC_GISC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.lagranada",
+    "code": "ES_CATA_BARC_LAGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.granera",
+    "code": "ES_CATA_BARC_GRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.granollers",
+    "code": "ES_CATA_BARC_GRAN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.gualba",
+    "code": "ES_CATA_BARC_GUAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santsalvadordeguardiola",
+    "code": "ES_CATA_BARC_SSDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.guardioladebergued",
+    "code": "ES_CATA_BARC_GDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.gurb",
+    "code": "ES_CATA_BARC_GURB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.lhospitaletdellobregat",
+    "code": "ES_CATA_BARC_LDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.igualada",
+    "code": "ES_CATA_BARC_IGUA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.jorba",
+    "code": "ES_CATA_BARC_JORB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.lallacuna",
+    "code": "ES_CATA_BARC_LALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.lallagosta",
+    "code": "ES_CATA_BARC_LALL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.llinarsdelvalls",
+    "code": "ES_CATA_BARC_LDV2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.llidamunt",
+    "code": "ES_CATA_BARC_LLD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.llidevall",
+    "code": "ES_CATA_BARC_LDV3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.llu",
+    "code": "ES_CATA_BARC_LLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.malgratdemar",
+    "code": "ES_CATA_BARC_MDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.malla",
+    "code": "ES_CATA_BARC_MALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.manlleu",
+    "code": "ES_CATA_BARC_MANL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.manresa",
+    "code": "ES_CATA_BARC_MANR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.martorell",
+    "code": "ES_CATA_BARC_MART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.martorelles",
+    "code": "ES_CATA_BARC_MART2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.lesmasiesderoda",
+    "code": "ES_CATA_BARC_LMDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.lesmasiesdevoltreg",
+    "code": "ES_CATA_BARC_LMDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.elmasnou",
+    "code": "ES_CATA_BARC_ELMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.masquefa",
+    "code": "ES_CATA_BARC_MASQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.matadepera",
+    "code": "ES_CATA_BARC_MATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.matar",
+    "code": "ES_CATA_BARC_MATA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.mediona",
+    "code": "ES_CATA_BARC_MEDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.molinsderei",
+    "code": "ES_CATA_BARC_MDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.molletdelvalls",
+    "code": "ES_CATA_BARC_MDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.montcadaireixac",
+    "code": "ES_CATA_BARC_MIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.montgat",
+    "code": "ES_CATA_BARC_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.monistroldemontserrat",
+    "code": "ES_CATA_BARC_MDM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.monistroldecalders",
+    "code": "ES_CATA_BARC_MDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.muntanyola",
+    "code": "ES_CATA_BARC_MUNT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.montclar",
+    "code": "ES_CATA_BARC_MONT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.montesquiu",
+    "code": "ES_CATA_BARC_MONT3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.montmajor",
+    "code": "ES_CATA_BARC_MONT4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.montmaneu",
+    "code": "ES_CATA_BARC_MONT5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.figarmontmany",
+    "code": "ES_CATA_BARC_FIGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.montmel",
+    "code": "ES_CATA_BARC_MONT6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.montornsdelvalls",
+    "code": "ES_CATA_BARC_MDV2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.montseny",
+    "code": "ES_CATA_BARC_MONT7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.moi",
+    "code": "ES_CATA_BARC_MOI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.mura",
+    "code": "ES_CATA_BARC_MURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.navarcles",
+    "code": "ES_CATA_BARC_NAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.navs",
+    "code": "ES_CATA_BARC_NAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.lanoudebergued",
+    "code": "ES_CATA_BARC_LNDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.dena",
+    "code": "ES_CATA_BARC_DEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.olvan",
+    "code": "ES_CATA_BARC_OLVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.olrdola",
+    "code": "ES_CATA_BARC_OLR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.olesadebonesvalls",
+    "code": "ES_CATA_BARC_ODB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.olesademontserrat",
+    "code": "ES_CATA_BARC_ODM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.olivella",
+    "code": "ES_CATA_BARC_OLIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.olost",
+    "code": "ES_CATA_BARC_OLOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.ors",
+    "code": "ES_CATA_BARC_ORS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.orist",
+    "code": "ES_CATA_BARC_ORIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.orp",
+    "code": "ES_CATA_BARC_ORP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.rrius",
+    "code": "ES_CATA_BARC_RRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.pacsdelpeneds",
+    "code": "ES_CATA_BARC_PDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.palafolls",
+    "code": "ES_CATA_BARC_PALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.palausolitiplegamans",
+    "code": "ES_CATA_BARC_PIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.pallej",
+    "code": "ES_CATA_BARC_PALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.elpapiol",
+    "code": "ES_CATA_BARC_ELPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.paretsdelvalls",
+    "code": "ES_CATA_BARC_PDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.perafita",
+    "code": "ES_CATA_BARC_PERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.piera",
+    "code": "ES_CATA_BARC_PIER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.elshostaletsdepierola",
+    "code": "ES_CATA_BARC_EHDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.pinedademar",
+    "code": "ES_CATA_BARC_PDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.elpladelpeneds",
+    "code": "ES_CATA_BARC_EPDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.lapobladeclaramunt",
+    "code": "ES_CATA_BARC_LPDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.lapobladelillet",
+    "code": "ES_CATA_BARC_LPDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.poliny",
+    "code": "ES_CATA_BARC_POLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.pontons",
+    "code": "ES_CATA_BARC_PONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.elpratdellobregat",
+    "code": "ES_CATA_BARC_EPDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.elspratsderei",
+    "code": "ES_CATA_BARC_EPDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.pratsdelluans",
+    "code": "ES_CATA_BARC_PDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.premidemar",
+    "code": "ES_CATA_BARC_PDM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.puigdlber",
+    "code": "ES_CATA_BARC_PUIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.puigreig",
+    "code": "ES_CATA_BARC_PUIG2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.pujalt",
+    "code": "ES_CATA_BARC_PUJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.laquar",
+    "code": "ES_CATA_BARC_LAQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.rajadell",
+    "code": "ES_CATA_BARC_RAJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.rellinars",
+    "code": "ES_CATA_BARC_RELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.ripollet",
+    "code": "ES_CATA_BARC_RIPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.larocadelvalls",
+    "code": "ES_CATA_BARC_LRDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.elpontdevilomarairocafort",
+    "code": "ES_CATA_BARC_EPDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.rodadeter",
+    "code": "ES_CATA_BARC_RDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.rub",
+    "code": "ES_CATA_BARC_RUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.rubi",
+    "code": "ES_CATA_BARC_RUBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.sabadell",
+    "code": "ES_CATA_BARC_SABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.sags",
+    "code": "ES_CATA_BARC_SAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santperesallavinera",
+    "code": "ES_CATA_BARC_SPS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.saldes",
+    "code": "ES_CATA_BARC_SALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.sallent",
+    "code": "ES_CATA_BARC_SALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santpedor",
+    "code": "ES_CATA_BARC_SANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santiscledevallalta",
+    "code": "ES_CATA_BARC_SIDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santadridebess",
+    "code": "ES_CATA_BARC_SADB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santagustdelluans",
+    "code": "ES_CATA_BARC_SADL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santandreudelabarca",
+    "code": "ES_CATA_BARC_SADL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santandreudellavaneres",
+    "code": "ES_CATA_BARC_SADL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santantonidevilamajor",
+    "code": "ES_CATA_BARC_SADV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santbartomeudelgrau",
+    "code": "ES_CATA_BARC_SBDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santboidellobregat",
+    "code": "ES_CATA_BARC_SBDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santboidelluans",
+    "code": "ES_CATA_BARC_SBDL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santceloni",
+    "code": "ES_CATA_BARC_SACE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santcebridevallalta",
+    "code": "ES_CATA_BARC_SCDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santclimentdellobregat",
+    "code": "ES_CATA_BARC_SCDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santcugatdelvalls",
+    "code": "ES_CATA_BARC_SCDV2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santcugatsesgarrigues",
+    "code": "ES_CATA_BARC_SCS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santestevedepalautordera",
+    "code": "ES_CATA_BARC_SEDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santestevesesrovires",
+    "code": "ES_CATA_BARC_SES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santfostdecampsentelles",
+    "code": "ES_CATA_BARC_SFDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santfeliudecodines",
+    "code": "ES_CATA_BARC_SFDC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santfeliudellobregat",
+    "code": "ES_CATA_BARC_SFDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santfeliusasserra",
+    "code": "ES_CATA_BARC_SFS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santfruitsdebages",
+    "code": "ES_CATA_BARC_SFDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.vilassardedalt",
+    "code": "ES_CATA_BARC_VDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santhiplitdevoltreg",
+    "code": "ES_CATA_BARC_SHDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santjaumedefrontany",
+    "code": "ES_CATA_BARC_SJDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santjoandesp",
+    "code": "ES_CATA_BARC_SJD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santjoandevilatorrada",
+    "code": "ES_CATA_BARC_SJDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.vilassardemar",
+    "code": "ES_CATA_BARC_VDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santjulidevilatorta",
+    "code": "ES_CATA_BARC_SJDV2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santjustdesvern",
+    "code": "ES_CATA_BARC_SJD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santllorendhortons",
+    "code": "ES_CATA_BARC_SLD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santllorensavall",
+    "code": "ES_CATA_BARC_SLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santmartdecentelles",
+    "code": "ES_CATA_BARC_SMDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santmartdalbars",
+    "code": "ES_CATA_BARC_SMD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santmartdetous",
+    "code": "ES_CATA_BARC_SMDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santmartsarroca",
+    "code": "ES_CATA_BARC_SMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santmartsesgueioles",
+    "code": "ES_CATA_BARC_SMS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santmateudebages",
+    "code": "ES_CATA_BARC_SMDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.premidedalt",
+    "code": "ES_CATA_BARC_PDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santperederibes",
+    "code": "ES_CATA_BARC_SPDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santperederiudebitlles",
+    "code": "ES_CATA_BARC_SPDR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santperedetorell",
+    "code": "ES_CATA_BARC_SPDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santperedevilamajor",
+    "code": "ES_CATA_BARC_SPDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santpoldemar",
+    "code": "ES_CATA_BARC_SPDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santquintdemediona",
+    "code": "ES_CATA_BARC_SQDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santquirzedebesora",
+    "code": "ES_CATA_BARC_SQDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santquirzedelvalls",
+    "code": "ES_CATA_BARC_SQDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santquirzesafaja",
+    "code": "ES_CATA_BARC_SQS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santsadurndanoia",
+    "code": "ES_CATA_BARC_SSD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santsadurndosormort",
+    "code": "ES_CATA_BARC_SSD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.marganell",
+    "code": "ES_CATA_BARC_MARG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santacecliadevoltreg",
+    "code": "ES_CATA_BARC_SCDV3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santacolomadecervell",
+    "code": "ES_CATA_BARC_SCDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santacolomadegramenet",
+    "code": "ES_CATA_BARC_SCDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santaeugniadeberga",
+    "code": "ES_CATA_BARC_SEDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santaeulliaderiuprimer",
+    "code": "ES_CATA_BARC_SEDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santaeulliaderonana",
+    "code": "ES_CATA_BARC_SEDR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santafedelpeneds",
+    "code": "ES_CATA_BARC_SFDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santamargaridademontbui",
+    "code": "ES_CATA_BARC_SMDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santamargaridaielsmonjos",
+    "code": "ES_CATA_BARC_SMIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.barberdelvalls",
+    "code": "ES_CATA_BARC_BDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santamariadebesora",
+    "code": "ES_CATA_BARC_SMDB2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.lesquirol",
+    "code": "ES_CATA_BARC_LES3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santamariademerls",
+    "code": "ES_CATA_BARC_SMDM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santamariademartorelles",
+    "code": "ES_CATA_BARC_SMDM3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santamariademiralles",
+    "code": "ES_CATA_BARC_SMDM4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santamariadol",
+    "code": "ES_CATA_BARC_SMD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santamariadepalautordera",
+    "code": "ES_CATA_BARC_SMDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santaperptuademogoda",
+    "code": "ES_CATA_BARC_SPDM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santasusanna",
+    "code": "ES_CATA_BARC_SASU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santvicendecastellet",
+    "code": "ES_CATA_BARC_SVDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santvicendelshorts",
+    "code": "ES_CATA_BARC_SVDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santvicendemontalt",
+    "code": "ES_CATA_BARC_SVDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santvicendetorell",
+    "code": "ES_CATA_BARC_SVDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.cerdanyoladelvalls",
+    "code": "ES_CATA_BARC_CDV2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.sentmenat",
+    "code": "ES_CATA_BARC_SENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.cercs",
+    "code": "ES_CATA_BARC_CERC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.seva",
+    "code": "ES_CATA_BARC_SEVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.sitges",
+    "code": "ES_CATA_BARC_SITG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.sobremunt",
+    "code": "ES_CATA_BARC_SOBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.sora",
+    "code": "ES_CATA_BARC_SORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.subirats",
+    "code": "ES_CATA_BARC_SUBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.sria",
+    "code": "ES_CATA_BARC_SRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.tavrnoles",
+    "code": "ES_CATA_BARC_TAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.tagamanent",
+    "code": "ES_CATA_BARC_TAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.talamanca",
+    "code": "ES_CATA_BARC_TALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.taradell",
+    "code": "ES_CATA_BARC_TARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.terrassa",
+    "code": "ES_CATA_BARC_TERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.tavertet",
+    "code": "ES_CATA_BARC_TAVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.tei",
+    "code": "ES_CATA_BARC_TEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.tiana",
+    "code": "ES_CATA_BARC_TIAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.tona",
+    "code": "ES_CATA_BARC_TONA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.tordera",
+    "code": "ES_CATA_BARC_TORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.torell",
+    "code": "ES_CATA_BARC_TORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.latorredeclaramunt",
+    "code": "ES_CATA_BARC_LTDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.torrelavit",
+    "code": "ES_CATA_BARC_TORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.torrellesdefoix",
+    "code": "ES_CATA_BARC_TDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.torrellesdellobregat",
+    "code": "ES_CATA_BARC_TDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.ullastrell",
+    "code": "ES_CATA_BARC_ULLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.vacarisses",
+    "code": "ES_CATA_BARC_VACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.vallbonadanoia",
+    "code": "ES_CATA_BARC_VAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.vallcebre",
+    "code": "ES_CATA_BARC_VALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.vallgorguina",
+    "code": "ES_CATA_BARC_VALL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.vallirana",
+    "code": "ES_CATA_BARC_VALL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.vallromanes",
+    "code": "ES_CATA_BARC_VALL4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.veciana",
+    "code": "ES_CATA_BARC_VECI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.vic",
+    "code": "ES_CATA_BARC_VIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.vilada",
+    "code": "ES_CATA_BARC_VILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.viladecavalls",
+    "code": "ES_CATA_BARC_VILA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.viladecans",
+    "code": "ES_CATA_BARC_VILA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.vilanovadelcam",
+    "code": "ES_CATA_BARC_VDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.vilanovadesau",
+    "code": "ES_CATA_BARC_VDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.vilobdelpeneds",
+    "code": "ES_CATA_BARC_VDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.vilafrancadelpeneds",
+    "code": "ES_CATA_BARC_VDP2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.vilalbasasserra",
+    "code": "ES_CATA_BARC_VISA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.vilanovailageltr",
+    "code": "ES_CATA_BARC_VILG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.viveriserrateix",
+    "code": "ES_CATA_BARC_VIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.rupitipruit",
+    "code": "ES_CATA_BARC_RIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.vilanovadelvalls",
+    "code": "ES_CATA_BARC_VDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santjulidecerdanyola",
+    "code": "ES_CATA_BARC_SJDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.badiadelvalls",
+    "code": "ES_CATA_BARC_BDV2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.lapalmadecervell",
+    "code": "ES_CATA_BARC_LPDC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.santhilarisacalm",
+    "code": "ES_CATA_BARC_SHS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.estars",
+    "code": "ES_CATA_BARC_ESTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.barcelona.arenysdemar",
+    "code": "ES_CATA_BARC_ADM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_BARC"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.alpens",
+    "code": "ES_CATA_GIRO_ALPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.castelldelareny",
+    "code": "ES_CATA_GIRO_CDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.agullana",
+    "code": "ES_CATA_GIRO_AGUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.aiguaviva",
+    "code": "ES_CATA_GIRO_AIGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.albany",
+    "code": "ES_CATA_GIRO_ALBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.albons",
+    "code": "ES_CATA_GIRO_ALBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.elfardempord",
+    "code": "ES_CATA_GIRO_EFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.alp",
+    "code": "ES_CATA_GIRO_ALP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.amer",
+    "code": "ES_CATA_GIRO_AMER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.angls",
+    "code": "ES_CATA_GIRO_ANGL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.arbcies",
+    "code": "ES_CATA_GIRO_ARB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.argelaguer",
+    "code": "ES_CATA_GIRO_ARGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.larmentera",
+    "code": "ES_CATA_GIRO_LAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.avinyonetdepuigvents",
+    "code": "ES_CATA_GIRO_ADP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.begur",
+    "code": "ES_CATA_GIRO_BEGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.lavajol",
+    "code": "ES_CATA_GIRO_LAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.banyoles",
+    "code": "ES_CATA_GIRO_BANY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.bscara",
+    "code": "ES_CATA_GIRO_BSC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.bellcairedempord",
+    "code": "ES_CATA_GIRO_BED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.besal",
+    "code": "ES_CATA_GIRO_BESA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.bescan",
+    "code": "ES_CATA_GIRO_BESC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.beuda",
+    "code": "ES_CATA_GIRO_BEUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.labisbaldempord",
+    "code": "ES_CATA_GIRO_LBD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.blanes",
+    "code": "ES_CATA_GIRO_BLAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.bolvir",
+    "code": "ES_CATA_GIRO_BOLV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.bordils",
+    "code": "ES_CATA_GIRO_BORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.borrass",
+    "code": "ES_CATA_GIRO_BORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.breda",
+    "code": "ES_CATA_GIRO_BRED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.brunyolaisantmartsapresa",
+    "code": "ES_CATA_GIRO_BISM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.boadellailesescaules",
+    "code": "ES_CATA_GIRO_BILE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.cabanes",
+    "code": "ES_CATA_GIRO_CABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.cabanelles",
+    "code": "ES_CATA_GIRO_CABA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.cadaqus",
+    "code": "ES_CATA_GIRO_CADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.caldesdemalavella",
+    "code": "ES_CATA_GIRO_CDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.calongeisantantoni",
+    "code": "ES_CATA_GIRO_CISA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.cams",
+    "code": "ES_CATA_GIRO_CAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.campdevnol",
+    "code": "ES_CATA_GIRO_CAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.campelles",
+    "code": "ES_CATA_GIRO_CAMP2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.campllong",
+    "code": "ES_CATA_GIRO_CAMP3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.camprodon",
+    "code": "ES_CATA_GIRO_CAMP4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.canetdadri",
+    "code": "ES_CATA_GIRO_CAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.cantallops",
+    "code": "ES_CATA_GIRO_CANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.capmany",
+    "code": "ES_CATA_GIRO_CAPM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.queralbs",
+    "code": "ES_CATA_GIRO_QUER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.cassdelaselva",
+    "code": "ES_CATA_GIRO_CDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.castellfollitdelaroca",
+    "code": "ES_CATA_GIRO_CDLR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.castelldempries",
+    "code": "ES_CATA_GIRO_CAD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.castellplatjadaro",
+    "code": "ES_CATA_GIRO_CAD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.celr",
+    "code": "ES_CATA_GIRO_CELR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.cervideter",
+    "code": "ES_CATA_GIRO_CDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.cistella",
+    "code": "ES_CATA_GIRO_CIST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.siurana",
+    "code": "ES_CATA_GIRO_SIUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.colera",
+    "code": "ES_CATA_GIRO_COLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.colomers",
+    "code": "ES_CATA_GIRO_COLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.cornelldelterri",
+    "code": "ES_CATA_GIRO_CDT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.cor",
+    "code": "ES_CATA_GIRO_COR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.crespi",
+    "code": "ES_CATA_GIRO_CRES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.darnius",
+    "code": "ES_CATA_GIRO_DARN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.das",
+    "code": "ES_CATA_GIRO_DAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.espinelves",
+    "code": "ES_CATA_GIRO_ESPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.espolla",
+    "code": "ES_CATA_GIRO_ESPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.esponell",
+    "code": "ES_CATA_GIRO_ESPO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.figueres",
+    "code": "ES_CATA_GIRO_FIGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.fla",
+    "code": "ES_CATA_GIRO_FLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.foix",
+    "code": "ES_CATA_GIRO_FOIX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.fontanalsdecerdanya",
+    "code": "ES_CATA_GIRO_FDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.fontanilles",
+    "code": "ES_CATA_GIRO_FONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.fontcoberta",
+    "code": "ES_CATA_GIRO_FONT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.fornellsdelaselva",
+    "code": "ES_CATA_GIRO_FDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.forti",
+    "code": "ES_CATA_GIRO_FORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.garrigs",
+    "code": "ES_CATA_GIRO_GARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.garrigoles",
+    "code": "ES_CATA_GIRO_GARR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.garriguella",
+    "code": "ES_CATA_GIRO_GARR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.ger",
+    "code": "ES_CATA_GIRO_GER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.girona",
+    "code": "ES_CATA_GIRO_GIRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.gombrn",
+    "code": "ES_CATA_GIRO_GOMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.gualta",
+    "code": "ES_CATA_GIRO_GUAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.guilsdecerdanya",
+    "code": "ES_CATA_GIRO_GDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.hostalric",
+    "code": "ES_CATA_GIRO_HOST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.isvol",
+    "code": "ES_CATA_GIRO_ISV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.jafre",
+    "code": "ES_CATA_GIRO_JAFR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.lajonquera",
+    "code": "ES_CATA_GIRO_LAJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.jui",
+    "code": "ES_CATA_GIRO_JUI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.llad",
+    "code": "ES_CATA_GIRO_LLAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.llagostera",
+    "code": "ES_CATA_GIRO_LLAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.llambilles",
+    "code": "ES_CATA_GIRO_LLAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.llanars",
+    "code": "ES_CATA_GIRO_LLAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.llan",
+    "code": "ES_CATA_GIRO_LLAN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.llers",
+    "code": "ES_CATA_GIRO_LLER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.llvia",
+    "code": "ES_CATA_GIRO_LLV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.lesllosses",
+    "code": "ES_CATA_GIRO_LELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.madremanya",
+    "code": "ES_CATA_GIRO_MADR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.maidemontcal",
+    "code": "ES_CATA_GIRO_MDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.meranges",
+    "code": "ES_CATA_GIRO_MERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.masarac",
+    "code": "ES_CATA_GIRO_MASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.massanes",
+    "code": "ES_CATA_GIRO_MASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.maanetdecabrenys",
+    "code": "ES_CATA_GIRO_MDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.maanetdelaselva",
+    "code": "ES_CATA_GIRO_MDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.mieres",
+    "code": "ES_CATA_GIRO_MIER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.molletdeperalada",
+    "code": "ES_CATA_GIRO_MDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.moll",
+    "code": "ES_CATA_GIRO_MOLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.montagutioix",
+    "code": "ES_CATA_GIRO_MIO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.montras",
+    "code": "ES_CATA_GIRO_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.navata",
+    "code": "ES_CATA_GIRO_NAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.ogassa",
+    "code": "ES_CATA_GIRO_OGAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.olot",
+    "code": "ES_CATA_GIRO_OLOT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.ordis",
+    "code": "ES_CATA_GIRO_ORDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.osor",
+    "code": "ES_CATA_GIRO_OSOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.palafrugell",
+    "code": "ES_CATA_GIRO_PALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.palaudesantaeullia",
+    "code": "ES_CATA_GIRO_PDSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.palausaverdera",
+    "code": "ES_CATA_GIRO_PALA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.palausator",
+    "code": "ES_CATA_GIRO_PALA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.palolderevardit",
+    "code": "ES_CATA_GIRO_PDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.pals",
+    "code": "ES_CATA_GIRO_PALS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.pardines",
+    "code": "ES_CATA_GIRO_PARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.parlav",
+    "code": "ES_CATA_GIRO_PARL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.pau",
+    "code": "ES_CATA_GIRO_PAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.pedretimarz",
+    "code": "ES_CATA_GIRO_PIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.lapera",
+    "code": "ES_CATA_GIRO_LAPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.peralada",
+    "code": "ES_CATA_GIRO_PERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.lesplanesdhostoles",
+    "code": "ES_CATA_GIRO_LPD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.planoles",
+    "code": "ES_CATA_GIRO_PLAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.pontdemolins",
+    "code": "ES_CATA_GIRO_PDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.ponts",
+    "code": "ES_CATA_GIRO_PONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.porqueres",
+    "code": "ES_CATA_GIRO_PORQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.portbou",
+    "code": "ES_CATA_GIRO_PORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.lespreses",
+    "code": "ES_CATA_GIRO_LEPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.elportdelaselva",
+    "code": "ES_CATA_GIRO_EPDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.puigcerd",
+    "code": "ES_CATA_GIRO_PUIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.quart",
+    "code": "ES_CATA_GIRO_QUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.rabs",
+    "code": "ES_CATA_GIRO_RAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.regencs",
+    "code": "ES_CATA_GIRO_REGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.ribesdefreser",
+    "code": "ES_CATA_GIRO_RDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.riellsiviabrea",
+    "code": "ES_CATA_GIRO_RIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.ripoll",
+    "code": "ES_CATA_GIRO_RIPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.riudarenes",
+    "code": "ES_CATA_GIRO_RIUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.riudaura",
+    "code": "ES_CATA_GIRO_RIUD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.riudellotsdelaselva",
+    "code": "ES_CATA_GIRO_RDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.riumors",
+    "code": "ES_CATA_GIRO_RIUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.roses",
+    "code": "ES_CATA_GIRO_ROSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.rupi",
+    "code": "ES_CATA_GIRO_RUPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.salesdellierca",
+    "code": "ES_CATA_GIRO_SDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.salt",
+    "code": "ES_CATA_GIRO_SALT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santandreusalou",
+    "code": "ES_CATA_GIRO_SAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santclimentsescebes",
+    "code": "ES_CATA_GIRO_SCS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santfeliudebuixalleu",
+    "code": "ES_CATA_GIRO_SFDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santfeliudeguxols",
+    "code": "ES_CATA_GIRO_SFDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santfeliudepallerols",
+    "code": "ES_CATA_GIRO_SFDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santferriol",
+    "code": "ES_CATA_GIRO_SAFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santgregori",
+    "code": "ES_CATA_GIRO_SAGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santjaumedellierca",
+    "code": "ES_CATA_GIRO_SJDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santjordidesvalls",
+    "code": "ES_CATA_GIRO_SJD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santjoandelesabadesses",
+    "code": "ES_CATA_GIRO_SJDL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santjoandemollet",
+    "code": "ES_CATA_GIRO_SJDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santjulideramis",
+    "code": "ES_CATA_GIRO_SJDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.vallfogonaderipolls",
+    "code": "ES_CATA_GIRO_VDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santllorendelamuga",
+    "code": "ES_CATA_GIRO_SLDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santmartdellmena",
+    "code": "ES_CATA_GIRO_SMDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santmartvell",
+    "code": "ES_CATA_GIRO_SMV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santmiqueldecampmajor",
+    "code": "ES_CATA_GIRO_SMDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santmiqueldefluvi",
+    "code": "ES_CATA_GIRO_SMDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santmori",
+    "code": "ES_CATA_GIRO_SAMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santpaudesegries",
+    "code": "ES_CATA_GIRO_SPDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santperepescador",
+    "code": "ES_CATA_GIRO_SPP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santacolomadefarners",
+    "code": "ES_CATA_GIRO_SCDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santacristinadaro",
+    "code": "ES_CATA_GIRO_SCD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santallogaiadlguema",
+    "code": "ES_CATA_GIRO_SLD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santanioldefinestres",
+    "code": "ES_CATA_GIRO_SADF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santapau",
+    "code": "ES_CATA_GIRO_SAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santjoanlesfonts",
+    "code": "ES_CATA_GIRO_SJLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.sarrideter",
+    "code": "ES_CATA_GIRO_SDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.sauscamalleraillampaies",
+    "code": "ES_CATA_GIRO_SCIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.laselvademar",
+    "code": "ES_CATA_GIRO_LSDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.lacelleradeter",
+    "code": "ES_CATA_GIRO_LCDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.seriny",
+    "code": "ES_CATA_GIRO_SERI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.serradedar",
+    "code": "ES_CATA_GIRO_SDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.setcases",
+    "code": "ES_CATA_GIRO_SETC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.sils",
+    "code": "ES_CATA_GIRO_SILS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.susqueda",
+    "code": "ES_CATA_GIRO_SUSQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.latalladadempord",
+    "code": "ES_CATA_GIRO_LTD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.terrades",
+    "code": "ES_CATA_GIRO_TERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.torrent",
+    "code": "ES_CATA_GIRO_TORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.torroelladefluvi",
+    "code": "ES_CATA_GIRO_TDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.torroellademontgr",
+    "code": "ES_CATA_GIRO_TDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.tortell",
+    "code": "ES_CATA_GIRO_TORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.toses",
+    "code": "ES_CATA_GIRO_TOSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.tossademar",
+    "code": "ES_CATA_GIRO_TDM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.ultramort",
+    "code": "ES_CATA_GIRO_ULTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.ull",
+    "code": "ES_CATA_GIRO_ULL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.ullastret",
+    "code": "ES_CATA_GIRO_ULLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.urs",
+    "code": "ES_CATA_GIRO_URS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.lavalldenbas",
+    "code": "ES_CATA_GIRO_LVDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.lavalldebianya",
+    "code": "ES_CATA_GIRO_LVDB2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.vallllobrega",
+    "code": "ES_CATA_GIRO_VALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.ventall",
+    "code": "ES_CATA_GIRO_VENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.verges",
+    "code": "ES_CATA_GIRO_VERG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.vidr",
+    "code": "ES_CATA_GIRO_VIDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.vidreres",
+    "code": "ES_CATA_GIRO_VIDR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.vilabertran",
+    "code": "ES_CATA_GIRO_VILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.vilablareix",
+    "code": "ES_CATA_GIRO_VILA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.viladasens",
+    "code": "ES_CATA_GIRO_VILA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.viladamat",
+    "code": "ES_CATA_GIRO_VILA4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.vilademuls",
+    "code": "ES_CATA_GIRO_VILA5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.viladrau",
+    "code": "ES_CATA_GIRO_VILA6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.vilafant",
+    "code": "ES_CATA_GIRO_VILA7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.vilar",
+    "code": "ES_CATA_GIRO_VILA8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.vilajuga",
+    "code": "ES_CATA_GIRO_VILA9",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.vilallongadeter",
+    "code": "ES_CATA_GIRO_VDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.vilamacolum",
+    "code": "ES_CATA_GIRO_VILA10",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.vilamalla",
+    "code": "ES_CATA_GIRO_VILA11",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.vilamaniscle",
+    "code": "ES_CATA_GIRO_VILA12",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.vilanant",
+    "code": "ES_CATA_GIRO_VILA13",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.vilasacra",
+    "code": "ES_CATA_GIRO_VILA14",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.vilopriu",
+    "code": "ES_CATA_GIRO_VILO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.vilobdonyar",
+    "code": "ES_CATA_GIRO_VID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.biure",
+    "code": "ES_CATA_GIRO_BIUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.crullesmonellsisantsadurndelheura",
+    "code": "ES_CATA_GIRO_CMIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.forallac",
+    "code": "ES_CATA_GIRO_FORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.santjulidellloribonmat",
+    "code": "ES_CATA_GIRO_SJDL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.lescala",
+    "code": "ES_CATA_GIRO_LES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.lloretdemar",
+    "code": "ES_CATA_GIRO_LDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.girona.palams",
+    "code": "ES_CATA_GIRO_PALA4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_GIRO"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.abelladelaconca",
+    "code": "ES_CATA_LLEI_ADLC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.ger",
+    "code": "ES_CATA_LLEI_GER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.agramunt",
+    "code": "ES_CATA_LLEI_AGRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.elsalams",
+    "code": "ES_CATA_LLEI_ELAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.alsicerc",
+    "code": "ES_CATA_LLEI_AIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.lalbags",
+    "code": "ES_CATA_LLEI_LAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.albatrrec",
+    "code": "ES_CATA_LLEI_ALBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.albesa",
+    "code": "ES_CATA_LLEI_ALBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.lalbi",
+    "code": "ES_CATA_LLEI_LAL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.alcan",
+    "code": "ES_CATA_LLEI_ALCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.alcarrs",
+    "code": "ES_CATA_LLEI_ALCA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.alcoletge",
+    "code": "ES_CATA_LLEI_ALCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.alfarrs",
+    "code": "ES_CATA_LLEI_ALFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.alfs",
+    "code": "ES_CATA_LLEI_ALF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.algerri",
+    "code": "ES_CATA_LLEI_ALGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.alguaire",
+    "code": "ES_CATA_LLEI_ALGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.alins",
+    "code": "ES_CATA_LLEI_ALIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.almacelles",
+    "code": "ES_CATA_LLEI_ALMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.almatret",
+    "code": "ES_CATA_LLEI_ALMA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.almenar",
+    "code": "ES_CATA_LLEI_ALME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.alsdebalaguer",
+    "code": "ES_CATA_LLEI_ADB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.alpicat",
+    "code": "ES_CATA_LLEI_ALPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.altneu",
+    "code": "ES_CATA_LLEI_ALN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.nautaran",
+    "code": "ES_CATA_LLEI_NAAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.anglesola",
+    "code": "ES_CATA_LLEI_ANGL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.arbeca",
+    "code": "ES_CATA_LLEI_ARBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.elpontdebar",
+    "code": "ES_CATA_LLEI_EPDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.arres",
+    "code": "ES_CATA_LLEI_ARRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.arsguel",
+    "code": "ES_CATA_LLEI_ARS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.artesadelleida",
+    "code": "ES_CATA_LLEI_ADL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.artesadesegre",
+    "code": "ES_CATA_LLEI_ADS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.lasentiudesi",
+    "code": "ES_CATA_LLEI_LSDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.aspa",
+    "code": "ES_CATA_LLEI_ASPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.lesavellanesisantalinya",
+    "code": "ES_CATA_LLEI_LAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.aitona",
+    "code": "ES_CATA_LLEI_AITO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.baixpallars",
+    "code": "ES_CATA_LLEI_BAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.balaguer",
+    "code": "ES_CATA_LLEI_BALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.barbens",
+    "code": "ES_CATA_LLEI_BARB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.labaroniaderialb",
+    "code": "ES_CATA_LLEI_LBDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.lavalldebo",
+    "code": "ES_CATA_LLEI_LVDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.bassella",
+    "code": "ES_CATA_LLEI_BASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.bausen",
+    "code": "ES_CATA_LLEI_BAUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.belianes",
+    "code": "ES_CATA_LLEI_BELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.bellcairedurgell",
+    "code": "ES_CATA_LLEI_BED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.bellllocdurgell",
+    "code": "ES_CATA_LLEI_BED2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.bellmuntdurgell",
+    "code": "ES_CATA_LLEI_BED3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.bellpuig",
+    "code": "ES_CATA_LLEI_BELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.bellverdecerdanya",
+    "code": "ES_CATA_LLEI_BDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.bellvs",
+    "code": "ES_CATA_LLEI_BELL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.benaventdesegri",
+    "code": "ES_CATA_LLEI_BDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.biosca",
+    "code": "ES_CATA_LLEI_BIOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.bovera",
+    "code": "ES_CATA_LLEI_BOVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.esbrdes",
+    "code": "ES_CATA_LLEI_ESB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.lesborgesblanques",
+    "code": "ES_CATA_LLEI_LBB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.bossst",
+    "code": "ES_CATA_LLEI_BOSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.cabanabona",
+    "code": "ES_CATA_LLEI_CABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.cab",
+    "code": "ES_CATA_LLEI_CAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.camarasa",
+    "code": "ES_CATA_LLEI_CAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.canejan",
+    "code": "ES_CATA_LLEI_CANE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.castellardelaribera",
+    "code": "ES_CATA_LLEI_CDLR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.castelldans",
+    "code": "ES_CATA_LLEI_CAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.castellnoudeseana",
+    "code": "ES_CATA_LLEI_CDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.castelldefarfanya",
+    "code": "ES_CATA_LLEI_CDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.castellser",
+    "code": "ES_CATA_LLEI_CAST2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.cava",
+    "code": "ES_CATA_LLEI_CAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.cervera",
+    "code": "ES_CATA_LLEI_CERV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.cervidelesgarrigues",
+    "code": "ES_CATA_LLEI_CDLG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.ciutadilla",
+    "code": "ES_CATA_LLEI_CIUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.clarianadecardener",
+    "code": "ES_CATA_LLEI_CDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.elcogul",
+    "code": "ES_CATA_LLEI_ELCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.colldenarg",
+    "code": "ES_CATA_LLEI_CDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.corbins",
+    "code": "ES_CATA_LLEI_CORB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.cubells",
+    "code": "ES_CATA_LLEI_CUBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.lesplugacalba",
+    "code": "ES_CATA_LLEI_LCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.espot",
+    "code": "ES_CATA_LLEI_ESPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.esterridneu",
+    "code": "ES_CATA_LLEI_ESD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.esterridecards",
+    "code": "ES_CATA_LLEI_EDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.estamariu",
+    "code": "ES_CATA_LLEI_ESTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.farrera",
+    "code": "ES_CATA_LLEI_FARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.lafloresta",
+    "code": "ES_CATA_LLEI_LAFL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.fondarella",
+    "code": "ES_CATA_LLEI_FOND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.foradada",
+    "code": "ES_CATA_LLEI_FORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.lafuliola",
+    "code": "ES_CATA_LLEI_LAFU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.fulleda",
+    "code": "ES_CATA_LLEI_FULL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.gavetdelaconca",
+    "code": "ES_CATA_LLEI_GDLC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.golms",
+    "code": "ES_CATA_LLEI_GOLM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.gsol",
+    "code": "ES_CATA_LLEI_GSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.lagranadella",
+    "code": "ES_CATA_LLEI_LAGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.lagranjadescarp",
+    "code": "ES_CATA_LLEI_LGD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.granyanella",
+    "code": "ES_CATA_LLEI_GRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.granyenadesegarra",
+    "code": "ES_CATA_LLEI_GDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.granyenadelesgarrigues",
+    "code": "ES_CATA_LLEI_GDLG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.guimer",
+    "code": "ES_CATA_LLEI_GUIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.guissona",
+    "code": "ES_CATA_LLEI_GUIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.guixers",
+    "code": "ES_CATA_LLEI_GUIX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.ivarsdenoguera",
+    "code": "ES_CATA_LLEI_IDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.ivarsdurgell",
+    "code": "ES_CATA_LLEI_IVD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.ivorra",
+    "code": "ES_CATA_LLEI_IVOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.isonaiconcadell",
+    "code": "ES_CATA_LLEI_IICD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.juncosa",
+    "code": "ES_CATA_LLEI_JUNC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.juneda",
+    "code": "ES_CATA_LLEI_JUNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.lleida",
+    "code": "ES_CATA_LLEI_LLEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.les",
+    "code": "ES_CATA_LLEI_LES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.linyola",
+    "code": "ES_CATA_LLEI_LINY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.lladorre",
+    "code": "ES_CATA_LLEI_LLAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.lladurs",
+    "code": "ES_CATA_LLEI_LLAD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.llardecans",
+    "code": "ES_CATA_LLEI_LLAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.llavors",
+    "code": "ES_CATA_LLEI_LLAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.llesdecerdanya",
+    "code": "ES_CATA_LLEI_LDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.llimiana",
+    "code": "ES_CATA_LLEI_LLIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.llobera",
+    "code": "ES_CATA_LLEI_LLOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.mald",
+    "code": "ES_CATA_LLEI_MALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.massalcoreig",
+    "code": "ES_CATA_LLEI_MASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.massoteres",
+    "code": "ES_CATA_LLEI_MASS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.maials",
+    "code": "ES_CATA_LLEI_MAIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.menrguens",
+    "code": "ES_CATA_LLEI_MEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.miralcamp",
+    "code": "ES_CATA_LLEI_MIRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.lamolsosa",
+    "code": "ES_CATA_LLEI_LAMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.mollerussa",
+    "code": "ES_CATA_LLEI_MOLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.montgai",
+    "code": "ES_CATA_LLEI_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.montellimartinet",
+    "code": "ES_CATA_LLEI_MIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.montferrericastellb",
+    "code": "ES_CATA_LLEI_MIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.montoliudesegarra",
+    "code": "ES_CATA_LLEI_MDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.montoliudelleida",
+    "code": "ES_CATA_LLEI_MDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.montornsdesegarra",
+    "code": "ES_CATA_LLEI_MDS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.nalec",
+    "code": "ES_CATA_LLEI_NALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.navs",
+    "code": "ES_CATA_LLEI_NAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.odn",
+    "code": "ES_CATA_LLEI_ODN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.oliana",
+    "code": "ES_CATA_LLEI_OLIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.oliola",
+    "code": "ES_CATA_LLEI_OLIO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.olius",
+    "code": "ES_CATA_LLEI_OLIU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.lesoluges",
+    "code": "ES_CATA_LLEI_LEOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.elsomellons",
+    "code": "ES_CATA_LLEI_ELOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.elsomellsdenagaia",
+    "code": "ES_CATA_LLEI_EODN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.organy",
+    "code": "ES_CATA_LLEI_ORGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.osdebalaguer",
+    "code": "ES_CATA_LLEI_ODB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.ossdesi",
+    "code": "ES_CATA_LLEI_ODS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.elpalaudanglesola",
+    "code": "ES_CATA_LLEI_EPD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.concadedalt",
+    "code": "ES_CATA_LLEI_CDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.lacomailapedra",
+    "code": "ES_CATA_LLEI_LCIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.penelles",
+    "code": "ES_CATA_LLEI_PENE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.peramola",
+    "code": "ES_CATA_LLEI_PERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.pinelldesolsons",
+    "code": "ES_CATA_LLEI_PDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.pins",
+    "code": "ES_CATA_LLEI_PIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.elpoal",
+    "code": "ES_CATA_LLEI_ELPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.lapobladecrvoles",
+    "code": "ES_CATA_LLEI_LPDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.bellaguarda",
+    "code": "ES_CATA_LLEI_BELL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.lapobladesegur",
+    "code": "ES_CATA_LLEI_LPDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.ponts",
+    "code": "ES_CATA_LLEI_PONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.elpontdesuert",
+    "code": "ES_CATA_LLEI_EPDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.laportella",
+    "code": "ES_CATA_LLEI_LAPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.pratsisansor",
+    "code": "ES_CATA_LLEI_PIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.preixana",
+    "code": "ES_CATA_LLEI_PREI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.preixens",
+    "code": "ES_CATA_LLEI_PREI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.prullans",
+    "code": "ES_CATA_LLEI_PRUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.puiggrs",
+    "code": "ES_CATA_LLEI_PUIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.puigverddagramunt",
+    "code": "ES_CATA_LLEI_PUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.puigverddelleida",
+    "code": "ES_CATA_LLEI_PDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.rialp",
+    "code": "ES_CATA_LLEI_RIAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.riberadurgellet",
+    "code": "ES_CATA_LLEI_RID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.riner",
+    "code": "ES_CATA_LLEI_RINE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.rossell",
+    "code": "ES_CATA_LLEI_ROSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.salsdepallars",
+    "code": "ES_CATA_LLEI_SDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.sanaja",
+    "code": "ES_CATA_LLEI_SANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.santguimdefreixenet",
+    "code": "ES_CATA_LLEI_SGDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.santllorendemorunys",
+    "code": "ES_CATA_LLEI_SLDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.santramon",
+    "code": "ES_CATA_LLEI_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.santestevedelasarga",
+    "code": "ES_CATA_LLEI_SEDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.santguimdelaplana",
+    "code": "ES_CATA_LLEI_SGDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.sarrocadelleida",
+    "code": "ES_CATA_LLEI_SDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.sarrocadebellera",
+    "code": "ES_CATA_LLEI_SDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.senterada",
+    "code": "ES_CATA_LLEI_SENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.laseudurgell",
+    "code": "ES_CATA_LLEI_LSD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.sers",
+    "code": "ES_CATA_LLEI_SER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.sidamon",
+    "code": "ES_CATA_LLEI_SIDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.elsolers",
+    "code": "ES_CATA_LLEI_ELSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.solsona",
+    "code": "ES_CATA_LLEI_SOLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.soriguera",
+    "code": "ES_CATA_LLEI_SORI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.sort",
+    "code": "ES_CATA_LLEI_SORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.soses",
+    "code": "ES_CATA_LLEI_SOSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.sudanell",
+    "code": "ES_CATA_LLEI_SUDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.sunyer",
+    "code": "ES_CATA_LLEI_SUNY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.talarn",
+    "code": "ES_CATA_LLEI_TALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.talavera",
+    "code": "ES_CATA_LLEI_TALA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.trrega",
+    "code": "ES_CATA_LLEI_TRR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.tarrs",
+    "code": "ES_CATA_LLEI_TARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.tarrojadesegarra",
+    "code": "ES_CATA_LLEI_TDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.trmens",
+    "code": "ES_CATA_LLEI_TRM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.trvia",
+    "code": "ES_CATA_LLEI_TRV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.tiurana",
+    "code": "ES_CATA_LLEI_TIUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.tor",
+    "code": "ES_CATA_LLEI_TOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.elstorms",
+    "code": "ES_CATA_LLEI_ELTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.tornabous",
+    "code": "ES_CATA_LLEI_TORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.torrebesses",
+    "code": "ES_CATA_LLEI_TORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.latorredecabdella",
+    "code": "ES_CATA_LLEI_LTDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.torrefarrera",
+    "code": "ES_CATA_LLEI_TORR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.torregrossa",
+    "code": "ES_CATA_LLEI_TORR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.torrelameu",
+    "code": "ES_CATA_LLEI_TORR4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.torresdesegre",
+    "code": "ES_CATA_LLEI_TDS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.torreserona",
+    "code": "ES_CATA_LLEI_TORR5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.tremp",
+    "code": "ES_CATA_LLEI_TREM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.vallbonadelesmonges",
+    "code": "ES_CATA_LLEI_VDLM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.vallfogonadebalaguer",
+    "code": "ES_CATA_LLEI_VDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.verd",
+    "code": "ES_CATA_LLEI_VERD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.vielhaemijaran",
+    "code": "ES_CATA_LLEI_VEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.vilagrassa",
+    "code": "ES_CATA_LLEI_VILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.vilaller",
+    "code": "ES_CATA_LLEI_VILA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.vilams",
+    "code": "ES_CATA_LLEI_VILA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.vilanovadebellpuig",
+    "code": "ES_CATA_LLEI_VDB2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.vilanovadelaguda",
+    "code": "ES_CATA_LLEI_VDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.vilanovademei",
+    "code": "ES_CATA_LLEI_VDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.vilanovadesegri",
+    "code": "ES_CATA_LLEI_VDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.vilasana",
+    "code": "ES_CATA_LLEI_VILA4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.elvilosell",
+    "code": "ES_CATA_LLEI_ELVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.vilanovadelabarca",
+    "code": "ES_CATA_LLEI_VDLB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.vinaixa",
+    "code": "ES_CATA_LLEI_VINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.valldecards",
+    "code": "ES_CATA_LLEI_VDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.santmartderiucorb",
+    "code": "ES_CATA_LLEI_SMDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.laguinguetadneu",
+    "code": "ES_CATA_LLEI_LGD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.castelldemur",
+    "code": "ES_CATA_LLEI_CDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.riberadondara",
+    "code": "ES_CATA_LLEI_RID2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.lesvallsdaguilar",
+    "code": "ES_CATA_LLEI_LVD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.torrefetaiflorejacs",
+    "code": "ES_CATA_LLEI_TIF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.fgolsialiny",
+    "code": "ES_CATA_LLEI_FIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.lavansaifrnols",
+    "code": "ES_CATA_LLEI_LVIF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.josaituixn",
+    "code": "ES_CATA_LLEI_JIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.elsplansdesi",
+    "code": "ES_CATA_LLEI_EPDS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.gimenellsielpladelafont",
+    "code": "ES_CATA_LLEI_GIEP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.riudecerdanya",
+    "code": "ES_CATA_LLEI_RDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.comunidaddeelpontdebarycava",
+    "code": "ES_CATA_LLEI_CDEP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  },
+  {
+    "tenantId": "spain.cataluacatalunya.lleida.lesvallsdevalira",
+    "code": "ES_CATA_LLEI_LVDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CATA_LLEI"
+  }
+]

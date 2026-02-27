@@ -1,0 +1,639 @@
+[
+  {
+    "tenantId": "romania.dambovita",
+    "code": "RO_DB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "RO"
+  },
+  {
+    "tenantId": "romania.dambovita.selaru",
+    "code": "RO_DB_SELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.poiana",
+    "code": "RO_DB_POIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.corbiimari",
+    "code": "RO_DB_COMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.sloboziamoara",
+    "code": "RO_DB_SLMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.potlogi",
+    "code": "RO_DB_POTL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.visina",
+    "code": "RO_DB_VISI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.odobesti",
+    "code": "RO_DB_ODOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.lunguletu",
+    "code": "RO_DB_LUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.ciocanesti",
+    "code": "RO_DB_CIOC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.costestiidinvale",
+    "code": "RO_DB_CDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.titu",
+    "code": "RO_DB_TITU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.morteni",
+    "code": "RO_DB_MORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.branistea",
+    "code": "RO_DB_BRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.mogosani",
+    "code": "RO_DB_MOGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.petresti",
+    "code": "RO_DB_PETR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.contesti",
+    "code": "RO_DB_CONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.racari",
+    "code": "RO_DB_RACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.butimanu",
+    "code": "RO_DB_BUTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.produlesti",
+    "code": "RO_DB_PROD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.cojasca",
+    "code": "RO_DB_COJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.gaesti",
+    "code": "RO_DB_GAES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.matasaru",
+    "code": "RO_DB_MATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.cornatelu",
+    "code": "RO_DB_CORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.bilciuresti",
+    "code": "RO_DB_BILC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.gurasutii",
+    "code": "RO_DB_GUSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.salcioara",
+    "code": "RO_DB_SALC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.gurafoii",
+    "code": "RO_DB_GUFO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.persinari",
+    "code": "RO_DB_PERS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.valeamare",
+    "code": "RO_DB_VAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.crangurile",
+    "code": "RO_DB_CRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.cornesti",
+    "code": "RO_DB_CORN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.nucet",
+    "code": "RO_DB_NUCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.finta",
+    "code": "RO_DB_FINT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.dobra",
+    "code": "RO_DB_DOBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.baleni",
+    "code": "RO_DB_BALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.vacaresti",
+    "code": "RO_DB_VACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.cobia",
+    "code": "RO_DB_COBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.comisani",
+    "code": "RO_DB_COMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.bucsani",
+    "code": "RO_DB_BUCS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.vladeni",
+    "code": "RO_DB_VLAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.ulmi",
+    "code": "RO_DB_ULMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.hulubesti",
+    "code": "RO_DB_HULU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.dragomiresti",
+    "code": "RO_DB_DRAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.darmanesti",
+    "code": "RO_DB_DARM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.targoviste",
+    "code": "RO_DB_TARG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.ilcaragiale",
+    "code": "RO_DB_ILC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.manesti",
+    "code": "RO_DB_MANE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.guraocnitei",
+    "code": "RO_DB_GUOC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.razvad",
+    "code": "RO_DB_RAZV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.aninoasa",
+    "code": "RO_DB_ANIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.sotanga",
+    "code": "RO_DB_SOTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.doicesti",
+    "code": "RO_DB_DOIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.moreni",
+    "code": "RO_DB_MORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.ocnita",
+    "code": "RO_DB_OCNI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.tatarani",
+    "code": "RO_DB_TATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.glodeni",
+    "code": "RO_DB_GLOD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.vulcanapandele",
+    "code": "RO_DB_VULC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.branesti",
+    "code": "RO_DB_BRAN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.iedera",
+    "code": "RO_DB_IEDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.candesti",
+    "code": "RO_DB_CAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.valealunga",
+    "code": "RO_DB_VALU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.pietrari",
+    "code": "RO_DB_PIET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.pucioasa",
+    "code": "RO_DB_PUCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.varfuri",
+    "code": "RO_DB_VARF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.voinesti",
+    "code": "RO_DB_VOIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.fieni",
+    "code": "RO_DB_FIEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.visinesti",
+    "code": "RO_DB_VISI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.barbuletu",
+    "code": "RO_DB_BARB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.malucuflori",
+    "code": "RO_DB_MCF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.raualb",
+    "code": "RO_DB_RAAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.buciumeni",
+    "code": "RO_DB_BUCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.valenidambovita",
+    "code": "RO_DB_VALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.bezdead",
+    "code": "RO_DB_BEZD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.pucheni",
+    "code": "RO_DB_PUCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.pietrosita",
+    "code": "RO_DB_PIET2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.runcu",
+    "code": "RO_DB_RUNC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.moroeni",
+    "code": "RO_DB_MORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.poienariiburchii",
+    "code": "RO_DB_POBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.motaieni",
+    "code": "RO_DB_MOTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.vulcanabai",
+    "code": "RO_DB_VULC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.rascaeti",
+    "code": "RO_DB_RASC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.uliesti",
+    "code": "RO_DB_ULIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.dragodana",
+    "code": "RO_DB_DRAG2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.raciu",
+    "code": "RO_DB_RACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.lucieni",
+    "code": "RO_DB_LUCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.ludesti",
+    "code": "RO_DB_LUDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.crevedia",
+    "code": "RO_DB_CREV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.niculesti",
+    "code": "RO_DB_NICU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.brezoaele",
+    "code": "RO_DB_BREZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  },
+  {
+    "tenantId": "romania.dambovita.tartasesti",
+    "code": "RO_DB_TART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RO_DB"
+  }
+]

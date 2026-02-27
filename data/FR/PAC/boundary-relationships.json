@@ -1,0 +1,177 @@
+[
+  {
+    "tenantId": "france.provencealpesctedazur",
+    "code": "FR_PAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "FR"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.alpesdehauteprovence",
+    "code": "FR_PAC_ALPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_PAC"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.hautesalpes",
+    "code": "FR_PAC_HAUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_PAC"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.alpesmaritimes",
+    "code": "FR_PAC_ALPE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_PAC"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.bouchesdurhne",
+    "code": "FR_PAC_BOUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_PAC"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.var",
+    "code": "FR_PAC_VAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_PAC"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.vaucluse",
+    "code": "FR_PAC_VAUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_PAC"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.alpesdehauteprovence.barcelonnette",
+    "code": "FR_PAC_ALPE_BARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PAC_ALPE"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.alpesdehauteprovence.castellane",
+    "code": "FR_PAC_ALPE_CAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PAC_ALPE"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.alpesdehauteprovence.dignelesbains",
+    "code": "FR_PAC_ALPE_DIGN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PAC_ALPE"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.alpesdehauteprovence.forcalquier",
+    "code": "FR_PAC_ALPE_FORC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PAC_ALPE"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.hautesalpes.brianon",
+    "code": "FR_PAC_HAUT_BRIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PAC_HAUT"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.hautesalpes.gap",
+    "code": "FR_PAC_HAUT_GAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PAC_HAUT"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.alpesmaritimes.grasse",
+    "code": "FR_PAC_ALPE2_GRAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PAC_ALPE2"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.alpesmaritimes.nice",
+    "code": "FR_PAC_ALPE2_NICE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PAC_ALPE2"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.bouchesdurhne.aixenprovence",
+    "code": "FR_PAC_BOUC_AIX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PAC_BOUC"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.bouchesdurhne.arles",
+    "code": "FR_PAC_BOUC_ARLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PAC_BOUC"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.bouchesdurhne.marseille",
+    "code": "FR_PAC_BOUC_MARS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PAC_BOUC"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.bouchesdurhne.istres",
+    "code": "FR_PAC_BOUC_ISTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PAC_BOUC"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.var.draguignan",
+    "code": "FR_PAC_VAR_DRAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PAC_VAR"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.var.toulon",
+    "code": "FR_PAC_VAR_TOUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PAC_VAR"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.var.brignoles",
+    "code": "FR_PAC_VAR_BRIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PAC_VAR"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.vaucluse.apt",
+    "code": "FR_PAC_VAUC_APT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PAC_VAUC"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.vaucluse.avignon",
+    "code": "FR_PAC_VAUC_AVIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PAC_VAUC"
+  },
+  {
+    "tenantId": "france.provencealpesctedazur.vaucluse.carpentras",
+    "code": "FR_PAC_VAUC_CARP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_PAC_VAUC"
+  }
+]

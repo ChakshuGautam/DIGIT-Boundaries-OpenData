@@ -1,0 +1,4755 @@
+[
+  {
+    "tenantId": "slovakia.regionofpreov",
+    "code": "SK_PV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov",
+    "code": "SK_PV_DOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SK_PV"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn",
+    "code": "SK_PV_DOH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SK_PV"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk",
+    "code": "SK_PV_DOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SK_PV"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou",
+    "code": "SK_PV_DOVN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SK_PV"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov",
+    "code": "SK_PV_DOS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SK_PV"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna",
+    "code": "SK_PV_DOSL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SK_PV"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina",
+    "code": "SK_PV_DOS3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SK_PV"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov",
+    "code": "SK_PV_DOS4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SK_PV"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce",
+    "code": "SK_PV_DOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SK_PV"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad",
+    "code": "SK_PV_DOP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SK_PV"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca",
+    "code": "SK_PV_DOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SK_PV"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov",
+    "code": "SK_PV_DOP2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SK_PV"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok",
+    "code": "SK_PV_DOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SK_PV"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.kruklov",
+    "code": "SK_PV_DOB_KRUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.stebnok",
+    "code": "SK_PV_DOB_STEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.snakov",
+    "code": "SK_PV_DOB_SNAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.osikov",
+    "code": "SK_PV_DOB_OSIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.lukavica",
+    "code": "SK_PV_DOB_LUKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.kucan",
+    "code": "SK_PV_DOB_KUCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.komarov",
+    "code": "SK_PV_DOB_KOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.komany",
+    "code": "SK_PV_DOB_KOMA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.hankovce",
+    "code": "SK_PV_DOB_HANK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.kobyly",
+    "code": "SK_PV_DOB_KOBY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.kiba",
+    "code": "SK_PV_DOB_KIBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.bogliarka",
+    "code": "SK_PV_DOB_BOGL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.belovera",
+    "code": "SK_PV_DOB_BELO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.stebneckahuta",
+    "code": "SK_PV_DOB_STHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.kochanovce",
+    "code": "SK_PV_DOB_KOCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.vycnatvarouec",
+    "code": "SK_PV_DOB_VYTV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.dubinnt",
+    "code": "SK_PV_DOB_DUBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.lipovn",
+    "code": "SK_PV_DOB_LIPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.koprivnica",
+    "code": "SK_PV_DOB_KOPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.nipnivola",
+    "code": "SK_PV_DOB_NIVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.malcov",
+    "code": "SK_PV_DOB_MALC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.chmelovo",
+    "code": "SK_PV_DOB_CHME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.regetovka",
+    "code": "SK_PV_DOB_REGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.trocany",
+    "code": "SK_PV_DOB_TROC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.poliakovce",
+    "code": "SK_PV_DOB_POLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.lukov",
+    "code": "SK_PV_DOB_LUKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.rokytov",
+    "code": "SK_PV_DOB_ROKY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.fricka",
+    "code": "SK_PV_DOB_FRIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.cigelka",
+    "code": "SK_PV_DOB_CIGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.vanilkovce",
+    "code": "SK_PV_DOB_VANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.richvald",
+    "code": "SK_PV_DOB_RICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.porhbka",
+    "code": "SK_PV_DOB_PORH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.mikulkaove",
+    "code": "SK_PV_DOB_MIKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.brezov",
+    "code": "SK_PV_DOB_BREZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.hrabovec",
+    "code": "SK_PV_DOB_HRAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.janovce",
+    "code": "SK_PV_DOB_JANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.tarnov",
+    "code": "SK_PV_DOB_TARN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.tariosk",
+    "code": "SK_PV_DOB_TARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.varadka",
+    "code": "SK_PV_DOB_VARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.kluaov",
+    "code": "SK_PV_DOB_KLUA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.smilno",
+    "code": "SK_PV_DOB_SMIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.hutka",
+    "code": "SK_PV_DOB_HUTK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.hrabsk",
+    "code": "SK_PV_DOB_HRAB2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.buclovany",
+    "code": "SK_PV_DOB_BUCL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.frickovce",
+    "code": "SK_PV_DOB_FRIC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.niinktvaroeec",
+    "code": "SK_PV_DOB_NITV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.naiov",
+    "code": "SK_PV_DOB_NAIO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.hertnk",
+    "code": "SK_PV_DOB_HEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.krrte",
+    "code": "SK_PV_DOB_KRRT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.raslavice",
+    "code": "SK_PV_DOB_RASL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.vysnakrucov",
+    "code": "SK_PV_DOB_VYKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.kurima",
+    "code": "SK_PV_DOB_KURI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.gaboltov",
+    "code": "SK_PV_DOB_GABO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.hablln",
+    "code": "SK_PV_DOB_HABL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.hervartov",
+    "code": "SK_PV_DOB_HERV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.gerlachov",
+    "code": "SK_PV_DOB_GERL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.becherov",
+    "code": "SK_PV_DOB_BECH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.petrovo",
+    "code": "SK_PV_DOB_PETR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.lenartov",
+    "code": "SK_PV_DOB_LENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.zborov",
+    "code": "SK_PV_DOB_ZBOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.mokroluh",
+    "code": "SK_PV_DOB_MOKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.zlato",
+    "code": "SK_PV_DOB_ZLAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.kurov",
+    "code": "SK_PV_DOB_KURO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.stulany",
+    "code": "SK_PV_DOB_STUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.andrejov",
+    "code": "SK_PV_DOB_ANDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.lascov",
+    "code": "SK_PV_DOB_LASC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.vysnovola",
+    "code": "SK_PV_DOB_VYVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.lopnchov",
+    "code": "SK_PV_DOB_LOPN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.ortutovv",
+    "code": "SK_PV_DOB_ORTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.harhaj",
+    "code": "SK_PV_DOB_HARH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.kriva",
+    "code": "SK_PV_DOB_KRIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.reiov",
+    "code": "SK_PV_DOB_REIO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.bardejov",
+    "code": "SK_PV_DOB_BARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.abrahjmovce",
+    "code": "SK_PV_DOB_ABRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.nirnhpolianka",
+    "code": "SK_PV_DOB_NIPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.nemcovce",
+    "code": "SK_PV_DOB_NEMC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.vymnopolianka",
+    "code": "SK_PV_DOB_VYPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.jedlinka",
+    "code": "SK_PV_DOB_JEDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.oldavce",
+    "code": "SK_PV_DOB_OLDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.ondavka",
+    "code": "SK_PV_DOB_ONDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.brezovka",
+    "code": "SK_PV_DOB_BREZ2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.livov",
+    "code": "SK_PV_DOB_LIVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.barto",
+    "code": "SK_PV_DOB_BART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.sveroov",
+    "code": "SK_PV_DOB_SVER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.livovsk",
+    "code": "SK_PV_DOB_LIVO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofbardejov.marhan",
+    "code": "SK_PV_DOB_MARH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOB"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.nirnvladickovce",
+    "code": "SK_PV_DOH_NILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.valavkovcevojenskkobvod",
+    "code": "SK_PV_DOH_VO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.pakostov",
+    "code": "SK_PV_DOH_PAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.nechvtlovapolianka",
+    "code": "SK_PV_DOH_NEPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.lukacovce",
+    "code": "SK_PV_DOH_LUKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.udavskv",
+    "code": "SK_PV_DOH_UDAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.topolovka",
+    "code": "SK_PV_DOH_TOPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.roholnvk",
+    "code": "SK_PV_DOH_ROHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.gruzovce",
+    "code": "SK_PV_DOH_GRUZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.koukovce",
+    "code": "SK_PV_DOH_KOUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.kochanovce",
+    "code": "SK_PV_DOH_KOCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.zubna",
+    "code": "SK_PV_DOH_ZUBN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.dedacov",
+    "code": "SK_PV_DOH_DEDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.adidovce",
+    "code": "SK_PV_DOH_ADID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.rovno",
+    "code": "SK_PV_DOH_ROVN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.velopolie",
+    "code": "SK_PV_DOH_VELO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.brestov",
+    "code": "SK_PV_DOH_BRES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.modranadcirochou",
+    "code": "SK_PV_DOH_MNC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.sopkovce",
+    "code": "SK_PV_DOH_SOPK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.kamienka",
+    "code": "SK_PV_DOH_KAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.zbudskkdlhi",
+    "code": "SK_PV_DOH_ZBDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.niunssitnica",
+    "code": "SK_PV_DOH_NISI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.cernina",
+    "code": "SK_PV_DOH_CERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.jasenov",
+    "code": "SK_PV_DOH_JASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.vysnnhrunov",
+    "code": "SK_PV_DOH_VYHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.turcovce",
+    "code": "SK_PV_DOH_TURC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.jankovce",
+    "code": "SK_PV_DOH_JANK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.bankovce",
+    "code": "SK_PV_DOH_BANK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.konarovce",
+    "code": "SK_PV_DOH_KONA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.jablon",
+    "code": "SK_PV_DOH_JABL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.slovenskevolovh",
+    "code": "SK_PV_DOH_SLVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.vltazovce",
+    "code": "SK_PV_DOH_VLTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.pticie",
+    "code": "SK_PV_DOH_PTIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.hudcovce",
+    "code": "SK_PV_DOH_HUDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.porcbka",
+    "code": "SK_PV_DOH_PORC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.lubiba",
+    "code": "SK_PV_DOH_LUBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.habinnadcirochou",
+    "code": "SK_PV_DOH_HNC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.myslina",
+    "code": "SK_PV_DOH_MYSL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.maskovce",
+    "code": "SK_PV_DOH_MASK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.zavadka",
+    "code": "SK_PV_DOH_ZAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.hrubov",
+    "code": "SK_PV_DOH_HRUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.slovensk",
+    "code": "SK_PV_DOH_SLOV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.lackovce",
+    "code": "SK_PV_DOH_LACK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.karno",
+    "code": "SK_PV_DOH_KARN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.hrabovecnadlaborcom",
+    "code": "SK_PV_DOH_HNL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.kamenicanadcirochou",
+    "code": "SK_PV_DOH_KNC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.zavada",
+    "code": "SK_PV_DOH_ZAVA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.ohradzany",
+    "code": "SK_PV_DOH_OHRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.vyrndjablonka",
+    "code": "SK_PV_DOH_VYJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.lieskovec",
+    "code": "SK_PV_DOH_LIES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.humennv",
+    "code": "SK_PV_DOH_HUME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.nimnnjablonka",
+    "code": "SK_PV_DOH_NIJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.vymnnladickovce",
+    "code": "SK_PV_DOH_VYLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.hankovce",
+    "code": "SK_PV_DOH_HANK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.brekov",
+    "code": "SK_PV_DOH_BREK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.papkn",
+    "code": "SK_PV_DOH_PAPK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.chlmec",
+    "code": "SK_PV_DOH_CHLM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.ruskekajna",
+    "code": "SK_PV_DOH_RUKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.ruskeporuba",
+    "code": "SK_PV_DOH_RUPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.vysnesitnica",
+    "code": "SK_PV_DOH_VYSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.pritulany",
+    "code": "SK_PV_DOH_PRIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofhumennn.rokytovprihumennom",
+    "code": "SK_PV_DOH_RPH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOH"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.jurkovavola",
+    "code": "SK_PV_DOS_JUVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.svidnicka",
+    "code": "SK_PV_DOS_SVID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.niinnpisana",
+    "code": "SK_PV_DOS_NIPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.rakovcpk",
+    "code": "SK_PV_DOS_RAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.lukanypritopli",
+    "code": "SK_PV_DOS_LPT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.krualovp",
+    "code": "SK_PV_DOS_KRUA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.hrabovcpk",
+    "code": "SK_PV_DOS_HRAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.vyanokom",
+    "code": "SK_PV_DOS_VYKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.strocn",
+    "code": "SK_PV_DOS_STN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.svidnk",
+    "code": "SK_PV_DOS_SVK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.dubov",
+    "code": "SK_PV_DOS_DUBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.lucka",
+    "code": "SK_PV_DOS_LUCK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.fijaa",
+    "code": "SK_PV_DOS_FIJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.valkovce",
+    "code": "SK_PV_DOS_VALK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.matovce",
+    "code": "SK_PV_DOS_MATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.kobylnice",
+    "code": "SK_PV_DOS_KOBY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.mestisko",
+    "code": "SK_PV_DOS_MEST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.melmanovce",
+    "code": "SK_PV_DOS_MELM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.mariaskvetiavnik",
+    "code": "SK_PV_DOS_MAET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.mirola",
+    "code": "SK_PV_DOS_MIRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.radoma",
+    "code": "SK_PV_DOS_RADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.benadikovce",
+    "code": "SK_PV_DOS_BENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.bemetkovce",
+    "code": "SK_PV_DOS_BEME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.hunkovce",
+    "code": "SK_PV_DOS_HUNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.cigla",
+    "code": "SK_PV_DOS_CIGL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.medvedie",
+    "code": "SK_PV_DOS_MEDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.vydnejedlova",
+    "code": "SK_PV_DOS_VYJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.kukov",
+    "code": "SK_PV_DOS_KUKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.korejovce",
+    "code": "SK_PV_DOS_KORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.keleznvk",
+    "code": "SK_PV_DOS_KELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.krajnnbystra",
+    "code": "SK_PV_DOS_KRBY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.vyannmirotov",
+    "code": "SK_PV_DOS_VYMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.prakra",
+    "code": "SK_PV_DOS_PRAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.dukovce",
+    "code": "SK_PV_DOS_DUKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.vyknvorlok",
+    "code": "SK_PV_DOS_VYOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.kapivovr",
+    "code": "SK_PV_DOS_KAPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.sobov",
+    "code": "SK_PV_DOS_SOBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.novopolianka",
+    "code": "SK_PV_DOS_NOPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.dlhona",
+    "code": "SK_PV_DOS_DLHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.giraltovce",
+    "code": "SK_PV_DOS_GIRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.cernina",
+    "code": "SK_PV_DOS_CERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.carbov",
+    "code": "SK_PV_DOS_CARB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.vagrinec",
+    "code": "SK_PV_DOS_VAGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.vtefurov",
+    "code": "SK_PV_DOS_VTEF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.vyenupisank",
+    "code": "SK_PV_DOS_VYPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.belejovce",
+    "code": "SK_PV_DOS_BELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.krajnocierno",
+    "code": "SK_PV_DOS_KRCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.dobroslava",
+    "code": "SK_PV_DOS_DOBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.nibnoorlak",
+    "code": "SK_PV_DOS_NIOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.nibnomirokov",
+    "code": "SK_PV_DOS_NIMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.havranec",
+    "code": "SK_PV_DOS_HAVR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.kracanovce",
+    "code": "SK_PV_DOS_KRAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.krajnnpor",
+    "code": "SK_PV_DOS_KRPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.kalninte",
+    "code": "SK_PV_DOS_KALN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.nilnijedlovk",
+    "code": "SK_PV_DOS_NIJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.rovni",
+    "code": "SK_PV_DOS_ROVN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.roztoky",
+    "code": "SK_PV_DOS_ROZT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.pstriny",
+    "code": "SK_PV_DOS_PSTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.micakovce",
+    "code": "SK_PV_DOS_MICA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.mlynkrovce",
+    "code": "SK_PV_DOS_MLYN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.ladomirove",
+    "code": "SK_PV_DOS_LADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.vapenik",
+    "code": "SK_PV_DOS_VAPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.nipnnkomernik",
+    "code": "SK_PV_DOS_NIKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.okrnhle",
+    "code": "SK_PV_DOS_OKRN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.kurimka",
+    "code": "SK_PV_DOS_KURI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.keckovce",
+    "code": "SK_PV_DOS_KECK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.bodruval",
+    "code": "SK_PV_DOS_BODR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsvidnsk.krajnvpolana",
+    "code": "SK_PV_DOS_KRPO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.holclkovce",
+    "code": "SK_PV_DOVN_HOLC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.rusklvola",
+    "code": "SK_PV_DOVN_RUVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.vranovnadtoplou",
+    "code": "SK_PV_DOVN_VNT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.tovarn",
+    "code": "SK_PV_DOVN_TOVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.rudlov",
+    "code": "SK_PV_DOVN_RUDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.nidnokrucov",
+    "code": "SK_PV_DOVN_NIKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.cicava",
+    "code": "SK_PV_DOVN_CICA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.ctefanovce",
+    "code": "SK_PV_DOVN_CTEF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.dapalovce",
+    "code": "SK_PV_DOVN_DAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.mernlk",
+    "code": "SK_PV_DOVN_MERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.matiakka",
+    "code": "SK_PV_DOVN_MATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.malobkn",
+    "code": "SK_PV_DOVN_MALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.sacurov",
+    "code": "SK_PV_DOVN_SACU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.benkovce",
+    "code": "SK_PV_DOVN_BENK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.vlaca",
+    "code": "SK_PV_DOVN_VLAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.medzianky",
+    "code": "SK_PV_DOVN_MEDZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.novzkelca",
+    "code": "SK_PV_DOVN_NOKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.ondavsklmatialovce",
+    "code": "SK_PV_DOVN_ONMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.bystrs",
+    "code": "SK_PV_DOVN_BYST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.petkovce",
+    "code": "SK_PV_DOVN_PETK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.prosacov",
+    "code": "SK_PV_DOVN_PROS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.pooa",
+    "code": "SK_PV_DOVN_POOA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.radvanovce",
+    "code": "SK_PV_DOVN_RADV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.michalok",
+    "code": "SK_PV_DOVN_MICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.vycnaoipov",
+    "code": "SK_PV_DOVN_VYOI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.kvakovce",
+    "code": "SK_PV_DOVN_KVAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.cabov",
+    "code": "SK_PV_DOVN_CABO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.kamenncporuba",
+    "code": "SK_PV_DOVN_KAPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.nimnnhrabovec",
+    "code": "SK_PV_DOVN_NIHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.caklov",
+    "code": "SK_PV_DOVN_CAKL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.pavlovce",
+    "code": "SK_PV_DOVN_PAVL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.malldomaba",
+    "code": "SK_PV_DOVN_MADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.vylnkazim",
+    "code": "SK_PV_DOVN_VYKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.hencovce",
+    "code": "SK_PV_DOVN_HENC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.vechec",
+    "code": "SK_PV_DOVN_VECH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.slovensk",
+    "code": "SK_PV_DOVN_SLOV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.skrabskk",
+    "code": "SK_PV_DOVN_SKRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.vavrinec",
+    "code": "SK_PV_DOVN_VAVR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.juskovavola",
+    "code": "SK_PV_DOVN_JUVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.zlatnvk",
+    "code": "SK_PV_DOVN_ZLAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.kladzany",
+    "code": "SK_PV_DOVN_KLAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.hanuzovcenadtoplou",
+    "code": "SK_PV_DOVN_HNT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.majerovce",
+    "code": "SK_PV_DOVN_MAJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.zamutov",
+    "code": "SK_PV_DOVN_ZAMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.jastrabienadtoplou",
+    "code": "SK_PV_DOVN_JNT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.davidov",
+    "code": "SK_PV_DOVN_DAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.detrdk",
+    "code": "SK_PV_DOVN_DETR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.secovsk",
+    "code": "SK_PV_DOVN_SECO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.rafajovce",
+    "code": "SK_PV_DOVN_RAFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.ciernenadtoplou",
+    "code": "SK_PV_DOVN_CNT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.kucrn",
+    "code": "SK_PV_DOVN_KUCR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.durdo",
+    "code": "SK_PV_DOVN_DURD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.babie",
+    "code": "SK_PV_DOVN_BABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.piskorovce",
+    "code": "SK_PV_DOVN_PISK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.nisnohrueov",
+    "code": "SK_PV_DOVN_NIHR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.remeniny",
+    "code": "SK_PV_DOVN_REME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.sol",
+    "code": "SK_PV_DOVN_SOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.jasenovce",
+    "code": "SK_PV_DOVN_JASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.komerany",
+    "code": "SK_PV_DOVN_KOME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.hermanovcenadtoplou",
+    "code": "SK_PV_DOVN_HNT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.sedliskv",
+    "code": "SK_PV_DOVN_SEDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.bansks",
+    "code": "SK_PV_DOVN_BANS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.giglovce",
+    "code": "SK_PV_DOVN_GIGL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.petrovce",
+    "code": "SK_PV_DOVN_PETR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.tovarnianskapolianka",
+    "code": "SK_PV_DOVN_TOPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.dlhaklcovo",
+    "code": "SK_PV_DOVN_DLKL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.hlinnk",
+    "code": "SK_PV_DOVN_HLIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofvranovnadtoplou.girovce",
+    "code": "SK_PV_DOVN_GIRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOVN"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.kruvinec",
+    "code": "SK_PV_DOS2_KRUV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.mikovn",
+    "code": "SK_PV_DOS2_MIKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.vykkovce",
+    "code": "SK_PV_DOS2_VYKK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.gribov",
+    "code": "SK_PV_DOS2_GRIB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.vojtovce",
+    "code": "SK_PV_DOS2_VOJT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.krucov",
+    "code": "SK_PV_DOS2_KRUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.breznicka",
+    "code": "SK_PV_DOS2_BREZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.stazkovce",
+    "code": "SK_PV_DOS2_STAZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.vyankhrabovec",
+    "code": "SK_PV_DOS2_VYHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.krinlovce",
+    "code": "SK_PV_DOS2_KRIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.tisinec",
+    "code": "SK_PV_DOS2_TISI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.korunkove",
+    "code": "SK_PV_DOS2_KORU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.stropkov",
+    "code": "SK_PV_DOS2_STRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.btany",
+    "code": "SK_PV_DOS2_BTAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.bana",
+    "code": "SK_PV_DOS2_BANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.minovce",
+    "code": "SK_PV_DOS2_MINO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.solnvk",
+    "code": "SK_PV_DOS2_SOLN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.kolbovce",
+    "code": "SK_PV_DOS2_KOLB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.kandal",
+    "code": "SK_PV_DOS2_KAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.vislava",
+    "code": "SK_PV_DOS2_VISL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.velkrop",
+    "code": "SK_PV_DOS2_VELK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.ollavka",
+    "code": "SK_PV_DOS2_OLLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.duplvn",
+    "code": "SK_PV_DOS2_DUPL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.jakuvovce",
+    "code": "SK_PV_DOS2_JAKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.bystro",
+    "code": "SK_PV_DOS2_BYST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.vysnroleava",
+    "code": "SK_PV_DOS2_VYOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.varechovce",
+    "code": "SK_PV_DOS2_VARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.havaj",
+    "code": "SK_PV_DOS2_HAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.bukovce",
+    "code": "SK_PV_DOS2_BUKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.niknvolcava",
+    "code": "SK_PV_DOS2_NIOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.makovce",
+    "code": "SK_PV_DOS2_MAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.tokajck",
+    "code": "SK_PV_DOS2_TOKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.potoky",
+    "code": "SK_PV_DOS2_POTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.breznica",
+    "code": "SK_PV_DOS2_BREZ2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.mrezovce",
+    "code": "SK_PV_DOS2_MREZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.potzcky",
+    "code": "SK_PV_DOS2_POTZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.lomnc",
+    "code": "SK_PV_DOS2_LOMN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.brusnica",
+    "code": "SK_PV_DOS2_BRUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.kouuchovce",
+    "code": "SK_PV_DOS2_KOUU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.vladica",
+    "code": "SK_PV_DOS2_VLAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.chotca",
+    "code": "SK_PV_DOS2_CHOT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.maltpolana",
+    "code": "SK_PV_DOS2_MAPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstropkov.turanynadondavou",
+    "code": "SK_PV_DOS2_TNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.lubotvn",
+    "code": "SK_PV_DOSL_LUBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.velktlipnkk",
+    "code": "SK_PV_DOSL_VELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.novklubovna",
+    "code": "SK_PV_DOSL_NOLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.vislanka",
+    "code": "SK_PV_DOSL_VISL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.obrucnk",
+    "code": "SK_PV_DOSL_OBRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.mnrueknadpopradom",
+    "code": "SK_PV_DOSL_MNP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.plavnica",
+    "code": "SK_PV_DOSL_PLAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.kamienka",
+    "code": "SK_PV_DOSL_KAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.kyjov",
+    "code": "SK_PV_DOSL_KYJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.hajtovka",
+    "code": "SK_PV_DOSL_HAJT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.durkovk",
+    "code": "SK_PV_DOSL_DURK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.malklipndk",
+    "code": "SK_PV_DOSL_MALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.haligovce",
+    "code": "SK_PV_DOSL_HALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.strinany",
+    "code": "SK_PV_DOSL_STRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.pustnpole",
+    "code": "SK_PV_DOSL_PUPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.nisnnrulbachy",
+    "code": "SK_PV_DOSL_NIRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.ndol",
+    "code": "SK_PV_DOSL_NDOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.kolackov",
+    "code": "SK_PV_DOSL_KOLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.velkclesna",
+    "code": "SK_PV_DOSL_VELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.podolnec",
+    "code": "SK_PV_DOSL_PONE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.lomnicka",
+    "code": "SK_PV_DOSL_LOMN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.hranicna",
+    "code": "SK_PV_DOSL_HRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.starina",
+    "code": "SK_PV_DOSL_STAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.sariisk",
+    "code": "SK_PV_DOSL_SARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.lackovk",
+    "code": "SK_PV_DOSL_LACK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.starolubovna",
+    "code": "SK_PV_DOSL_STLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.hromo",
+    "code": "SK_PV_DOSL_HROM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.orlov",
+    "code": "SK_PV_DOSL_ORLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.ruskvvolanadpopradom",
+    "code": "SK_PV_DOSL_RVNP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.hniezdne",
+    "code": "SK_PV_DOSL_HNIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.plavec",
+    "code": "SK_PV_DOSL_PLAV2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.lesnica",
+    "code": "SK_PV_DOSL_LESN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.lambron",
+    "code": "SK_PV_DOSL_LAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.forbasy",
+    "code": "SK_PV_DOSL_FORB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.circ",
+    "code": "SK_PV_DOSL_CIRC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.matysov",
+    "code": "SK_PV_DOSL_MATY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.litmanov",
+    "code": "SK_PV_DOSL_LITM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.jarabina",
+    "code": "SK_PV_DOSL_JARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.jakubany",
+    "code": "SK_PV_DOSL_JAKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.sulun",
+    "code": "SK_PV_DOSL_SULU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.legnava",
+    "code": "SK_PV_DOSL_LEGN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.chmelnica",
+    "code": "SK_PV_DOSL_CHME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.vymnlruabachy",
+    "code": "SK_PV_DOSL_VYRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofstarklubovna.kremn",
+    "code": "SK_PV_DOSL_KREM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOSL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.pichne",
+    "code": "SK_PV_DOS3_PICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.novhsedlica",
+    "code": "SK_PV_DOS3_NOSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.runina",
+    "code": "SK_PV_DOS3_RUNI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.jalova",
+    "code": "SK_PV_DOS3_JALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.stakcanskaroztoka",
+    "code": "SK_PV_DOS3_STRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.ubla",
+    "code": "SK_PV_DOS3_UBLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.hrabovnroztoka",
+    "code": "SK_PV_DOS3_HRRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.zboj",
+    "code": "SK_PV_DOS3_ZBOJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.dbbrava",
+    "code": "SK_PV_DOS3_DBBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.parihuzovce",
+    "code": "SK_PV_DOS3_PARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.zemplunskehomre",
+    "code": "SK_PV_DOS3_ZEHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.snina",
+    "code": "SK_PV_DOS3_SNIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.michajlov",
+    "code": "SK_PV_DOS3_MICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.belhnadcirochou",
+    "code": "SK_PV_DOS3_BNC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.topola",
+    "code": "SK_PV_DOS3_TOPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.pcolin",
+    "code": "SK_PV_DOS3_PCOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.hostovice",
+    "code": "SK_PV_DOS3_HOST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.ladomirov",
+    "code": "SK_PV_DOS3_LADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.ruskmvolovr",
+    "code": "SK_PV_DOS3_RUVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.stakcn",
+    "code": "SK_PV_DOS3_STN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.osadn",
+    "code": "SK_PV_DOS3_OSAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.cukalovce",
+    "code": "SK_PV_DOS3_CUKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.brezovec",
+    "code": "SK_PV_DOS3_BREZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.kalnoroztoka",
+    "code": "SK_PV_DOS3_KARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.kmigovec",
+    "code": "SK_PV_DOS3_KMIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.prislop",
+    "code": "SK_PV_DOS3_PRIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.kolbasov",
+    "code": "SK_PV_DOS3_KOLB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.kolonica",
+    "code": "SK_PV_DOS3_KOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.ulicskckriva",
+    "code": "SK_PV_DOS3_ULKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.strihovce",
+    "code": "SK_PV_DOS3_STRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.ulic",
+    "code": "SK_PV_DOS3_ULIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.klenovv",
+    "code": "SK_PV_DOS3_KLEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.dlhnnadcirochou",
+    "code": "SK_PV_DOS3_DNC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsnina.ruskpotok",
+    "code": "SK_PV_DOS3_RUPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS3"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.oleov",
+    "code": "SK_PV_DOS4_OLEO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.bajerovce",
+    "code": "SK_PV_DOS4_BAJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.barirskcsokolovce",
+    "code": "SK_PV_DOS4_BASO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.jarovnice",
+    "code": "SK_PV_DOS4_JARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.brezovicka",
+    "code": "SK_PV_DOS4_BREZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.tichopotok",
+    "code": "SK_PV_DOS4_TIPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.lutina",
+    "code": "SK_PV_DOS4_LUTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.brezovica",
+    "code": "SK_PV_DOS4_BREZ2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.cervenicaprisabinove",
+    "code": "SK_PV_DOS4_CPS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.dubovica",
+    "code": "SK_PV_DOS4_DUBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.sabinov",
+    "code": "SK_PV_DOS4_SABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.bodovce",
+    "code": "SK_PV_DOS4_BODO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.daletice",
+    "code": "SK_PV_DOS4_DALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.dacov",
+    "code": "SK_PV_DOS4_DACO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.olejn",
+    "code": "SK_PV_DOS4_OLEJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.pecovskonovives",
+    "code": "SK_PV_DOS4_PNV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.lipany",
+    "code": "SK_PV_DOS4_LIPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.jakubovany",
+    "code": "SK_PV_DOS4_JAKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.jaribskadravce",
+    "code": "SK_PV_DOS4_JADR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.nirnbslavkov",
+    "code": "SK_PV_DOS4_NISL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.kamenica",
+    "code": "SK_PV_DOS4_KAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.krmsnal",
+    "code": "SK_PV_DOS4_KRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.vysoka",
+    "code": "SK_PV_DOS4_VYSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.hanigovce",
+    "code": "SK_PV_DOS4_HANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.krivany",
+    "code": "SK_PV_DOS4_KRIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.poloma",
+    "code": "SK_PV_DOS4_POLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.parimsk",
+    "code": "SK_PV_DOS4_PARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.rarnany",
+    "code": "SK_PV_DOS4_RARN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.ratvaj",
+    "code": "SK_PV_DOS4_RATV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.lacka",
+    "code": "SK_PV_DOS4_LACK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.cerven",
+    "code": "SK_PV_DOS4_CERV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.jakovany",
+    "code": "SK_PV_DOS4_JAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.jakubovavola",
+    "code": "SK_PV_DOS4_JAVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.uzovskvpeklany",
+    "code": "SK_PV_DOS4_UZPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.hubosovce",
+    "code": "SK_PV_DOS4_HUBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.milpoo",
+    "code": "SK_PV_DOS4_MILP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.ostrovany",
+    "code": "SK_PV_DOS4_OSTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.uzovskayalgov",
+    "code": "SK_PV_DOS4_UZYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.drienica",
+    "code": "SK_PV_DOS4_DRIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.renciiov",
+    "code": "SK_PV_DOS4_RENC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.torysa",
+    "code": "SK_PV_DOS4_TORY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.uzovce",
+    "code": "SK_PV_DOS4_UZOV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofsabinov.rookovany",
+    "code": "SK_PV_DOS4_ROOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOS4"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.roakovce",
+    "code": "SK_PV_DOM_ROAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.medzilaborce",
+    "code": "SK_PV_DOM_MEDZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.certilnb",
+    "code": "SK_PV_DOM_CERT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.rokytovce",
+    "code": "SK_PV_DOM_ROKY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.vorava",
+    "code": "SK_PV_DOM_VORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.volica",
+    "code": "SK_PV_DOM_VOLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.ollinkov",
+    "code": "SK_PV_DOM_OLLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.kalinov",
+    "code": "SK_PV_DOM_KALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.krlsnybrod",
+    "code": "SK_PV_DOM_KRBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.nagov",
+    "code": "SK_PV_DOM_NAGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.brestovnadlaborcom",
+    "code": "SK_PV_DOM_BNL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.palota",
+    "code": "SK_PV_DOM_PALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.valentovce",
+    "code": "SK_PV_DOM_VALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.zbudskobel",
+    "code": "SK_PV_DOM_ZBBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.cabiny",
+    "code": "SK_PV_DOM_CABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.olka",
+    "code": "SK_PV_DOM_OLKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.radvannadlaborcom",
+    "code": "SK_PV_DOM_RNL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.repejov",
+    "code": "SK_PV_DOM_REPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.zbojno",
+    "code": "SK_PV_DOM_ZBOJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.svetlice",
+    "code": "SK_PV_DOM_SVET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.sukov",
+    "code": "SK_PV_DOM_SUKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.habura",
+    "code": "SK_PV_DOM_HABU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofmedzilaborce.cabalovce",
+    "code": "SK_PV_DOM_CABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOM"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.batizovce",
+    "code": "SK_PV_DOP_BATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.bunava",
+    "code": "SK_PV_DOP_BUNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.vernvr",
+    "code": "SK_PV_DOP_VERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.tatranskejavorina",
+    "code": "SK_PV_DOP_TAJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.poprad",
+    "code": "SK_PV_DOP_POPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.mengusovce",
+    "code": "SK_PV_DOP_MENG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.velkuslavkov",
+    "code": "SK_PV_DOP_VESL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.svit",
+    "code": "SK_PV_DOP_SVIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.hozelec",
+    "code": "SK_PV_DOP_HOZE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.gerlachov",
+    "code": "SK_PV_DOP_GERL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.vikartovce",
+    "code": "SK_PV_DOP_VIKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.vdiar",
+    "code": "SK_PV_DOP_VDIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.spiaskoctiavnik",
+    "code": "SK_PV_DOP_SPCT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.vysokktatry",
+    "code": "SK_PV_DOP_VYTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.spioskbystrn",
+    "code": "SK_PV_DOP_SPBY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.spioskteplica",
+    "code": "SK_PV_DOP_SPTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.svibovce",
+    "code": "SK_PV_DOP_SVIB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.gvnovce",
+    "code": "SK_PV_DOP_GVNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.gtrba",
+    "code": "SK_PV_DOP_GTRB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.hranovnica",
+    "code": "SK_PV_DOP_HRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.novnlesna",
+    "code": "SK_PV_DOP_NOLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.lucivne",
+    "code": "SK_PV_DOP_LUCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.junovce",
+    "code": "SK_PV_DOP_JUNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.liptovsknteplicka",
+    "code": "SK_PV_DOP_LITE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.kravany",
+    "code": "SK_PV_DOP_KRAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.ktala",
+    "code": "SK_PV_DOP_KTAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.mlynica",
+    "code": "SK_PV_DOP_MLYN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.vydrnck",
+    "code": "SK_PV_DOP_VYDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpoprad.hyrka",
+    "code": "SK_PV_DOP_HYRK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.spihskchrhov",
+    "code": "SK_PV_DOL_SPHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.polanovce",
+    "code": "SK_PV_DOL_POLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.ordzovany",
+    "code": "SK_PV_DOL_ORDZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.baldovce",
+    "code": "SK_PV_DOL_BALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.spidskcpodhradie",
+    "code": "SK_PV_DOL_SPPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.oliavica",
+    "code": "SK_PV_DOL_OLIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.harakovce",
+    "code": "SK_PV_DOL_HARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.studenec",
+    "code": "SK_PV_DOL_STUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.spidske",
+    "code": "SK_PV_DOL_SPID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.pavlany",
+    "code": "SK_PV_DOL_PAVL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.korytny",
+    "code": "SK_PV_DOL_KORY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.klcov",
+    "code": "SK_PV_DOL_KLCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.dlhostr",
+    "code": "SK_PV_DOL_DLST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.pongrscovce",
+    "code": "SK_PV_DOL_PONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.bijacovce",
+    "code": "SK_PV_DOL_BIJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.licka",
+    "code": "SK_PV_DOL_LICK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.levoca",
+    "code": "SK_PV_DOL_LEVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.beharovce",
+    "code": "SK_PV_DOL_BEHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.uloaa",
+    "code": "SK_PV_DOL_ULOA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.nemeaany",
+    "code": "SK_PV_DOL_NEME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.grancpetrovce",
+    "code": "SK_PV_DOL_GRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.torysky",
+    "code": "SK_PV_DOL_TORY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.domanovce",
+    "code": "SK_PV_DOL_DOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.jablonov",
+    "code": "SK_PV_DOL_JABL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.kurimany",
+    "code": "SK_PV_DOL_KURI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.vyrnmslavkov",
+    "code": "SK_PV_DOL_VYSL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.dravce",
+    "code": "SK_PV_DOL_DRAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.dolany",
+    "code": "SK_PV_DOL_DOLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.nilnnrepake",
+    "code": "SK_PV_DOL_NIRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.dibrava",
+    "code": "SK_PV_DOL_DIBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.brutovce",
+    "code": "SK_PV_DOL_BRUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.vyunorepake",
+    "code": "SK_PV_DOL_VYRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtoflevoca.buglovce",
+    "code": "SK_PV_DOL_BUGL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOL"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.chmelovec",
+    "code": "SK_PV_DOP2_CHME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.nemcovce",
+    "code": "SK_PV_DOP2_NEMC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.klenov",
+    "code": "SK_PV_DOP2_KLEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.terna",
+    "code": "SK_PV_DOP2_TERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.podhorany",
+    "code": "SK_PV_DOP2_PODH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.malhrari",
+    "code": "SK_PV_DOP2_MARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.mirokr",
+    "code": "SK_PV_DOP2_MIRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.seniakovce",
+    "code": "SK_PV_DOP2_SENI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.radatice",
+    "code": "SK_PV_DOP2_RADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.mirkovce",
+    "code": "SK_PV_DOP2_MIRK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.geraltov",
+    "code": "SK_PV_DOP2_GERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.demjata",
+    "code": "SK_PV_DOP2_DEMJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.suchadolina",
+    "code": "SK_PV_DOP2_SUDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.kvacany",
+    "code": "SK_PV_DOP2_KVAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.vvtaz",
+    "code": "SK_PV_DOP2_VVTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.vipov",
+    "code": "SK_PV_DOP2_VIPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.janov",
+    "code": "SK_PV_DOP2_JANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.bretejovce",
+    "code": "SK_PV_DOP2_BRET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.svinia",
+    "code": "SK_PV_DOP2_SVIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.haniska",
+    "code": "SK_PV_DOP2_HANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.celovce",
+    "code": "SK_PV_DOP2_CELO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.lalany",
+    "code": "SK_PV_DOP2_LALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.ltefanovce",
+    "code": "SK_PV_DOP2_LTEF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.moeurov",
+    "code": "SK_PV_DOP2_MOEU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.fintice",
+    "code": "SK_PV_DOP2_FINT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.chmelov",
+    "code": "SK_PV_DOP2_CHME2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.pumovce",
+    "code": "SK_PV_DOP2_PUMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.zlatvbana",
+    "code": "SK_PV_DOP2_ZLBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.zehna",
+    "code": "SK_PV_DOP2_ZEHN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.vyhnabebastov",
+    "code": "SK_PV_DOP2_VYBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.petrovany",
+    "code": "SK_PV_DOP2_PETR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.licartovce",
+    "code": "SK_PV_DOP2_LICA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.abranovce",
+    "code": "SK_PV_DOP2_ABRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.aarinskctrsten",
+    "code": "SK_PV_DOP2_AATR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.kojatice",
+    "code": "SK_PV_DOP2_KOJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.kokotovce",
+    "code": "SK_PV_DOP2_KOKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.gregorovce",
+    "code": "SK_PV_DOP2_GREG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.ruskonoveves",
+    "code": "SK_PV_DOP2_RNV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.trnkov",
+    "code": "SK_PV_DOP2_TRNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.leskcek",
+    "code": "SK_PV_DOP2_LESK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.chminianskejakubovany",
+    "code": "SK_PV_DOP2_CHJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.carinsknporuba",
+    "code": "SK_PV_DOP2_CAPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.hrabkov",
+    "code": "SK_PV_DOP2_HRAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.tulckk",
+    "code": "SK_PV_DOP2_TULC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.sedlice",
+    "code": "SK_PV_DOP2_SEDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.brelany",
+    "code": "SK_PV_DOP2_BREL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.tuhrina",
+    "code": "SK_PV_DOP2_TUHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.brestov",
+    "code": "SK_PV_DOP2_BRES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.okrutnv",
+    "code": "SK_PV_DOP2_OKRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.miklunovce",
+    "code": "SK_PV_DOP2_MIKL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.ovcie",
+    "code": "SK_PV_DOP2_OVCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.dulovaves",
+    "code": "SK_PV_DOP2_DUVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.medzany",
+    "code": "SK_PV_DOP2_MEDZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.bertotovce",
+    "code": "SK_PV_DOP2_BERT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.bajerov",
+    "code": "SK_PV_DOP2_BAJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.bzenov",
+    "code": "SK_PV_DOP2_BZEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.chminianskanov",
+    "code": "SK_PV_DOP2_CHNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.podhradnk",
+    "code": "SK_PV_DOP2_PODH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.lipnrky",
+    "code": "SK_PV_DOP2_LIPN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.lubovec",
+    "code": "SK_PV_DOP2_LUBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.lubotice",
+    "code": "SK_PV_DOP2_LUBO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.lucina",
+    "code": "SK_PV_DOP2_LUCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.lindliar",
+    "code": "SK_PV_DOP2_LIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.ziborskr",
+    "code": "SK_PV_DOP2_ZIBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.velkrslivnk",
+    "code": "SK_PV_DOP2_VSK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.teriakovce",
+    "code": "SK_PV_DOP2_TERI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.kendice",
+    "code": "SK_PV_DOP2_KEND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.predov",
+    "code": "SK_PV_DOP2_PRED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.drienov",
+    "code": "SK_PV_DOP2_DRIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.kapunany",
+    "code": "SK_PV_DOP2_KAPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.hendrichovce",
+    "code": "SK_PV_DOP2_HEND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.velkrcaric",
+    "code": "SK_PV_DOP2_VECA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.zehradna",
+    "code": "SK_PV_DOP2_ZEHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.ondradovce",
+    "code": "SK_PV_DOP2_ONDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.oariaskvbohdanovce",
+    "code": "SK_PV_DOP2_OABO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.krriovany",
+    "code": "SK_PV_DOP2_KRRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.lipovce",
+    "code": "SK_PV_DOP2_LIPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.rokycany",
+    "code": "SK_PV_DOP2_ROKY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.fulianka",
+    "code": "SK_PV_DOP2_FULI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.drienovsk",
+    "code": "SK_PV_DOP2_DRIE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.chminany",
+    "code": "SK_PV_DOP2_CHMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.proc",
+    "code": "SK_PV_DOP2_PROC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.fricovce",
+    "code": "SK_PV_DOP2_FRIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.malcslivnk",
+    "code": "SK_PV_DOP2_MSK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.lada",
+    "code": "SK_PV_DOP2_LADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.hermanovce",
+    "code": "SK_PV_DOP2_HERM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.janovnk",
+    "code": "SK_PV_DOP2_JANO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.lemevany",
+    "code": "SK_PV_DOP2_LEME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.varhanovce",
+    "code": "SK_PV_DOP2_VARH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.vupcany",
+    "code": "SK_PV_DOP2_VUPC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofpredov.cervenica",
+    "code": "SK_PV_DOP2_CERV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOP2"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.havka",
+    "code": "SK_PV_DOK_HAVK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.jursk",
+    "code": "SK_PV_DOK_JURS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.ihlany",
+    "code": "SK_PV_DOK_IHLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.cerven",
+    "code": "SK_PV_DOK_CERV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.vrbov",
+    "code": "SK_PV_DOK_VRBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.velkvlomnica",
+    "code": "SK_PV_DOK_VELO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.rakksy",
+    "code": "SK_PV_DOK_RAKK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.vlkovy",
+    "code": "SK_PV_DOK_VLKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.spiosk",
+    "code": "SK_PV_DOK_SPIO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.jezersko",
+    "code": "SK_PV_DOK_JEZE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.spieskkhanuaovce",
+    "code": "SK_PV_DOK_SPHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.matiakovce",
+    "code": "SK_PV_DOK_MATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.abrahkmovce",
+    "code": "SK_PV_DOK_ABRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.malafrankova",
+    "code": "SK_PV_DOK_MAFR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.spiaskrbelv",
+    "code": "SK_PV_DOK_SPBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.kriaovrves",
+    "code": "SK_PV_DOK_KRVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.keimarok",
+    "code": "SK_PV_DOK_KEIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.relov",
+    "code": "SK_PV_DOK_RELO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.osturna",
+    "code": "SK_PV_DOK_OSTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.oakovce",
+    "code": "SK_PV_DOK_OAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.slovensk",
+    "code": "SK_PV_DOK_SLOV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.malvslavkov",
+    "code": "SK_PV_DOK_MASL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.lendak",
+    "code": "SK_PV_DOK_LEND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.mlynceky",
+    "code": "SK_PV_DOK_MLYN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.holumnica",
+    "code": "SK_PV_DOK_HOLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.vlkovce",
+    "code": "SK_PV_DOK_VLKO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.toporec",
+    "code": "SK_PV_DOK_TOPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.zolesie",
+    "code": "SK_PV_DOK_ZOLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.strenepodtatrami",
+    "code": "SK_PV_DOK_SPT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.lubica",
+    "code": "SK_PV_DOK_LUBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.hradisko",
+    "code": "SK_PV_DOK_HRAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.majere",
+    "code": "SK_PV_DOK_MAJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.vojnany",
+    "code": "SK_PV_DOK_VOJN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.velkafrankovt",
+    "code": "SK_PV_DOK_VEFR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.vebornf",
+    "code": "SK_PV_DOK_VEBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.starrlesnk",
+    "code": "SK_PV_DOK_STLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.tvarone",
+    "code": "SK_PV_DOK_TVNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.huncovce",
+    "code": "SK_PV_DOK_HUNC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.bunovce",
+    "code": "SK_PV_DOK_BUNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.podhorany",
+    "code": "SK_PV_DOK_PODH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  },
+  {
+    "tenantId": "slovakia.regionofpreov.districtofkermarok.lechnica",
+    "code": "SK_PV_DOK_LECH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SK_PV_DOK"
+  }
+]

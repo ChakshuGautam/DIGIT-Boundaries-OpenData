@@ -1,0 +1,226 @@
+[
+  {
+    "tenantId": "china.tianjinmunicipality",
+    "code": "CN_TIMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "CN"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.jixian",
+    "code": "CN_TIMU_JIXI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Prefecture",
+    "parent": "CN_TIMU"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.yutianxian",
+    "code": "CN_TIMU_YUTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Prefecture",
+    "parent": "CN_TIMU"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.baodixian",
+    "code": "CN_TIMU_BAOD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Prefecture",
+    "parent": "CN_TIMU"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.xianhaexian",
+    "code": "CN_TIMU_XIAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Prefecture",
+    "parent": "CN_TIMU"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.fengnanxian",
+    "code": "CN_TIMU_FENG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Prefecture",
+    "parent": "CN_TIMU"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.wuqingxian",
+    "code": "CN_TIMU_WUQI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Prefecture",
+    "parent": "CN_TIMU"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.ninghexian",
+    "code": "CN_TIMU_NING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Prefecture",
+    "parent": "CN_TIMU"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.tianjinshi",
+    "code": "CN_TIMU_TIAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Prefecture",
+    "parent": "CN_TIMU"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.qinhuangdaoshi",
+    "code": "CN_TIMU_QINH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Prefecture",
+    "parent": "CN_TIMU"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.jixian.jicounty",
+    "code": "CN_TIMU_JIXI_JICO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_TIMU_JIXI"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.yutianxian.yutiancounty",
+    "code": "CN_TIMU_YUTI_YUCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_TIMU_YUTI"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.baodixian.baodidistrict",
+    "code": "CN_TIMU_BAOD_BADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_TIMU_BAOD"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.xianhaexian.xianghecounty",
+    "code": "CN_TIMU_XIAN_XICO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_TIMU_XIAN"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.fengnanxian.fengnandistrict",
+    "code": "CN_TIMU_FENG_FEDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_TIMU_FENG"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.fengnanxian.lunandistrict",
+    "code": "CN_TIMU_FENG_LUDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_TIMU_FENG"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.wuqingxian.wuqingdistrict",
+    "code": "CN_TIMU_WUQI_WUDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_TIMU_WUQI"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.ninghexian.ninghecounty",
+    "code": "CN_TIMU_NING_NICO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_TIMU_NING"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.tianjinshi.xiqingdistrict",
+    "code": "CN_TIMU_TIAN_XIDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_TIMU_TIAN"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.tianjinshi.donglidistrict",
+    "code": "CN_TIMU_TIAN_DODI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_TIMU_TIAN"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.tianjinshi.hexidistrict",
+    "code": "CN_TIMU_TIAN_HEDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_TIMU_TIAN"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.tianjinshi.jinnandistrict",
+    "code": "CN_TIMU_TIAN_JIDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_TIMU_TIAN"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.tianjinshi.nankaidistrict",
+    "code": "CN_TIMU_TIAN_NADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_TIMU_TIAN"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.tianjinshi.hebeidistrict",
+    "code": "CN_TIMU_TIAN_HEDI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_TIMU_TIAN"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.tianjinshi.hepingdistrict",
+    "code": "CN_TIMU_TIAN_HEDI3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_TIMU_TIAN"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.tianjinshi.hongqiaodistrict",
+    "code": "CN_TIMU_TIAN_HODI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_TIMU_TIAN"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.tianjinshi.hedongdistrict",
+    "code": "CN_TIMU_TIAN_HEDI4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_TIMU_TIAN"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.tianjinshi.beichendistrict",
+    "code": "CN_TIMU_TIAN_BEDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_TIMU_TIAN"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.tianjinshi.binhainewarea",
+    "code": "CN_TIMU_TIAN_BNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_TIMU_TIAN"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.qinhuangdaoshi.shanhaiguandistrict",
+    "code": "CN_TIMU_QINH_SHDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_TIMU_QINH"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.qinhuangdaoshi.haigangdistrict",
+    "code": "CN_TIMU_QINH_HADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_TIMU_QINH"
+  },
+  {
+    "tenantId": "china.tianjinmunicipality.qinhuangdaoshi.beidaihedistrict",
+    "code": "CN_TIMU_QINH_BEDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "CN_TIMU_QINH"
+  }
+]

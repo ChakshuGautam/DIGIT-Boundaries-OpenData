@@ -1,0 +1,744 @@
+[
+  {
+    "tenantId": "spain.cantabria",
+    "code": "ES_CANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "ES"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria",
+    "code": "ES_CANT_CANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.lanestosa",
+    "code": "ES_CANT_CANT_LANE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.alfozdelloredo",
+    "code": "ES_CANT_CANT_ADL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.ampuero",
+    "code": "ES_CANT_CANT_AMPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.anievas",
+    "code": "ES_CANT_CANT_ANIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.arenasdeigua",
+    "code": "ES_CANT_CANT_ADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.argoos",
+    "code": "ES_CANT_CANT_ARGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.arnuero",
+    "code": "ES_CANT_CANT_ARNU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.arredondo",
+    "code": "ES_CANT_CANT_ARRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.elastillero",
+    "code": "ES_CANT_CANT_ELAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.brcenadecicero",
+    "code": "ES_CANT_CANT_BDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.brcenadepiedeconcha",
+    "code": "ES_CANT_CANT_BDPD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.bareyo",
+    "code": "ES_CANT_CANT_BARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.cabezndelasal",
+    "code": "ES_CANT_CANT_CDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.cabezndelibana",
+    "code": "ES_CANT_CANT_CDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.caburniga",
+    "code": "ES_CANT_CANT_CABU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.camaleo",
+    "code": "ES_CANT_CANT_CAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.camargo",
+    "code": "ES_CANT_CANT_CAMA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.campoodeyuso",
+    "code": "ES_CANT_CANT_CDY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.cartes",
+    "code": "ES_CANT_CANT_CART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.castaeda",
+    "code": "ES_CANT_CANT_CAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.castrourdiales",
+    "code": "ES_CANT_CANT_CAST2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.cieza",
+    "code": "ES_CANT_CANT_CIEZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.cillorigodelibana",
+    "code": "ES_CANT_CANT_CDL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.colindres",
+    "code": "ES_CANT_CANT_COLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.comillas",
+    "code": "ES_CANT_CANT_COMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.loscorralesdebuelna",
+    "code": "ES_CANT_CANT_LCDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.corveradetoranzo",
+    "code": "ES_CANT_CANT_CDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.campoodeenmedio",
+    "code": "ES_CANT_CANT_CDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.entrambasaguas",
+    "code": "ES_CANT_CANT_ENTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.escalante",
+    "code": "ES_CANT_CANT_ESCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.guriezo",
+    "code": "ES_CANT_CANT_GURI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.hazasdecesto",
+    "code": "ES_CANT_CANT_HDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.hermandaddecampoodesuso",
+    "code": "ES_CANT_CANT_HDCD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.herreras",
+    "code": "ES_CANT_CANT_HERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.lamasn",
+    "code": "ES_CANT_CANT_LAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.liendo",
+    "code": "ES_CANT_CANT_LIEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.lirganes",
+    "code": "ES_CANT_CANT_LIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.limpias",
+    "code": "ES_CANT_CANT_LIMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.luena",
+    "code": "ES_CANT_CANT_LUEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.marinadecudeyo",
+    "code": "ES_CANT_CANT_MDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.mazcuerras",
+    "code": "ES_CANT_CANT_MAZC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.mediocudeyo",
+    "code": "ES_CANT_CANT_MECU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.meruelo",
+    "code": "ES_CANT_CANT_MERU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.miengo",
+    "code": "ES_CANT_CANT_MIEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.miera",
+    "code": "ES_CANT_CANT_MIER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.molledo",
+    "code": "ES_CANT_CANT_MOLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.noja",
+    "code": "ES_CANT_CANT_NOJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.penagos",
+    "code": "ES_CANT_CANT_PENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.pearrubia",
+    "code": "ES_CANT_CANT_PEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.pesaguero",
+    "code": "ES_CANT_CANT_PESA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.pesquera",
+    "code": "ES_CANT_CANT_PESQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.pilagos",
+    "code": "ES_CANT_CANT_PIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.polaciones",
+    "code": "ES_CANT_CANT_POLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.polanco",
+    "code": "ES_CANT_CANT_POLA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.potes",
+    "code": "ES_CANT_CANT_POTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.puenteviesgo",
+    "code": "ES_CANT_CANT_PUVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.ramalesdelavictoria",
+    "code": "ES_CANT_CANT_RDLV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.rasines",
+    "code": "ES_CANT_CANT_RASI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.reinosa",
+    "code": "ES_CANT_CANT_REIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.reocn",
+    "code": "ES_CANT_CANT_REOC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.ribamontnalmar",
+    "code": "ES_CANT_CANT_RAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.ribamontnalmonte",
+    "code": "ES_CANT_CANT_RAM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.rionansa",
+    "code": "ES_CANT_CANT_RION",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.riotuerto",
+    "code": "ES_CANT_CANT_RIOT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.lasrozasdevaldearroyo",
+    "code": "ES_CANT_CANT_LRDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.ruente",
+    "code": "ES_CANT_CANT_RUEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.ruesga",
+    "code": "ES_CANT_CANT_RUES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.ruiloba",
+    "code": "ES_CANT_CANT_RUIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.sanfelicesdebuelna",
+    "code": "ES_CANT_CANT_SFDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.sanmigueldeaguayo",
+    "code": "ES_CANT_CANT_SMDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.sanpedrodelromeral",
+    "code": "ES_CANT_CANT_SPDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.sanroquederiomiera",
+    "code": "ES_CANT_CANT_SRDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.santacruzdebezana",
+    "code": "ES_CANT_CANT_SCDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.santamaradecayn",
+    "code": "ES_CANT_CANT_SMDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.santander",
+    "code": "ES_CANT_CANT_SANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.santillanadelmar",
+    "code": "ES_CANT_CANT_SDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.santiurdedereinosa",
+    "code": "ES_CANT_CANT_SDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.santiurdedetoranzo",
+    "code": "ES_CANT_CANT_SDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.santoa",
+    "code": "ES_CANT_CANT_SANT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.sanvicentedelabarquera",
+    "code": "ES_CANT_CANT_SVDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.saro",
+    "code": "ES_CANT_CANT_SARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.selaya",
+    "code": "ES_CANT_CANT_SELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.soba",
+    "code": "ES_CANT_CANT_SOBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.solrzano",
+    "code": "ES_CANT_CANT_SOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.suances",
+    "code": "ES_CANT_CANT_SUAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.lostojos",
+    "code": "ES_CANT_CANT_LOTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.torrelavega",
+    "code": "ES_CANT_CANT_TORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.tresviso",
+    "code": "ES_CANT_CANT_TRES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.tudanca",
+    "code": "ES_CANT_CANT_TUDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.udas",
+    "code": "ES_CANT_CANT_UDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.valdliga",
+    "code": "ES_CANT_CANT_VALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.valdeolea",
+    "code": "ES_CANT_CANT_VALD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.valdepradodelro",
+    "code": "ES_CANT_CANT_VDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.valderredible",
+    "code": "ES_CANT_CANT_VALD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.valdesanvicente",
+    "code": "ES_CANT_CANT_VDSV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.vegadelibana",
+    "code": "ES_CANT_CANT_VDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.vegadepas",
+    "code": "ES_CANT_CANT_VDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.villacarriedo",
+    "code": "ES_CANT_CANT_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.villaescusa",
+    "code": "ES_CANT_CANT_VILL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.villafufre",
+    "code": "ES_CANT_CANT_VILL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.valledevillaverde",
+    "code": "ES_CANT_CANT_VDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.voto",
+    "code": "ES_CANT_CANT_VOTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.comunidaddecampooycaburniga",
+    "code": "ES_CANT_CANT_CDCY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  },
+  {
+    "tenantId": "spain.cantabria.cantabria.laredo",
+    "code": "ES_CANT_CANT_LARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_CANT_CANT"
+  }
+]

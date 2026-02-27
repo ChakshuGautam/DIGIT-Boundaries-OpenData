@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "latvia.salaspilsnovads",
+    "code": "LV_087",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "LV"
+  },
+  {
+    "tenantId": "latvia.salaspilsnovads.salaspilspag",
+    "code": "LV_087_SAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LV_087"
+  },
+  {
+    "tenantId": "latvia.salaspilsnovads.salaspils",
+    "code": "LV_087_SALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LV_087"
+  }
+]

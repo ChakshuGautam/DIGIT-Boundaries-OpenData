@@ -1,0 +1,604 @@
+[
+  {
+    "tenantId": "benin.zou",
+    "code": "BJ_ZO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BJ"
+  },
+  {
+    "tenantId": "benin.zou.abomey",
+    "code": "BJ_ZO_ABOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BJ_ZO"
+  },
+  {
+    "tenantId": "benin.zou.agbangnizoun",
+    "code": "BJ_ZO_AGBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BJ_ZO"
+  },
+  {
+    "tenantId": "benin.zou.bohicon",
+    "code": "BJ_ZO_BOHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BJ_ZO"
+  },
+  {
+    "tenantId": "benin.zou.cove",
+    "code": "BJ_ZO_COVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BJ_ZO"
+  },
+  {
+    "tenantId": "benin.zou.djidja",
+    "code": "BJ_ZO_DJID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BJ_ZO"
+  },
+  {
+    "tenantId": "benin.zou.ouinhi",
+    "code": "BJ_ZO_OUIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BJ_ZO"
+  },
+  {
+    "tenantId": "benin.zou.zagnanado",
+    "code": "BJ_ZO_ZAGN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BJ_ZO"
+  },
+  {
+    "tenantId": "benin.zou.zakpota",
+    "code": "BJ_ZO_ZAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BJ_ZO"
+  },
+  {
+    "tenantId": "benin.zou.zogbodomey",
+    "code": "BJ_ZO_ZOGB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BJ_ZO"
+  },
+  {
+    "tenantId": "benin.zou.abomey.dtohonou",
+    "code": "BJ_ZO_ABOM_DTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ABOM"
+  },
+  {
+    "tenantId": "benin.zou.abomey.agbopka",
+    "code": "BJ_ZO_ABOM_AGBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ABOM"
+  },
+  {
+    "tenantId": "benin.zou.abomey.vidol",
+    "code": "BJ_ZO_ABOM_VIDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ABOM"
+  },
+  {
+    "tenantId": "benin.zou.abomey.gbconhounli",
+    "code": "BJ_ZO_ABOM_GBC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ABOM"
+  },
+  {
+    "tenantId": "benin.zou.abomey.zounzonm",
+    "code": "BJ_ZO_ABOM_ZOUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ABOM"
+  },
+  {
+    "tenantId": "benin.zou.abomey.djgb",
+    "code": "BJ_ZO_ABOM_DJG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ABOM"
+  },
+  {
+    "tenantId": "benin.zou.abomey.shoun",
+    "code": "BJ_ZO_ABOM_SHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ABOM"
+  },
+  {
+    "tenantId": "benin.zou.agbangnizoun.tanv",
+    "code": "BJ_ZO_AGBA_TANV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_AGBA"
+  },
+  {
+    "tenantId": "benin.zou.agbangnizoun.lissazounm",
+    "code": "BJ_ZO_AGBA_LISS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_AGBA"
+  },
+  {
+    "tenantId": "benin.zou.agbangnizoun.sah",
+    "code": "BJ_ZO_AGBA_SAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_AGBA"
+  },
+  {
+    "tenantId": "benin.zou.agbangnizoun.adanhondjigon",
+    "code": "BJ_ZO_AGBA_ADAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_AGBA"
+  },
+  {
+    "tenantId": "benin.zou.agbangnizoun.kinta",
+    "code": "BJ_ZO_AGBA_KINT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_AGBA"
+  },
+  {
+    "tenantId": "benin.zou.agbangnizoun.agbangnizoun",
+    "code": "BJ_ZO_AGBA_AGBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_AGBA"
+  },
+  {
+    "tenantId": "benin.zou.agbangnizoun.siwlgo",
+    "code": "BJ_ZO_AGBA_SIW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_AGBA"
+  },
+  {
+    "tenantId": "benin.zou.agbangnizoun.siwkpota",
+    "code": "BJ_ZO_AGBA_SIW2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_AGBA"
+  },
+  {
+    "tenantId": "benin.zou.agbangnizoun.zoungoudo",
+    "code": "BJ_ZO_AGBA_ZOUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_AGBA"
+  },
+  {
+    "tenantId": "benin.zou.agbangnizoun.adingningon",
+    "code": "BJ_ZO_AGBA_ADIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_AGBA"
+  },
+  {
+    "tenantId": "benin.zou.bohicon.passagon",
+    "code": "BJ_ZO_BOHI_PASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_BOHI"
+  },
+  {
+    "tenantId": "benin.zou.bohicon.avogbanna",
+    "code": "BJ_ZO_BOHI_AVOG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_BOHI"
+  },
+  {
+    "tenantId": "benin.zou.bohicon.houngomey",
+    "code": "BJ_ZO_BOHI_HOUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_BOHI"
+  },
+  {
+    "tenantId": "benin.zou.bohicon.agongointo",
+    "code": "BJ_ZO_BOHI_AGON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_BOHI"
+  },
+  {
+    "tenantId": "benin.zou.bohicon.sodohom",
+    "code": "BJ_ZO_BOHI_SODO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_BOHI"
+  },
+  {
+    "tenantId": "benin.zou.bohicon.recomdebohicon",
+    "code": "BJ_ZO_BOHI_1CB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_BOHI"
+  },
+  {
+    "tenantId": "benin.zou.bohicon.mecomdebohicon",
+    "code": "BJ_ZO_BOHI_2CB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_BOHI"
+  },
+  {
+    "tenantId": "benin.zou.bohicon.saclo",
+    "code": "BJ_ZO_BOHI_SACL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_BOHI"
+  },
+  {
+    "tenantId": "benin.zou.bohicon.ouassaho",
+    "code": "BJ_ZO_BOHI_OUAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_BOHI"
+  },
+  {
+    "tenantId": "benin.zou.bohicon.gnidjazoun",
+    "code": "BJ_ZO_BOHI_GNID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_BOHI"
+  },
+  {
+    "tenantId": "benin.zou.bohicon.lisszoun",
+    "code": "BJ_ZO_BOHI_LISS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_BOHI"
+  },
+  {
+    "tenantId": "benin.zou.cove.houko",
+    "code": "BJ_ZO_COVE_HOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_COVE"
+  },
+  {
+    "tenantId": "benin.zou.cove.naogon",
+    "code": "BJ_ZO_COVE_NAOG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_COVE"
+  },
+  {
+    "tenantId": "benin.zou.cove.zogba",
+    "code": "BJ_ZO_COVE_ZOGB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_COVE"
+  },
+  {
+    "tenantId": "benin.zou.cove.adogb",
+    "code": "BJ_ZO_COVE_ADOG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_COVE"
+  },
+  {
+    "tenantId": "benin.zou.cove.soli",
+    "code": "BJ_ZO_COVE_SOLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_COVE"
+  },
+  {
+    "tenantId": "benin.zou.cove.houin",
+    "code": "BJ_ZO_COVE_HOUI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_COVE"
+  },
+  {
+    "tenantId": "benin.zou.cove.gounli",
+    "code": "BJ_ZO_COVE_GOUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_COVE"
+  },
+  {
+    "tenantId": "benin.zou.cove.lainta",
+    "code": "BJ_ZO_COVE_LAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_COVE"
+  },
+  {
+    "tenantId": "benin.zou.djidja.monsourou",
+    "code": "BJ_ZO_DJID_MONS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_DJID"
+  },
+  {
+    "tenantId": "benin.zou.djidja.agouna",
+    "code": "BJ_ZO_DJID_AGOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_DJID"
+  },
+  {
+    "tenantId": "benin.zou.djidja.outo",
+    "code": "BJ_ZO_DJID_OUTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_DJID"
+  },
+  {
+    "tenantId": "benin.zou.djidja.setto",
+    "code": "BJ_ZO_DJID_SETT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_DJID"
+  },
+  {
+    "tenantId": "benin.zou.djidja.djidja",
+    "code": "BJ_ZO_DJID_DJID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_DJID"
+  },
+  {
+    "tenantId": "benin.zou.djidja.gob",
+    "code": "BJ_ZO_DJID_GOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_DJID"
+  },
+  {
+    "tenantId": "benin.zou.djidja.dan",
+    "code": "BJ_ZO_DJID_DAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_DJID"
+  },
+  {
+    "tenantId": "benin.zou.djidja.zoukou",
+    "code": "BJ_ZO_DJID_ZOUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_DJID"
+  },
+  {
+    "tenantId": "benin.zou.djidja.agondji",
+    "code": "BJ_ZO_DJID_AGON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_DJID"
+  },
+  {
+    "tenantId": "benin.zou.djidja.oungbgam",
+    "code": "BJ_ZO_DJID_OUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_DJID"
+  },
+  {
+    "tenantId": "benin.zou.djidja.dohouim",
+    "code": "BJ_ZO_DJID_DOHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_DJID"
+  },
+  {
+    "tenantId": "benin.zou.djidja.mougnon",
+    "code": "BJ_ZO_DJID_MOUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_DJID"
+  },
+  {
+    "tenantId": "benin.zou.ouinhi.sagon",
+    "code": "BJ_ZO_OUIN_SAGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_OUIN"
+  },
+  {
+    "tenantId": "benin.zou.ouinhi.ouinhi",
+    "code": "BJ_ZO_OUIN_OUIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_OUIN"
+  },
+  {
+    "tenantId": "benin.zou.ouinhi.tohou",
+    "code": "BJ_ZO_OUIN_TOHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_OUIN"
+  },
+  {
+    "tenantId": "benin.zou.ouinhi.dasso",
+    "code": "BJ_ZO_OUIN_DASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_OUIN"
+  },
+  {
+    "tenantId": "benin.zou.zagnanado.banam",
+    "code": "BJ_ZO_ZAGN_BANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZAGN"
+  },
+  {
+    "tenantId": "benin.zou.zagnanado.dontan",
+    "code": "BJ_ZO_ZAGN_DON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZAGN"
+  },
+  {
+    "tenantId": "benin.zou.zagnanado.kpdpko",
+    "code": "BJ_ZO_ZAGN_KPD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZAGN"
+  },
+  {
+    "tenantId": "benin.zou.zagnanado.agonlinhougbo",
+    "code": "BJ_ZO_ZAGN_AGON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZAGN"
+  },
+  {
+    "tenantId": "benin.zou.zagnanado.zagnanado",
+    "code": "BJ_ZO_ZAGN_ZAGN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZAGN"
+  },
+  {
+    "tenantId": "benin.zou.zagnanado.dovicentre",
+    "code": "BJ_ZO_ZAGN_DOVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZAGN"
+  },
+  {
+    "tenantId": "benin.zou.zakpota.kpakpam",
+    "code": "BJ_ZO_ZAK_KPAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZAK"
+  },
+  {
+    "tenantId": "benin.zou.zakpota.zatanta",
+    "code": "BJ_ZO_ZAK_ZAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZAK"
+  },
+  {
+    "tenantId": "benin.zou.zakpota.zakpota",
+    "code": "BJ_ZO_ZAK_ZAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZAK"
+  },
+  {
+    "tenantId": "benin.zou.zakpota.assalin",
+    "code": "BJ_ZO_ZAK_ASSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZAK"
+  },
+  {
+    "tenantId": "benin.zou.zakpota.zko",
+    "code": "BJ_ZO_ZAK_ZKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZAK"
+  },
+  {
+    "tenantId": "benin.zou.zakpota.kpozoun",
+    "code": "BJ_ZO_ZAK_KPOZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZAK"
+  },
+  {
+    "tenantId": "benin.zou.zakpota.allah",
+    "code": "BJ_ZO_ZAK_ALLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZAK"
+  },
+  {
+    "tenantId": "benin.zou.zogbodomey.canaii",
+    "code": "BJ_ZO_ZOGB_CAII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZOGB"
+  },
+  {
+    "tenantId": "benin.zou.zogbodomey.avlam",
+    "code": "BJ_ZO_ZOGB_AVLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZOGB"
+  },
+  {
+    "tenantId": "benin.zou.zogbodomey.canai",
+    "code": "BJ_ZO_ZOGB_CAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZOGB"
+  },
+  {
+    "tenantId": "benin.zou.zogbodomey.koussoukpa",
+    "code": "BJ_ZO_ZOGB_KOUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZOGB"
+  },
+  {
+    "tenantId": "benin.zou.zogbodomey.dom",
+    "code": "BJ_ZO_ZOGB_DOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZOGB"
+  },
+  {
+    "tenantId": "benin.zou.zogbodomey.zogbodomey",
+    "code": "BJ_ZO_ZOGB_ZOGB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZOGB"
+  },
+  {
+    "tenantId": "benin.zou.zogbodomey.zoukou",
+    "code": "BJ_ZO_ZOGB_ZOUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZOGB"
+  },
+  {
+    "tenantId": "benin.zou.zogbodomey.tanwhessou",
+    "code": "BJ_ZO_ZOGB_TANW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZOGB"
+  },
+  {
+    "tenantId": "benin.zou.zogbodomey.kpokissa",
+    "code": "BJ_ZO_ZOGB_KPOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZOGB"
+  },
+  {
+    "tenantId": "benin.zou.zogbodomey.akiza",
+    "code": "BJ_ZO_ZOGB_AKIZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZOGB"
+  },
+  {
+    "tenantId": "benin.zou.zogbodomey.massi",
+    "code": "BJ_ZO_ZOGB_MASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BJ_ZO_ZOGB"
+  }
+]

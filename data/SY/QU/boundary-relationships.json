@@ -1,0 +1,65 @@
+[
+  {
+    "tenantId": "syrianarabrepublic.quneitra",
+    "code": "SY_QU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SY"
+  },
+  {
+    "tenantId": "syrianarabrepublic.quneitra.quneitra",
+    "code": "SY_QU_QUNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SY_QU"
+  },
+  {
+    "tenantId": "syrianarabrepublic.quneitra.alfiq",
+    "code": "SY_QU_ALFI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SY_QU"
+  },
+  {
+    "tenantId": "syrianarabrepublic.quneitra.quneitra.quneitra",
+    "code": "SY_QU_QUNE_QUNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SY_QU_QUNE"
+  },
+  {
+    "tenantId": "syrianarabrepublic.quneitra.quneitra.khanarnaba",
+    "code": "SY_QU_QUNE_KHAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SY_QU_QUNE"
+  },
+  {
+    "tenantId": "syrianarabrepublic.quneitra.quneitra.alkhashniyyeh",
+    "code": "SY_QU_QUNE_ALK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SY_QU_QUNE"
+  },
+  {
+    "tenantId": "syrianarabrepublic.quneitra.quneitra.masaada",
+    "code": "SY_QU_QUNE_MASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SY_QU_QUNE"
+  },
+  {
+    "tenantId": "syrianarabrepublic.quneitra.alfiq.fiq",
+    "code": "SY_QU_ALFI_FIQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SY_QU_ALFI"
+  },
+  {
+    "tenantId": "syrianarabrepublic.quneitra.alfiq.albutayhah",
+    "code": "SY_QU_ALFI_ALB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SY_QU_ALFI"
+  }
+]

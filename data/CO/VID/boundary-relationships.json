@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "colombia.vichada",
+    "code": "CO_VID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CO"
+  },
+  {
+    "tenantId": "colombia.vichada.laprimavera",
+    "code": "CO_VID_LAPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_VID"
+  },
+  {
+    "tenantId": "colombia.vichada.cumaribo",
+    "code": "CO_VID_CUMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_VID"
+  },
+  {
+    "tenantId": "colombia.vichada.puertocarreo",
+    "code": "CO_VID_PUCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_VID"
+  },
+  {
+    "tenantId": "colombia.vichada.santarosala",
+    "code": "CO_VID_SARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_VID"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "tenantId": "chile.regindetarapac",
+    "code": "CL_RDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CL"
+  },
+  {
+    "tenantId": "chile.regindetarapac.provinciadeltamarugal",
+    "code": "CL_RDT_PDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CL_RDT"
+  },
+  {
+    "tenantId": "chile.regindetarapac.provinciadeiquique",
+    "code": "CL_RDT_PDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CL_RDT"
+  },
+  {
+    "tenantId": "chile.regindetarapac.provinciadeltamarugal.camia",
+    "code": "CL_RDT_PDT_CAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDT_PDT"
+  },
+  {
+    "tenantId": "chile.regindetarapac.provinciadeltamarugal.colchane",
+    "code": "CL_RDT_PDT_COLC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDT_PDT"
+  },
+  {
+    "tenantId": "chile.regindetarapac.provinciadeltamarugal.huara",
+    "code": "CL_RDT_PDT_HUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDT_PDT"
+  },
+  {
+    "tenantId": "chile.regindetarapac.provinciadeltamarugal.pica",
+    "code": "CL_RDT_PDT_PICA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDT_PDT"
+  },
+  {
+    "tenantId": "chile.regindetarapac.provinciadeltamarugal.tocopilla",
+    "code": "CL_RDT_PDT_TOCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDT_PDT"
+  },
+  {
+    "tenantId": "chile.regindetarapac.provinciadeiquique.altohospicio",
+    "code": "CL_RDT_PDI_ALHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDT_PDI"
+  },
+  {
+    "tenantId": "chile.regindetarapac.provinciadeiquique.iquique",
+    "code": "CL_RDT_PDI_IQUI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDT_PDI"
+  }
+]

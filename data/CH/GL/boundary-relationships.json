@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "switzerland.glarus",
+    "code": "CH_GL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CH"
+  },
+  {
+    "tenantId": "switzerland.glarus.glarus",
+    "code": "CH_GL_GLAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_GL"
+  },
+  {
+    "tenantId": "switzerland.glarus.glarus.glarussd",
+    "code": "CH_GL_GLAR_GLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GL_GLAR"
+  },
+  {
+    "tenantId": "switzerland.glarus.glarus.glarusnord",
+    "code": "CH_GL_GLAR_GLNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GL_GLAR"
+  },
+  {
+    "tenantId": "switzerland.glarus.glarus.glarus",
+    "code": "CH_GL_GLAR_GLAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GL_GLAR"
+  }
+]

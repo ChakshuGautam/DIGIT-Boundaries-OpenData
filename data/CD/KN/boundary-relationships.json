@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "democraticrepublicofthecongo.kinshasa",
+    "code": "CD_KN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CD"
+  },
+  {
+    "tenantId": "democraticrepublicofthecongo.kinshasa.kasangulu",
+    "code": "CD_KN_KASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CD_KN"
+  },
+  {
+    "tenantId": "democraticrepublicofthecongo.kinshasa.kinshasa",
+    "code": "CD_KN_KINS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CD_KN"
+  }
+]

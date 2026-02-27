@@ -1,0 +1,821 @@
+[
+  {
+    "tenantId": "poland.witokrzyskievoivodeship",
+    "code": "PL_SK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PL"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatjdrzejowski",
+    "code": "PL_SK_POJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_SK"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatsandomierski",
+    "code": "PL_SK_POSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_SK"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkonecki",
+    "code": "PL_SK_POKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_SK"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkazimierski",
+    "code": "PL_SK_POKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_SK"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatostrowiecki",
+    "code": "PL_SK_POOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_SK"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkielecki",
+    "code": "PL_SK_POKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_SK"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatwoszczowski",
+    "code": "PL_SK_POW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_SK"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatbuski",
+    "code": "PL_SK_POBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_SK"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatopatowski",
+    "code": "PL_SK_POOP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_SK"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatpiczowski",
+    "code": "PL_SK_POPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_SK"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatskaryski",
+    "code": "PL_SK_POSK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_SK"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatstarachowicki",
+    "code": "PL_SK_POST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_SK"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatstaszowski",
+    "code": "PL_SK_POST2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_SK"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.kielce",
+    "code": "PL_SK_KIEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_SK"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatjdrzejowski.gminasdziszw",
+    "code": "PL_SK_POJ_GMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POJ"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatjdrzejowski.gminamaogoszcz",
+    "code": "PL_SK_POJ_GMMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POJ"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatjdrzejowski.gminasupia",
+    "code": "PL_SK_POJ_GMS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POJ"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatjdrzejowski.gminajdrzejw",
+    "code": "PL_SK_POJ_GMJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POJ"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatjdrzejowski.gminanagowice",
+    "code": "PL_SK_POJ_GMNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POJ"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatjdrzejowski.gminasobkw",
+    "code": "PL_SK_POJ_GMSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POJ"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatjdrzejowski.gminaimielno",
+    "code": "PL_SK_POJ_GMIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POJ"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatjdrzejowski.gminawodzisaw",
+    "code": "PL_SK_POJ_GMWO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POJ"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatjdrzejowski.gminaoksa",
+    "code": "PL_SK_POJ_GMOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POJ"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatsandomierski.gminaoniw",
+    "code": "PL_SK_POSA_GMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POSA"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatsandomierski.gminaklimontw",
+    "code": "PL_SK_POSA_GMKL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POSA"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatsandomierski.gminadwikozy",
+    "code": "PL_SK_POSA_GMDW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POSA"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatsandomierski.gminaobrazw",
+    "code": "PL_SK_POSA_GMOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POSA"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatsandomierski.gminasamborzec",
+    "code": "PL_SK_POSA_GMSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POSA"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatsandomierski.gminakoprzywnica",
+    "code": "PL_SK_POSA_GMKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POSA"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatsandomierski.sandomierz",
+    "code": "PL_SK_POSA_SAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POSA"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatsandomierski.gminazawichost",
+    "code": "PL_SK_POSA_GMZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POSA"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatsandomierski.gminawilczyce",
+    "code": "PL_SK_POSA_GMWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POSA"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkonecki.gminastporkw",
+    "code": "PL_SK_POKO_GMST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKO"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkonecki.gminakoskie",
+    "code": "PL_SK_POKO_GMKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKO"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkonecki.gminafakw",
+    "code": "PL_SK_POKO_GMFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKO"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkonecki.gminasupiakonecka",
+    "code": "PL_SK_POKO_GS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKO"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkonecki.gminarudamaleniecka",
+    "code": "PL_SK_POKO_GRM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKO"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkonecki.gminasmykw",
+    "code": "PL_SK_POKO_GMSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKO"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkonecki.gminaradoszyce",
+    "code": "PL_SK_POKO_GMRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKO"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkonecki.gminagowarczw",
+    "code": "PL_SK_POKO_GMGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKO"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkazimierski.gminabejsce",
+    "code": "PL_SK_POKA_GMBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKA"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkazimierski.gminaskalbmierz",
+    "code": "PL_SK_POKA_GMSK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKA"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkazimierski.gminaopatowiec",
+    "code": "PL_SK_POKA_GMOP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKA"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkazimierski.gminaczarnocin",
+    "code": "PL_SK_POKA_GMCZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKA"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkazimierski.gminakazimierzawielka",
+    "code": "PL_SK_POKA_GKW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKA"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatostrowiecki.gminamielw",
+    "code": "PL_SK_POOS_GMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POOS"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatostrowiecki.ostrowiecwitokrzyski",
+    "code": "PL_SK_POOS_OSW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POOS"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatostrowiecki.gminawaniw",
+    "code": "PL_SK_POOS_GMWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POOS"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatostrowiecki.gminakunw",
+    "code": "PL_SK_POOS_GMKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POOS"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatostrowiecki.gminabatw",
+    "code": "PL_SK_POOS_GMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POOS"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatostrowiecki.gminabodzechw",
+    "code": "PL_SK_POOS_GMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POOS"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkielecki.gminachmielnik",
+    "code": "PL_SK_POKI_GMCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkielecki.gminamorawica",
+    "code": "PL_SK_POKI_GMMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkielecki.gminabieliny",
+    "code": "PL_SK_POKI_GMBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkielecki.gminagrno",
+    "code": "PL_SK_POKI_GMG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkielecki.gminanowasupia",
+    "code": "PL_SK_POKI_GNS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkielecki.gminaagw",
+    "code": "PL_SK_POKI_GMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkielecki.gminamiedzianagra",
+    "code": "PL_SK_POKI_GMG2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkielecki.gminapierzchnica",
+    "code": "PL_SK_POKI_GMPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkielecki.gminazagnask",
+    "code": "PL_SK_POKI_GMZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkielecki.gminastrawczyn",
+    "code": "PL_SK_POKI_GMST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkielecki.gminadaleszyce",
+    "code": "PL_SK_POKI_GMDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkielecki.gminarakw",
+    "code": "PL_SK_POKI_GMRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkielecki.gminamasw",
+    "code": "PL_SK_POKI_GMMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkielecki.gminaopuszno",
+    "code": "PL_SK_POKI_GMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkielecki.gminachciny",
+    "code": "PL_SK_POKI_GMCH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkielecki.gminamniw",
+    "code": "PL_SK_POKI_GMMN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkielecki.gminasitkwkanowiny",
+    "code": "PL_SK_POKI_GMSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkielecki.gminabodzentyn",
+    "code": "PL_SK_POKI_GMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatkielecki.gminapiekoszw",
+    "code": "PL_SK_POKI_GMPI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POKI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatwoszczowski.gminasecemin",
+    "code": "PL_SK_POW_GMSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POW"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatwoszczowski.gminawoszczowa",
+    "code": "PL_SK_POW_GMW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POW"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatwoszczowski.gminakrasocin",
+    "code": "PL_SK_POW_GMKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POW"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatwoszczowski.gminakluczewsko",
+    "code": "PL_SK_POW_GMKL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POW"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatwoszczowski.gminaradkw",
+    "code": "PL_SK_POW_GMRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POW"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatwoszczowski.gminamoskorzew",
+    "code": "PL_SK_POW_GMMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POW"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatbuski.gminagnojno",
+    "code": "PL_SK_POBU_GMGN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POBU"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatbuski.gminatuczpy",
+    "code": "PL_SK_POBU_GMTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POBU"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatbuski.gminabuskozdrj",
+    "code": "PL_SK_POBU_GMBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POBU"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatbuski.gminapacanw",
+    "code": "PL_SK_POBU_GMPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POBU"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatbuski.gminasoleczdrj",
+    "code": "PL_SK_POBU_GMSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POBU"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatbuski.gminanowykorczyn",
+    "code": "PL_SK_POBU_GNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POBU"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatbuski.gminastopnica",
+    "code": "PL_SK_POBU_GMST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POBU"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatbuski.gminawilica",
+    "code": "PL_SK_POBU_GMWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POBU"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatopatowski.gminawojciechowice",
+    "code": "PL_SK_POOP_GMWO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POOP"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatopatowski.gminatarw",
+    "code": "PL_SK_POOP_GMTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POOP"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatopatowski.gminabakowice",
+    "code": "PL_SK_POOP_GMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POOP"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatopatowski.gminaiwaniska",
+    "code": "PL_SK_POOP_GMIW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POOP"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatopatowski.gminalipnik",
+    "code": "PL_SK_POOP_GMLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POOP"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatopatowski.gminaoarw",
+    "code": "PL_SK_POOP_GMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POOP"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatopatowski.gminaopatw",
+    "code": "PL_SK_POOP_GMOP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POOP"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatopatowski.gminasadowie",
+    "code": "PL_SK_POOP_GMSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POOP"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatpiczowski.gminamichaw",
+    "code": "PL_SK_POPI_GMMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POPI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatpiczowski.gminadziaoszyce",
+    "code": "PL_SK_POPI_GMDZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POPI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatpiczowski.gminazota",
+    "code": "PL_SK_POPI_GMZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POPI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatpiczowski.gminakije",
+    "code": "PL_SK_POPI_GMKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POPI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatpiczowski.gminapiczw",
+    "code": "PL_SK_POPI_GMPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POPI"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatskaryski.skaryskokamienna",
+    "code": "PL_SK_POSK_SKAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POSK"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatskaryski.gminasuchedniw",
+    "code": "PL_SK_POSK_GMSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POSK"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatskaryski.gminaskaryskokocielne",
+    "code": "PL_SK_POSK_GSK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POSK"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatskaryski.gminabliyn",
+    "code": "PL_SK_POSK_GMBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POSK"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatskaryski.gminaczna",
+    "code": "PL_SK_POSK_GM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POSK"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatstarachowicki.gminapaww",
+    "code": "PL_SK_POST_GMPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POST"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatstarachowicki.gminamirzec",
+    "code": "PL_SK_POST_GMMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POST"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatstarachowicki.gminabrody",
+    "code": "PL_SK_POST_GMBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POST"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatstarachowicki.starachowice",
+    "code": "PL_SK_POST_STAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POST"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatstarachowicki.gminawchock",
+    "code": "PL_SK_POST_GMW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POST"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatstaszowski.gminarytwiany",
+    "code": "PL_SK_POST2_GMRY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POST2"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatstaszowski.gminaolenica",
+    "code": "PL_SK_POST2_GMOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POST2"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatstaszowski.gminaubnice",
+    "code": "PL_SK_POST2_GMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POST2"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatstaszowski.gminaosiek",
+    "code": "PL_SK_POST2_GMOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POST2"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatstaszowski.gminastaszw",
+    "code": "PL_SK_POST2_GMST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POST2"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatstaszowski.gminapoaniec",
+    "code": "PL_SK_POST2_GMPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POST2"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatstaszowski.gminabogoria",
+    "code": "PL_SK_POST2_GMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POST2"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.powiatstaszowski.gminaszydw",
+    "code": "PL_SK_POST2_GMSZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_POST2"
+  },
+  {
+    "tenantId": "poland.witokrzyskievoivodeship.kielce.kielce",
+    "code": "PL_SK_KIEL_KIEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_SK_KIEL"
+  }
+]

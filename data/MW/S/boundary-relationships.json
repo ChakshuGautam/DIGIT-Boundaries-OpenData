@@ -1,0 +1,723 @@
+[
+  {
+    "tenantId": "malawi.southernregion",
+    "code": "MW_S",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MW"
+  },
+  {
+    "tenantId": "malawi.southernregion.balaka",
+    "code": "MW_S_BALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MW_S"
+  },
+  {
+    "tenantId": "malawi.southernregion.blantyre",
+    "code": "MW_S_BLAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MW_S"
+  },
+  {
+    "tenantId": "malawi.southernregion.chikwawa",
+    "code": "MW_S_CHIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MW_S"
+  },
+  {
+    "tenantId": "malawi.southernregion.chiradzulu",
+    "code": "MW_S_CHIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MW_S"
+  },
+  {
+    "tenantId": "malawi.southernregion.machinga",
+    "code": "MW_S_MACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MW_S"
+  },
+  {
+    "tenantId": "malawi.southernregion.mulanje",
+    "code": "MW_S_MULA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MW_S"
+  },
+  {
+    "tenantId": "malawi.southernregion.mwanza",
+    "code": "MW_S_MWAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MW_S"
+  },
+  {
+    "tenantId": "malawi.southernregion.neno",
+    "code": "MW_S_NENO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MW_S"
+  },
+  {
+    "tenantId": "malawi.southernregion.nsanje",
+    "code": "MW_S_NSAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MW_S"
+  },
+  {
+    "tenantId": "malawi.southernregion.phalombe",
+    "code": "MW_S_PHAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MW_S"
+  },
+  {
+    "tenantId": "malawi.southernregion.thyolo",
+    "code": "MW_S_THYO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MW_S"
+  },
+  {
+    "tenantId": "malawi.southernregion.zomba",
+    "code": "MW_S_ZOMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MW_S"
+  },
+  {
+    "tenantId": "malawi.southernregion.balaka.kawinga",
+    "code": "MW_S_BALA_KAWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_BALA"
+  },
+  {
+    "tenantId": "malawi.southernregion.balaka.kawinga",
+    "code": "MW_S_BALA_KAWI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_BALA"
+  },
+  {
+    "tenantId": "malawi.southernregion.blantyre.makanjira",
+    "code": "MW_S_BLAN_MAKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_BLAN"
+  },
+  {
+    "tenantId": "malawi.southernregion.blantyre.mponda",
+    "code": "MW_S_BLAN_MPON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_BLAN"
+  },
+  {
+    "tenantId": "malawi.southernregion.blantyre.mponda",
+    "code": "MW_S_BLAN_MPON2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_BLAN"
+  },
+  {
+    "tenantId": "malawi.southernregion.blantyre.nkanda",
+    "code": "MW_S_BLAN_NKAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_BLAN"
+  },
+  {
+    "tenantId": "malawi.southernregion.blantyre.symon",
+    "code": "MW_S_BLAN_SYMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_BLAN"
+  },
+  {
+    "tenantId": "malawi.southernregion.blantyre.chimombo",
+    "code": "MW_S_BLAN_CHIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_BLAN"
+  },
+  {
+    "tenantId": "malawi.southernregion.blantyre.malemia",
+    "code": "MW_S_BLAN_MALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_BLAN"
+  },
+  {
+    "tenantId": "malawi.southernregion.blantyre.mlolo",
+    "code": "MW_S_BLAN_MLOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_BLAN"
+  },
+  {
+    "tenantId": "malawi.southernregion.blantyre.ndamera",
+    "code": "MW_S_BLAN_NDAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_BLAN"
+  },
+  {
+    "tenantId": "malawi.southernregion.chikwawa.kanduku",
+    "code": "MW_S_CHIK_KAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_CHIK"
+  },
+  {
+    "tenantId": "malawi.southernregion.chikwawa.mlauli",
+    "code": "MW_S_CHIK_MLAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_CHIK"
+  },
+  {
+    "tenantId": "malawi.southernregion.chikwawa.ngabu",
+    "code": "MW_S_CHIK_NGAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_CHIK"
+  },
+  {
+    "tenantId": "malawi.southernregion.chikwawa.ngabu",
+    "code": "MW_S_CHIK_NGAB2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_CHIK"
+  },
+  {
+    "tenantId": "malawi.southernregion.chikwawa.nyachikadza",
+    "code": "MW_S_CHIK_NYAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_CHIK"
+  },
+  {
+    "tenantId": "malawi.southernregion.chikwawa.tengani",
+    "code": "MW_S_CHIK_TENG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_CHIK"
+  },
+  {
+    "tenantId": "malawi.southernregion.chikwawa.nchilamwela",
+    "code": "MW_S_CHIK_NCHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_CHIK"
+  },
+  {
+    "tenantId": "malawi.southernregion.chiradzulu.makanjira",
+    "code": "MW_S_CHIR_MAKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_CHIR"
+  },
+  {
+    "tenantId": "malawi.southernregion.chiradzulu.ngozi",
+    "code": "MW_S_CHIR_NGOZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_CHIR"
+  },
+  {
+    "tenantId": "malawi.southernregion.chiradzulu.tengani",
+    "code": "MW_S_CHIR_TENG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_CHIR"
+  },
+  {
+    "tenantId": "malawi.southernregion.chiradzulu.bvumbwe",
+    "code": "MW_S_CHIR_BVUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_CHIR"
+  },
+  {
+    "tenantId": "malawi.southernregion.chiradzulu.changata",
+    "code": "MW_S_CHIR_CHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_CHIR"
+  },
+  {
+    "tenantId": "malawi.southernregion.machinga.likoswe",
+    "code": "MW_S_MACH_LIKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MACH"
+  },
+  {
+    "tenantId": "malawi.southernregion.machinga.mpama",
+    "code": "MW_S_MACH_MPAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MACH"
+  },
+  {
+    "tenantId": "malawi.southernregion.machinga.nchema",
+    "code": "MW_S_MACH_NCHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MACH"
+  },
+  {
+    "tenantId": "malawi.southernregion.machinga.kawinga",
+    "code": "MW_S_MACH_KAWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MACH"
+  },
+  {
+    "tenantId": "malawi.southernregion.machinga.kawinga",
+    "code": "MW_S_MACH_KAWI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MACH"
+  },
+  {
+    "tenantId": "malawi.southernregion.machinga.kawinga",
+    "code": "MW_S_MACH_KAWI3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MACH"
+  },
+  {
+    "tenantId": "malawi.southernregion.machinga.kawinga",
+    "code": "MW_S_MACH_KAWI4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MACH"
+  },
+  {
+    "tenantId": "malawi.southernregion.machinga.kawinga",
+    "code": "MW_S_MACH_KAWI5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MACH"
+  },
+  {
+    "tenantId": "malawi.southernregion.machinga.kawinga",
+    "code": "MW_S_MACH_KAWI6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MACH"
+  },
+  {
+    "tenantId": "malawi.southernregion.machinga.nyambi",
+    "code": "MW_S_MACH_NYAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MACH"
+  },
+  {
+    "tenantId": "malawi.southernregion.machinga.chimwala",
+    "code": "MW_S_MACH_CHIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MACH"
+  },
+  {
+    "tenantId": "malawi.southernregion.machinga.jalasi",
+    "code": "MW_S_MACH_JALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MACH"
+  },
+  {
+    "tenantId": "malawi.southernregion.machinga.jalasi",
+    "code": "MW_S_MACH_JALA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MACH"
+  },
+  {
+    "tenantId": "malawi.southernregion.machinga.lakechilwa",
+    "code": "MW_S_MACH_LACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MACH"
+  },
+  {
+    "tenantId": "malawi.southernregion.machinga.mabuka",
+    "code": "MW_S_MACH_MABU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MACH"
+  },
+  {
+    "tenantId": "malawi.southernregion.machinga.mabuka",
+    "code": "MW_S_MACH_MABU2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MACH"
+  },
+  {
+    "tenantId": "malawi.southernregion.machinga.mthiramanja",
+    "code": "MW_S_MACH_MTHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MACH"
+  },
+  {
+    "tenantId": "malawi.southernregion.machinga.nkanda",
+    "code": "MW_S_MACH_NKAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MACH"
+  },
+  {
+    "tenantId": "malawi.southernregion.mulanje.mkanda",
+    "code": "MW_S_MULA_MKAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MULA"
+  },
+  {
+    "tenantId": "malawi.southernregion.mulanje.mkanda",
+    "code": "MW_S_MULA_MKAN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MULA"
+  },
+  {
+    "tenantId": "malawi.southernregion.mulanje.zulu",
+    "code": "MW_S_MULA_ZULU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MULA"
+  },
+  {
+    "tenantId": "malawi.southernregion.mulanje.zulu",
+    "code": "MW_S_MULA_ZULU2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MULA"
+  },
+  {
+    "tenantId": "malawi.southernregion.mulanje.kanyenda",
+    "code": "MW_S_MULA_KANY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MULA"
+  },
+  {
+    "tenantId": "malawi.southernregion.mulanje.malengachanzi",
+    "code": "MW_S_MULA_MACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MULA"
+  },
+  {
+    "tenantId": "malawi.southernregion.mwanza.jalasi",
+    "code": "MW_S_MWAN_JALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MWAN"
+  },
+  {
+    "tenantId": "malawi.southernregion.mwanza.ntache",
+    "code": "MW_S_MWAN_NTAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_MWAN"
+  },
+  {
+    "tenantId": "malawi.southernregion.neno.liwonde",
+    "code": "MW_S_NENO_LIWO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_NENO"
+  },
+  {
+    "tenantId": "malawi.southernregion.neno.liwonde",
+    "code": "MW_S_NENO_LIWO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_NENO"
+  },
+  {
+    "tenantId": "malawi.southernregion.neno.jalasi",
+    "code": "MW_S_NENO_JALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_NENO"
+  },
+  {
+    "tenantId": "malawi.southernregion.neno.jalasi",
+    "code": "MW_S_NENO_JALA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_NENO"
+  },
+  {
+    "tenantId": "malawi.southernregion.nsanje.ngamwane",
+    "code": "MW_S_NSAN_NGAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_NSAN"
+  },
+  {
+    "tenantId": "malawi.southernregion.nsanje.nsabwe",
+    "code": "MW_S_NSAN_NSAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_NSAN"
+  },
+  {
+    "tenantId": "malawi.southernregion.nsanje.chikowi",
+    "code": "MW_S_NSAN_CHIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_NSAN"
+  },
+  {
+    "tenantId": "malawi.southernregion.nsanje.kuntumanji",
+    "code": "MW_S_NSAN_KUNT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_NSAN"
+  },
+  {
+    "tenantId": "malawi.southernregion.nsanje.lakechilwa",
+    "code": "MW_S_NSAN_LACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_NSAN"
+  },
+  {
+    "tenantId": "malawi.southernregion.nsanje.malemia",
+    "code": "MW_S_NSAN_MALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_NSAN"
+  },
+  {
+    "tenantId": "malawi.southernregion.nsanje.mlumbe",
+    "code": "MW_S_NSAN_MLUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_NSAN"
+  },
+  {
+    "tenantId": "malawi.southernregion.nsanje.mwambo",
+    "code": "MW_S_NSAN_MWAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_NSAN"
+  },
+  {
+    "tenantId": "malawi.southernregion.nsanje.mwambo",
+    "code": "MW_S_NSAN_MWAM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_NSAN"
+  },
+  {
+    "tenantId": "malawi.southernregion.phalombe.malili",
+    "code": "MW_S_PHAL_MALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_PHAL"
+  },
+  {
+    "tenantId": "malawi.southernregion.phalombe.mazengera",
+    "code": "MW_S_PHAL_MAZE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_PHAL"
+  },
+  {
+    "tenantId": "malawi.southernregion.phalombe.mazengera",
+    "code": "MW_S_PHAL_MAZE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_PHAL"
+  },
+  {
+    "tenantId": "malawi.southernregion.thyolo.mlonyeni",
+    "code": "MW_S_THYO_MLON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_THYO"
+  },
+  {
+    "tenantId": "malawi.southernregion.thyolo.mlonyeni",
+    "code": "MW_S_THYO_MLON2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_THYO"
+  },
+  {
+    "tenantId": "malawi.southernregion.thyolo.mkhumba",
+    "code": "MW_S_THYO_MKHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_THYO"
+  },
+  {
+    "tenantId": "malawi.southernregion.thyolo.nazombe",
+    "code": "MW_S_THYO_NAZO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_THYO"
+  },
+  {
+    "tenantId": "malawi.southernregion.thyolo.changata",
+    "code": "MW_S_THYO_CHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_THYO"
+  },
+  {
+    "tenantId": "malawi.southernregion.thyolo.changata",
+    "code": "MW_S_THYO_CHAN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_THYO"
+  },
+  {
+    "tenantId": "malawi.southernregion.thyolo.chimaliro",
+    "code": "MW_S_THYO_CHIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_THYO"
+  },
+  {
+    "tenantId": "malawi.southernregion.thyolo.nsabwe",
+    "code": "MW_S_THYO_NSAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_THYO"
+  },
+  {
+    "tenantId": "malawi.southernregion.thyolo.nsabwe",
+    "code": "MW_S_THYO_NSAB2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_THYO"
+  },
+  {
+    "tenantId": "malawi.southernregion.thyolo.thomas",
+    "code": "MW_S_THYO_THOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_THYO"
+  },
+  {
+    "tenantId": "malawi.southernregion.thyolo.chikowi",
+    "code": "MW_S_THYO_CHIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_THYO"
+  },
+  {
+    "tenantId": "malawi.southernregion.zomba.njewa",
+    "code": "MW_S_ZOMB_NJEW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_ZOMB"
+  },
+  {
+    "tenantId": "malawi.southernregion.zomba.kanyenda",
+    "code": "MW_S_ZOMB_KANY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_ZOMB"
+  },
+  {
+    "tenantId": "malawi.southernregion.zomba.malengachanzi",
+    "code": "MW_S_ZOMB_MACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_ZOMB"
+  },
+  {
+    "tenantId": "malawi.southernregion.zomba.jalasi",
+    "code": "MW_S_ZOMB_JALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_ZOMB"
+  },
+  {
+    "tenantId": "malawi.southernregion.zomba.jalasi",
+    "code": "MW_S_ZOMB_JALA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_ZOMB"
+  },
+  {
+    "tenantId": "malawi.southernregion.zomba.katuli",
+    "code": "MW_S_ZOMB_KATU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_ZOMB"
+  },
+  {
+    "tenantId": "malawi.southernregion.zomba.lakemalombe",
+    "code": "MW_S_ZOMB_LAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_ZOMB"
+  },
+  {
+    "tenantId": "malawi.southernregion.zomba.mponda",
+    "code": "MW_S_ZOMB_MPON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_ZOMB"
+  },
+  {
+    "tenantId": "malawi.southernregion.zomba.nankumba",
+    "code": "MW_S_ZOMB_NANK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_ZOMB"
+  },
+  {
+    "tenantId": "malawi.southernregion.zomba.nankumba",
+    "code": "MW_S_ZOMB_NANK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_ZOMB"
+  },
+  {
+    "tenantId": "malawi.southernregion.zomba.nankumba",
+    "code": "MW_S_ZOMB_NANK3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_ZOMB"
+  },
+  {
+    "tenantId": "malawi.southernregion.zomba.nankumba",
+    "code": "MW_S_ZOMB_NANK4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_ZOMB"
+  },
+  {
+    "tenantId": "malawi.southernregion.zomba.chikumbu",
+    "code": "MW_S_ZOMB_CHIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_ZOMB"
+  },
+  {
+    "tenantId": "malawi.southernregion.zomba.dambe",
+    "code": "MW_S_ZOMB_DAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MW_S_ZOMB"
+  }
+]

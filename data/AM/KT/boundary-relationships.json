@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "armenia.kotayk",
+    "code": "AM_KT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "AM"
+  },
+  {
+    "tenantId": "armenia.kotayk.hrazdan",
+    "code": "AM_KT_HRAZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AM_KT"
+  },
+  {
+    "tenantId": "armenia.kotayk.nairi",
+    "code": "AM_KT_NAIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AM_KT"
+  },
+  {
+    "tenantId": "armenia.kotayk.kotayk",
+    "code": "AM_KT_KOTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AM_KT"
+  }
+]

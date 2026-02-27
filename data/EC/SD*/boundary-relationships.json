@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "ecuador.santodomingodelostschilas",
+    "code": "EC_SD*",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "EC"
+  },
+  {
+    "tenantId": "ecuador.santodomingodelostschilas.laconcordia",
+    "code": "EC_SD*_LACO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EC_SD*"
+  },
+  {
+    "tenantId": "ecuador.santodomingodelostschilas.santodomingo",
+    "code": "EC_SD*_SADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EC_SD*"
+  }
+]

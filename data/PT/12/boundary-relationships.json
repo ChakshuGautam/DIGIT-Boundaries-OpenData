@@ -1,0 +1,604 @@
+[
+  {
+    "tenantId": "portugal.portalegre",
+    "code": "PT_12",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PT"
+  },
+  {
+    "tenantId": "portugal.portalegre.elvas",
+    "code": "PT_12_ELVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_12"
+  },
+  {
+    "tenantId": "portugal.portalegre.campomaior",
+    "code": "PT_12_CAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_12"
+  },
+  {
+    "tenantId": "portugal.portalegre.arronches",
+    "code": "PT_12_ARRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_12"
+  },
+  {
+    "tenantId": "portugal.portalegre.sousel",
+    "code": "PT_12_SOUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_12"
+  },
+  {
+    "tenantId": "portugal.portalegre.avis",
+    "code": "PT_12_AVIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_12"
+  },
+  {
+    "tenantId": "portugal.portalegre.portalegre",
+    "code": "PT_12_PORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_12"
+  },
+  {
+    "tenantId": "portugal.portalegre.marvao",
+    "code": "PT_12_MARV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_12"
+  },
+  {
+    "tenantId": "portugal.portalegre.alterdochao",
+    "code": "PT_12_ADC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_12"
+  },
+  {
+    "tenantId": "portugal.portalegre.crato",
+    "code": "PT_12_CRAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_12"
+  },
+  {
+    "tenantId": "portugal.portalegre.castelodevide",
+    "code": "PT_12_CDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_12"
+  },
+  {
+    "tenantId": "portugal.portalegre.nisa",
+    "code": "PT_12_NISA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_12"
+  },
+  {
+    "tenantId": "portugal.portalegre.gaviao",
+    "code": "PT_12_GAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_12"
+  },
+  {
+    "tenantId": "portugal.portalegre.pontedesor",
+    "code": "PT_12_PDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_12"
+  },
+  {
+    "tenantId": "portugal.portalegre.monforte",
+    "code": "PT_12_MONF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_12"
+  },
+  {
+    "tenantId": "portugal.portalegre.fronteira",
+    "code": "PT_12_FRON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_12"
+  },
+  {
+    "tenantId": "portugal.portalegre.elvas.assundmoajudasalvadoresantoildefonso",
+    "code": "PT_12_ELVA_AASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_ELVA"
+  },
+  {
+    "tenantId": "portugal.portalegre.elvas.caiasopedroealcova",
+    "code": "PT_12_ELVA_CSPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_ELVA"
+  },
+  {
+    "tenantId": "portugal.portalegre.elvas.sdobrmsesoloureno",
+    "code": "PT_12_ELVA_SBES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_ELVA"
+  },
+  {
+    "tenantId": "portugal.portalegre.elvas.sdovicenteeventosa",
+    "code": "PT_12_ELVA_SVEV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_ELVA"
+  },
+  {
+    "tenantId": "portugal.portalegre.elvas.uniodasfreguesiasdebarbacenaevilafernando",
+    "code": "PT_12_ELVA_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_ELVA"
+  },
+  {
+    "tenantId": "portugal.portalegre.elvas.uniodasfreguesiasdeterrugemevilaboim",
+    "code": "PT_12_ELVA_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_ELVA"
+  },
+  {
+    "tenantId": "portugal.portalegre.campomaior.nossasenhoradaexpecta",
+    "code": "PT_12_CAMA_NSDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_CAMA"
+  },
+  {
+    "tenantId": "portugal.portalegre.campomaior.nossasenhoradagrabadosdegolados",
+    "code": "PT_12_CAMA_NSDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_CAMA"
+  },
+  {
+    "tenantId": "portugal.portalegre.arronches.assundmo",
+    "code": "PT_12_ARRO_ASSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_ARRO"
+  },
+  {
+    "tenantId": "portugal.portalegre.arronches.esperana",
+    "code": "PT_12_ARRO_ESPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_ARRO"
+  },
+  {
+    "tenantId": "portugal.portalegre.arronches.mosteiros",
+    "code": "PT_12_ARRO_MOST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_ARRO"
+  },
+  {
+    "tenantId": "portugal.portalegre.sousel.avis",
+    "code": "PT_12_SOUS_AVIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_SOUS"
+  },
+  {
+    "tenantId": "portugal.portalegre.sousel.cano",
+    "code": "PT_12_SOUS_CANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_SOUS"
+  },
+  {
+    "tenantId": "portugal.portalegre.sousel.casabranca",
+    "code": "PT_12_SOUS_CABR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_SOUS"
+  },
+  {
+    "tenantId": "portugal.portalegre.sousel.santoamaro",
+    "code": "PT_12_SOUS_SAAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_SOUS"
+  },
+  {
+    "tenantId": "portugal.portalegre.sousel.sousel",
+    "code": "PT_12_SOUS_SOUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_SOUS"
+  },
+  {
+    "tenantId": "portugal.portalegre.avis.ervedal",
+    "code": "PT_12_AVIS_ERVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_AVIS"
+  },
+  {
+    "tenantId": "portugal.portalegre.avis.figueiraebarros",
+    "code": "PT_12_AVIS_FEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_AVIS"
+  },
+  {
+    "tenantId": "portugal.portalegre.avis.uniodasfreguesiasdebenavilaevalongo",
+    "code": "PT_12_AVIS_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_AVIS"
+  },
+  {
+    "tenantId": "portugal.portalegre.portalegre.alagoa",
+    "code": "PT_12_PORT_ALAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_PORT"
+  },
+  {
+    "tenantId": "portugal.portalegre.portalegre.alegrete",
+    "code": "PT_12_PORT_ALEG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_PORT"
+  },
+  {
+    "tenantId": "portugal.portalegre.portalegre.fortios",
+    "code": "PT_12_PORT_FORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_PORT"
+  },
+  {
+    "tenantId": "portugal.portalegre.portalegre.sdojomobaptista",
+    "code": "PT_12_PORT_SJB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_PORT"
+  },
+  {
+    "tenantId": "portugal.portalegre.portalegre.uniodasfreguesiasdas",
+    "code": "PT_12_PORT_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_PORT"
+  },
+  {
+    "tenantId": "portugal.portalegre.portalegre.uniodasfreguesiasdereguengoesaojuliuo",
+    "code": "PT_12_PORT_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_PORT"
+  },
+  {
+    "tenantId": "portugal.portalegre.portalegre.uniodasfreguesiasderibeiradenisaecarreir",
+    "code": "PT_12_PORT_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_PORT"
+  },
+  {
+    "tenantId": "portugal.portalegre.portalegre.urra",
+    "code": "PT_12_PORT_URRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_PORT"
+  },
+  {
+    "tenantId": "portugal.portalegre.marvao.beir",
+    "code": "PT_12_MARV_BEIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_MARV"
+  },
+  {
+    "tenantId": "portugal.portalegre.marvao.santamariademarvo",
+    "code": "PT_12_MARV_SMDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_MARV"
+  },
+  {
+    "tenantId": "portugal.portalegre.marvao.santoantniodasareias",
+    "code": "PT_12_MARV_SADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_MARV"
+  },
+  {
+    "tenantId": "portugal.portalegre.marvao.sdosalvadordaaramenha",
+    "code": "PT_12_MARV_SSDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_MARV"
+  },
+  {
+    "tenantId": "portugal.portalegre.alterdochao.aldeiadamata",
+    "code": "PT_12_ADC_ADM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_ADC"
+  },
+  {
+    "tenantId": "portugal.portalegre.alterdochao.aldeiavelha",
+    "code": "PT_12_ADC_ALVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_ADC"
+  },
+  {
+    "tenantId": "portugal.portalegre.alterdochao.alterdocho",
+    "code": "PT_12_ADC_ADC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_ADC"
+  },
+  {
+    "tenantId": "portugal.portalegre.alterdochao.cunheira",
+    "code": "PT_12_ADC_CUNH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_ADC"
+  },
+  {
+    "tenantId": "portugal.portalegre.alterdochao.montedapedra",
+    "code": "PT_12_ADC_MDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_ADC"
+  },
+  {
+    "tenantId": "portugal.portalegre.alterdochao.sdomatias",
+    "code": "PT_12_ADC_SDMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_ADC"
+  },
+  {
+    "tenantId": "portugal.portalegre.alterdochao.seda",
+    "code": "PT_12_ADC_SEDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_ADC"
+  },
+  {
+    "tenantId": "portugal.portalegre.crato.alpalhmo",
+    "code": "PT_12_CRAT_ALPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_CRAT"
+  },
+  {
+    "tenantId": "portugal.portalegre.crato.arcos",
+    "code": "PT_12_CRAT_ARCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_CRAT"
+  },
+  {
+    "tenantId": "portugal.portalegre.crato.comenda",
+    "code": "PT_12_CRAT_COME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_CRAT"
+  },
+  {
+    "tenantId": "portugal.portalegre.crato.gdfete",
+    "code": "PT_12_CRAT_GDFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_CRAT"
+  },
+  {
+    "tenantId": "portugal.portalegre.crato.tolosa",
+    "code": "PT_12_CRAT_TOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_CRAT"
+  },
+  {
+    "tenantId": "portugal.portalegre.crato.uniodasfreguesiasdecratoemurtiresflord",
+    "code": "PT_12_CRAT_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_CRAT"
+  },
+  {
+    "tenantId": "portugal.portalegre.castelodevide.nossasenhoradagrabadep",
+    "code": "PT_12_CDV_NSDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_CDV"
+  },
+  {
+    "tenantId": "portugal.portalegre.castelodevide.santamariadadevesa",
+    "code": "PT_12_CDV_SMDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_CDV"
+  },
+  {
+    "tenantId": "portugal.portalegre.nisa.fratel",
+    "code": "PT_12_NISA_FRAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_NISA"
+  },
+  {
+    "tenantId": "portugal.portalegre.nisa.montalvo",
+    "code": "PT_12_NISA_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_NISA"
+  },
+  {
+    "tenantId": "portugal.portalegre.nisa.perais",
+    "code": "PT_12_NISA_PERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_NISA"
+  },
+  {
+    "tenantId": "portugal.portalegre.nisa.santaeullia",
+    "code": "PT_12_NISA_SAEU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_NISA"
+  },
+  {
+    "tenantId": "portugal.portalegre.nisa.uniodasfreguesiasdearezeamieiradotejo",
+    "code": "PT_12_NISA_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_NISA"
+  },
+  {
+    "tenantId": "portugal.portalegre.nisa.uniodasfreguesiasdeesperitosantonossase",
+    "code": "PT_12_NISA_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_NISA"
+  },
+  {
+    "tenantId": "portugal.portalegre.gaviao.belver",
+    "code": "PT_12_GAVI_BELV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_GAVI"
+  },
+  {
+    "tenantId": "portugal.portalegre.gaviao.uniodasfreguesiasdegaviroeatalaia",
+    "code": "PT_12_GAVI_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_GAVI"
+  },
+  {
+    "tenantId": "portugal.portalegre.gaviao.uniodasfreguesiasdemazopenhascosoeabo",
+    "code": "PT_12_GAVI_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_GAVI"
+  },
+  {
+    "tenantId": "portugal.portalegre.pontedesor.forosdearro",
+    "code": "PT_12_PDS_FDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_PDS"
+  },
+  {
+    "tenantId": "portugal.portalegre.pontedesor.galveias",
+    "code": "PT_12_PDS_GALV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_PDS"
+  },
+  {
+    "tenantId": "portugal.portalegre.pontedesor.longomel",
+    "code": "PT_12_PDS_LONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_PDS"
+  },
+  {
+    "tenantId": "portugal.portalegre.pontedesor.margem",
+    "code": "PT_12_PDS_MARG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_PDS"
+  },
+  {
+    "tenantId": "portugal.portalegre.pontedesor.montargil",
+    "code": "PT_12_PDS_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_PDS"
+  },
+  {
+    "tenantId": "portugal.portalegre.pontedesor.uniodasfreguesiasdeparreiraechouto",
+    "code": "PT_12_PDS_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_PDS"
+  },
+  {
+    "tenantId": "portugal.portalegre.pontedesor.uniodasfreguesiasdepontedesortramagaev",
+    "code": "PT_12_PDS_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_PDS"
+  },
+  {
+    "tenantId": "portugal.portalegre.monforte.assumar",
+    "code": "PT_12_MONF_ASSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_MONF"
+  },
+  {
+    "tenantId": "portugal.portalegre.monforte.monforte",
+    "code": "PT_12_MONF_MONF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_MONF"
+  },
+  {
+    "tenantId": "portugal.portalegre.monforte.santiagomaior",
+    "code": "PT_12_MONF_SAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_MONF"
+  },
+  {
+    "tenantId": "portugal.portalegre.monforte.santoaleixo",
+    "code": "PT_12_MONF_SAAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_MONF"
+  },
+  {
+    "tenantId": "portugal.portalegre.monforte.vaiamonte",
+    "code": "PT_12_MONF_VAIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_MONF"
+  },
+  {
+    "tenantId": "portugal.portalegre.fronteira.cabe",
+    "code": "PT_12_FRON_CABE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_FRON"
+  },
+  {
+    "tenantId": "portugal.portalegre.fronteira.fronteira",
+    "code": "PT_12_FRON_FRON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_FRON"
+  },
+  {
+    "tenantId": "portugal.portalegre.fronteira.sdosaturnino",
+    "code": "PT_12_FRON_SDSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_12_FRON"
+  }
+]

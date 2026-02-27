@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "armenia.armavir",
+    "code": "AM_AV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "AM"
+  },
+  {
+    "tenantId": "armenia.armavir.vagharshapat",
+    "code": "AM_AV_VAGH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AM_AV"
+  },
+  {
+    "tenantId": "armenia.armavir.baghramyan",
+    "code": "AM_AV_BAGH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AM_AV"
+  },
+  {
+    "tenantId": "armenia.armavir.armavir",
+    "code": "AM_AV_ARMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AM_AV"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "latvia.daunovads",
+    "code": "LV_011",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "LV"
+  },
+  {
+    "tenantId": "latvia.daunovads.daupag",
+    "code": "LV_011_DPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LV_011"
+  },
+  {
+    "tenantId": "latvia.daunovads.carnikavaspag",
+    "code": "LV_011_CAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LV_011"
+  }
+]

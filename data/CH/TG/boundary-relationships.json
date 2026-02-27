@@ -1,0 +1,576 @@
+[
+  {
+    "tenantId": "switzerland.thurgau",
+    "code": "CH_TG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CH"
+  },
+  {
+    "tenantId": "switzerland.thurgau.arbon",
+    "code": "CH_TG_ARBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_TG"
+  },
+  {
+    "tenantId": "switzerland.thurgau.bischofszell",
+    "code": "CH_TG_BISC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_TG"
+  },
+  {
+    "tenantId": "switzerland.thurgau.bodensee",
+    "code": "CH_TG_BODE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_TG"
+  },
+  {
+    "tenantId": "switzerland.thurgau.diessenhofen",
+    "code": "CH_TG_DIES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_TG"
+  },
+  {
+    "tenantId": "switzerland.thurgau.frauenfeld",
+    "code": "CH_TG_FRAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_TG"
+  },
+  {
+    "tenantId": "switzerland.thurgau.kreuzlingen",
+    "code": "CH_TG_KREU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_TG"
+  },
+  {
+    "tenantId": "switzerland.thurgau.steckborn",
+    "code": "CH_TG_STEC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_TG"
+  },
+  {
+    "tenantId": "switzerland.thurgau.weinfelden",
+    "code": "CH_TG_WEIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_TG"
+  },
+  {
+    "tenantId": "switzerland.thurgau.arbon.bodenseetg",
+    "code": "CH_TG_ARBO_BOT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_ARBO"
+  },
+  {
+    "tenantId": "switzerland.thurgau.arbon.egnach",
+    "code": "CH_TG_ARBO_EGNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_ARBO"
+  },
+  {
+    "tenantId": "switzerland.thurgau.arbon.roggwiltg",
+    "code": "CH_TG_ARBO_ROT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_ARBO"
+  },
+  {
+    "tenantId": "switzerland.thurgau.arbon.romanshorn",
+    "code": "CH_TG_ARBO_ROMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_ARBO"
+  },
+  {
+    "tenantId": "switzerland.thurgau.arbon.hefenhofen",
+    "code": "CH_TG_ARBO_HEFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_ARBO"
+  },
+  {
+    "tenantId": "switzerland.thurgau.arbon.arbon",
+    "code": "CH_TG_ARBO_ARBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_ARBO"
+  },
+  {
+    "tenantId": "switzerland.thurgau.arbon.kesswil",
+    "code": "CH_TG_ARBO_KESS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_ARBO"
+  },
+  {
+    "tenantId": "switzerland.thurgau.arbon.uttwil",
+    "code": "CH_TG_ARBO_UTTW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_ARBO"
+  },
+  {
+    "tenantId": "switzerland.thurgau.arbon.sommeri",
+    "code": "CH_TG_ARBO_SOMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_ARBO"
+  },
+  {
+    "tenantId": "switzerland.thurgau.arbon.salmsach",
+    "code": "CH_TG_ARBO_SALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_ARBO"
+  },
+  {
+    "tenantId": "switzerland.thurgau.arbon.dozwil",
+    "code": "CH_TG_ARBO_DOZW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_ARBO"
+  },
+  {
+    "tenantId": "switzerland.thurgau.arbon.hggenschwil",
+    "code": "CH_TG_ARBO_HGG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_ARBO"
+  },
+  {
+    "tenantId": "switzerland.thurgau.arbon.hggenschwil",
+    "code": "CH_TG_ARBO_HGG2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_ARBO"
+  },
+  {
+    "tenantId": "switzerland.thurgau.bischofszell.amriswil",
+    "code": "CH_TG_BISC_AMRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_BISC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.bischofszell.hauptwilgottshaus",
+    "code": "CH_TG_BISC_HAUP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_BISC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.bischofszell.zihlschlachtsitterdorf",
+    "code": "CH_TG_BISC_ZIHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_BISC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.bischofszell.erlen",
+    "code": "CH_TG_BISC_ERLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_BISC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.bischofszell.bischofszell",
+    "code": "CH_TG_BISC_BISC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_BISC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.bischofszell.kradolfschnenberg",
+    "code": "CH_TG_BISC_KRAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_BISC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.bischofszell.sulgen",
+    "code": "CH_TG_BISC_SULG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_BISC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.bischofszell.hohentannen",
+    "code": "CH_TG_BISC_HOHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_BISC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.bodensee.bodenseesg",
+    "code": "CH_TG_BODE_BOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_BODE"
+  },
+  {
+    "tenantId": "switzerland.thurgau.bodensee.bodenseetg",
+    "code": "CH_TG_BODE_BOT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_BODE"
+  },
+  {
+    "tenantId": "switzerland.thurgau.bodensee.horn",
+    "code": "CH_TG_BODE_HORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_BODE"
+  },
+  {
+    "tenantId": "switzerland.thurgau.diessenhofen.basadingenschlattingen",
+    "code": "CH_TG_DIES_BASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_DIES"
+  },
+  {
+    "tenantId": "switzerland.thurgau.diessenhofen.schlatttg",
+    "code": "CH_TG_DIES_SCT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_DIES"
+  },
+  {
+    "tenantId": "switzerland.thurgau.diessenhofen.diessenhofen",
+    "code": "CH_TG_DIES_DIES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_DIES"
+  },
+  {
+    "tenantId": "switzerland.thurgau.frauenfeld.frauenfeld",
+    "code": "CH_TG_FRAU_FRAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_FRAU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.frauenfeld.aadorf",
+    "code": "CH_TG_FRAU_AADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_FRAU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.frauenfeld.thundorf",
+    "code": "CH_TG_FRAU_THUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_FRAU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.frauenfeld.uesslingenbuch",
+    "code": "CH_TG_FRAU_UESS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_FRAU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.frauenfeld.httlingen",
+    "code": "CH_TG_FRAU_HTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_FRAU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.frauenfeld.neunforn",
+    "code": "CH_TG_FRAU_NEUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_FRAU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.frauenfeld.gachnang",
+    "code": "CH_TG_FRAU_GACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_FRAU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.frauenfeld.warthweiningen",
+    "code": "CH_TG_FRAU_WART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_FRAU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.frauenfeld.matzingen",
+    "code": "CH_TG_FRAU_MATZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_FRAU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.frauenfeld.felbenwellhausen",
+    "code": "CH_TG_FRAU_FELB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_FRAU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.frauenfeld.stettfurt",
+    "code": "CH_TG_FRAU_STET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_FRAU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.kreuzlingen.kemmental",
+    "code": "CH_TG_KREU_KEMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_KREU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.kreuzlingen.wldi",
+    "code": "CH_TG_KREU_WLD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_KREU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.kreuzlingen.kreuzlingen",
+    "code": "CH_TG_KREU_KREU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_KREU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.kreuzlingen.tgerwilen",
+    "code": "CH_TG_KREU_TGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_KREU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.kreuzlingen.langrickenbach",
+    "code": "CH_TG_KREU_LANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_KREU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.kreuzlingen.ermatingen",
+    "code": "CH_TG_KREU_ERMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_KREU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.kreuzlingen.gttingen",
+    "code": "CH_TG_KREU_GTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_KREU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.kreuzlingen.lengwil",
+    "code": "CH_TG_KREU_LENG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_KREU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.kreuzlingen.altnau",
+    "code": "CH_TG_KREU_ALTN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_KREU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.kreuzlingen.mnsterlingen",
+    "code": "CH_TG_KREU_MNS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_KREU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.kreuzlingen.bottighofen",
+    "code": "CH_TG_KREU_BOTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_KREU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.kreuzlingen.gottlieben",
+    "code": "CH_TG_KREU_GOTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_KREU"
+  },
+  {
+    "tenantId": "switzerland.thurgau.steckborn.homburg",
+    "code": "CH_TG_STEC_HOMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_STEC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.steckborn.httwilen",
+    "code": "CH_TG_STEC_HTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_STEC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.steckborn.bodenseetg",
+    "code": "CH_TG_STEC_BOT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_STEC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.steckborn.herdern",
+    "code": "CH_TG_STEC_HERD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_STEC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.steckborn.pfyn",
+    "code": "CH_TG_STEC_PFYN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_STEC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.steckborn.eschenz",
+    "code": "CH_TG_STEC_ESCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_STEC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.steckborn.wagenhausen",
+    "code": "CH_TG_STEC_WAGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_STEC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.steckborn.steckborn",
+    "code": "CH_TG_STEC_STEC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_STEC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.steckborn.mllheim",
+    "code": "CH_TG_STEC_MLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_STEC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.steckborn.raperswilen",
+    "code": "CH_TG_STEC_RAPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_STEC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.steckborn.salenstein",
+    "code": "CH_TG_STEC_SALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_STEC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.steckborn.steinamrhein",
+    "code": "CH_TG_STEC_SAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_STEC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.steckborn.mammern",
+    "code": "CH_TG_STEC_MAMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_STEC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.steckborn.berlingen",
+    "code": "CH_TG_STEC_BERL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_STEC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.steckborn.eschenz",
+    "code": "CH_TG_STEC_ESCH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_STEC"
+  },
+  {
+    "tenantId": "switzerland.thurgau.weinfelden.bussnang",
+    "code": "CH_TG_WEIN_BUSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_WEIN"
+  },
+  {
+    "tenantId": "switzerland.thurgau.weinfelden.wigoltingen",
+    "code": "CH_TG_WEIN_WIGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_WEIN"
+  },
+  {
+    "tenantId": "switzerland.thurgau.weinfelden.weinfelden",
+    "code": "CH_TG_WEIN_WEIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_WEIN"
+  },
+  {
+    "tenantId": "switzerland.thurgau.weinfelden.amlikonbissegg",
+    "code": "CH_TG_WEIN_AMLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_WEIN"
+  },
+  {
+    "tenantId": "switzerland.thurgau.weinfelden.bergtg",
+    "code": "CH_TG_WEIN_BET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_WEIN"
+  },
+  {
+    "tenantId": "switzerland.thurgau.weinfelden.birwinken",
+    "code": "CH_TG_WEIN_BIRW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_WEIN"
+  },
+  {
+    "tenantId": "switzerland.thurgau.weinfelden.brglentg",
+    "code": "CH_TG_WEIN_BT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_WEIN"
+  },
+  {
+    "tenantId": "switzerland.thurgau.weinfelden.mrstetten",
+    "code": "CH_TG_WEIN_MRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TG_WEIN"
+  }
+]

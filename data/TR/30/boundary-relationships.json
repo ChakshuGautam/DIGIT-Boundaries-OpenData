@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "turkey.hakkri",
+    "code": "TR_30",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TR"
+  },
+  {
+    "tenantId": "turkey.hakkri.derecik",
+    "code": "TR_30_DERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TR_30"
+  },
+  {
+    "tenantId": "turkey.hakkri.yksekova",
+    "code": "TR_30_YKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TR_30"
+  },
+  {
+    "tenantId": "turkey.hakkri.emdinli",
+    "code": "TR_30_EMD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TR_30"
+  },
+  {
+    "tenantId": "turkey.hakkri.hakkarimerkez",
+    "code": "TR_30_HAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TR_30"
+  },
+  {
+    "tenantId": "turkey.hakkri.ukurca",
+    "code": "TR_30_UKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TR_30"
+  }
+]

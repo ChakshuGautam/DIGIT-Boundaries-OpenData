@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "armenia.vayotsdzor",
+    "code": "AM_VD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "AM"
+  },
+  {
+    "tenantId": "armenia.vayotsdzor.vayk",
+    "code": "AM_VD_VAYK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AM_VD"
+  },
+  {
+    "tenantId": "armenia.vayotsdzor.yeghegnadzor",
+    "code": "AM_VD_YEGH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AM_VD"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "tenantId": "bangladesh",
+    "code": "BD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "bangladesh.chittagong",
+    "code": "BD_B",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Division",
+    "parent": "BD"
+  },
+  {
+    "tenantId": "bangladesh.dhaka",
+    "code": "BD_C",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Division",
+    "parent": "BD"
+  },
+  {
+    "tenantId": "bangladesh.mymensingh",
+    "code": "BD_H",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Division",
+    "parent": "BD"
+  },
+  {
+    "tenantId": "bangladesh.rajshani",
+    "code": "BD_E",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Division",
+    "parent": "BD"
+  },
+  {
+    "tenantId": "bangladesh.rangpur",
+    "code": "BD_F",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Division",
+    "parent": "BD"
+  },
+  {
+    "tenantId": "bangladesh.sylhet",
+    "code": "BD_G",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Division",
+    "parent": "BD"
+  },
+  {
+    "tenantId": "bangladesh.khulna",
+    "code": "BD_D",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Division",
+    "parent": "BD"
+  },
+  {
+    "tenantId": "bangladesh.barisal",
+    "code": "BD_A",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Division",
+    "parent": "BD"
+  }
+]

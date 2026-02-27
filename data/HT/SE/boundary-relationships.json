@@ -1,0 +1,100 @@
+[
+  {
+    "tenantId": "haiti.dpartementdusudest",
+    "code": "HT_SE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "HT"
+  },
+  {
+    "tenantId": "haiti.dpartementdusudest.arrondissementdebainet",
+    "code": "HT_SE_ADB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_SE"
+  },
+  {
+    "tenantId": "haiti.dpartementdusudest.arrondissementbelleanse",
+    "code": "HT_SE_ARBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_SE"
+  },
+  {
+    "tenantId": "haiti.dpartementdusudest.arrondissementdejacmel",
+    "code": "HT_SE_ADJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_SE"
+  },
+  {
+    "tenantId": "haiti.dpartementdusudest.arrondissementdebainet.bainet",
+    "code": "HT_SE_ADB_BAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SE_ADB"
+  },
+  {
+    "tenantId": "haiti.dpartementdusudest.arrondissementdebainet.cotesdefer",
+    "code": "HT_SE_ADB_CDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SE_ADB"
+  },
+  {
+    "tenantId": "haiti.dpartementdusudest.arrondissementbelleanse.belleanse",
+    "code": "HT_SE_ARBE_BEAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SE_ARBE"
+  },
+  {
+    "tenantId": "haiti.dpartementdusudest.arrondissementbelleanse.grandgosier",
+    "code": "HT_SE_ARBE_GRGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SE_ARBE"
+  },
+  {
+    "tenantId": "haiti.dpartementdusudest.arrondissementbelleanse.thiotte",
+    "code": "HT_SE_ARBE_THIO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SE_ARBE"
+  },
+  {
+    "tenantId": "haiti.dpartementdusudest.arrondissementbelleanse.anseapitres",
+    "code": "HT_SE_ARBE_AAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SE_ARBE"
+  },
+  {
+    "tenantId": "haiti.dpartementdusudest.arrondissementdejacmel.jacmel",
+    "code": "HT_SE_ADJ_JACM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SE_ADJ"
+  },
+  {
+    "tenantId": "haiti.dpartementdusudest.arrondissementdejacmel.marigot",
+    "code": "HT_SE_ADJ_MARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SE_ADJ"
+  },
+  {
+    "tenantId": "haiti.dpartementdusudest.arrondissementdejacmel.cayesjacmel",
+    "code": "HT_SE_ADJ_CAJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SE_ADJ"
+  },
+  {
+    "tenantId": "haiti.dpartementdusudest.arrondissementdejacmel.lavalleedejacmel",
+    "code": "HT_SE_ADJ_LVDJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SE_ADJ"
+  }
+]

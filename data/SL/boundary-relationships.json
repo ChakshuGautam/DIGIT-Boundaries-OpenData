@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "sierraleone",
+    "code": "SL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "sierraleone.southern",
+    "code": "SL_S",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SL"
+  },
+  {
+    "tenantId": "sierraleone.eastern",
+    "code": "SL_E",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SL"
+  },
+  {
+    "tenantId": "sierraleone.westernarea",
+    "code": "SL_W",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SL"
+  },
+  {
+    "tenantId": "sierraleone.northern",
+    "code": "SL_N",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SL"
+  }
+]

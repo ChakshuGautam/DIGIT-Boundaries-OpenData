@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "tajikistan",
+    "code": "TJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "tajikistan.sughdregion",
+    "code": "TJ_SU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TJ"
+  },
+  {
+    "tenantId": "tajikistan.gornobadakhshanautonomousregion",
+    "code": "TJ_GB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TJ"
+  },
+  {
+    "tenantId": "tajikistan.districtsofrepublicansubordination",
+    "code": "TJ_RA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TJ"
+  },
+  {
+    "tenantId": "tajikistan.khatlonregion",
+    "code": "TJ_KT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TJ"
+  },
+  {
+    "tenantId": "tajikistan.dushanbe",
+    "code": "TJ_DU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TJ"
+  }
+]

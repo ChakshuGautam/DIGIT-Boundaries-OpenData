@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "lebanon.libansud",
+    "code": "LB_JA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "LB"
+  },
+  {
+    "tenantId": "lebanon.libansud.sour",
+    "code": "LB_JA_SOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LB_JA"
+  },
+  {
+    "tenantId": "lebanon.libansud.jezzine",
+    "code": "LB_JA_JEZZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LB_JA"
+  },
+  {
+    "tenantId": "lebanon.libansud.saida",
+    "code": "LB_JA_SAID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LB_JA"
+  }
+]

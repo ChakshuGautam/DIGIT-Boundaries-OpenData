@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "palau.ngatpang",
+    "code": "PW_224",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PW"
+  },
+  {
+    "tenantId": "palau.ngatpang.ibobang",
+    "code": "PW_224_IBOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PW_224"
+  },
+  {
+    "tenantId": "palau.ngatpang.ngatpang",
+    "code": "PW_224_NGAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PW_224"
+  }
+]

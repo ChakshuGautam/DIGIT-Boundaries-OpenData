@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "armenia.ararat",
+    "code": "AM_AR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "AM"
+  },
+  {
+    "tenantId": "armenia.ararat.ararat",
+    "code": "AM_AR_ARAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AM_AR"
+  },
+  {
+    "tenantId": "armenia.ararat.masis",
+    "code": "AM_AR_MASI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AM_AR"
+  },
+  {
+    "tenantId": "armenia.ararat.artashat",
+    "code": "AM_AR_ARTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AM_AR"
+  }
+]

@@ -1,0 +1,814 @@
+[
+  {
+    "tenantId": "lithuania.vilniuscounty",
+    "code": "LT_VL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "LT"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.elektrnaimunicipality",
+    "code": "LT_VL_ELMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_VL"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.venionirajonosavivaldyb",
+    "code": "LT_VL_RS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_VL"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.trakrajonosavivaldyb",
+    "code": "LT_VL_TRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_VL"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb",
+    "code": "LT_VL_VRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_VL"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.irvintrajonosavivaldyb",
+    "code": "LT_VL_RS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_VL"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniuscitymunicipality",
+    "code": "LT_VL_VCM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_VL"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.ukmergsrajonosavivaldyb",
+    "code": "LT_VL_URS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_VL"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.alininkrajonosavivaldyb",
+    "code": "LT_VL_RS3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_VL"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.elektrnaimunicipality.beiioniseninija",
+    "code": "LT_VL_ELMU_BESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_ELMU"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.elektrnaimunicipality.kazokikiseninija",
+    "code": "LT_VL_ELMU_KASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_ELMU"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.elektrnaimunicipality.semelikiseninija",
+    "code": "LT_VL_ELMU_SESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_ELMU"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.elektrnaimunicipality.vievioseninija",
+    "code": "LT_VL_ELMU_VISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_ELMU"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.elektrnaimunicipality.elektrnseninija",
+    "code": "LT_VL_ELMU_ELSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_ELMU"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.elektrnaimunicipality.kietavikiseninija",
+    "code": "LT_VL_ELMU_KISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_ELMU"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.elektrnaimunicipality.giluiseninija",
+    "code": "LT_VL_ELMU_GISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_ELMU"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.elektrnaimunicipality.pastrvioseninija",
+    "code": "LT_VL_ELMU_PASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_ELMU"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.venionirajonosavivaldyb.venionimiestoseninija",
+    "code": "LT_VL_RS_MS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.venionirajonosavivaldyb.labanoroseninija",
+    "code": "LT_VL_RS_LASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.venionirajonosavivaldyb.pabradsmiestoseninija",
+    "code": "LT_VL_RS_PMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.venionirajonosavivaldyb.venionlimiestoseninija",
+    "code": "LT_VL_RS_MS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.venionirajonosavivaldyb.venionliseninija",
+    "code": "LT_VL_RS_VSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.venionirajonosavivaldyb.strnaiioseninija",
+    "code": "LT_VL_RS_STSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.venionirajonosavivaldyb.venioniseninija",
+    "code": "LT_VL_RS_VSE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.venionirajonosavivaldyb.svirkseninija",
+    "code": "LT_VL_RS_SVSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.venionirajonosavivaldyb.adutikioseninija",
+    "code": "LT_VL_RS_ADSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.venionirajonosavivaldyb.cirklikioseninija",
+    "code": "LT_VL_RS_CISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.venionirajonosavivaldyb.magnseninija",
+    "code": "LT_VL_RS_MASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.venionirajonosavivaldyb.pabradsseninija",
+    "code": "LT_VL_RS_PASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.venionirajonosavivaldyb.sariseninija",
+    "code": "LT_VL_RS_SASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.venionirajonosavivaldyb.kaltannseninija",
+    "code": "LT_VL_RS_KASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.trakrajonosavivaldyb.onukioseninija",
+    "code": "LT_VL_TRS_ONSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_TRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.trakrajonosavivaldyb.senjtrakseninija",
+    "code": "LT_VL_TRS_STS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_TRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.trakrajonosavivaldyb.grendavsseninija",
+    "code": "LT_VL_TRS_GRSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_TRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.trakrajonosavivaldyb.lentvarioseninija",
+    "code": "LT_VL_TRS_LESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_TRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.trakrajonosavivaldyb.rdikiseninija",
+    "code": "LT_VL_TRS_RSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_TRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.trakrajonosavivaldyb.trakseninija",
+    "code": "LT_VL_TRS_TRSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_TRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.trakrajonosavivaldyb.paluknioseninija",
+    "code": "LT_VL_TRS_PASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_TRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.trakrajonosavivaldyb.auktadvarioseninija",
+    "code": "LT_VL_TRS_AUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_TRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.nemioseninija",
+    "code": "LT_VL_VRS_NESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.buivydiseninija",
+    "code": "LT_VL_VRS_BUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.bezdoniseninija",
+    "code": "LT_VL_VRS_BESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.dktseninija",
+    "code": "LT_VL_VRS_DSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.lavorikiseninija",
+    "code": "LT_VL_VRS_LASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.maiiagalosseninija",
+    "code": "LT_VL_VRS_MASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.marijampolioseninija",
+    "code": "LT_VL_VRS_MASE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.medininkseninija",
+    "code": "LT_VL_VRS_MESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.micknseninija",
+    "code": "LT_VL_VRS_MISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.pagiriseninija",
+    "code": "LT_VL_VRS_PASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.riesseninija",
+    "code": "LT_VL_VRS_RISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.rudaminosseninija",
+    "code": "LT_VL_VRS_RUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.atrininkseninija",
+    "code": "LT_VL_VRS_ASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.sudervsseninija",
+    "code": "LT_VL_VRS_SUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.zujnseninija",
+    "code": "LT_VL_VRS_ZUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.pabersseninija",
+    "code": "LT_VL_VRS_PASE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.aviieniseninija",
+    "code": "LT_VL_VRS_AVSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.nemeninsmiestoseninija",
+    "code": "LT_VL_VRS_NMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.rukainiseninija",
+    "code": "LT_VL_VRS_RUSE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.nemeninsseninija",
+    "code": "LT_VL_VRS_NESE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.juodiliseninija",
+    "code": "LT_VL_VRS_JUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.kalveliseninija",
+    "code": "LT_VL_VRS_KASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniausrajonosavivaldyb.suioniseninija",
+    "code": "LT_VL_VRS_SUSE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VRS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.irvintrajonosavivaldyb.alioniseninija",
+    "code": "LT_VL_RS2_ALSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS2"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.irvintrajonosavivaldyb.iobikioseninija",
+    "code": "LT_VL_RS2_ISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS2"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.irvintrajonosavivaldyb.jauninseninija",
+    "code": "LT_VL_RS2_JASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS2"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.irvintrajonosavivaldyb.kernavsseninija",
+    "code": "LT_VL_RS2_KESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS2"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.irvintrajonosavivaldyb.zibalseninija",
+    "code": "LT_VL_RS2_ZISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS2"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.irvintrajonosavivaldyb.irvintseninija",
+    "code": "LT_VL_RS2_ISE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS2"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.irvintrajonosavivaldyb.gelvonseninija",
+    "code": "LT_VL_RS2_GESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS2"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.irvintrajonosavivaldyb.musninkseninija",
+    "code": "LT_VL_RS2_MUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS2"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniuscitymunicipality.verkiaiseninija",
+    "code": "LT_VL_VCM_VESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VCM"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniuscitymunicipality.paneriaiseninija",
+    "code": "LT_VL_VCM_PASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VCM"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniuscitymunicipality.antakalnisseninija",
+    "code": "LT_VL_VCM_ANSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VCM"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniuscitymunicipality.pailaiiaiseninija",
+    "code": "LT_VL_VCM_PASE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VCM"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniuscitymunicipality.fabijoniksseninija",
+    "code": "LT_VL_VCM_FASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VCM"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniuscitymunicipality.pilaitseninija",
+    "code": "LT_VL_VCM_PISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VCM"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniuscitymunicipality.justiniksseninija",
+    "code": "LT_VL_VCM_JUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VCM"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniuscitymunicipality.viruliksseninija",
+    "code": "LT_VL_VCM_VISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VCM"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniuscitymunicipality.ekinseninija",
+    "code": "LT_VL_VCM_ESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VCM"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniuscitymunicipality.nipiksseninija",
+    "code": "LT_VL_VCM_NSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VCM"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniuscitymunicipality.irmnaiseninija",
+    "code": "LT_VL_VCM_ISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VCM"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniuscitymunicipality.karoliniksseninija",
+    "code": "LT_VL_VCM_KASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VCM"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniuscitymunicipality.vrynasseninija",
+    "code": "LT_VL_VCM_VSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VCM"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniuscitymunicipality.grigiksseninija",
+    "code": "LT_VL_VCM_GRSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VCM"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniuscitymunicipality.lazdynaiseninija",
+    "code": "LT_VL_VCM_LASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VCM"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniuscitymunicipality.vilkpdseninija",
+    "code": "LT_VL_VCM_VISE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VCM"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniuscitymunicipality.naujamiestisseninija",
+    "code": "LT_VL_VCM_NASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VCM"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniuscitymunicipality.senamiestisoldtownseninija",
+    "code": "LT_VL_VCM_STS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VCM"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniuscitymunicipality.naujojivilniaseninija",
+    "code": "LT_VL_VCM_NVS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VCM"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniuscitymunicipality.naujininkaiseninija",
+    "code": "LT_VL_VCM_NASE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VCM"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.vilniuscitymunicipality.rasosseninija",
+    "code": "LT_VL_VCM_RASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_VCM"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.ukmergsrajonosavivaldyb.deltuvosseninija",
+    "code": "LT_VL_URS_DESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_URS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.ukmergsrajonosavivaldyb.pabaiskoseninija",
+    "code": "LT_VL_URS_PASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_URS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.ukmergsrajonosavivaldyb.pivonijosseninija",
+    "code": "LT_VL_URS_PISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_URS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.ukmergsrajonosavivaldyb.siesikseninija",
+    "code": "LT_VL_URS_SISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_URS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.ukmergsrajonosavivaldyb.taujnseninija",
+    "code": "LT_VL_URS_TASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_URS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.ukmergsrajonosavivaldyb.vepriseninija",
+    "code": "LT_VL_URS_VESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_URS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.ukmergsrajonosavivaldyb.vidikiseninija",
+    "code": "LT_VL_URS_VISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_URS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.ukmergsrajonosavivaldyb.emaitkiemioseninija",
+    "code": "LT_VL_URS_ESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_URS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.ukmergsrajonosavivaldyb.elvosseninija",
+    "code": "LT_VL_URS_ESE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_URS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.ukmergsrajonosavivaldyb.euoliseninija",
+    "code": "LT_VL_URS_ESE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_URS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.ukmergsrajonosavivaldyb.ukmergsmiestoseninija",
+    "code": "LT_VL_URS_UMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_URS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.ukmergsrajonosavivaldyb.lyduokiseninija",
+    "code": "LT_VL_URS_LYSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_URS"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.alininkrajonosavivaldyb.butrimoniseninija",
+    "code": "LT_VL_RS3_BUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS3"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.alininkrajonosavivaldyb.akmenynsseninija",
+    "code": "LT_VL_RS3_AKSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS3"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.alininkrajonosavivaldyb.eiikiseninija",
+    "code": "LT_VL_RS3_EISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS3"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.alininkrajonosavivaldyb.jainseninija",
+    "code": "LT_VL_RS3_JASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS3"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.alininkrajonosavivaldyb.kalesninkseninija",
+    "code": "LT_VL_RS3_KASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS3"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.alininkrajonosavivaldyb.pabarsseninija",
+    "code": "LT_VL_RS3_PASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS3"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.alininkrajonosavivaldyb.pokoniseninija",
+    "code": "LT_VL_RS3_POSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS3"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.alininkrajonosavivaldyb.alininkseninija",
+    "code": "LT_VL_RS3_ASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS3"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.alininkrajonosavivaldyb.dievenikiseninija",
+    "code": "LT_VL_RS3_DISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS3"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.alininkrajonosavivaldyb.gervikiseninija",
+    "code": "LT_VL_RS3_GESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS3"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.alininkrajonosavivaldyb.turgeliseninija",
+    "code": "LT_VL_RS3_TUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS3"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.alininkrajonosavivaldyb.baltosiosvoksseninija",
+    "code": "LT_VL_RS3_BVS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS3"
+  },
+  {
+    "tenantId": "lithuania.vilniuscounty.alininkrajonosavivaldyb.dainavosseninija",
+    "code": "LT_VL_RS3_DASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_VL_RS3"
+  }
+]

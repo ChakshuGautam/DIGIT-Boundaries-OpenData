@@ -1,0 +1,947 @@
+[
+  {
+    "tenantId": "portugal.castelobranco",
+    "code": "PT_05",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PT"
+  },
+  {
+    "tenantId": "portugal.castelobranco.viladerei",
+    "code": "PT_05_VDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_05"
+  },
+  {
+    "tenantId": "portugal.castelobranco.proencaanova",
+    "code": "PT_05_PROE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_05"
+  },
+  {
+    "tenantId": "portugal.castelobranco.vilavelhaderodao",
+    "code": "PT_05_VVDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_05"
+  },
+  {
+    "tenantId": "portugal.castelobranco.serta",
+    "code": "PT_05_SERT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_05"
+  },
+  {
+    "tenantId": "portugal.castelobranco.oleiros",
+    "code": "PT_05_OLEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_05"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco",
+    "code": "PT_05_CABR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_05"
+  },
+  {
+    "tenantId": "portugal.castelobranco.idanhaanova",
+    "code": "PT_05_IDAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_05"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao",
+    "code": "PT_05_FUND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_05"
+  },
+  {
+    "tenantId": "portugal.castelobranco.penamacor",
+    "code": "PT_05_PENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_05"
+  },
+  {
+    "tenantId": "portugal.castelobranco.belmonte",
+    "code": "PT_05_BELM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_05"
+  },
+  {
+    "tenantId": "portugal.castelobranco.covilha",
+    "code": "PT_05_COVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_05"
+  },
+  {
+    "tenantId": "portugal.castelobranco.viladerei.ferreiradozzere",
+    "code": "PT_05_VDR_FDZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_VDR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.viladerei.fundada",
+    "code": "PT_05_VDR_FUND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_VDR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.viladerei.uniodasfreguesiasdecernachedobonjardimne",
+    "code": "PT_05_VDR_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_VDR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.viladerei.viladerei",
+    "code": "PT_05_VDR_VDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_VDR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.proencaanova.isna",
+    "code": "PT_05_PROE_ISNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_PROE"
+  },
+  {
+    "tenantId": "portugal.castelobranco.proencaanova.sdopedrodoesteval",
+    "code": "PT_05_PROE_SPDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_PROE"
+  },
+  {
+    "tenantId": "portugal.castelobranco.proencaanova.uniodasfreguesiasdeermidaefigueiredo",
+    "code": "PT_05_PROE_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_PROE"
+  },
+  {
+    "tenantId": "portugal.castelobranco.proencaanova.uniodasfreguesiasdeproennaanovaeperal",
+    "code": "PT_05_PROE_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_PROE"
+  },
+  {
+    "tenantId": "portugal.castelobranco.proencaanova.uniodasfreguesiasdesobreiraformosaealvito",
+    "code": "PT_05_PROE_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_PROE"
+  },
+  {
+    "tenantId": "portugal.castelobranco.proencaanova.vdrzeadoscavaleiros",
+    "code": "PT_05_PROE_VDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_PROE"
+  },
+  {
+    "tenantId": "portugal.castelobranco.vilavelhaderodao.montesdasenhora",
+    "code": "PT_05_VVDR_MDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_VVDR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.vilavelhaderodao.santoandrdastojeiras",
+    "code": "PT_05_VVDR_SADT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_VVDR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.vilavelhaderodao.sarnadasderdo",
+    "code": "PT_05_VVDR_SDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_VVDR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.vilavelhaderodao.uniodasfreguesiasdecebolaisdecimaeretaxo",
+    "code": "PT_05_VVDR_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_VVDR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.vilavelhaderodao.vilavelhaderdo",
+    "code": "PT_05_VVDR_VVDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_VVDR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.serta.cabe",
+    "code": "PT_05_SERT_CABE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_SERT"
+  },
+  {
+    "tenantId": "portugal.castelobranco.serta.graa",
+    "code": "PT_05_SERT_GRA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_SERT"
+  },
+  {
+    "tenantId": "portugal.castelobranco.serta.madeirm",
+    "code": "PT_05_SERT_MADE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_SERT"
+  },
+  {
+    "tenantId": "portugal.castelobranco.serta.pedr",
+    "code": "PT_05_SERT_PEDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_SERT"
+  },
+  {
+    "tenantId": "portugal.castelobranco.serta.sert",
+    "code": "PT_05_SERT_SERT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_SERT"
+  },
+  {
+    "tenantId": "portugal.castelobranco.serta.troviscal",
+    "code": "PT_05_SERT_TROV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_SERT"
+  },
+  {
+    "tenantId": "portugal.castelobranco.serta.uniodasfreguesiasdefigueiradosvinhoseba",
+    "code": "PT_05_SERT_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_SERT"
+  },
+  {
+    "tenantId": "portugal.castelobranco.oleiros.aguasbelas",
+    "code": "PT_05_OLEI_AGBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_OLEI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.oleiros.alvaro",
+    "code": "PT_05_OLEI_ALVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_OLEI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.oleiros.cambas",
+    "code": "PT_05_OLEI_CAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_OLEI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.oleiros.oleirosamieira",
+    "code": "PT_05_OLEI_OLEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_OLEI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.oleiros.orvalho",
+    "code": "PT_05_OLEI_ORVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_OLEI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.oleiros.pampilhosadaserra",
+    "code": "PT_05_OLEI_PDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_OLEI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.oleiros.porteladofojomachio",
+    "code": "PT_05_OLEI_PDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_OLEI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.oleiros.riodemoinhos",
+    "code": "PT_05_OLEI_RDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_OLEI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.oleiros.uniodasfreguesiasdejaneirodecimaebogasd",
+    "code": "PT_05_OLEI_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_OLEI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.alcains",
+    "code": "PT_05_CABR_ALCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.almaceda",
+    "code": "PT_05_CABR_ALMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.benquerenas",
+    "code": "PT_05_CABR_BENQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.bogasdecima",
+    "code": "PT_05_CABR_BDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.castelejo",
+    "code": "PT_05_CABR_CAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.castelonovo",
+    "code": "PT_05_CABR_CANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.estreitovilarbarroco",
+    "code": "PT_05_CABR_ESBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.ladoeiro",
+    "code": "PT_05_CABR_LADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.lardosa",
+    "code": "PT_05_CABR_LARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.malpicadotejo",
+    "code": "PT_05_CABR_MDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.monfortedabeira",
+    "code": "PT_05_CABR_MDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.salgueirodocampo",
+    "code": "PT_05_CABR_SDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.sdovicentedabeira",
+    "code": "PT_05_CABR_SVDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.sarnadasdesosimo",
+    "code": "PT_05_CABR_SDSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.sarzedas",
+    "code": "PT_05_CABR_SARZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.soalheira",
+    "code": "PT_05_CABR_SOAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.soutodacasa",
+    "code": "PT_05_CABR_SDC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.tinalhas",
+    "code": "PT_05_CABR_TINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.uniodasfreguesiasdeescalosdebaixoemata",
+    "code": "PT_05_CABR_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.uniodasfreguesiasdeescalosdecimaelousa",
+    "code": "PT_05_CABR_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.uniodasfreguesiasdefreixialejuncaldocamp",
+    "code": "PT_05_CABR_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.uniodasfreguesiasdeninhodoaoresobrald",
+    "code": "PT_05_CABR_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.castelobranco.uniodasfreguesiasdep",
+    "code": "PT_05_CABR_UDFD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_CABR"
+  },
+  {
+    "tenantId": "portugal.castelobranco.idanhaanova.aldeiadesantamargarida",
+    "code": "PT_05_IDAN_ADSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_IDAN"
+  },
+  {
+    "tenantId": "portugal.castelobranco.idanhaanova.medelim",
+    "code": "PT_05_IDAN_MEDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_IDAN"
+  },
+  {
+    "tenantId": "portugal.castelobranco.idanhaanova.oledo",
+    "code": "PT_05_IDAN_OLED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_IDAN"
+  },
+  {
+    "tenantId": "portugal.castelobranco.idanhaanova.orca",
+    "code": "PT_05_IDAN_ORCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_IDAN"
+  },
+  {
+    "tenantId": "portugal.castelobranco.idanhaanova.penhagarcia",
+    "code": "PT_05_IDAN_PEGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_IDAN"
+  },
+  {
+    "tenantId": "portugal.castelobranco.idanhaanova.proendaavelha",
+    "code": "PT_05_IDAN_PROE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_IDAN"
+  },
+  {
+    "tenantId": "portugal.castelobranco.idanhaanova.rosmaninhal",
+    "code": "PT_05_IDAN_ROSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_IDAN"
+  },
+  {
+    "tenantId": "portugal.castelobranco.idanhaanova.salvador",
+    "code": "PT_05_IDAN_SALV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_IDAN"
+  },
+  {
+    "tenantId": "portugal.castelobranco.idanhaanova.sdomigueldeacha",
+    "code": "PT_05_IDAN_SMDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_IDAN"
+  },
+  {
+    "tenantId": "portugal.castelobranco.idanhaanova.toul",
+    "code": "PT_05_IDAN_TOUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_IDAN"
+  },
+  {
+    "tenantId": "portugal.castelobranco.idanhaanova.uniodasfreguesiasdealdeiadobispoguase",
+    "code": "PT_05_IDAN_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_IDAN"
+  },
+  {
+    "tenantId": "portugal.castelobranco.idanhaanova.uniodasfreguesiasdeidanhaanovaealcafozes",
+    "code": "PT_05_IDAN_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_IDAN"
+  },
+  {
+    "tenantId": "portugal.castelobranco.idanhaanova.uniodasfreguesiasdemonfortinhoesalvaterra",
+    "code": "PT_05_IDAN_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_IDAN"
+  },
+  {
+    "tenantId": "portugal.castelobranco.idanhaanova.uniodasfreguesiasdemonsantoeidanhaavelha",
+    "code": "PT_05_IDAN_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_IDAN"
+  },
+  {
+    "tenantId": "portugal.castelobranco.idanhaanova.uniodasfreguesiasdepedregrodesdopedro",
+    "code": "PT_05_IDAN_UDFD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_IDAN"
+  },
+  {
+    "tenantId": "portugal.castelobranco.idanhaanova.uniodasfreguesiasdezebreiraesegura",
+    "code": "PT_05_IDAN_UDFD6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_IDAN"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.alcaide",
+    "code": "PT_05_FUND_ALCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.alcaria",
+    "code": "PT_05_FUND_ALCA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.alcongosta",
+    "code": "PT_05_FUND_ALCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.aldeiadesofranciscodeassis",
+    "code": "PT_05_FUND_ADSF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.alpedrinha",
+    "code": "PT_05_FUND_ALPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.barroca",
+    "code": "PT_05_FUND_BARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.bemposta",
+    "code": "PT_05_FUND_BEMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.capinha",
+    "code": "PT_05_FUND_CAPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.dominguizo",
+    "code": "PT_05_FUND_DOMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.dornelasdozzere",
+    "code": "PT_05_FUND_DDZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.enxames",
+    "code": "PT_05_FUND_ENXA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.fatela",
+    "code": "PT_05_FUND_FATE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.ferro",
+    "code": "PT_05_FUND_FERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.janeirodebaixo",
+    "code": "PT_05_FUND_JDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.lavacolhos",
+    "code": "PT_05_FUND_LAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.louridaldocampo",
+    "code": "PT_05_FUND_LDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.peraboa",
+    "code": "PT_05_FUND_PERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.pdroviseu",
+    "code": "PT_05_FUND_PDVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.telhado",
+    "code": "PT_05_FUND_TELH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.trmspovos",
+    "code": "PT_05_FUND_TRPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.uniodasfreguesiasdebarcoecoutada",
+    "code": "PT_05_FUND_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.uniodasfreguesiasdecasegaseourondo",
+    "code": "PT_05_FUND_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.uniodasfreguesiasdefundmovalverdedonas",
+    "code": "PT_05_FUND_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.uniodasfreguesiasdepesoevalesdorio",
+    "code": "PT_05_FUND_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.uniodasfreguesiasdep",
+    "code": "PT_05_FUND_UDFD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.fundao.uniodasfreguesiasdevaledeprazeresematad",
+    "code": "PT_05_FUND_UDFD6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_FUND"
+  },
+  {
+    "tenantId": "portugal.castelobranco.penamacor.aranhas",
+    "code": "PT_05_PENA_ARAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_PENA"
+  },
+  {
+    "tenantId": "portugal.castelobranco.penamacor.benquerena",
+    "code": "PT_05_PENA_BENQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_PENA"
+  },
+  {
+    "tenantId": "portugal.castelobranco.penamacor.casteleiro",
+    "code": "PT_05_PENA_CAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_PENA"
+  },
+  {
+    "tenantId": "portugal.castelobranco.penamacor.castelobranco",
+    "code": "PT_05_PENA_CABR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_PENA"
+  },
+  {
+    "tenantId": "portugal.castelobranco.penamacor.meim",
+    "code": "PT_05_PENA_MEIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_PENA"
+  },
+  {
+    "tenantId": "portugal.castelobranco.penamacor.meimoa",
+    "code": "PT_05_PENA_MEIM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_PENA"
+  },
+  {
+    "tenantId": "portugal.castelobranco.penamacor.penamacor",
+    "code": "PT_05_PENA_PENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_PENA"
+  },
+  {
+    "tenantId": "portugal.castelobranco.penamacor.uniodasfreguesiasdesantoestevioemoita",
+    "code": "PT_05_PENA_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_PENA"
+  },
+  {
+    "tenantId": "portugal.castelobranco.penamacor.valedasenhoradapbvoa",
+    "code": "PT_05_PENA_VDSD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_PENA"
+  },
+  {
+    "tenantId": "portugal.castelobranco.belmonte.uniodasfreguesiasdebelmonteecolmealdator",
+    "code": "PT_05_BELM_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_BELM"
+  },
+  {
+    "tenantId": "portugal.castelobranco.belmonte.uniodasfreguesiasdevaleformosoealdeiado",
+    "code": "PT_05_BELM_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_BELM"
+  },
+  {
+    "tenantId": "portugal.castelobranco.covilha.alvocodaserra",
+    "code": "PT_05_COVI_ADS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_COVI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.covilha.boidobra",
+    "code": "PT_05_COVI_BOID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_COVI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.covilha.cortesdomeio",
+    "code": "PT_05_COVI_CDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_COVI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.covilha.erada",
+    "code": "PT_05_COVI_ERAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_COVI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.covilha.orjais",
+    "code": "PT_05_COVI_ORJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_COVI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.covilha.paul",
+    "code": "PT_05_COVI_PAUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_COVI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.covilha.sameiro",
+    "code": "PT_05_COVI_SAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_COVI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.covilha.sobraldesomiguel",
+    "code": "PT_05_COVI_SDSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_COVI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.covilha.teixeira",
+    "code": "PT_05_COVI_TEIX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_COVI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.covilha.tortosendo",
+    "code": "PT_05_COVI_TORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_COVI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.covilha.unhaisdaserra",
+    "code": "PT_05_COVI_UDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_COVI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.covilha.uniodasfreguesiasdecantargaloeviladocar",
+    "code": "PT_05_COVI_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_COVI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.covilha.uniodasfreguesiasdecovilhecanhoso",
+    "code": "PT_05_COVI_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_COVI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.covilha.uniodasfreguesiasdeteixosoesarzedo",
+    "code": "PT_05_COVI_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_COVI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.covilha.valhelhas",
+    "code": "PT_05_COVI_VALH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_COVI"
+  },
+  {
+    "tenantId": "portugal.castelobranco.covilha.verdelhos",
+    "code": "PT_05_COVI_VERD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_05_COVI"
+  }
+]

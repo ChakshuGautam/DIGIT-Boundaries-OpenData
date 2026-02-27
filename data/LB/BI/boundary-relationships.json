@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "lebanon.bqaa",
+    "code": "LB_BI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "LB"
+  },
+  {
+    "tenantId": "lebanon.bqaa.rachaya",
+    "code": "LB_BI_RACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LB_BI"
+  },
+  {
+    "tenantId": "lebanon.bqaa.westbekaa",
+    "code": "LB_BI_WEBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LB_BI"
+  },
+  {
+    "tenantId": "lebanon.bqaa.zahle",
+    "code": "LB_BI_ZAHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LB_BI"
+  }
+]

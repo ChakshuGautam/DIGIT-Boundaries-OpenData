@@ -1,0 +1,226 @@
+[
+  {
+    "tenantId": "france.hautsdefrance",
+    "code": "FR_HDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "FR"
+  },
+  {
+    "tenantId": "france.hautsdefrance.aisne",
+    "code": "FR_HDF_AISN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_HDF"
+  },
+  {
+    "tenantId": "france.hautsdefrance.nord",
+    "code": "FR_HDF_NORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_HDF"
+  },
+  {
+    "tenantId": "france.hautsdefrance.oise",
+    "code": "FR_HDF_OISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_HDF"
+  },
+  {
+    "tenantId": "france.hautsdefrance.pasdecalais",
+    "code": "FR_HDF_PAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_HDF"
+  },
+  {
+    "tenantId": "france.hautsdefrance.somme",
+    "code": "FR_HDF_SOMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_HDF"
+  },
+  {
+    "tenantId": "france.hautsdefrance.aisne.chteauthierry",
+    "code": "FR_HDF_AISN_CHT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_AISN"
+  },
+  {
+    "tenantId": "france.hautsdefrance.aisne.laon",
+    "code": "FR_HDF_AISN_LAON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_AISN"
+  },
+  {
+    "tenantId": "france.hautsdefrance.aisne.saintquentin",
+    "code": "FR_HDF_AISN_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_AISN"
+  },
+  {
+    "tenantId": "france.hautsdefrance.aisne.soissons",
+    "code": "FR_HDF_AISN_SOIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_AISN"
+  },
+  {
+    "tenantId": "france.hautsdefrance.aisne.vervins",
+    "code": "FR_HDF_AISN_VERV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_AISN"
+  },
+  {
+    "tenantId": "france.hautsdefrance.nord.avesnessurhelpe",
+    "code": "FR_HDF_NORD_AVES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_NORD"
+  },
+  {
+    "tenantId": "france.hautsdefrance.nord.cambrai",
+    "code": "FR_HDF_NORD_CAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_NORD"
+  },
+  {
+    "tenantId": "france.hautsdefrance.nord.douai",
+    "code": "FR_HDF_NORD_DOUA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_NORD"
+  },
+  {
+    "tenantId": "france.hautsdefrance.nord.dunkerque",
+    "code": "FR_HDF_NORD_DUNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_NORD"
+  },
+  {
+    "tenantId": "france.hautsdefrance.nord.lille",
+    "code": "FR_HDF_NORD_LILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_NORD"
+  },
+  {
+    "tenantId": "france.hautsdefrance.nord.valenciennes",
+    "code": "FR_HDF_NORD_VALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_NORD"
+  },
+  {
+    "tenantId": "france.hautsdefrance.oise.beauvais",
+    "code": "FR_HDF_OISE_BEAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_OISE"
+  },
+  {
+    "tenantId": "france.hautsdefrance.oise.clermont",
+    "code": "FR_HDF_OISE_CLER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_OISE"
+  },
+  {
+    "tenantId": "france.hautsdefrance.oise.compigne",
+    "code": "FR_HDF_OISE_COMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_OISE"
+  },
+  {
+    "tenantId": "france.hautsdefrance.oise.senlis",
+    "code": "FR_HDF_OISE_SENL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_OISE"
+  },
+  {
+    "tenantId": "france.hautsdefrance.pasdecalais.arras",
+    "code": "FR_HDF_PAS_ARRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_PAS"
+  },
+  {
+    "tenantId": "france.hautsdefrance.pasdecalais.bthune",
+    "code": "FR_HDF_PAS_BTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_PAS"
+  },
+  {
+    "tenantId": "france.hautsdefrance.pasdecalais.boulognesurmer",
+    "code": "FR_HDF_PAS_BOUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_PAS"
+  },
+  {
+    "tenantId": "france.hautsdefrance.pasdecalais.montreuil",
+    "code": "FR_HDF_PAS_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_PAS"
+  },
+  {
+    "tenantId": "france.hautsdefrance.pasdecalais.saintomer",
+    "code": "FR_HDF_PAS_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_PAS"
+  },
+  {
+    "tenantId": "france.hautsdefrance.pasdecalais.calais",
+    "code": "FR_HDF_PAS_CALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_PAS"
+  },
+  {
+    "tenantId": "france.hautsdefrance.pasdecalais.lens",
+    "code": "FR_HDF_PAS_LENS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_PAS"
+  },
+  {
+    "tenantId": "france.hautsdefrance.somme.abbeville",
+    "code": "FR_HDF_SOMM_ABBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_SOMM"
+  },
+  {
+    "tenantId": "france.hautsdefrance.somme.amiens",
+    "code": "FR_HDF_SOMM_AMIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_SOMM"
+  },
+  {
+    "tenantId": "france.hautsdefrance.somme.montdidier",
+    "code": "FR_HDF_SOMM_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_SOMM"
+  },
+  {
+    "tenantId": "france.hautsdefrance.somme.pronne",
+    "code": "FR_HDF_SOMM_PRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_HDF_SOMM"
+  }
+]

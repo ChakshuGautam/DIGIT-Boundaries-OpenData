@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "chad.ennediouest",
+    "code": "TD_EO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TD"
+  },
+  {
+    "tenantId": "chad.ennediouest.fada",
+    "code": "TD_EO_FADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_EO"
+  },
+  {
+    "tenantId": "chad.ennediouest.mourtcha",
+    "code": "TD_EO_MOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_EO"
+  }
+]

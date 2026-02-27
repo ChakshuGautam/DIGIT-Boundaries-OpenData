@@ -1,0 +1,51 @@
+[
+  {
+    "tenantId": "newzealand.gisborneregion",
+    "code": "NZ_GIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NZ"
+  },
+  {
+    "tenantId": "newzealand.gisborneregion.gisbornedistrict",
+    "code": "NZ_GIS_GIDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_GIS"
+  },
+  {
+    "tenantId": "newzealand.gisborneregion.gisbornedistrict.matakaoawaiapuward",
+    "code": "NZ_GIS_GIDI_MAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_GIS_GIDI"
+  },
+  {
+    "tenantId": "newzealand.gisborneregion.gisbornedistrict.waipaoaward",
+    "code": "NZ_GIS_GIDI_WAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_GIS_GIDI"
+  },
+  {
+    "tenantId": "newzealand.gisborneregion.gisbornedistrict.tawhitiuawaward",
+    "code": "NZ_GIS_GIDI_TAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_GIS_GIDI"
+  },
+  {
+    "tenantId": "newzealand.gisborneregion.gisbornedistrict.taruherupatutahiward",
+    "code": "NZ_GIS_GIDI_TAWA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_GIS_GIDI"
+  },
+  {
+    "tenantId": "newzealand.gisborneregion.gisbornedistrict.gisborneward",
+    "code": "NZ_GIS_GIDI_GIWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_GIS_GIDI"
+  }
+]

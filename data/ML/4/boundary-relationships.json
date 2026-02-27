@@ -1,0 +1,891 @@
+[
+  {
+    "tenantId": "mali.segou",
+    "code": "ML_4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "ML"
+  },
+  {
+    "tenantId": "mali.segou.baroueli",
+    "code": "ML_4_BARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ML_4"
+  },
+  {
+    "tenantId": "mali.segou.bla",
+    "code": "ML_4_BLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ML_4"
+  },
+  {
+    "tenantId": "mali.segou.macina",
+    "code": "ML_4_MACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ML_4"
+  },
+  {
+    "tenantId": "mali.segou.niono",
+    "code": "ML_4_NION",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ML_4"
+  },
+  {
+    "tenantId": "mali.segou.san",
+    "code": "ML_4_SAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ML_4"
+  },
+  {
+    "tenantId": "mali.segou.segou",
+    "code": "ML_4_SEGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ML_4"
+  },
+  {
+    "tenantId": "mali.segou.tominian",
+    "code": "ML_4_TOMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ML_4"
+  },
+  {
+    "tenantId": "mali.segou.baroueli.boidie",
+    "code": "ML_4_BARO_BOID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BARO"
+  },
+  {
+    "tenantId": "mali.segou.baroueli.tamani",
+    "code": "ML_4_BARO_TAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BARO"
+  },
+  {
+    "tenantId": "mali.segou.baroueli.somo",
+    "code": "ML_4_BARO_SOMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BARO"
+  },
+  {
+    "tenantId": "mali.segou.baroueli.dougoufie",
+    "code": "ML_4_BARO_DOUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BARO"
+  },
+  {
+    "tenantId": "mali.segou.baroueli.tesserla",
+    "code": "ML_4_BARO_TESS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BARO"
+  },
+  {
+    "tenantId": "mali.segou.baroueli.ngara",
+    "code": "ML_4_BARO_NGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BARO"
+  },
+  {
+    "tenantId": "mali.segou.baroueli.konobougou",
+    "code": "ML_4_BARO_KONO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BARO"
+  },
+  {
+    "tenantId": "mali.segou.baroueli.kalake",
+    "code": "ML_4_BARO_KALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BARO"
+  },
+  {
+    "tenantId": "mali.segou.baroueli.baraoueli",
+    "code": "ML_4_BARO_BARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BARO"
+  },
+  {
+    "tenantId": "mali.segou.baroueli.gouendo",
+    "code": "ML_4_BARO_GOUE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BARO"
+  },
+  {
+    "tenantId": "mali.segou.baroueli.falo",
+    "code": "ML_4_BARO_FALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BARO"
+  },
+  {
+    "tenantId": "mali.segou.baroueli.sanando",
+    "code": "ML_4_BARO_SANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BARO"
+  },
+  {
+    "tenantId": "mali.segou.baroueli.ngassola",
+    "code": "ML_4_BARO_NGA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BARO"
+  },
+  {
+    "tenantId": "mali.segou.baroueli.samine",
+    "code": "ML_4_BARO_SAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BARO"
+  },
+  {
+    "tenantId": "mali.segou.bla.koulandougou",
+    "code": "ML_4_BLA_KOUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BLA"
+  },
+  {
+    "tenantId": "mali.segou.bla.samabogo",
+    "code": "ML_4_BLA_SAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BLA"
+  },
+  {
+    "tenantId": "mali.segou.bla.tiemena",
+    "code": "ML_4_BLA_TIEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BLA"
+  },
+  {
+    "tenantId": "mali.segou.bla.beguene",
+    "code": "ML_4_BLA_BEGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BLA"
+  },
+  {
+    "tenantId": "mali.segou.bla.bla",
+    "code": "ML_4_BLA_BLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BLA"
+  },
+  {
+    "tenantId": "mali.segou.bla.diaramana",
+    "code": "ML_4_BLA_DIAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BLA"
+  },
+  {
+    "tenantId": "mali.segou.bla.dougouolo",
+    "code": "ML_4_BLA_DOUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BLA"
+  },
+  {
+    "tenantId": "mali.segou.bla.kazangasso",
+    "code": "ML_4_BLA_KAZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BLA"
+  },
+  {
+    "tenantId": "mali.segou.bla.kemeni",
+    "code": "ML_4_BLA_KEME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BLA"
+  },
+  {
+    "tenantId": "mali.segou.bla.niala",
+    "code": "ML_4_BLA_NIAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BLA"
+  },
+  {
+    "tenantId": "mali.segou.bla.somasso",
+    "code": "ML_4_BLA_SOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BLA"
+  },
+  {
+    "tenantId": "mali.segou.bla.yangasso",
+    "code": "ML_4_BLA_YANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BLA"
+  },
+  {
+    "tenantId": "mali.segou.bla.diena",
+    "code": "ML_4_BLA_DIEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BLA"
+  },
+  {
+    "tenantId": "mali.segou.bla.niantaga",
+    "code": "ML_4_BLA_NIAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BLA"
+  },
+  {
+    "tenantId": "mali.segou.bla.touna",
+    "code": "ML_4_BLA_TOUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BLA"
+  },
+  {
+    "tenantId": "mali.segou.bla.korodougou",
+    "code": "ML_4_BLA_KORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BLA"
+  },
+  {
+    "tenantId": "mali.segou.bla.fani",
+    "code": "ML_4_BLA_FANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_BLA"
+  },
+  {
+    "tenantId": "mali.segou.macina.monimpebougou",
+    "code": "ML_4_MACI_MONI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_MACI"
+  },
+  {
+    "tenantId": "mali.segou.macina.macina",
+    "code": "ML_4_MACI_MACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_MACI"
+  },
+  {
+    "tenantId": "mali.segou.macina.kolongo",
+    "code": "ML_4_MACI_KOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_MACI"
+  },
+  {
+    "tenantId": "mali.segou.macina.kokrycentre",
+    "code": "ML_4_MACI_KOCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_MACI"
+  },
+  {
+    "tenantId": "mali.segou.macina.folomana",
+    "code": "ML_4_MACI_FOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_MACI"
+  },
+  {
+    "tenantId": "mali.segou.macina.bokywere",
+    "code": "ML_4_MACI_BOWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_MACI"
+  },
+  {
+    "tenantId": "mali.segou.macina.tongue",
+    "code": "ML_4_MACI_TONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_MACI"
+  },
+  {
+    "tenantId": "mali.segou.macina.matomo",
+    "code": "ML_4_MACI_MATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_MACI"
+  },
+  {
+    "tenantId": "mali.segou.macina.souleye",
+    "code": "ML_4_MACI_SOUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_MACI"
+  },
+  {
+    "tenantId": "mali.segou.macina.sana",
+    "code": "ML_4_MACI_SANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_MACI"
+  },
+  {
+    "tenantId": "mali.segou.macina.saloba",
+    "code": "ML_4_MACI_SALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_MACI"
+  },
+  {
+    "tenantId": "mali.segou.niono.yeredonsaniona",
+    "code": "ML_4_NION_YESA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_NION"
+  },
+  {
+    "tenantId": "mali.segou.niono.toridagako",
+    "code": "ML_4_NION_TOKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_NION"
+  },
+  {
+    "tenantId": "mali.segou.niono.pogo",
+    "code": "ML_4_NION_POGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_NION"
+  },
+  {
+    "tenantId": "mali.segou.niono.nampalari",
+    "code": "ML_4_NION_NAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_NION"
+  },
+  {
+    "tenantId": "mali.segou.niono.sokolo",
+    "code": "ML_4_NION_SOKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_NION"
+  },
+  {
+    "tenantId": "mali.segou.niono.diabaly",
+    "code": "ML_4_NION_DIAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_NION"
+  },
+  {
+    "tenantId": "mali.segou.niono.mariko",
+    "code": "ML_4_NION_MARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_NION"
+  },
+  {
+    "tenantId": "mali.segou.niono.niono",
+    "code": "ML_4_NION_NION",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_NION"
+  },
+  {
+    "tenantId": "mali.segou.niono.dogofry",
+    "code": "ML_4_NION_DOGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_NION"
+  },
+  {
+    "tenantId": "mali.segou.niono.sirifilaboundy",
+    "code": "ML_4_NION_SIBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_NION"
+  },
+  {
+    "tenantId": "mali.segou.niono.kalasiguida",
+    "code": "ML_4_NION_KASI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_NION"
+  },
+  {
+    "tenantId": "mali.segou.niono.siribala",
+    "code": "ML_4_NION_SIRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_NION"
+  },
+  {
+    "tenantId": "mali.segou.san.diakourouna",
+    "code": "ML_4_SAN_DIAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.djeguena",
+    "code": "ML_4_SAN_DJEG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.karaba",
+    "code": "ML_4_SAN_KARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.niamana",
+    "code": "ML_4_SAN_NIAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.ntorosso",
+    "code": "ML_4_SAN_NTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.sourountouna",
+    "code": "ML_4_SAN_SOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.tene",
+    "code": "ML_4_SAN_TENE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.waki",
+    "code": "ML_4_SAN_WAKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.kassorola",
+    "code": "ML_4_SAN_KASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.kaniegue",
+    "code": "ML_4_SAN_KANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.dieli",
+    "code": "ML_4_SAN_DIEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.kava",
+    "code": "ML_4_SAN_KAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.fion",
+    "code": "ML_4_SAN_FION",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.sancommune",
+    "code": "ML_4_SAN_SACO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.moribila",
+    "code": "ML_4_SAN_MORI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.tourakolomba",
+    "code": "ML_4_SAN_TOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.ngoa",
+    "code": "ML_4_SAN_NGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.siadougou",
+    "code": "ML_4_SAN_SIAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.niasso",
+    "code": "ML_4_SAN_NIAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.sy",
+    "code": "ML_4_SAN_SY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.ouolon",
+    "code": "ML_4_SAN_OUOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.teneni",
+    "code": "ML_4_SAN_TENE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.baramandougou",
+    "code": "ML_4_SAN_BARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.somo",
+    "code": "ML_4_SAN_SOMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.san.dah",
+    "code": "ML_4_SAN_DAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SAN"
+  },
+  {
+    "tenantId": "mali.segou.segou.souba",
+    "code": "ML_4_SEGO_SOUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.konodimini",
+    "code": "ML_4_SEGO_KONO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.segoucommune",
+    "code": "ML_4_SEGO_SECO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.samafoulala",
+    "code": "ML_4_SEGO_SAFO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.farako",
+    "code": "ML_4_SEGO_FARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.sebougou",
+    "code": "ML_4_SEGO_SEBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.diganibougou",
+    "code": "ML_4_SEGO_DIGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.sakoiba",
+    "code": "ML_4_SEGO_SAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.pelengana",
+    "code": "ML_4_SEGO_PELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.markala",
+    "code": "ML_4_SEGO_MARK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.farakoumassa",
+    "code": "ML_4_SEGO_FAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.dougabougou",
+    "code": "ML_4_SEGO_DOUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.diouna",
+    "code": "ML_4_SEGO_DIOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.dioro",
+    "code": "ML_4_SEGO_DIOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.diedougou",
+    "code": "ML_4_SEGO_DIED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.togou",
+    "code": "ML_4_SEGO_TOGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.soignebougou",
+    "code": "ML_4_SEGO_SOIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.sibila",
+    "code": "ML_4_SEGO_SIBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.sansanding",
+    "code": "ML_4_SEGO_SANS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.nkoumandougou",
+    "code": "ML_4_SEGO_NKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.massala",
+    "code": "ML_4_SEGO_MASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.kamiandougou",
+    "code": "ML_4_SEGO_KAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.boussin",
+    "code": "ML_4_SEGO_BOUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.bellen",
+    "code": "ML_4_SEGO_BELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.baguindabougou",
+    "code": "ML_4_SEGO_BAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.katiena",
+    "code": "ML_4_SEGO_KATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.fatine",
+    "code": "ML_4_SEGO_FATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.segou.cinzana",
+    "code": "ML_4_SEGO_CINZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_SEGO"
+  },
+  {
+    "tenantId": "mali.segou.tominian.tominian",
+    "code": "ML_4_TOMI_TOMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_TOMI"
+  },
+  {
+    "tenantId": "mali.segou.tominian.benena",
+    "code": "ML_4_TOMI_BENE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_TOMI"
+  },
+  {
+    "tenantId": "mali.segou.tominian.fangasso",
+    "code": "ML_4_TOMI_FANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_TOMI"
+  },
+  {
+    "tenantId": "mali.segou.tominian.koula",
+    "code": "ML_4_TOMI_KOUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_TOMI"
+  },
+  {
+    "tenantId": "mali.segou.tominian.mafoune",
+    "code": "ML_4_TOMI_MAFO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_TOMI"
+  },
+  {
+    "tenantId": "mali.segou.tominian.ouan",
+    "code": "ML_4_TOMI_OUAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_TOMI"
+  },
+  {
+    "tenantId": "mali.segou.tominian.mandiakuy",
+    "code": "ML_4_TOMI_MAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_TOMI"
+  },
+  {
+    "tenantId": "mali.segou.tominian.lanfiala",
+    "code": "ML_4_TOMI_LANF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_TOMI"
+  },
+  {
+    "tenantId": "mali.segou.tominian.yasso",
+    "code": "ML_4_TOMI_YASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_TOMI"
+  },
+  {
+    "tenantId": "mali.segou.tominian.sanekuy",
+    "code": "ML_4_TOMI_SANE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_TOMI"
+  },
+  {
+    "tenantId": "mali.segou.tominian.diora",
+    "code": "ML_4_TOMI_DIOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_TOMI"
+  },
+  {
+    "tenantId": "mali.segou.tominian.timissa",
+    "code": "ML_4_TOMI_TIMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_4_TOMI"
+  }
+]

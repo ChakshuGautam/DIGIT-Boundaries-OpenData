@@ -1,0 +1,5518 @@
+[
+  {
+    "tenantId": "spain.andaluca",
+    "code": "ES_ANDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "ES"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria",
+    "code": "ES_ANDA_ALME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_ANDA"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz",
+    "code": "ES_ANDA_CADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_ANDA"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba",
+    "code": "ES_ANDA_CORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_ANDA"
+  },
+  {
+    "tenantId": "spain.andaluca.granada",
+    "code": "ES_ANDA_GRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_ANDA"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva",
+    "code": "ES_ANDA_HUEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_ANDA"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen",
+    "code": "ES_ANDA_JAEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_ANDA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga",
+    "code": "ES_ANDA_MALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_ANDA"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla",
+    "code": "ES_ANDA_SEVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ES_ANDA"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.abla",
+    "code": "ES_ANDA_ALME_ABLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.abrucena",
+    "code": "ES_ANDA_ALME_ABRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.adra",
+    "code": "ES_ANDA_ALME_ADRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.albanchez",
+    "code": "ES_ANDA_ALME_ALBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.alboloduy",
+    "code": "ES_ANDA_ALME_ALBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.albox",
+    "code": "ES_ANDA_ALME_ALBO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.alcolea",
+    "code": "ES_ANDA_ALME_ALCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.alcntar",
+    "code": "ES_ANDA_ALME_ALC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.alcudiademonteagud",
+    "code": "ES_ANDA_ALME_ADM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.alhabia",
+    "code": "ES_ANDA_ALME_ALHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.alhamadealmera",
+    "code": "ES_ANDA_ALME_ADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.alicn",
+    "code": "ES_ANDA_ALME_ALIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.almcita",
+    "code": "ES_ANDA_ALME_ALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.alsodux",
+    "code": "ES_ANDA_ALME_ALSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.antas",
+    "code": "ES_ANDA_ALME_ANTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.arboleas",
+    "code": "ES_ANDA_ALME_ARBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.armuadealmanzora",
+    "code": "ES_ANDA_ALME_ADA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.bacares",
+    "code": "ES_ANDA_ALME_BACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.bayrcal",
+    "code": "ES_ANDA_ALME_BAY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.bayarque",
+    "code": "ES_ANDA_ALME_BAYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.bdar",
+    "code": "ES_ANDA_ALME_BDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.beires",
+    "code": "ES_ANDA_ALME_BEIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.benahadux",
+    "code": "ES_ANDA_ALME_BENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.benitagla",
+    "code": "ES_ANDA_ALME_BENI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.benizaln",
+    "code": "ES_ANDA_ALME_BENI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.bentarique",
+    "code": "ES_ANDA_ALME_BENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.berja",
+    "code": "ES_ANDA_ALME_BERJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.canjyar",
+    "code": "ES_ANDA_ALME_CANJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.cantoria",
+    "code": "ES_ANDA_ALME_CANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.carboneras",
+    "code": "ES_ANDA_ALME_CARB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.castrodefilabres",
+    "code": "ES_ANDA_ALME_CDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.cbdar",
+    "code": "ES_ANDA_ALME_CBD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.cuevasdelalmanzora",
+    "code": "ES_ANDA_ALME_CDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.chercos",
+    "code": "ES_ANDA_ALME_CHER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.chirivel",
+    "code": "ES_ANDA_ALME_CHIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.dalas",
+    "code": "ES_ANDA_ALME_DAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.enix",
+    "code": "ES_ANDA_ALME_ENIX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.felix",
+    "code": "ES_ANDA_ALME_FELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.fines",
+    "code": "ES_ANDA_ALME_FINE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.fiana",
+    "code": "ES_ANDA_ALME_FIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.fondn",
+    "code": "ES_ANDA_ALME_FOND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.gdor",
+    "code": "ES_ANDA_ALME_GDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.losgallardos",
+    "code": "ES_ANDA_ALME_LOGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.garrucha",
+    "code": "ES_ANDA_ALME_GARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.grgal",
+    "code": "ES_ANDA_ALME_GRG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.hucija",
+    "code": "ES_ANDA_ALME_HUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.hurcaldealmera",
+    "code": "ES_ANDA_ALME_HDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.hurcalovera",
+    "code": "ES_ANDA_ALME_HUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.llar",
+    "code": "ES_ANDA_ALME_LLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.instincin",
+    "code": "ES_ANDA_ALME_INST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.laroya",
+    "code": "ES_ANDA_ALME_LARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.lujardeandarax",
+    "code": "ES_ANDA_ALME_LDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.ljar",
+    "code": "ES_ANDA_ALME_LJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.lubrn",
+    "code": "ES_ANDA_ALME_LUBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.lucainenadelastorres",
+    "code": "ES_ANDA_ALME_LDLT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.lcar",
+    "code": "ES_ANDA_ALME_LCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.macael",
+    "code": "ES_ANDA_ALME_MACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.mara",
+    "code": "ES_ANDA_ALME_MAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.mojcar",
+    "code": "ES_ANDA_ALME_MOJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.nacimiento",
+    "code": "ES_ANDA_ALME_NACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.njar",
+    "code": "ES_ANDA_ALME_NJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.ohanes",
+    "code": "ES_ANDA_ALME_OHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.oluladecastro",
+    "code": "ES_ANDA_ALME_ODC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.oluladelro",
+    "code": "ES_ANDA_ALME_ODR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.oria",
+    "code": "ES_ANDA_ALME_ORIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.padules",
+    "code": "ES_ANDA_ALME_PADU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.partaloa",
+    "code": "ES_ANDA_ALME_PART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.paternadelro",
+    "code": "ES_ANDA_ALME_PDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.pechina",
+    "code": "ES_ANDA_ALME_PECH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.pulp",
+    "code": "ES_ANDA_ALME_PULP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.purchena",
+    "code": "ES_ANDA_ALME_PURC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.rgol",
+    "code": "ES_ANDA_ALME_RGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.rioja",
+    "code": "ES_ANDA_ALME_RIOJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.roquetasdemar",
+    "code": "ES_ANDA_ALME_RDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.santacruzdemarchena",
+    "code": "ES_ANDA_ALME_SCDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.santafedemondjar",
+    "code": "ES_ANDA_ALME_SFDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.sens",
+    "code": "ES_ANDA_ALME_SEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.sern",
+    "code": "ES_ANDA_ALME_SER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.sierro",
+    "code": "ES_ANDA_ALME_SIER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.somontn",
+    "code": "ES_ANDA_ALME_SOMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.sorbas",
+    "code": "ES_ANDA_ALME_SORB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.sufl",
+    "code": "ES_ANDA_ALME_SUFL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.tabernas",
+    "code": "ES_ANDA_ALME_TABE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.taberno",
+    "code": "ES_ANDA_ALME_TABE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.tahal",
+    "code": "ES_ANDA_ALME_TAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.terque",
+    "code": "ES_ANDA_ALME_TERQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.tjola",
+    "code": "ES_ANDA_ALME_TJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.turre",
+    "code": "ES_ANDA_ALME_TURR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.turrillas",
+    "code": "ES_ANDA_ALME_TURR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.uleiladelcampo",
+    "code": "ES_ANDA_ALME_UDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.urrcal",
+    "code": "ES_ANDA_ALME_URR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.velefique",
+    "code": "ES_ANDA_ALME_VELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.vlezblanco",
+    "code": "ES_ANDA_ALME_VLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.vlezrubio",
+    "code": "ES_ANDA_ALME_VLE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.vera",
+    "code": "ES_ANDA_ALME_VERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.viator",
+    "code": "ES_ANDA_ALME_VIAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.vcar",
+    "code": "ES_ANDA_ALME_VCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.zurgena",
+    "code": "ES_ANDA_ALME_ZURG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.lastresvillas",
+    "code": "ES_ANDA_ALME_LTV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.elejido",
+    "code": "ES_ANDA_ALME_ELEJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.lamojonera",
+    "code": "ES_ANDA_ALME_LAMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.balanegra",
+    "code": "ES_ANDA_ALME_BALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.almeria.almera",
+    "code": "ES_ANDA_ALME_ALME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_ALME"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.alcaldelosgazules",
+    "code": "ES_ANDA_CADI_ADLG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.alcaldelvalle",
+    "code": "ES_ANDA_CADI_ADV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.algar",
+    "code": "ES_ANDA_CADI_ALGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.algeciras",
+    "code": "ES_ANDA_CADI_ALGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.algodonales",
+    "code": "ES_ANDA_CADI_ALGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.arcosdelafrontera",
+    "code": "ES_ANDA_CADI_ADLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.barbate",
+    "code": "ES_ANDA_CADI_BARB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.losbarrios",
+    "code": "ES_ANDA_CADI_LOBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.benaocaz",
+    "code": "ES_ANDA_CADI_BENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.bornos",
+    "code": "ES_ANDA_CADI_BORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.elbosque",
+    "code": "ES_ANDA_CADI_ELBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.cdiz",
+    "code": "ES_ANDA_CADI_CDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.castellardelafrontera",
+    "code": "ES_ANDA_CADI_CDLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.conildelafrontera",
+    "code": "ES_ANDA_CADI_CDLF2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.chiclanadelafrontera",
+    "code": "ES_ANDA_CADI_CDLF3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.chipiona",
+    "code": "ES_ANDA_CADI_CHIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.espera",
+    "code": "ES_ANDA_CADI_ESPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.elgastor",
+    "code": "ES_ANDA_CADI_ELGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.grazalema",
+    "code": "ES_ANDA_CADI_GRAZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.jerezdelafrontera",
+    "code": "ES_ANDA_CADI_JDLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.jimenadelafrontera",
+    "code": "ES_ANDA_CADI_JDLF2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.lalneadelaconcepcin",
+    "code": "ES_ANDA_CADI_LLDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.medinasidonia",
+    "code": "ES_ANDA_CADI_MEDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.olvera",
+    "code": "ES_ANDA_CADI_OLVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.paternaderivera",
+    "code": "ES_ANDA_CADI_PDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.pradodelrey",
+    "code": "ES_ANDA_CADI_PDR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.elpuertodesantamara",
+    "code": "ES_ANDA_CADI_EPDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.puertoreal",
+    "code": "ES_ANDA_CADI_PURE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.rota",
+    "code": "ES_ANDA_CADI_ROTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.sanfernando",
+    "code": "ES_ANDA_CADI_SAFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.sanlcardebarrameda",
+    "code": "ES_ANDA_CADI_SDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.sanroque",
+    "code": "ES_ANDA_CADI_SARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.setenildelasbodegas",
+    "code": "ES_ANDA_CADI_SDLB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.tarifa",
+    "code": "ES_ANDA_CADI_TARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.torrealhquime",
+    "code": "ES_ANDA_CADI_TOAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.trebujena",
+    "code": "ES_ANDA_CADI_TREB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.ubrique",
+    "code": "ES_ANDA_CADI_UBRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.vejerdelafrontera",
+    "code": "ES_ANDA_CADI_VDLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.villaluengadelrosario",
+    "code": "ES_ANDA_CADI_VDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.villamartn",
+    "code": "ES_ANDA_CADI_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.zahara",
+    "code": "ES_ANDA_CADI_ZAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.benalupcasasviejas",
+    "code": "ES_ANDA_CADI_BEVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cadiz.sanjosdelvalle",
+    "code": "ES_ANDA_CADI_SJDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CADI"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.adamuz",
+    "code": "ES_ANDA_CORD_ADAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.aguilardelafrontera",
+    "code": "ES_ANDA_CORD_ADLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.alcaracejos",
+    "code": "ES_ANDA_CORD_ALCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.almedinilla",
+    "code": "ES_ANDA_CORD_ALME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.almodvardelro",
+    "code": "ES_ANDA_CORD_ADR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.aora",
+    "code": "ES_ANDA_CORD_AOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.baena",
+    "code": "ES_ANDA_CORD_BAEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.belalczar",
+    "code": "ES_ANDA_CORD_BELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.belmez",
+    "code": "ES_ANDA_CORD_BELM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.benamej",
+    "code": "ES_ANDA_CORD_BENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.losblzquez",
+    "code": "ES_ANDA_CORD_LOBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.bujalance",
+    "code": "ES_ANDA_CORD_BUJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.cabra",
+    "code": "ES_ANDA_CORD_CABR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.caetedelastorres",
+    "code": "ES_ANDA_CORD_CDLT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.carcabuey",
+    "code": "ES_ANDA_CORD_CARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.cardea",
+    "code": "ES_ANDA_CORD_CARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.lacarlota",
+    "code": "ES_ANDA_CORD_LACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.elcarpio",
+    "code": "ES_ANDA_CORD_ELCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.castrodelro",
+    "code": "ES_ANDA_CORD_CDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.conquista",
+    "code": "ES_ANDA_CORD_CONQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.crdoba",
+    "code": "ES_ANDA_CORD_CRD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.doamenca",
+    "code": "ES_ANDA_CORD_DOME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.dostorres",
+    "code": "ES_ANDA_CORD_DOTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.encinasreales",
+    "code": "ES_ANDA_CORD_ENRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.espejo",
+    "code": "ES_ANDA_CORD_ESPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.espiel",
+    "code": "ES_ANDA_CORD_ESPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.fernnnez",
+    "code": "ES_ANDA_CORD_FERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.fuentelalancha",
+    "code": "ES_ANDA_CORD_FLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.fuenteobejuna",
+    "code": "ES_ANDA_CORD_FUOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.fuentepalmera",
+    "code": "ES_ANDA_CORD_FUPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.fuentetjar",
+    "code": "ES_ANDA_CORD_FUEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.lagranjuela",
+    "code": "ES_ANDA_CORD_LAGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.guadalczar",
+    "code": "ES_ANDA_CORD_GUAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.elguijo",
+    "code": "ES_ANDA_CORD_ELGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.hinojosadelduque",
+    "code": "ES_ANDA_CORD_HDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.hornachuelos",
+    "code": "ES_ANDA_CORD_HORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.iznjar",
+    "code": "ES_ANDA_CORD_IZN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.lucena",
+    "code": "ES_ANDA_CORD_LUCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.luque",
+    "code": "ES_ANDA_CORD_LUQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.montalbndecrdoba",
+    "code": "ES_ANDA_CORD_MDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.montemayor",
+    "code": "ES_ANDA_CORD_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.montilla",
+    "code": "ES_ANDA_CORD_MONT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.montoro",
+    "code": "ES_ANDA_CORD_MONT3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.monturque",
+    "code": "ES_ANDA_CORD_MONT4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.moriles",
+    "code": "ES_ANDA_CORD_MORI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.nuevacarteya",
+    "code": "ES_ANDA_CORD_NUCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.obejo",
+    "code": "ES_ANDA_CORD_OBEJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.palenciana",
+    "code": "ES_ANDA_CORD_PALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.palmadelro",
+    "code": "ES_ANDA_CORD_PDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.pedroabad",
+    "code": "ES_ANDA_CORD_PEAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.pedroche",
+    "code": "ES_ANDA_CORD_PEDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.pearroyapueblonuevo",
+    "code": "ES_ANDA_CORD_PEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.posadas",
+    "code": "ES_ANDA_CORD_POSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.pozoblanco",
+    "code": "ES_ANDA_CORD_POZO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.priegodecrdoba",
+    "code": "ES_ANDA_CORD_PDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.puentegenil",
+    "code": "ES_ANDA_CORD_PUGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.larambla",
+    "code": "ES_ANDA_CORD_LARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.rute",
+    "code": "ES_ANDA_CORD_RUTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.sansebastindelosballesteros",
+    "code": "ES_ANDA_CORD_SSDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.santaella",
+    "code": "ES_ANDA_CORD_SANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.santaeufemia",
+    "code": "ES_ANDA_CORD_SAEU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.torrecampo",
+    "code": "ES_ANDA_CORD_TORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.valenzuela",
+    "code": "ES_ANDA_CORD_VALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.valsequillo",
+    "code": "ES_ANDA_CORD_VALS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.lavictoria",
+    "code": "ES_ANDA_CORD_LAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.villadelro",
+    "code": "ES_ANDA_CORD_VDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.villafrancadecrdoba",
+    "code": "ES_ANDA_CORD_VDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.villaharta",
+    "code": "ES_ANDA_CORD_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.villanuevadecrdoba",
+    "code": "ES_ANDA_CORD_VDC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.villanuevadelduque",
+    "code": "ES_ANDA_CORD_VDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.villanuevadelrey",
+    "code": "ES_ANDA_CORD_VDR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.villaralto",
+    "code": "ES_ANDA_CORD_VILL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.villaviciosadecrdoba",
+    "code": "ES_ANDA_CORD_VDC3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.elviso",
+    "code": "ES_ANDA_CORD_ELVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.cordoba.zuheros",
+    "code": "ES_ANDA_CORD_ZUHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_CORD"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.agrn",
+    "code": "ES_ANDA_GRAN_AGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.alamedilla",
+    "code": "ES_ANDA_GRAN_ALAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.albolote",
+    "code": "ES_ANDA_GRAN_ALBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.albondn",
+    "code": "ES_ANDA_GRAN_ALBO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.albun",
+    "code": "ES_ANDA_GRAN_ALBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.albuol",
+    "code": "ES_ANDA_GRAN_ALBU2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.albuuelas",
+    "code": "ES_ANDA_GRAN_ALBU3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.aldeire",
+    "code": "ES_ANDA_GRAN_ALDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.alfacar",
+    "code": "ES_ANDA_GRAN_ALFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.algarinejo",
+    "code": "ES_ANDA_GRAN_ALGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.alhamadegranada",
+    "code": "ES_ANDA_GRAN_ADG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.alhendn",
+    "code": "ES_ANDA_GRAN_ALHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.alicndeortega",
+    "code": "ES_ANDA_GRAN_ADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.almegjar",
+    "code": "ES_ANDA_GRAN_ALME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.almucar",
+    "code": "ES_ANDA_GRAN_ALMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.alquife",
+    "code": "ES_ANDA_GRAN_ALQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.arenasdelrey",
+    "code": "ES_ANDA_GRAN_ADR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.armilla",
+    "code": "ES_ANDA_GRAN_ARMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.atarfe",
+    "code": "ES_ANDA_GRAN_ATAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.baza",
+    "code": "ES_ANDA_GRAN_BAZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.beasdegranada",
+    "code": "ES_ANDA_GRAN_BDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.beasdeguadix",
+    "code": "ES_ANDA_GRAN_BDG2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.benala",
+    "code": "ES_ANDA_GRAN_BENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.benaladelasvillas",
+    "code": "ES_ANDA_GRAN_BDLV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.benamaurel",
+    "code": "ES_ANDA_GRAN_BENA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.brchules",
+    "code": "ES_ANDA_GRAN_BRC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.bubin",
+    "code": "ES_ANDA_GRAN_BUBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.busqustar",
+    "code": "ES_ANDA_GRAN_BUSQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.cacn",
+    "code": "ES_ANDA_GRAN_CAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.cdiar",
+    "code": "ES_ANDA_GRAN_CDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.cjar",
+    "code": "ES_ANDA_GRAN_CJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.calicasas",
+    "code": "ES_ANDA_GRAN_CALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.campotjar",
+    "code": "ES_ANDA_GRAN_CAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.caniles",
+    "code": "ES_ANDA_GRAN_CANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.car",
+    "code": "ES_ANDA_GRAN_CA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.capileira",
+    "code": "ES_ANDA_GRAN_CAPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.carataunas",
+    "code": "ES_ANDA_GRAN_CARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.cstaras",
+    "code": "ES_ANDA_GRAN_CST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.castilljar",
+    "code": "ES_ANDA_GRAN_CAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.castril",
+    "code": "ES_ANDA_GRAN_CAST2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.cenesdelavega",
+    "code": "ES_ANDA_GRAN_CDLV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.cijuela",
+    "code": "ES_ANDA_GRAN_CIJU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.cogollosdeguadix",
+    "code": "ES_ANDA_GRAN_CDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.cogollosdelavega",
+    "code": "ES_ANDA_GRAN_CDLV2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.colomera",
+    "code": "ES_ANDA_GRAN_COLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.cortesdebaza",
+    "code": "ES_ANDA_GRAN_CDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.cortesygraena",
+    "code": "ES_ANDA_GRAN_CYG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.cllar",
+    "code": "ES_ANDA_GRAN_CLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.cllarvega",
+    "code": "ES_ANDA_GRAN_CVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.chauchina",
+    "code": "ES_ANDA_GRAN_CHAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.chimeneas",
+    "code": "ES_ANDA_GRAN_CHIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.churrianadelavega",
+    "code": "ES_ANDA_GRAN_CDLV3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.darro",
+    "code": "ES_ANDA_GRAN_DARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.dehesasviejas",
+    "code": "ES_ANDA_GRAN_DEVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.deifontes",
+    "code": "ES_ANDA_GRAN_DEIF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.diezma",
+    "code": "ES_ANDA_GRAN_DIEZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.dlar",
+    "code": "ES_ANDA_GRAN_DLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.dlar",
+    "code": "ES_ANDA_GRAN_DLA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.ddar",
+    "code": "ES_ANDA_GRAN_DDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.drcal",
+    "code": "ES_ANDA_GRAN_DRC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.esczar",
+    "code": "ES_ANDA_GRAN_ESC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.ferreira",
+    "code": "ES_ANDA_GRAN_FERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.fonelas",
+    "code": "ES_ANDA_GRAN_FONE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.freila",
+    "code": "ES_ANDA_GRAN_FREI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.fuentevaqueros",
+    "code": "ES_ANDA_GRAN_FUVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.galera",
+    "code": "ES_ANDA_GRAN_GALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.gobernador",
+    "code": "ES_ANDA_GRAN_GOBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.gjar",
+    "code": "ES_ANDA_GRAN_GJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.gor",
+    "code": "ES_ANDA_GRAN_GOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.gorafe",
+    "code": "ES_ANDA_GRAN_GORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.granada",
+    "code": "ES_ANDA_GRAN_GRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.guadahortuna",
+    "code": "ES_ANDA_GRAN_GUAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.guadix",
+    "code": "ES_ANDA_GRAN_GUAD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.gualchos",
+    "code": "ES_ANDA_GRAN_GUAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.gjarsierra",
+    "code": "ES_ANDA_GRAN_GSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.gevjar",
+    "code": "ES_ANDA_GRAN_GEV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.hulago",
+    "code": "ES_ANDA_GRAN_HUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.huneja",
+    "code": "ES_ANDA_GRAN_HUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.huscar",
+    "code": "ES_ANDA_GRAN_HUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.hutordesantilln",
+    "code": "ES_ANDA_GRAN_HDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.hutortjar",
+    "code": "ES_ANDA_GRAN_HUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.hutorvega",
+    "code": "ES_ANDA_GRAN_HUVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.llora",
+    "code": "ES_ANDA_GRAN_LLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.trabo",
+    "code": "ES_ANDA_GRAN_TRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.iznalloz",
+    "code": "ES_ANDA_GRAN_IZNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.jtar",
+    "code": "ES_ANDA_GRAN_JTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.jayena",
+    "code": "ES_ANDA_GRAN_JAYE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.jrezdelmarquesado",
+    "code": "ES_ANDA_GRAN_JDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.jete",
+    "code": "ES_ANDA_GRAN_JETE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.jun",
+    "code": "ES_ANDA_GRAN_JUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.juviles",
+    "code": "ES_ANDA_GRAN_JUVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.lacalahorra",
+    "code": "ES_ANDA_GRAN_LACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.lchar",
+    "code": "ES_ANDA_GRAN_LCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.lanjarn",
+    "code": "ES_ANDA_GRAN_LANJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.lanteira",
+    "code": "ES_ANDA_GRAN_LANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.lecrn",
+    "code": "ES_ANDA_GRAN_LECR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.lenteg",
+    "code": "ES_ANDA_GRAN_LENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.lobras",
+    "code": "ES_ANDA_GRAN_LOBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.loja",
+    "code": "ES_ANDA_GRAN_LOJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.lugros",
+    "code": "ES_ANDA_GRAN_LUGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.ljar",
+    "code": "ES_ANDA_GRAN_LJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.lamalah",
+    "code": "ES_ANDA_GRAN_LAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.maracena",
+    "code": "ES_ANDA_GRAN_MARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.marchal",
+    "code": "ES_ANDA_GRAN_MARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.mocln",
+    "code": "ES_ANDA_GRAN_MOCL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.molvzar",
+    "code": "ES_ANDA_GRAN_MOLV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.monachil",
+    "code": "ES_ANDA_GRAN_MONA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.montefro",
+    "code": "ES_ANDA_GRAN_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.montejcar",
+    "code": "ES_ANDA_GRAN_MONT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.montillana",
+    "code": "ES_ANDA_GRAN_MONT3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.moraledadezafayona",
+    "code": "ES_ANDA_GRAN_MDZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.motril",
+    "code": "ES_ANDA_GRAN_MOTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.murtas",
+    "code": "ES_ANDA_GRAN_MURT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.nigelas",
+    "code": "ES_ANDA_GRAN_NIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.nvar",
+    "code": "ES_ANDA_GRAN_NVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.ogjares",
+    "code": "ES_ANDA_GRAN_OGJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.orce",
+    "code": "ES_ANDA_GRAN_ORCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.rgiva",
+    "code": "ES_ANDA_GRAN_RGI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.otvar",
+    "code": "ES_ANDA_GRAN_OTV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.villadeotura",
+    "code": "ES_ANDA_GRAN_VDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.padul",
+    "code": "ES_ANDA_GRAN_PADU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.pampaneira",
+    "code": "ES_ANDA_GRAN_PAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.pedromartnez",
+    "code": "ES_ANDA_GRAN_PEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.peligros",
+    "code": "ES_ANDA_GRAN_PELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.lapeza",
+    "code": "ES_ANDA_GRAN_LAPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.pinosgenil",
+    "code": "ES_ANDA_GRAN_PIGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.pinospuente",
+    "code": "ES_ANDA_GRAN_PIPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.par",
+    "code": "ES_ANDA_GRAN_PA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.polcar",
+    "code": "ES_ANDA_GRAN_POL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.polopos",
+    "code": "ES_ANDA_GRAN_POLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.prtugos",
+    "code": "ES_ANDA_GRAN_PRT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.puebladedonfadrique",
+    "code": "ES_ANDA_GRAN_PDDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.pulianas",
+    "code": "ES_ANDA_GRAN_PULI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.purullena",
+    "code": "ES_ANDA_GRAN_PURU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.quntar",
+    "code": "ES_ANDA_GRAN_QUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.rubite",
+    "code": "ES_ANDA_GRAN_RUBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.salar",
+    "code": "ES_ANDA_GRAN_SALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.salobrea",
+    "code": "ES_ANDA_GRAN_SALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.santacruzdelcomercio",
+    "code": "ES_ANDA_GRAN_SCDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.santafe",
+    "code": "ES_ANDA_GRAN_SAFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.soportjar",
+    "code": "ES_ANDA_GRAN_SOPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.sorviln",
+    "code": "ES_ANDA_GRAN_SORV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.torrecardela",
+    "code": "ES_ANDA_GRAN_TORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.torvizcn",
+    "code": "ES_ANDA_GRAN_TORV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.trevlez",
+    "code": "ES_ANDA_GRAN_TREV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.turn",
+    "code": "ES_ANDA_GRAN_TUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.ugjar",
+    "code": "ES_ANDA_GRAN_UGJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.vlor",
+    "code": "ES_ANDA_GRAN_VLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.vlezdebenaudalla",
+    "code": "ES_ANDA_GRAN_VDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.ventasdehuelma",
+    "code": "ES_ANDA_GRAN_VDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.villanuevadelastorres",
+    "code": "ES_ANDA_GRAN_VDLT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.villanuevamesa",
+    "code": "ES_ANDA_GRAN_VIME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.vznar",
+    "code": "ES_ANDA_GRAN_VZN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.zafarraya",
+    "code": "ES_ANDA_GRAN_ZAFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.lazubia",
+    "code": "ES_ANDA_GRAN_LAZU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.zjar",
+    "code": "ES_ANDA_GRAN_ZJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.lataha",
+    "code": "ES_ANDA_GRAN_LATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.elvalle",
+    "code": "ES_ANDA_GRAN_ELVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.nevada",
+    "code": "ES_ANDA_GRAN_NEVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.alpujarradelasierra",
+    "code": "ES_ANDA_GRAN_ADLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.lasgabias",
+    "code": "ES_ANDA_GRAN_LAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.losgujares",
+    "code": "ES_ANDA_GRAN_LOGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.valledelzalab",
+    "code": "ES_ANDA_GRAN_VDZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.villamena",
+    "code": "ES_ANDA_GRAN_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.morelbor",
+    "code": "ES_ANDA_GRAN_MORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.elpinar",
+    "code": "ES_ANDA_GRAN_ELPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.vegasdelgenil",
+    "code": "ES_ANDA_GRAN_VDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.cuevasdelcampo",
+    "code": "ES_ANDA_GRAN_CDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.zagra",
+    "code": "ES_ANDA_GRAN_ZAGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.valderrubio",
+    "code": "ES_ANDA_GRAN_VALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.granada.domingoprezdegranada",
+    "code": "ES_ANDA_GRAN_DPDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_GRAN"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.aljar",
+    "code": "ES_ANDA_HUEL_ALJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.aljaraque",
+    "code": "ES_ANDA_HUEL_ALJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.elalmendro",
+    "code": "ES_ANDA_HUEL_ELAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.almonasterlareal",
+    "code": "ES_ANDA_HUEL_ALR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.almonte",
+    "code": "ES_ANDA_HUEL_ALMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.alosno",
+    "code": "ES_ANDA_HUEL_ALOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.aracena",
+    "code": "ES_ANDA_HUEL_ARAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.aroche",
+    "code": "ES_ANDA_HUEL_AROC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.arroyomolinosdelen",
+    "code": "ES_ANDA_HUEL_ADL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.ayamonte",
+    "code": "ES_ANDA_HUEL_AYAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.beas",
+    "code": "ES_ANDA_HUEL_BEAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.berrocal",
+    "code": "ES_ANDA_HUEL_BERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.bollullospardelcondado",
+    "code": "ES_ANDA_HUEL_BPDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.bonares",
+    "code": "ES_ANDA_HUEL_BONA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.cabezasrubias",
+    "code": "ES_ANDA_HUEL_CARU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.cala",
+    "code": "ES_ANDA_HUEL_CALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.calaas",
+    "code": "ES_ANDA_HUEL_CALA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.elcampillo",
+    "code": "ES_ANDA_HUEL_ELCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.campofro",
+    "code": "ES_ANDA_HUEL_CAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.caaveraldelen",
+    "code": "ES_ANDA_HUEL_CDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.cartaya",
+    "code": "ES_ANDA_HUEL_CART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.castaodelrobledo",
+    "code": "ES_ANDA_HUEL_CDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.elcerrodeandvalo",
+    "code": "ES_ANDA_HUEL_ECDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.corteconcepcin",
+    "code": "ES_ANDA_HUEL_CORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.cortegana",
+    "code": "ES_ANDA_HUEL_CORT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.cortelazor",
+    "code": "ES_ANDA_HUEL_CORT3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.cumbresdeenmedio",
+    "code": "ES_ANDA_HUEL_CDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.cumbresdesanbartolom",
+    "code": "ES_ANDA_HUEL_CDSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.cumbresmayores",
+    "code": "ES_ANDA_HUEL_CUMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.chucena",
+    "code": "ES_ANDA_HUEL_CHUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.encinasola",
+    "code": "ES_ANDA_HUEL_ENCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.escacenadelcampo",
+    "code": "ES_ANDA_HUEL_EDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.fuenteheridos",
+    "code": "ES_ANDA_HUEL_FUEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.galaroza",
+    "code": "ES_ANDA_HUEL_GALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.gibralen",
+    "code": "ES_ANDA_HUEL_GIBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.lagranadaderotinto",
+    "code": "ES_ANDA_HUEL_LGDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.elgranado",
+    "code": "ES_ANDA_HUEL_ELGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.higueradelasierra",
+    "code": "ES_ANDA_HUEL_HDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.hinojales",
+    "code": "ES_ANDA_HUEL_HINO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.hinojos",
+    "code": "ES_ANDA_HUEL_HINO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.huelva",
+    "code": "ES_ANDA_HUEL_HUEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.islacristina",
+    "code": "ES_ANDA_HUEL_ISCR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.jabugo",
+    "code": "ES_ANDA_HUEL_JABU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.lepe",
+    "code": "ES_ANDA_HUEL_LEPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.linaresdelasierra",
+    "code": "ES_ANDA_HUEL_LDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.lucenadelpuerto",
+    "code": "ES_ANDA_HUEL_LDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.manzanilla",
+    "code": "ES_ANDA_HUEL_MANZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.losmarines",
+    "code": "ES_ANDA_HUEL_LOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.minasderiotinto",
+    "code": "ES_ANDA_HUEL_MDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.moguer",
+    "code": "ES_ANDA_HUEL_MOGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.lanava",
+    "code": "ES_ANDA_HUEL_LANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.nerva",
+    "code": "ES_ANDA_HUEL_NERV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.niebla",
+    "code": "ES_ANDA_HUEL_NIEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.lapalmadelcondado",
+    "code": "ES_ANDA_HUEL_LPDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.palosdelafrontera",
+    "code": "ES_ANDA_HUEL_PDLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.paternadelcampo",
+    "code": "ES_ANDA_HUEL_PDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.paymogo",
+    "code": "ES_ANDA_HUEL_PAYM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.puebladeguzmn",
+    "code": "ES_ANDA_HUEL_PDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.puertomoral",
+    "code": "ES_ANDA_HUEL_PUMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.puntaumbra",
+    "code": "ES_ANDA_HUEL_PUUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.rocianadelcondado",
+    "code": "ES_ANDA_HUEL_RDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.rosaldelafrontera",
+    "code": "ES_ANDA_HUEL_RDLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.sanbartolomdelatorre",
+    "code": "ES_ANDA_HUEL_SBDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.sanjuandelpuerto",
+    "code": "ES_ANDA_HUEL_SJDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.sanlcardeguadiana",
+    "code": "ES_ANDA_HUEL_SDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.sansilvestredeguzmn",
+    "code": "ES_ANDA_HUEL_SSDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.santaanalareal",
+    "code": "ES_ANDA_HUEL_SALR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.santabrbaradecasa",
+    "code": "ES_ANDA_HUEL_SBDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.santaolalladelcala",
+    "code": "ES_ANDA_HUEL_SODC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.trigueros",
+    "code": "ES_ANDA_HUEL_TRIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.valdelarco",
+    "code": "ES_ANDA_HUEL_VALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.valverdedelcamino",
+    "code": "ES_ANDA_HUEL_VDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.villablanca",
+    "code": "ES_ANDA_HUEL_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.villalbadelalcor",
+    "code": "ES_ANDA_HUEL_VDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.villanuevadelascruces",
+    "code": "ES_ANDA_HUEL_VDLC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.villanuevadeloscastillejos",
+    "code": "ES_ANDA_HUEL_VDLC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.villarrasa",
+    "code": "ES_ANDA_HUEL_VILL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.zalamealareal",
+    "code": "ES_ANDA_HUEL_ZLR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.huelva.zufre",
+    "code": "ES_ANDA_HUEL_ZUFR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_HUEL"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.dehesasdeguadix",
+    "code": "ES_ANDA_JAEN_DDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.albanchezdemgina",
+    "code": "ES_ANDA_JAEN_ADM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.alcallareal",
+    "code": "ES_ANDA_JAEN_ALR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.alcaudete",
+    "code": "ES_ANDA_JAEN_ALCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.aldeaquemada",
+    "code": "ES_ANDA_JAEN_ALDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.andjar",
+    "code": "ES_ANDA_JAEN_AND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.arjona",
+    "code": "ES_ANDA_JAEN_ARJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.arjonilla",
+    "code": "ES_ANDA_JAEN_ARJO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.arquillos",
+    "code": "ES_ANDA_JAEN_ARQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.baeza",
+    "code": "ES_ANDA_JAEN_BAEZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.bailn",
+    "code": "ES_ANDA_JAEN_BAIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.baosdelaencina",
+    "code": "ES_ANDA_JAEN_BDLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.beasdesegura",
+    "code": "ES_ANDA_JAEN_BDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.begjar",
+    "code": "ES_ANDA_JAEN_BEG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.blmezdelamoraleda",
+    "code": "ES_ANDA_JAEN_BDLM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.benatae",
+    "code": "ES_ANDA_JAEN_BENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.cabradelsantocristo",
+    "code": "ES_ANDA_JAEN_CDSC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.cambil",
+    "code": "ES_ANDA_JAEN_CAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.campillodearenas",
+    "code": "ES_ANDA_JAEN_CDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.canena",
+    "code": "ES_ANDA_JAEN_CANE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.carboneros",
+    "code": "ES_ANDA_JAEN_CARB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.lacarolina",
+    "code": "ES_ANDA_JAEN_LACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.castellar",
+    "code": "ES_ANDA_JAEN_CAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.castillodelocubn",
+    "code": "ES_ANDA_JAEN_CDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.cazalilla",
+    "code": "ES_ANDA_JAEN_CAZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.cazorla",
+    "code": "ES_ANDA_JAEN_CAZO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.chiclanadesegura",
+    "code": "ES_ANDA_JAEN_CDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.chilluvar",
+    "code": "ES_ANDA_JAEN_CHIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.escauela",
+    "code": "ES_ANDA_JAEN_ESCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.espeluy",
+    "code": "ES_ANDA_JAEN_ESPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.frailes",
+    "code": "ES_ANDA_JAEN_FRAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.fuensantademartos",
+    "code": "ES_ANDA_JAEN_FDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.fuertedelrey",
+    "code": "ES_ANDA_JAEN_FDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.gnave",
+    "code": "ES_ANDA_JAEN_GNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.laguardiadejan",
+    "code": "ES_ANDA_JAEN_LGDJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.guarromn",
+    "code": "ES_ANDA_JAEN_GUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.lahiguera",
+    "code": "ES_ANDA_JAEN_LAHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.higueradecalatrava",
+    "code": "ES_ANDA_JAEN_HDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.hinojares",
+    "code": "ES_ANDA_JAEN_HINO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.hornos",
+    "code": "ES_ANDA_JAEN_HORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.huelma",
+    "code": "ES_ANDA_JAEN_HUEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.huesa",
+    "code": "ES_ANDA_JAEN_HUES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.ibros",
+    "code": "ES_ANDA_JAEN_IBRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.lairuela",
+    "code": "ES_ANDA_JAEN_LAIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.iznatoraf",
+    "code": "ES_ANDA_JAEN_IZNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.jabalquinto",
+    "code": "ES_ANDA_JAEN_JABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.jan",
+    "code": "ES_ANDA_JAEN_JAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.jamilena",
+    "code": "ES_ANDA_JAEN_JAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.jimena",
+    "code": "ES_ANDA_JAEN_JIME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.jdar",
+    "code": "ES_ANDA_JAEN_JDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.larva",
+    "code": "ES_ANDA_JAEN_LARV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.linares",
+    "code": "ES_ANDA_JAEN_LINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.lopera",
+    "code": "ES_ANDA_JAEN_LOPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.lupin",
+    "code": "ES_ANDA_JAEN_LUPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.manchareal",
+    "code": "ES_ANDA_JAEN_MARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.marmolejo",
+    "code": "ES_ANDA_JAEN_MARM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.martos",
+    "code": "ES_ANDA_JAEN_MART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.mengbar",
+    "code": "ES_ANDA_JAEN_MENG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.montizn",
+    "code": "ES_ANDA_JAEN_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.navasdesanjuan",
+    "code": "ES_ANDA_JAEN_NDSJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.noalejo",
+    "code": "ES_ANDA_JAEN_NOAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.orcera",
+    "code": "ES_ANDA_JAEN_ORCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.pealdebecerro",
+    "code": "ES_ANDA_JAEN_PDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.pegalajar",
+    "code": "ES_ANDA_JAEN_PEGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.porcuna",
+    "code": "ES_ANDA_JAEN_PORC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.pozoalcn",
+    "code": "ES_ANDA_JAEN_POAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.puentedegnave",
+    "code": "ES_ANDA_JAEN_PDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.lapuertadesegura",
+    "code": "ES_ANDA_JAEN_LPDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.quesada",
+    "code": "ES_ANDA_JAEN_QUES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.rus",
+    "code": "ES_ANDA_JAEN_RUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.sabiote",
+    "code": "ES_ANDA_JAEN_SABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.santaelena",
+    "code": "ES_ANDA_JAEN_SAEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.santiagodecalatrava",
+    "code": "ES_ANDA_JAEN_SDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.santistebandelpuerto",
+    "code": "ES_ANDA_JAEN_SDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.santotom",
+    "code": "ES_ANDA_JAEN_SATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.seguradelasierra",
+    "code": "ES_ANDA_JAEN_SDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.siles",
+    "code": "ES_ANDA_JAEN_SILE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.sorihueladelguadalimar",
+    "code": "ES_ANDA_JAEN_SDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.torreblascopedro",
+    "code": "ES_ANDA_JAEN_TORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.torredelcampo",
+    "code": "ES_ANDA_JAEN_TORR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.torredonjimeno",
+    "code": "ES_ANDA_JAEN_TORR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.torreperogil",
+    "code": "ES_ANDA_JAEN_TORR4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.torres",
+    "code": "ES_ANDA_JAEN_TORR5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.torresdealbnchez",
+    "code": "ES_ANDA_JAEN_TDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.beda",
+    "code": "ES_ANDA_JAEN_BED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.valdepeasdejan",
+    "code": "ES_ANDA_JAEN_VDJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.vilches",
+    "code": "ES_ANDA_JAEN_VILC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.villacarrillo",
+    "code": "ES_ANDA_JAEN_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.villanuevadelareina",
+    "code": "ES_ANDA_JAEN_VDLR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.villanuevadelarzobispo",
+    "code": "ES_ANDA_JAEN_VDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.villardompardo",
+    "code": "ES_ANDA_JAEN_VILL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.losvillares",
+    "code": "ES_ANDA_JAEN_LOVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.villarrodrigo",
+    "code": "ES_ANDA_JAEN_VILL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.crcheles",
+    "code": "ES_ANDA_JAEN_CRC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.bedmarygarcez",
+    "code": "ES_ANDA_JAEN_BYG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.villatorres",
+    "code": "ES_ANDA_JAEN_VILL4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.santiagopontones",
+    "code": "ES_ANDA_JAEN_SANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.arroyodelojanco",
+    "code": "ES_ANDA_JAEN_ADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.jaen.cuartodelmadroo",
+    "code": "ES_ANDA_JAEN_CDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_JAEN"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.alameda",
+    "code": "ES_ANDA_MALA_ALAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.alcaucn",
+    "code": "ES_ANDA_MALA_ALCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.alfarnate",
+    "code": "ES_ANDA_MALA_ALFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.alfarnatejo",
+    "code": "ES_ANDA_MALA_ALFA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.algarrobo",
+    "code": "ES_ANDA_MALA_ALGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.algatocn",
+    "code": "ES_ANDA_MALA_ALGA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.alhaurndelatorre",
+    "code": "ES_ANDA_MALA_ADLT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.alhaurnelgrande",
+    "code": "ES_ANDA_MALA_AEG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.almchar",
+    "code": "ES_ANDA_MALA_ALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.almargen",
+    "code": "ES_ANDA_MALA_ALMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.almoga",
+    "code": "ES_ANDA_MALA_ALMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.lora",
+    "code": "ES_ANDA_MALA_LOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.alozaina",
+    "code": "ES_ANDA_MALA_ALOZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.alpandeire",
+    "code": "ES_ANDA_MALA_ALPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.antequera",
+    "code": "ES_ANDA_MALA_ANTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.rchez",
+    "code": "ES_ANDA_MALA_RCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.archidona",
+    "code": "ES_ANDA_MALA_ARCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.ardales",
+    "code": "ES_ANDA_MALA_ARDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.arenas",
+    "code": "ES_ANDA_MALA_AREN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.arriate",
+    "code": "ES_ANDA_MALA_ARRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.atajate",
+    "code": "ES_ANDA_MALA_ATAJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.benadalid",
+    "code": "ES_ANDA_MALA_BENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.benahavs",
+    "code": "ES_ANDA_MALA_BENA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.benalaura",
+    "code": "ES_ANDA_MALA_BENA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.benalmdena",
+    "code": "ES_ANDA_MALA_BENA4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.benamargosa",
+    "code": "ES_ANDA_MALA_BENA5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.benamocarra",
+    "code": "ES_ANDA_MALA_BENA6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.benaojn",
+    "code": "ES_ANDA_MALA_BENA7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.benarrab",
+    "code": "ES_ANDA_MALA_BENA8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.elborge",
+    "code": "ES_ANDA_MALA_ELBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.elburgo",
+    "code": "ES_ANDA_MALA_ELBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.campillos",
+    "code": "ES_ANDA_MALA_CAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.canillasdeaceituno",
+    "code": "ES_ANDA_MALA_CDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.canillasdealbaida",
+    "code": "ES_ANDA_MALA_CDA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.caetelareal",
+    "code": "ES_ANDA_MALA_CLR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.carratraca",
+    "code": "ES_ANDA_MALA_CARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.cartajima",
+    "code": "ES_ANDA_MALA_CART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.crtama",
+    "code": "ES_ANDA_MALA_CRT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.casabermeja",
+    "code": "ES_ANDA_MALA_CASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.casarabonela",
+    "code": "ES_ANDA_MALA_CASA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.casares",
+    "code": "ES_ANDA_MALA_CASA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.con",
+    "code": "ES_ANDA_MALA_CON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.colmenar",
+    "code": "ES_ANDA_MALA_COLM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.comares",
+    "code": "ES_ANDA_MALA_COMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.cmpeta",
+    "code": "ES_ANDA_MALA_CMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.cortesdelafrontera",
+    "code": "ES_ANDA_MALA_CDLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.cuevasbajas",
+    "code": "ES_ANDA_MALA_CUBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.cuevasdelbecerro",
+    "code": "ES_ANDA_MALA_CDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.cuevasdesanmarcos",
+    "code": "ES_ANDA_MALA_CDSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.ctar",
+    "code": "ES_ANDA_MALA_CTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.estepona",
+    "code": "ES_ANDA_MALA_ESTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.farajn",
+    "code": "ES_ANDA_MALA_FARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.frigiliana",
+    "code": "ES_ANDA_MALA_FRIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.fuentedepiedra",
+    "code": "ES_ANDA_MALA_FDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.gaucn",
+    "code": "ES_ANDA_MALA_GAUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.genalguacil",
+    "code": "ES_ANDA_MALA_GENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.guaro",
+    "code": "ES_ANDA_MALA_GUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.humilladero",
+    "code": "ES_ANDA_MALA_HUMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.igualeja",
+    "code": "ES_ANDA_MALA_IGUA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.istn",
+    "code": "ES_ANDA_MALA_IST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.iznate",
+    "code": "ES_ANDA_MALA_IZNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.jimeradelbar",
+    "code": "ES_ANDA_MALA_JDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.jubrique",
+    "code": "ES_ANDA_MALA_JUBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.jzcar",
+    "code": "ES_ANDA_MALA_JZC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.macharaviaya",
+    "code": "ES_ANDA_MALA_MACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.mlaga",
+    "code": "ES_ANDA_MALA_MLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.manilva",
+    "code": "ES_ANDA_MALA_MANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.mijas",
+    "code": "ES_ANDA_MALA_MIJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.moclinejo",
+    "code": "ES_ANDA_MALA_MOCL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.mollina",
+    "code": "ES_ANDA_MALA_MOLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.monda",
+    "code": "ES_ANDA_MALA_MOND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.montejaque",
+    "code": "ES_ANDA_MALA_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.nerja",
+    "code": "ES_ANDA_MALA_NERJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.ojn",
+    "code": "ES_ANDA_MALA_OJN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.parauta",
+    "code": "ES_ANDA_MALA_PARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.periana",
+    "code": "ES_ANDA_MALA_PERI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.pizarra",
+    "code": "ES_ANDA_MALA_PIZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.pujerra",
+    "code": "ES_ANDA_MALA_PUJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.rincndelavictoria",
+    "code": "ES_ANDA_MALA_RDLV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.riogordo",
+    "code": "ES_ANDA_MALA_RIOG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.ronda",
+    "code": "ES_ANDA_MALA_ROND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.salares",
+    "code": "ES_ANDA_MALA_SALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.sayalonga",
+    "code": "ES_ANDA_MALA_SAYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.sedella",
+    "code": "ES_ANDA_MALA_SEDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.sierradeyeguas",
+    "code": "ES_ANDA_MALA_SDY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.teba",
+    "code": "ES_ANDA_MALA_TEBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.tolox",
+    "code": "ES_ANDA_MALA_TOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.torrox",
+    "code": "ES_ANDA_MALA_TORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.totaln",
+    "code": "ES_ANDA_MALA_TOTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.valledeabdalajs",
+    "code": "ES_ANDA_MALA_VDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.vlezmlaga",
+    "code": "ES_ANDA_MALA_VLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.villanuevadealgaidas",
+    "code": "ES_ANDA_MALA_VDA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.villanuevadelrosario",
+    "code": "ES_ANDA_MALA_VDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.villanuevadeltrabuco",
+    "code": "ES_ANDA_MALA_VDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.villanuevadetapia",
+    "code": "ES_ANDA_MALA_VDT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.viuela",
+    "code": "ES_ANDA_MALA_VIU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.yunquera",
+    "code": "ES_ANDA_MALA_YUNQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.torremolinos",
+    "code": "ES_ANDA_MALA_TORR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.villanuevadelaconcepcin",
+    "code": "ES_ANDA_MALA_VDLC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.montecorto",
+    "code": "ES_ANDA_MALA_MONT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.serrato",
+    "code": "ES_ANDA_MALA_SERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.fuengirola",
+    "code": "ES_ANDA_MALA_FUEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.malaga.marbella",
+    "code": "ES_ANDA_MALA_MARB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_MALA"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.puertoserrano",
+    "code": "ES_ANDA_SEVI_PUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.aguadulce",
+    "code": "ES_ANDA_SEVI_AGUA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.alans",
+    "code": "ES_ANDA_SEVI_ALAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.albaidadelaljarafe",
+    "code": "ES_ANDA_SEVI_ADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.alcaldeguadara",
+    "code": "ES_ANDA_SEVI_ADG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.alcaldelro",
+    "code": "ES_ANDA_SEVI_ADR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.alcoleadelro",
+    "code": "ES_ANDA_SEVI_ADR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.laalgaba",
+    "code": "ES_ANDA_SEVI_LAAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.algmitas",
+    "code": "ES_ANDA_SEVI_ALG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.almadndelaplata",
+    "code": "ES_ANDA_SEVI_ADLP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.almensilla",
+    "code": "ES_ANDA_SEVI_ALME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.arahal",
+    "code": "ES_ANDA_SEVI_ARAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.aznalczar",
+    "code": "ES_ANDA_SEVI_AZNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.aznalcllar",
+    "code": "ES_ANDA_SEVI_AZNA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.badolatosa",
+    "code": "ES_ANDA_SEVI_BADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.benacazn",
+    "code": "ES_ANDA_SEVI_BENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.bollullosdelamitacin",
+    "code": "ES_ANDA_SEVI_BDLM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.bormujos",
+    "code": "ES_ANDA_SEVI_BORM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.brenes",
+    "code": "ES_ANDA_SEVI_BREN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.burguillos",
+    "code": "ES_ANDA_SEVI_BURG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.lascabezasdesanjuan",
+    "code": "ES_ANDA_SEVI_LCDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.camas",
+    "code": "ES_ANDA_SEVI_CAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.lacampana",
+    "code": "ES_ANDA_SEVI_LACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.cantillana",
+    "code": "ES_ANDA_SEVI_CANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.carmona",
+    "code": "ES_ANDA_SEVI_CARM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.carrindeloscspedes",
+    "code": "ES_ANDA_SEVI_CDLC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.casariche",
+    "code": "ES_ANDA_SEVI_CASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.castilblancodelosarroyos",
+    "code": "ES_ANDA_SEVI_CDLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.castillejadeguzmn",
+    "code": "ES_ANDA_SEVI_CDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.castillejadelacuesta",
+    "code": "ES_ANDA_SEVI_CDLC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.castillejadelcampo",
+    "code": "ES_ANDA_SEVI_CDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.elcastillodelasguardas",
+    "code": "ES_ANDA_SEVI_ECDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.cazalladelasierra",
+    "code": "ES_ANDA_SEVI_CDLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.constantina",
+    "code": "ES_ANDA_SEVI_CONS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.coriadelro",
+    "code": "ES_ANDA_SEVI_CDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.coripe",
+    "code": "ES_ANDA_SEVI_CORI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.elcoronil",
+    "code": "ES_ANDA_SEVI_ELCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.loscorrales",
+    "code": "ES_ANDA_SEVI_LOCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.doshermanas",
+    "code": "ES_ANDA_SEVI_DOHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.cija",
+    "code": "ES_ANDA_SEVI_CIJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.espartinas",
+    "code": "ES_ANDA_SEVI_ESPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.estepa",
+    "code": "ES_ANDA_SEVI_ESTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.fuentesdeandaluca",
+    "code": "ES_ANDA_SEVI_FDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.elgarrobo",
+    "code": "ES_ANDA_SEVI_ELGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.gelves",
+    "code": "ES_ANDA_SEVI_GELV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.gerena",
+    "code": "ES_ANDA_SEVI_GERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.gilena",
+    "code": "ES_ANDA_SEVI_GILE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.gines",
+    "code": "ES_ANDA_SEVI_GINE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.guadalcanal",
+    "code": "ES_ANDA_SEVI_GUAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.guillena",
+    "code": "ES_ANDA_SEVI_GUIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.herrera",
+    "code": "ES_ANDA_SEVI_HERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.huvardelaljarafe",
+    "code": "ES_ANDA_SEVI_HDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.lantejuela",
+    "code": "ES_ANDA_SEVI_LANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.lebrija",
+    "code": "ES_ANDA_SEVI_LEBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.loradeestepa",
+    "code": "ES_ANDA_SEVI_LDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.loradelro",
+    "code": "ES_ANDA_SEVI_LDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.laluisiana",
+    "code": "ES_ANDA_SEVI_LALU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.elmadroo",
+    "code": "ES_ANDA_SEVI_ELMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.mairenadelalcor",
+    "code": "ES_ANDA_SEVI_MDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.mairenadelaljarafe",
+    "code": "ES_ANDA_SEVI_MDA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.marchena",
+    "code": "ES_ANDA_SEVI_MARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.marinaleda",
+    "code": "ES_ANDA_SEVI_MARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.martndelajara",
+    "code": "ES_ANDA_SEVI_MDLJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.losmolares",
+    "code": "ES_ANDA_SEVI_LOMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.montellano",
+    "code": "ES_ANDA_SEVI_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.morndelafrontera",
+    "code": "ES_ANDA_SEVI_MDLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.lasnavasdelaconcepcin",
+    "code": "ES_ANDA_SEVI_LNDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.olivares",
+    "code": "ES_ANDA_SEVI_OLIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.osuna",
+    "code": "ES_ANDA_SEVI_OSUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.lospalaciosyvillafranca",
+    "code": "ES_ANDA_SEVI_LPYV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.palomaresdelro",
+    "code": "ES_ANDA_SEVI_PDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.paradas",
+    "code": "ES_ANDA_SEVI_PARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.pedrera",
+    "code": "ES_ANDA_SEVI_PEDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.elpedroso",
+    "code": "ES_ANDA_SEVI_ELPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.peaflor",
+    "code": "ES_ANDA_SEVI_PEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.pilas",
+    "code": "ES_ANDA_SEVI_PILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.pruna",
+    "code": "ES_ANDA_SEVI_PRUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.lapuebladecazalla",
+    "code": "ES_ANDA_SEVI_LPDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.lapuebladelosinfantes",
+    "code": "ES_ANDA_SEVI_LPDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.lapuebladelro",
+    "code": "ES_ANDA_SEVI_LPDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.elrealdelajara",
+    "code": "ES_ANDA_SEVI_ERDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.larinconada",
+    "code": "ES_ANDA_SEVI_LARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.larodadeandaluca",
+    "code": "ES_ANDA_SEVI_LRDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.elronquillo",
+    "code": "ES_ANDA_SEVI_ELRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.elrubio",
+    "code": "ES_ANDA_SEVI_ELRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.salteras",
+    "code": "ES_ANDA_SEVI_SALT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.sanjuandeaznalfarache",
+    "code": "ES_ANDA_SEVI_SJDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.sanlcarlamayor",
+    "code": "ES_ANDA_SEVI_SLM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.sannicolsdelpuerto",
+    "code": "ES_ANDA_SEVI_SNDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.santiponce",
+    "code": "ES_ANDA_SEVI_SANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.elsaucejo",
+    "code": "ES_ANDA_SEVI_ELSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.sevilla",
+    "code": "ES_ANDA_SEVI_SEVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.tocina",
+    "code": "ES_ANDA_SEVI_TOCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.tomares",
+    "code": "ES_ANDA_SEVI_TOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.umbrete",
+    "code": "ES_ANDA_SEVI_UMBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.utrera",
+    "code": "ES_ANDA_SEVI_UTRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.valencinadelaconcepcin",
+    "code": "ES_ANDA_SEVI_VDLC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.villamanriquedelacondesa",
+    "code": "ES_ANDA_SEVI_VDLC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.villanuevadelariscal",
+    "code": "ES_ANDA_SEVI_VDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.villanuevadelroyminas",
+    "code": "ES_ANDA_SEVI_VDRY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.villanuevadesanjuan",
+    "code": "ES_ANDA_SEVI_VDSJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.villaverdedelro",
+    "code": "ES_ANDA_SEVI_VDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.elvisodelalcor",
+    "code": "ES_ANDA_SEVI_EVDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.caadarosal",
+    "code": "ES_ANDA_SEVI_CARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.islamayor",
+    "code": "ES_ANDA_SEVI_ISMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  },
+  {
+    "tenantId": "spain.andaluca.sevilla.elcuervodesevilla",
+    "code": "ES_ANDA_SEVI_ECDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ES_ANDA_SEVI"
+  }
+]

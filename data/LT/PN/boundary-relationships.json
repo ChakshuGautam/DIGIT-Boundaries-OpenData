@@ -1,0 +1,387 @@
+[
+  {
+    "tenantId": "lithuania.panevezyscounty",
+    "code": "LT_PN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "LT"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.kupikiorajonosavivaldyb",
+    "code": "LT_PN_KRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_PN"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.paneviomiestosavivaldyb",
+    "code": "LT_PN_PMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_PN"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.birrajonosavivaldyb",
+    "code": "LT_PN_BRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_PN"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.pasvaliorajonosavivaldyb",
+    "code": "LT_PN_PRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_PN"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.paneviorajonosavivaldyb",
+    "code": "LT_PN_PRS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_PN"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.rokikiorajonosavivaldyb",
+    "code": "LT_PN_RRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_PN"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.kupikiorajonosavivaldyb.alizavosseninija",
+    "code": "LT_PN_KRS_ALSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_KRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.kupikiorajonosavivaldyb.norinseninija",
+    "code": "LT_PN_KRS_NOSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_KRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.kupikiorajonosavivaldyb.subaiausseninija",
+    "code": "LT_PN_KRS_SUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_KRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.kupikiorajonosavivaldyb.kupikioseninija",
+    "code": "LT_PN_KRS_KUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_KRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.kupikiorajonosavivaldyb.imoniseninija",
+    "code": "LT_PN_KRS_ISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_KRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.kupikiorajonosavivaldyb.skapikioseninija",
+    "code": "LT_PN_KRS_SKSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_KRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.paneviomiestosavivaldyb.panevezysseninija",
+    "code": "LT_PN_PMS_PASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PMS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.birrajonosavivaldyb.nemunlioradvilikioseninija",
+    "code": "LT_PN_BRS_NRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_BRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.birrajonosavivaldyb.parovjosseninija",
+    "code": "LT_PN_BRS_PASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_BRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.birrajonosavivaldyb.irvnosseninija",
+    "code": "LT_PN_BRS_ISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_BRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.birrajonosavivaldyb.paeriauktsseninija",
+    "code": "LT_PN_BRS_PASE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_BRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.birrajonosavivaldyb.birmiestoseninija",
+    "code": "LT_PN_BRS_BMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_BRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.birrajonosavivaldyb.pabirsseninija",
+    "code": "LT_PN_BRS_PASE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_BRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.birrajonosavivaldyb.papilioseninija",
+    "code": "LT_PN_BRS_PASE4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_BRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.birrajonosavivaldyb.vabalninkoseninija",
+    "code": "LT_PN_BRS_VASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_BRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.pasvaliorajonosavivaldyb.daujnseninija",
+    "code": "LT_PN_PRS_DASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.pasvaliorajonosavivaldyb.joniklioapylinkiseninija",
+    "code": "LT_PN_PRS_JAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.pasvaliorajonosavivaldyb.krininoseninija",
+    "code": "LT_PN_PRS_KRSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.pasvaliorajonosavivaldyb.pasvalioapylinkiseninija",
+    "code": "LT_PN_PRS_PAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.pasvaliorajonosavivaldyb.pumpnseninija",
+    "code": "LT_PN_PRS_PUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.pasvaliorajonosavivaldyb.saloiseninija",
+    "code": "LT_PN_PRS_SASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.pasvaliorajonosavivaldyb.vakseninija",
+    "code": "LT_PN_PRS_VASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.pasvaliorajonosavivaldyb.pasvaliomiestoseninija",
+    "code": "LT_PN_PRS_PMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.pasvaliorajonosavivaldyb.pualotoseninija",
+    "code": "LT_PN_PRS_PUSE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.pasvaliorajonosavivaldyb.namiiseninija",
+    "code": "LT_PN_PRS_NASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.pasvaliorajonosavivaldyb.jonikliomiestoseninija",
+    "code": "LT_PN_PRS_JMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.paneviorajonosavivaldyb.karsakikioseninija",
+    "code": "LT_PN_PRS2_KASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS2"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.paneviorajonosavivaldyb.krekenavosseninija",
+    "code": "LT_PN_PRS2_KRSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS2"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.paneviorajonosavivaldyb.mieikiseninija",
+    "code": "LT_PN_PRS2_MISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS2"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.paneviorajonosavivaldyb.naujamiesioseninija",
+    "code": "LT_PN_PRS2_NASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS2"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.paneviorajonosavivaldyb.pastrioseninija",
+    "code": "LT_PN_PRS2_PASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS2"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.paneviorajonosavivaldyb.ramygalosseninija",
+    "code": "LT_PN_PRS2_RASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS2"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.paneviorajonosavivaldyb.smilgiseninija",
+    "code": "LT_PN_PRS2_SMSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS2"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.paneviorajonosavivaldyb.upytsseninija",
+    "code": "LT_PN_PRS2_UPSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS2"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.paneviorajonosavivaldyb.vadokliseninija",
+    "code": "LT_PN_PRS2_VASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS2"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.paneviorajonosavivaldyb.velioseninija",
+    "code": "LT_PN_PRS2_VESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS2"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.paneviorajonosavivaldyb.raguvosseninija",
+    "code": "LT_PN_PRS2_RASE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS2"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.paneviorajonosavivaldyb.panevioseninija",
+    "code": "LT_PN_PRS2_PASE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_PRS2"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.rokikiorajonosavivaldyb.panemunlioseninija",
+    "code": "LT_PN_RRS_PASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_RRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.rokikiorajonosavivaldyb.kriaunseninija",
+    "code": "LT_PN_RRS_KRSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_RRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.rokikiorajonosavivaldyb.juodupsseninija",
+    "code": "LT_PN_RRS_JUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_RRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.rokikiorajonosavivaldyb.kazlikioseninija",
+    "code": "LT_PN_RRS_KASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_RRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.rokikiorajonosavivaldyb.pandlioseninija",
+    "code": "LT_PN_RRS_PASE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_RRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.rokikiorajonosavivaldyb.rokikiokaimikojiseninija",
+    "code": "LT_PN_RRS_RKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_RRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.rokikiorajonosavivaldyb.rokikiomiestoseninija",
+    "code": "LT_PN_RRS_RMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_RRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.rokikiorajonosavivaldyb.jintseninija",
+    "code": "LT_PN_RRS_JSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_RRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.rokikiorajonosavivaldyb.obeliseninija",
+    "code": "LT_PN_RRS_OBSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_RRS"
+  },
+  {
+    "tenantId": "lithuania.panevezyscounty.rokikiorajonosavivaldyb.kamajseninija",
+    "code": "LT_PN_RRS_KASE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_PN_RRS"
+  }
+]

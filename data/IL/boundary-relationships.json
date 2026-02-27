@@ -1,0 +1,51 @@
+[
+  {
+    "tenantId": "israel",
+    "code": "IL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "israel.southerndistrict",
+    "code": "IL_D",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IL"
+  },
+  {
+    "tenantId": "israel.centraldistrict",
+    "code": "IL_M",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IL"
+  },
+  {
+    "tenantId": "israel.jerusalemdistrict",
+    "code": "IL_JM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IL"
+  },
+  {
+    "tenantId": "israel.telaviv",
+    "code": "IL_TA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IL"
+  },
+  {
+    "tenantId": "israel.haifa",
+    "code": "IL_HA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IL"
+  },
+  {
+    "tenantId": "israel.northerndistrict",
+    "code": "IL_Z",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IL"
+  }
+]

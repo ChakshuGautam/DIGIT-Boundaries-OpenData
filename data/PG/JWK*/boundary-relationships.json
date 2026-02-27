@@ -1,0 +1,79 @@
+[
+  {
+    "tenantId": "papuanewguinea.jiwakaprovince",
+    "code": "PG_JWK*",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PG"
+  },
+  {
+    "tenantId": "papuanewguinea.jiwakaprovince.anglimpsouthwaghidistrict",
+    "code": "PG_JWK*_AWD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PG_JWK*"
+  },
+  {
+    "tenantId": "papuanewguinea.jiwakaprovince.jimidistrict",
+    "code": "PG_JWK*_JIDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PG_JWK*"
+  },
+  {
+    "tenantId": "papuanewguinea.jiwakaprovince.northwaghidistrict",
+    "code": "PG_JWK*_NWD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PG_JWK*"
+  },
+  {
+    "tenantId": "papuanewguinea.jiwakaprovince.anglimpsouthwaghidistrict.anglimpruralllg",
+    "code": "PG_JWK*_AWD_ARL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_JWK*_AWD"
+  },
+  {
+    "tenantId": "papuanewguinea.jiwakaprovince.anglimpsouthwaghidistrict.nebilyerruralllg",
+    "code": "PG_JWK*_AWD_NRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_JWK*_AWD"
+  },
+  {
+    "tenantId": "papuanewguinea.jiwakaprovince.anglimpsouthwaghidistrict.southwaghiruralllg",
+    "code": "PG_JWK*_AWD_SWRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_JWK*_AWD"
+  },
+  {
+    "tenantId": "papuanewguinea.jiwakaprovince.jimidistrict.jimiruralllg",
+    "code": "PG_JWK*_JIDI_JRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_JWK*_JIDI"
+  },
+  {
+    "tenantId": "papuanewguinea.jiwakaprovince.jimidistrict.kolruralllg",
+    "code": "PG_JWK*_JIDI_KRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_JWK*_JIDI"
+  },
+  {
+    "tenantId": "papuanewguinea.jiwakaprovince.northwaghidistrict.nonduglruralllg",
+    "code": "PG_JWK*_NWD_NRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_JWK*_NWD"
+  },
+  {
+    "tenantId": "papuanewguinea.jiwakaprovince.northwaghidistrict.northwaghiruralllg",
+    "code": "PG_JWK*_NWD_NWRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_JWK*_NWD"
+  }
+]

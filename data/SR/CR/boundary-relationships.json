@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "suriname.coronie",
+    "code": "SR_CR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SR"
+  },
+  {
+    "tenantId": "suriname.coronie.johannamaria",
+    "code": "SR_CR_JOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SR_CR"
+  },
+  {
+    "tenantId": "suriname.coronie.totness",
+    "code": "SR_CR_TOTN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SR_CR"
+  },
+  {
+    "tenantId": "suriname.coronie.welgelegen",
+    "code": "SR_CR_WELG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SR_CR"
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "tenantId": "newzealand.bayofplentyregion",
+    "code": "NZ_BOP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NZ"
+  },
+  {
+    "tenantId": "newzealand.bayofplentyregion.taurangacity",
+    "code": "NZ_BOP_TACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_BOP"
+  },
+  {
+    "tenantId": "newzealand.bayofplentyregion.whakatanedistrict",
+    "code": "NZ_BOP_WHDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_BOP"
+  },
+  {
+    "tenantId": "newzealand.bayofplentyregion.kaweraudistrict",
+    "code": "NZ_BOP_KADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_BOP"
+  },
+  {
+    "tenantId": "newzealand.bayofplentyregion.ptikidistrict",
+    "code": "NZ_BOP_DI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_BOP"
+  },
+  {
+    "tenantId": "newzealand.bayofplentyregion.westernbayofplentydistrict",
+    "code": "NZ_BOP_WBOP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_BOP"
+  },
+  {
+    "tenantId": "newzealand.bayofplentyregion.taurangacity.mountmaunganuipapamoaward",
+    "code": "NZ_BOP_TACI_MMW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_BOP_TACI"
+  },
+  {
+    "tenantId": "newzealand.bayofplentyregion.taurangacity.otumoetaipyespaward",
+    "code": "NZ_BOP_TACI_OPW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_BOP_TACI"
+  },
+  {
+    "tenantId": "newzealand.bayofplentyregion.taurangacity.tepapawelcomebayward",
+    "code": "NZ_BOP_TACI_TPBW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_BOP_TACI"
+  },
+  {
+    "tenantId": "newzealand.bayofplentyregion.taurangacity.areaoutsideward",
+    "code": "NZ_BOP_TACI_AOW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_BOP_TACI"
+  },
+  {
+    "tenantId": "newzealand.bayofplentyregion.whakatanedistrict.rangitaikiward",
+    "code": "NZ_BOP_WHDI_RAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_BOP_WHDI"
+  },
+  {
+    "tenantId": "newzealand.bayofplentyregion.whakatanedistrict.taneatuawaimanaward",
+    "code": "NZ_BOP_WHDI_TAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_BOP_WHDI"
+  },
+  {
+    "tenantId": "newzealand.bayofplentyregion.whakatanedistrict.galateamuruparaward",
+    "code": "NZ_BOP_WHDI_GAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_BOP_WHDI"
+  },
+  {
+    "tenantId": "newzealand.bayofplentyregion.whakatanedistrict.whakataneohopeward",
+    "code": "NZ_BOP_WHDI_WHWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_BOP_WHDI"
+  },
+  {
+    "tenantId": "newzealand.bayofplentyregion.kaweraudistrict.areaoutsideward",
+    "code": "NZ_BOP_KADI_AOW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_BOP_KADI"
+  },
+  {
+    "tenantId": "newzealand.bayofplentyregion.ptikidistrict.coastward",
+    "code": "NZ_BOP_DI_COWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_BOP_DI"
+  },
+  {
+    "tenantId": "newzealand.bayofplentyregion.ptikidistrict.waioekawaiotahiward",
+    "code": "NZ_BOP_DI_WAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_BOP_DI"
+  },
+  {
+    "tenantId": "newzealand.bayofplentyregion.ptikidistrict.opotikiward",
+    "code": "NZ_BOP_DI_OPWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_BOP_DI"
+  },
+  {
+    "tenantId": "newzealand.bayofplentyregion.westernbayofplentydistrict.maketutepukeward",
+    "code": "NZ_BOP_WBOP_MPW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_BOP_WBOP"
+  },
+  {
+    "tenantId": "newzealand.bayofplentyregion.westernbayofplentydistrict.katikatiwaihibeachward",
+    "code": "NZ_BOP_WBOP_KBW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_BOP_WBOP"
+  },
+  {
+    "tenantId": "newzealand.bayofplentyregion.westernbayofplentydistrict.kaimaiward",
+    "code": "NZ_BOP_WBOP_KAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_BOP_WBOP"
+  }
+]

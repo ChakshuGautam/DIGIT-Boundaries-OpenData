@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "uganda",
+    "code": "UG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "uganda.northernregion",
+    "code": "UG_N",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "UG"
+  },
+  {
+    "tenantId": "uganda.easternregion",
+    "code": "UG_E",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "UG"
+  },
+  {
+    "tenantId": "uganda.centralregion",
+    "code": "UG_C",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "UG"
+  },
+  {
+    "tenantId": "uganda.westernregion",
+    "code": "UG_W",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "UG"
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "tenantId": "switzerland.luzern",
+    "code": "CH_LU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CH"
+  },
+  {
+    "tenantId": "switzerland.luzern.entlebuch",
+    "code": "CH_LU_ENTL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_LU"
+  },
+  {
+    "tenantId": "switzerland.luzern.hochdorf",
+    "code": "CH_LU_HOCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_LU"
+  },
+  {
+    "tenantId": "switzerland.luzern.luzern",
+    "code": "CH_LU_LUZE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_LU"
+  },
+  {
+    "tenantId": "switzerland.luzern.sursee",
+    "code": "CH_LU_SURS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_LU"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau",
+    "code": "CH_LU_WILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_LU"
+  },
+  {
+    "tenantId": "switzerland.luzern.entlebuch.flhli",
+    "code": "CH_LU_ENTL_FLH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_ENTL"
+  },
+  {
+    "tenantId": "switzerland.luzern.entlebuch.escholzmattmarbach",
+    "code": "CH_LU_ENTL_ESCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_ENTL"
+  },
+  {
+    "tenantId": "switzerland.luzern.entlebuch.entlebuch",
+    "code": "CH_LU_ENTL_ENTL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_ENTL"
+  },
+  {
+    "tenantId": "switzerland.luzern.entlebuch.haslelu",
+    "code": "CH_LU_ENTL_HAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_ENTL"
+  },
+  {
+    "tenantId": "switzerland.luzern.entlebuch.schpfheim",
+    "code": "CH_LU_ENTL_SCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_ENTL"
+  },
+  {
+    "tenantId": "switzerland.luzern.entlebuch.romoos",
+    "code": "CH_LU_ENTL_ROMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_ENTL"
+  },
+  {
+    "tenantId": "switzerland.luzern.entlebuch.werthenstein",
+    "code": "CH_LU_ENTL_WERT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_ENTL"
+  },
+  {
+    "tenantId": "switzerland.luzern.entlebuch.doppleschwand",
+    "code": "CH_LU_ENTL_DOPP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_ENTL"
+  },
+  {
+    "tenantId": "switzerland.luzern.entlebuch.entlebuch",
+    "code": "CH_LU_ENTL_ENTL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_ENTL"
+  },
+  {
+    "tenantId": "switzerland.luzern.hochdorf.hitzkirch",
+    "code": "CH_LU_HOCH_HITZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_HOCH"
+  },
+  {
+    "tenantId": "switzerland.luzern.hochdorf.hohenrain",
+    "code": "CH_LU_HOCH_HOHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_HOCH"
+  },
+  {
+    "tenantId": "switzerland.luzern.hochdorf.emmen",
+    "code": "CH_LU_HOCH_EMME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_HOCH"
+  },
+  {
+    "tenantId": "switzerland.luzern.hochdorf.rmerswil",
+    "code": "CH_LU_HOCH_RME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_HOCH"
+  },
+  {
+    "tenantId": "switzerland.luzern.hochdorf.rothenburg",
+    "code": "CH_LU_HOCH_ROTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_HOCH"
+  },
+  {
+    "tenantId": "switzerland.luzern.hochdorf.eschenbachlu",
+    "code": "CH_LU_HOCH_ESL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_HOCH"
+  },
+  {
+    "tenantId": "switzerland.luzern.hochdorf.schongau",
+    "code": "CH_LU_HOCH_SCHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_HOCH"
+  },
+  {
+    "tenantId": "switzerland.luzern.hochdorf.inwil",
+    "code": "CH_LU_HOCH_INWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_HOCH"
+  },
+  {
+    "tenantId": "switzerland.luzern.hochdorf.hochdorf",
+    "code": "CH_LU_HOCH_HOCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_HOCH"
+  },
+  {
+    "tenantId": "switzerland.luzern.hochdorf.rain",
+    "code": "CH_LU_HOCH_RAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_HOCH"
+  },
+  {
+    "tenantId": "switzerland.luzern.hochdorf.ballwil",
+    "code": "CH_LU_HOCH_BALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_HOCH"
+  },
+  {
+    "tenantId": "switzerland.luzern.hochdorf.aeschlu",
+    "code": "CH_LU_HOCH_AEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_HOCH"
+  },
+  {
+    "tenantId": "switzerland.luzern.hochdorf.ermensee",
+    "code": "CH_LU_HOCH_ERME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_HOCH"
+  },
+  {
+    "tenantId": "switzerland.luzern.luzern.schwarzenberg",
+    "code": "CH_LU_LUZE_SCHW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_LUZE"
+  },
+  {
+    "tenantId": "switzerland.luzern.luzern.luzern",
+    "code": "CH_LU_LUZE_LUZE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_LUZE"
+  },
+  {
+    "tenantId": "switzerland.luzern.luzern.malters",
+    "code": "CH_LU_LUZE_MALT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_LUZE"
+  },
+  {
+    "tenantId": "switzerland.luzern.luzern.kriens",
+    "code": "CH_LU_LUZE_KRIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_LUZE"
+  },
+  {
+    "tenantId": "switzerland.luzern.luzern.weggis",
+    "code": "CH_LU_LUZE_WEGG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_LUZE"
+  },
+  {
+    "tenantId": "switzerland.luzern.luzern.horw",
+    "code": "CH_LU_LUZE_HORW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_LUZE"
+  },
+  {
+    "tenantId": "switzerland.luzern.luzern.meggen",
+    "code": "CH_LU_LUZE_MEGG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_LUZE"
+  },
+  {
+    "tenantId": "switzerland.luzern.luzern.vitznau",
+    "code": "CH_LU_LUZE_VITZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_LUZE"
+  },
+  {
+    "tenantId": "switzerland.luzern.luzern.ebikon",
+    "code": "CH_LU_LUZE_EBIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_LUZE"
+  },
+  {
+    "tenantId": "switzerland.luzern.luzern.meierskappel",
+    "code": "CH_LU_LUZE_MEIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_LUZE"
+  },
+  {
+    "tenantId": "switzerland.luzern.luzern.root",
+    "code": "CH_LU_LUZE_ROOT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_LUZE"
+  },
+  {
+    "tenantId": "switzerland.luzern.luzern.adligenswil",
+    "code": "CH_LU_LUZE_ADLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_LUZE"
+  },
+  {
+    "tenantId": "switzerland.luzern.luzern.udligenswil",
+    "code": "CH_LU_LUZE_UDLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_LUZE"
+  },
+  {
+    "tenantId": "switzerland.luzern.luzern.greppen",
+    "code": "CH_LU_LUZE_GREP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_LUZE"
+  },
+  {
+    "tenantId": "switzerland.luzern.luzern.buchrain",
+    "code": "CH_LU_LUZE_BUCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_LUZE"
+  },
+  {
+    "tenantId": "switzerland.luzern.luzern.dierikon",
+    "code": "CH_LU_LUZE_DIER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_LUZE"
+  },
+  {
+    "tenantId": "switzerland.luzern.luzern.honau",
+    "code": "CH_LU_LUZE_HONA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_LUZE"
+  },
+  {
+    "tenantId": "switzerland.luzern.luzern.gisikon",
+    "code": "CH_LU_LUZE_GISI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_LUZE"
+  },
+  {
+    "tenantId": "switzerland.luzern.sursee.ruswil",
+    "code": "CH_LU_SURS_RUSW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_SURS"
+  },
+  {
+    "tenantId": "switzerland.luzern.sursee.beromnster",
+    "code": "CH_LU_SURS_BERO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_SURS"
+  },
+  {
+    "tenantId": "switzerland.luzern.sursee.neuenkirch",
+    "code": "CH_LU_SURS_NEUE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_SURS"
+  },
+  {
+    "tenantId": "switzerland.luzern.sursee.triengen",
+    "code": "CH_LU_SURS_TRIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_SURS"
+  },
+  {
+    "tenantId": "switzerland.luzern.sursee.grosswangen",
+    "code": "CH_LU_SURS_GROS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_SURS"
+  },
+  {
+    "tenantId": "switzerland.luzern.sursee.buttisholz",
+    "code": "CH_LU_SURS_BUTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_SURS"
+  },
+  {
+    "tenantId": "switzerland.luzern.sursee.nottwil",
+    "code": "CH_LU_SURS_NOTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_SURS"
+  },
+  {
+    "tenantId": "switzerland.luzern.sursee.wolhusen",
+    "code": "CH_LU_SURS_WOLH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_SURS"
+  },
+  {
+    "tenantId": "switzerland.luzern.sursee.rickenbachlu",
+    "code": "CH_LU_SURS_RIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_SURS"
+  },
+  {
+    "tenantId": "switzerland.luzern.sursee.sempach",
+    "code": "CH_LU_SURS_SEMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_SURS"
+  },
+  {
+    "tenantId": "switzerland.luzern.sursee.oberkirch",
+    "code": "CH_LU_SURS_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_SURS"
+  },
+  {
+    "tenantId": "switzerland.luzern.sursee.knutwil",
+    "code": "CH_LU_SURS_KNUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_SURS"
+  },
+  {
+    "tenantId": "switzerland.luzern.sursee.eich",
+    "code": "CH_LU_SURS_EICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_SURS"
+  },
+  {
+    "tenantId": "switzerland.luzern.sursee.schenkon",
+    "code": "CH_LU_SURS_SCHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_SURS"
+  },
+  {
+    "tenantId": "switzerland.luzern.sursee.mauensee",
+    "code": "CH_LU_SURS_MAUE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_SURS"
+  },
+  {
+    "tenantId": "switzerland.luzern.sursee.schlierbach",
+    "code": "CH_LU_SURS_SCHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_SURS"
+  },
+  {
+    "tenantId": "switzerland.luzern.sursee.hildisrieden",
+    "code": "CH_LU_SURS_HILD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_SURS"
+  },
+  {
+    "tenantId": "switzerland.luzern.sursee.geuensee",
+    "code": "CH_LU_SURS_GEUE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_SURS"
+  },
+  {
+    "tenantId": "switzerland.luzern.sursee.sursee",
+    "code": "CH_LU_SURS_SURS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_SURS"
+  },
+  {
+    "tenantId": "switzerland.luzern.sursee.bron",
+    "code": "CH_LU_SURS_BRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_SURS"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.willisau",
+    "code": "CH_LU_WILL_WILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.luthern",
+    "code": "CH_LU_WILL_LUTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.hergiswilbeiwillisau",
+    "code": "CH_LU_WILL_HBW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.menznau",
+    "code": "CH_LU_WILL_MENZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.reiden",
+    "code": "CH_LU_WILL_REID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.dagmersellen",
+    "code": "CH_LU_WILL_DAGM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.pfaffnau",
+    "code": "CH_LU_WILL_PFAF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.schtz",
+    "code": "CH_LU_WILL_SCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.altishofen",
+    "code": "CH_LU_WILL_ALTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.zelllu",
+    "code": "CH_LU_WILL_ZEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.ettiswil",
+    "code": "CH_LU_WILL_ETTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.ufhusen",
+    "code": "CH_LU_WILL_UFHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.wikon",
+    "code": "CH_LU_WILL_WIKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.fischbach",
+    "code": "CH_LU_WILL_FISC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.altbron",
+    "code": "CH_LU_WILL_ALTB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.grossdietwil",
+    "code": "CH_LU_WILL_GROS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.roggliswil",
+    "code": "CH_LU_WILL_ROGG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.egolzwil",
+    "code": "CH_LU_WILL_EGOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.nebikon",
+    "code": "CH_LU_WILL_NEBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.alberswil",
+    "code": "CH_LU_WILL_ALBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.grossdietwil",
+    "code": "CH_LU_WILL_GROS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.wauwil",
+    "code": "CH_LU_WILL_WAUW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.altishofen",
+    "code": "CH_LU_WILL_ALTI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  },
+  {
+    "tenantId": "switzerland.luzern.willisau.grossdietwil",
+    "code": "CH_LU_WILL_GROS3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_LU_WILL"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "argentina.tierradelfuego",
+    "code": "AR_V",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "AR"
+  },
+  {
+    "tenantId": "argentina.tierradelfuego.rogrande",
+    "code": "AR_V_RGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AR_V"
+  },
+  {
+    "tenantId": "argentina.tierradelfuego.ushuaia",
+    "code": "AR_V_USHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AR_V"
+  }
+]

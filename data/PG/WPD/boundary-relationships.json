@@ -1,0 +1,93 @@
+[
+  {
+    "tenantId": "papuanewguinea.westernhighlandsprovince",
+    "code": "PG_WPD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PG"
+  },
+  {
+    "tenantId": "papuanewguinea.westernhighlandsprovince.deidistrict",
+    "code": "PG_WPD_DEDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PG_WPD"
+  },
+  {
+    "tenantId": "papuanewguinea.westernhighlandsprovince.mthagendistrict",
+    "code": "PG_WPD_MHD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PG_WPD"
+  },
+  {
+    "tenantId": "papuanewguinea.westernhighlandsprovince.mulbaiyerdistrict",
+    "code": "PG_WPD_MUDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PG_WPD"
+  },
+  {
+    "tenantId": "papuanewguinea.westernhighlandsprovince.tambulnebilyerdistrict",
+    "code": "PG_WPD_TADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PG_WPD"
+  },
+  {
+    "tenantId": "papuanewguinea.westernhighlandsprovince.deidistrict.deiruralllg",
+    "code": "PG_WPD_DEDI_DRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_WPD_DEDI"
+  },
+  {
+    "tenantId": "papuanewguinea.westernhighlandsprovince.deidistrict.kotnaruralllg",
+    "code": "PG_WPD_DEDI_KRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_WPD_DEDI"
+  },
+  {
+    "tenantId": "papuanewguinea.westernhighlandsprovince.mthagendistrict.mthagenruralllg",
+    "code": "PG_WPD_MHD_MHRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_WPD_MHD"
+  },
+  {
+    "tenantId": "papuanewguinea.westernhighlandsprovince.mthagendistrict.mthagenurbanllg",
+    "code": "PG_WPD_MHD_MHUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_WPD_MHD"
+  },
+  {
+    "tenantId": "papuanewguinea.westernhighlandsprovince.mulbaiyerdistrict.baiyerruralllg",
+    "code": "PG_WPD_MUDI_BRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_WPD_MUDI"
+  },
+  {
+    "tenantId": "papuanewguinea.westernhighlandsprovince.mulbaiyerdistrict.lumusaruralllg",
+    "code": "PG_WPD_MUDI_LRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_WPD_MUDI"
+  },
+  {
+    "tenantId": "papuanewguinea.westernhighlandsprovince.mulbaiyerdistrict.mulruralllg",
+    "code": "PG_WPD_MUDI_MRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_WPD_MUDI"
+  },
+  {
+    "tenantId": "papuanewguinea.westernhighlandsprovince.tambulnebilyerdistrict.mtgiluweruralllg",
+    "code": "PG_WPD_TADI_MGRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_WPD_TADI"
+  }
+]

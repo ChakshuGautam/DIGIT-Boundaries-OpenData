@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "taiwan.chiayi",
+    "code": "TW_CYI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TW"
+  },
+  {
+    "tenantId": "taiwan.chiayi.westdistrict",
+    "code": "TW_CYI_WEDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TW_CYI"
+  },
+  {
+    "tenantId": "taiwan.chiayi.eastdistrict",
+    "code": "TW_CYI_EADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TW_CYI"
+  }
+]

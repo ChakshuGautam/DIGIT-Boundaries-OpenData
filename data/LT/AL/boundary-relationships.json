@@ -1,0 +1,303 @@
+[
+  {
+    "tenantId": "lithuania.alytuscounty",
+    "code": "LT_AL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "LT"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.alytausmiestosavivaldyb",
+    "code": "LT_AL_AMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_AL"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.varnosrajonosavivaldyb",
+    "code": "LT_AL_VRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_AL"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.alytusdistrictmunicipality",
+    "code": "LT_AL_ADM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_AL"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.lazdijrajonosavivaldyb",
+    "code": "LT_AL_LRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_AL"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.druskininksavivaldyb",
+    "code": "LT_AL_DRSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_AL"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.alytausmiestosavivaldyb.alytausseninija",
+    "code": "LT_AL_AMS_ALSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_AMS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.alytausmiestosavivaldyb.alytusseninija",
+    "code": "LT_AL_AMS_ALSE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_AMS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.varnosrajonosavivaldyb.varnosseninija",
+    "code": "LT_AL_VRS_VASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_VRS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.varnosrajonosavivaldyb.vydeniseninija",
+    "code": "LT_AL_VRS_VYSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_VRS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.varnosrajonosavivaldyb.valkininkseninija",
+    "code": "LT_AL_VRS_VASE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_VRS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.varnosrajonosavivaldyb.matuizseninija",
+    "code": "LT_AL_VRS_MASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_VRS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.varnosrajonosavivaldyb.jaknseninija",
+    "code": "LT_AL_VRS_JASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_VRS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.varnosrajonosavivaldyb.kaniavosseninija",
+    "code": "LT_AL_VRS_KASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_VRS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.varnosrajonosavivaldyb.marcinkoniseninija",
+    "code": "LT_AL_VRS_MASE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_VRS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.varnosrajonosavivaldyb.merkinsseninija",
+    "code": "LT_AL_VRS_MESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_VRS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.alytusdistrictmunicipality.alovsseninija",
+    "code": "LT_AL_ADM_ALSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_ADM"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.alytusdistrictmunicipality.krokialaukioseninija",
+    "code": "LT_AL_ADM_KRSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_ADM"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.alytusdistrictmunicipality.miroslavoseninija",
+    "code": "LT_AL_ADM_MISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_ADM"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.alytusdistrictmunicipality.nemunaiioseninija",
+    "code": "LT_AL_ADM_NESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_ADM"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.alytusdistrictmunicipality.puniosseninija",
+    "code": "LT_AL_ADM_PUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_ADM"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.alytusdistrictmunicipality.raitininkseninija",
+    "code": "LT_AL_ADM_RASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_ADM"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.alytusdistrictmunicipality.pivainseninija",
+    "code": "LT_AL_ADM_PISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_ADM"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.alytusdistrictmunicipality.daugseninija",
+    "code": "LT_AL_ADM_DASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_ADM"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.alytusdistrictmunicipality.butrimoniseninija",
+    "code": "LT_AL_ADM_BUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_ADM"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.alytusdistrictmunicipality.simnoseninija",
+    "code": "LT_AL_ADM_SISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_ADM"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.lazdijrajonosavivaldyb.etokseninija",
+    "code": "LT_AL_LRS_ESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_LRS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.lazdijrajonosavivaldyb.noragliseninija",
+    "code": "LT_AL_LRS_NOSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_LRS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.lazdijrajonosavivaldyb.bdvieioseninija",
+    "code": "LT_AL_LRS_BSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_LRS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.lazdijrajonosavivaldyb.lazdijseninija",
+    "code": "LT_AL_LRS_LASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_LRS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.lazdijrajonosavivaldyb.seirijseninija",
+    "code": "LT_AL_LRS_SESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_LRS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.lazdijrajonosavivaldyb.lavantseninija",
+    "code": "LT_AL_LRS_LSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_LRS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.lazdijrajonosavivaldyb.teizseninija",
+    "code": "LT_AL_LRS_TESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_LRS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.lazdijrajonosavivaldyb.veisiejmiestoseninija",
+    "code": "LT_AL_LRS_VMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_LRS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.lazdijrajonosavivaldyb.lazdijmiestoseninija",
+    "code": "LT_AL_LRS_LMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_LRS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.lazdijrajonosavivaldyb.kuinseninija",
+    "code": "LT_AL_LRS_KUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_LRS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.lazdijrajonosavivaldyb.venteerioseninija",
+    "code": "LT_AL_LRS_VSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_LRS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.lazdijrajonosavivaldyb.veisiejseninija",
+    "code": "LT_AL_LRS_VESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_LRS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.lazdijrajonosavivaldyb.krosnosseninija",
+    "code": "LT_AL_LRS_KRSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_LRS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.lazdijrajonosavivaldyb.kapiamiesioseninija",
+    "code": "LT_AL_LRS_KASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_LRS"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.druskininksavivaldyb.leipalingioseninija",
+    "code": "LT_AL_DRSA_LESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_DRSA"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.druskininksavivaldyb.vieinseninija",
+    "code": "LT_AL_DRSA_VISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_DRSA"
+  },
+  {
+    "tenantId": "lithuania.alytuscounty.druskininksavivaldyb.druskiminkaiseninija",
+    "code": "LT_AL_DRSA_DRSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_AL_DRSA"
+  }
+]

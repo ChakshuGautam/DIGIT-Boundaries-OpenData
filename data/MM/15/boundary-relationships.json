@@ -1,0 +1,93 @@
+[
+  {
+    "tenantId": "myanmar.mon",
+    "code": "MM_15",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MM"
+  },
+  {
+    "tenantId": "myanmar.mon.mawlamyine",
+    "code": "MM_15_MAWL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MM_15"
+  },
+  {
+    "tenantId": "myanmar.mon.thaton",
+    "code": "MM_15_THAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MM_15"
+  },
+  {
+    "tenantId": "myanmar.mon.mawlamyine.ye",
+    "code": "MM_15_MAWL_YE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_15_MAWL"
+  },
+  {
+    "tenantId": "myanmar.mon.mawlamyine.chaungzon",
+    "code": "MM_15_MAWL_CHAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_15_MAWL"
+  },
+  {
+    "tenantId": "myanmar.mon.mawlamyine.mawlamyine",
+    "code": "MM_15_MAWL_MAWL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_15_MAWL"
+  },
+  {
+    "tenantId": "myanmar.mon.mawlamyine.kyaikmaraw",
+    "code": "MM_15_MAWL_KYAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_15_MAWL"
+  },
+  {
+    "tenantId": "myanmar.mon.mawlamyine.mudon",
+    "code": "MM_15_MAWL_MUDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_15_MAWL"
+  },
+  {
+    "tenantId": "myanmar.mon.mawlamyine.thanbyuzayat",
+    "code": "MM_15_MAWL_THAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_15_MAWL"
+  },
+  {
+    "tenantId": "myanmar.mon.thaton.thaton",
+    "code": "MM_15_THAT_THAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_15_THAT"
+  },
+  {
+    "tenantId": "myanmar.mon.thaton.bilin",
+    "code": "MM_15_THAT_BILI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_15_THAT"
+  },
+  {
+    "tenantId": "myanmar.mon.thaton.paung",
+    "code": "MM_15_THAT_PAUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_15_THAT"
+  },
+  {
+    "tenantId": "myanmar.mon.thaton.kyaikto",
+    "code": "MM_15_THAT_KYAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_15_THAT"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "mauritania.dakhletnouadhibou",
+    "code": "MR_DN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MR"
+  },
+  {
+    "tenantId": "mauritania.dakhletnouadhibou.chami",
+    "code": "MR_DN_CHAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MR_DN"
+  },
+  {
+    "tenantId": "mauritania.dakhletnouadhibou.nouadhibou",
+    "code": "MR_DN_NOUA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MR_DN"
+  }
+]

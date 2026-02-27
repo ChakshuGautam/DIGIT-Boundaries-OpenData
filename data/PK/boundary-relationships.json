@@ -1,0 +1,58 @@
+[
+  {
+    "tenantId": "pakistan",
+    "code": "PK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "pakistan.balochistan",
+    "code": "PK_BA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PK"
+  },
+  {
+    "tenantId": "pakistan.sindh",
+    "code": "PK_SD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PK"
+  },
+  {
+    "tenantId": "pakistan.gilgitbaltistan",
+    "code": "PK_GB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PK"
+  },
+  {
+    "tenantId": "pakistan.azadkashmir",
+    "code": "PK_JK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PK"
+  },
+  {
+    "tenantId": "pakistan.khyberpakhtunkhwa",
+    "code": "PK_KP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PK"
+  },
+  {
+    "tenantId": "pakistan.punjab",
+    "code": "PK_PB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PK"
+  },
+  {
+    "tenantId": "pakistan.islamabadcapitalterritory",
+    "code": "PK_IS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PK"
+  }
+]

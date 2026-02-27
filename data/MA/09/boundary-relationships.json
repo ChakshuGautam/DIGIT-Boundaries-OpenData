@@ -1,0 +1,51 @@
+[
+  {
+    "tenantId": "morocco.soussmassa",
+    "code": "MA_09",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MA"
+  },
+  {
+    "tenantId": "morocco.soussmassa.taroudantprovince",
+    "code": "MA_09_TAPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MA_09"
+  },
+  {
+    "tenantId": "morocco.soussmassa.tataprovince",
+    "code": "MA_09_TAPR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MA_09"
+  },
+  {
+    "tenantId": "morocco.soussmassa.chtoukaaitbahaprovince",
+    "code": "MA_09_CBP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MA_09"
+  },
+  {
+    "tenantId": "morocco.soussmassa.tiznitprovince",
+    "code": "MA_09_TIPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MA_09"
+  },
+  {
+    "tenantId": "morocco.soussmassa.agadiridaoutananeprefecture",
+    "code": "MA_09_AIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MA_09"
+  },
+  {
+    "tenantId": "morocco.soussmassa.inezganeaitmelloulprefecture",
+    "code": "MA_09_IMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MA_09"
+  }
+]

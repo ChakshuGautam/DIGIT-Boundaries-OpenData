@@ -1,0 +1,569 @@
+[
+  {
+    "tenantId": "cameroon.centre",
+    "code": "CM_CE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CM"
+  },
+  {
+    "tenantId": "cameroon.centre.hautesanaga",
+    "code": "CM_CE_HAUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CM_CE"
+  },
+  {
+    "tenantId": "cameroon.centre.lekie",
+    "code": "CM_CE_LEKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CM_CE"
+  },
+  {
+    "tenantId": "cameroon.centre.mbametinoubou",
+    "code": "CM_CE_MBAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CM_CE"
+  },
+  {
+    "tenantId": "cameroon.centre.mbametkim",
+    "code": "CM_CE_MBAM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CM_CE"
+  },
+  {
+    "tenantId": "cameroon.centre.mefouetafamba",
+    "code": "CM_CE_MEFO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CM_CE"
+  },
+  {
+    "tenantId": "cameroon.centre.mefouetakono",
+    "code": "CM_CE_MEFO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CM_CE"
+  },
+  {
+    "tenantId": "cameroon.centre.mfoundi",
+    "code": "CM_CE_MFOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CM_CE"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetkelle",
+    "code": "CM_CE_NYON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CM_CE"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetmfoumou",
+    "code": "CM_CE_NYON2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CM_CE"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetso",
+    "code": "CM_CE_NYON3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CM_CE"
+  },
+  {
+    "tenantId": "cameroon.centre.hautesanaga.nangaeboko",
+    "code": "CM_CE_HAUT_NANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_HAUT"
+  },
+  {
+    "tenantId": "cameroon.centre.hautesanaga.lembeyezoum",
+    "code": "CM_CE_HAUT_LEYE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_HAUT"
+  },
+  {
+    "tenantId": "cameroon.centre.hautesanaga.nkoteng",
+    "code": "CM_CE_HAUT_NKOT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_HAUT"
+  },
+  {
+    "tenantId": "cameroon.centre.hautesanaga.nsem",
+    "code": "CM_CE_HAUT_NSEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_HAUT"
+  },
+  {
+    "tenantId": "cameroon.centre.hautesanaga.minta",
+    "code": "CM_CE_HAUT_MINT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_HAUT"
+  },
+  {
+    "tenantId": "cameroon.centre.hautesanaga.mbandjock",
+    "code": "CM_CE_HAUT_MBAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_HAUT"
+  },
+  {
+    "tenantId": "cameroon.centre.hautesanaga.bibey",
+    "code": "CM_CE_HAUT_BIBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_HAUT"
+  },
+  {
+    "tenantId": "cameroon.centre.lekie.edzendouan",
+    "code": "CM_CE_LEKI_EDZE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_LEKI"
+  },
+  {
+    "tenantId": "cameroon.centre.lekie.batchenga",
+    "code": "CM_CE_LEKI_BATC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_LEKI"
+  },
+  {
+    "tenantId": "cameroon.centre.lekie.eligmfomo",
+    "code": "CM_CE_LEKI_ELIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_LEKI"
+  },
+  {
+    "tenantId": "cameroon.centre.lekie.yaoundvii",
+    "code": "CM_CE_LEKI_YAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_LEKI"
+  },
+  {
+    "tenantId": "cameroon.centre.lekie.yaoundii",
+    "code": "CM_CE_LEKI_YAII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_LEKI"
+  },
+  {
+    "tenantId": "cameroon.centre.lekie.yaoundi",
+    "code": "CM_CE_LEKI_YAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_LEKI"
+  },
+  {
+    "tenantId": "cameroon.centre.lekie.saa",
+    "code": "CM_CE_LEKI_SAA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_LEKI"
+  },
+  {
+    "tenantId": "cameroon.centre.lekie.okala",
+    "code": "CM_CE_LEKI_OKAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_LEKI"
+  },
+  {
+    "tenantId": "cameroon.centre.lekie.obala",
+    "code": "CM_CE_LEKI_OBAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_LEKI"
+  },
+  {
+    "tenantId": "cameroon.centre.lekie.monatl",
+    "code": "CM_CE_LEKI_MONA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_LEKI"
+  },
+  {
+    "tenantId": "cameroon.centre.lekie.lobo",
+    "code": "CM_CE_LEKI_LOBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_LEKI"
+  },
+  {
+    "tenantId": "cameroon.centre.lekie.evodoula",
+    "code": "CM_CE_LEKI_EVOD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_LEKI"
+  },
+  {
+    "tenantId": "cameroon.centre.lekie.ebebda",
+    "code": "CM_CE_LEKI_EBEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_LEKI"
+  },
+  {
+    "tenantId": "cameroon.centre.mbametinoubou.nitoukou",
+    "code": "CM_CE_MBAM_NITO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MBAM"
+  },
+  {
+    "tenantId": "cameroon.centre.mbametinoubou.bokito",
+    "code": "CM_CE_MBAM_BOKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MBAM"
+  },
+  {
+    "tenantId": "cameroon.centre.mbametinoubou.deuk",
+    "code": "CM_CE_MBAM_DEUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MBAM"
+  },
+  {
+    "tenantId": "cameroon.centre.mbametinoubou.ndikinimki",
+    "code": "CM_CE_MBAM_NDIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MBAM"
+  },
+  {
+    "tenantId": "cameroon.centre.mbametinoubou.bafia",
+    "code": "CM_CE_MBAM_BAFI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MBAM"
+  },
+  {
+    "tenantId": "cameroon.centre.mbametinoubou.makenene",
+    "code": "CM_CE_MBAM_MAKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MBAM"
+  },
+  {
+    "tenantId": "cameroon.centre.mbametinoubou.ombessa",
+    "code": "CM_CE_MBAM_OMBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MBAM"
+  },
+  {
+    "tenantId": "cameroon.centre.mbametinoubou.konyambetta",
+    "code": "CM_CE_MBAM_KON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MBAM"
+  },
+  {
+    "tenantId": "cameroon.centre.mbametinoubou.kiiki",
+    "code": "CM_CE_MBAM_KIIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MBAM"
+  },
+  {
+    "tenantId": "cameroon.centre.mbametkim.ngoro",
+    "code": "CM_CE_MBAM2_NGOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MBAM2"
+  },
+  {
+    "tenantId": "cameroon.centre.mbametkim.ngambtikar",
+    "code": "CM_CE_MBAM2_NGAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MBAM2"
+  },
+  {
+    "tenantId": "cameroon.centre.mbametkim.yoko",
+    "code": "CM_CE_MBAM2_YOKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MBAM2"
+  },
+  {
+    "tenantId": "cameroon.centre.mbametkim.ntui",
+    "code": "CM_CE_MBAM2_NTUI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MBAM2"
+  },
+  {
+    "tenantId": "cameroon.centre.mbametkim.mbangassina",
+    "code": "CM_CE_MBAM2_MBAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MBAM2"
+  },
+  {
+    "tenantId": "cameroon.centre.mefouetafamba.nkolafamba",
+    "code": "CM_CE_MEFO_NKOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MEFO"
+  },
+  {
+    "tenantId": "cameroon.centre.mefouetafamba.soa",
+    "code": "CM_CE_MEFO_SOA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MEFO"
+  },
+  {
+    "tenantId": "cameroon.centre.mefouetafamba.esse",
+    "code": "CM_CE_MEFO_ESSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MEFO"
+  },
+  {
+    "tenantId": "cameroon.centre.mefouetafamba.afanloum",
+    "code": "CM_CE_MEFO_AFAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MEFO"
+  },
+  {
+    "tenantId": "cameroon.centre.mefouetafamba.olanguina",
+    "code": "CM_CE_MEFO_OLAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MEFO"
+  },
+  {
+    "tenantId": "cameroon.centre.mefouetafamba.mfou",
+    "code": "CM_CE_MEFO_MFOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MEFO"
+  },
+  {
+    "tenantId": "cameroon.centre.mefouetafamba.awa",
+    "code": "CM_CE_MEFO_AWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MEFO"
+  },
+  {
+    "tenantId": "cameroon.centre.mefouetakono.bikok",
+    "code": "CM_CE_MEFO2_BIKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MEFO2"
+  },
+  {
+    "tenantId": "cameroon.centre.mefouetakono.mbankomo",
+    "code": "CM_CE_MEFO2_MBAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MEFO2"
+  },
+  {
+    "tenantId": "cameroon.centre.mefouetakono.ngoumou",
+    "code": "CM_CE_MEFO2_NGOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MEFO2"
+  },
+  {
+    "tenantId": "cameroon.centre.mefouetakono.akono",
+    "code": "CM_CE_MEFO2_AKON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MEFO2"
+  },
+  {
+    "tenantId": "cameroon.centre.mfoundi.yaoundiii",
+    "code": "CM_CE_MFOU_YAII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MFOU"
+  },
+  {
+    "tenantId": "cameroon.centre.mfoundi.yaoundiv",
+    "code": "CM_CE_MFOU_YAIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MFOU"
+  },
+  {
+    "tenantId": "cameroon.centre.mfoundi.yaoundv",
+    "code": "CM_CE_MFOU_YAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MFOU"
+  },
+  {
+    "tenantId": "cameroon.centre.mfoundi.yaoundvi",
+    "code": "CM_CE_MFOU_YAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_MFOU"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetkelle.bondjock",
+    "code": "CM_CE_NYON_BOND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_NYON"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetkelle.nguibassal",
+    "code": "CM_CE_NYON_NGUI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_NYON"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetkelle.ngogmapubi",
+    "code": "CM_CE_NYON_NGOG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_NYON"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetkelle.messondo",
+    "code": "CM_CE_NYON_MESS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_NYON"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetkelle.matomb",
+    "code": "CM_CE_NYON_MATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_NYON"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetkelle.makak",
+    "code": "CM_CE_NYON_MAKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_NYON"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetkelle.ska",
+    "code": "CM_CE_NYON_S",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_NYON"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetkelle.dibang",
+    "code": "CM_CE_NYON_DIBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_NYON"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetkelle.botmakak",
+    "code": "CM_CE_NYON_BOT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_NYON"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetkelle.biyouha",
+    "code": "CM_CE_NYON_BIYO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_NYON"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetmfoumou.akonolinga",
+    "code": "CM_CE_NYON2_AKON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_NYON2"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetmfoumou.ayos",
+    "code": "CM_CE_NYON2_AYOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_NYON2"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetmfoumou.kobdombo",
+    "code": "CM_CE_NYON2_KOBD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_NYON2"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetmfoumou.mengang",
+    "code": "CM_CE_NYON2_MENG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_NYON2"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetmfoumou.endom",
+    "code": "CM_CE_NYON2_ENDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_NYON2"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetso.akoman",
+    "code": "CM_CE_NYON3_AKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_NYON3"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetso.nkolmtet",
+    "code": "CM_CE_NYON3_NKOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_NYON3"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetso.ngomedzap",
+    "code": "CM_CE_NYON3_NGOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_NYON3"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetso.mengueme",
+    "code": "CM_CE_NYON3_MENG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_NYON3"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetso.mbalmayo",
+    "code": "CM_CE_NYON3_MBAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_NYON3"
+  },
+  {
+    "tenantId": "cameroon.centre.nyongetso.dzeng",
+    "code": "CM_CE_NYON3_DZEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CM_CE_NYON3"
+  }
+]

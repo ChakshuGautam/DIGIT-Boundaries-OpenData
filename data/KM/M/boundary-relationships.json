@@ -1,0 +1,72 @@
+[
+  {
+    "tenantId": "comoros.moheli",
+    "code": "KM_M",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "KM"
+  },
+  {
+    "tenantId": "comoros.moheli.djando",
+    "code": "KM_M_DJAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KM_M"
+  },
+  {
+    "tenantId": "comoros.moheli.fomboni",
+    "code": "KM_M_FOMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KM_M"
+  },
+  {
+    "tenantId": "comoros.moheli.nioumachioi",
+    "code": "KM_M_NIOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KM_M"
+  },
+  {
+    "tenantId": "comoros.moheli.djando.djando",
+    "code": "KM_M_DJAN_DJAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_M_DJAN"
+  },
+  {
+    "tenantId": "comoros.moheli.fomboni.fomboni",
+    "code": "KM_M_FOMB_FOMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_M_FOMB"
+  },
+  {
+    "tenantId": "comoros.moheli.fomboni.moilimdjini",
+    "code": "KM_M_FOMB_MOMD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_M_FOMB"
+  },
+  {
+    "tenantId": "comoros.moheli.fomboni.moimbassa",
+    "code": "KM_M_FOMB_MOIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_M_FOMB"
+  },
+  {
+    "tenantId": "comoros.moheli.nioumachioi.moimbao",
+    "code": "KM_M_NIOU_MOIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_M_NIOU"
+  },
+  {
+    "tenantId": "comoros.moheli.nioumachioi.mldjl",
+    "code": "KM_M_NIOU_MLD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KM_M_NIOU"
+  }
+]

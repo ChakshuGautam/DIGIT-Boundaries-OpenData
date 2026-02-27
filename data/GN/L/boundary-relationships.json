@@ -1,0 +1,415 @@
+[
+  {
+    "tenantId": "guinea.labe",
+    "code": "GN_L",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GN"
+  },
+  {
+    "tenantId": "guinea.labe.koubia",
+    "code": "GN_L_KOUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GN_L"
+  },
+  {
+    "tenantId": "guinea.labe.labe",
+    "code": "GN_L_LABE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GN_L"
+  },
+  {
+    "tenantId": "guinea.labe.lelouma",
+    "code": "GN_L_LELO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GN_L"
+  },
+  {
+    "tenantId": "guinea.labe.mali",
+    "code": "GN_L_MALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GN_L"
+  },
+  {
+    "tenantId": "guinea.labe.tougue",
+    "code": "GN_L_TOUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GN_L"
+  },
+  {
+    "tenantId": "guinea.labe.koubia.matakaou",
+    "code": "GN_L_KOUB_MATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_KOUB"
+  },
+  {
+    "tenantId": "guinea.labe.koubia.fafaya",
+    "code": "GN_L_KOUB_FAFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_KOUB"
+  },
+  {
+    "tenantId": "guinea.labe.koubia.gadhawoundou",
+    "code": "GN_L_KOUB_GAWO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_KOUB"
+  },
+  {
+    "tenantId": "guinea.labe.koubia.koubiactre",
+    "code": "GN_L_KOUB_KOCT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_KOUB"
+  },
+  {
+    "tenantId": "guinea.labe.koubia.missira",
+    "code": "GN_L_KOUB_MISS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_KOUB"
+  },
+  {
+    "tenantId": "guinea.labe.koubia.pilimini",
+    "code": "GN_L_KOUB_PILI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_KOUB"
+  },
+  {
+    "tenantId": "guinea.labe.labe.tountourou",
+    "code": "GN_L_LABE_TOUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LABE"
+  },
+  {
+    "tenantId": "guinea.labe.labe.garambe",
+    "code": "GN_L_LABE_GARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LABE"
+  },
+  {
+    "tenantId": "guinea.labe.labe.daralabe",
+    "code": "GN_L_LABE_DARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LABE"
+  },
+  {
+    "tenantId": "guinea.labe.labe.dalein",
+    "code": "GN_L_LABE_DALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LABE"
+  },
+  {
+    "tenantId": "guinea.labe.labe.diari",
+    "code": "GN_L_LABE_DIAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LABE"
+  },
+  {
+    "tenantId": "guinea.labe.labe.dionfo",
+    "code": "GN_L_LABE_DION",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LABE"
+  },
+  {
+    "tenantId": "guinea.labe.labe.hafia",
+    "code": "GN_L_LABE_HAFI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LABE"
+  },
+  {
+    "tenantId": "guinea.labe.labe.kaalan",
+    "code": "GN_L_LABE_KAAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LABE"
+  },
+  {
+    "tenantId": "guinea.labe.labe.labectre",
+    "code": "GN_L_LABE_LACT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LABE"
+  },
+  {
+    "tenantId": "guinea.labe.labe.kouramangui",
+    "code": "GN_L_LABE_KOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LABE"
+  },
+  {
+    "tenantId": "guinea.labe.labe.noussy",
+    "code": "GN_L_LABE_NOUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LABE"
+  },
+  {
+    "tenantId": "guinea.labe.labe.popodara",
+    "code": "GN_L_LABE_POPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LABE"
+  },
+  {
+    "tenantId": "guinea.labe.labe.sannou",
+    "code": "GN_L_LABE_SANN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LABE"
+  },
+  {
+    "tenantId": "guinea.labe.lelouma.balaya",
+    "code": "GN_L_LELO_BALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LELO"
+  },
+  {
+    "tenantId": "guinea.labe.lelouma.diontou",
+    "code": "GN_L_LELO_DION",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LELO"
+  },
+  {
+    "tenantId": "guinea.labe.lelouma.herico",
+    "code": "GN_L_LELO_HERI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LELO"
+  },
+  {
+    "tenantId": "guinea.labe.lelouma.korbe",
+    "code": "GN_L_LELO_KORB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LELO"
+  },
+  {
+    "tenantId": "guinea.labe.lelouma.lafou",
+    "code": "GN_L_LELO_LAFO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LELO"
+  },
+  {
+    "tenantId": "guinea.labe.lelouma.leloumactre",
+    "code": "GN_L_LELO_LECT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LELO"
+  },
+  {
+    "tenantId": "guinea.labe.lelouma.linsansaran",
+    "code": "GN_L_LELO_LISA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LELO"
+  },
+  {
+    "tenantId": "guinea.labe.lelouma.manda",
+    "code": "GN_L_LELO_MAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LELO"
+  },
+  {
+    "tenantId": "guinea.labe.lelouma.parawol",
+    "code": "GN_L_LELO_PARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LELO"
+  },
+  {
+    "tenantId": "guinea.labe.lelouma.sagale",
+    "code": "GN_L_LELO_SAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LELO"
+  },
+  {
+    "tenantId": "guinea.labe.lelouma.tianguelbori",
+    "code": "GN_L_LELO_TIBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_LELO"
+  },
+  {
+    "tenantId": "guinea.labe.mali.yimbering",
+    "code": "GN_L_MALI_YIMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_MALI"
+  },
+  {
+    "tenantId": "guinea.labe.mali.balaki",
+    "code": "GN_L_MALI_BALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_MALI"
+  },
+  {
+    "tenantId": "guinea.labe.mali.dongholsigon",
+    "code": "GN_L_MALI_DOSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_MALI"
+  },
+  {
+    "tenantId": "guinea.labe.mali.dougountouny",
+    "code": "GN_L_MALI_DOUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_MALI"
+  },
+  {
+    "tenantId": "guinea.labe.mali.gayah",
+    "code": "GN_L_MALI_GAYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_MALI"
+  },
+  {
+    "tenantId": "guinea.labe.mali.fougou",
+    "code": "GN_L_MALI_FOUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_MALI"
+  },
+  {
+    "tenantId": "guinea.labe.mali.hidayatou",
+    "code": "GN_L_MALI_HIDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_MALI"
+  },
+  {
+    "tenantId": "guinea.labe.mali.lebekeren",
+    "code": "GN_L_MALI_LEBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_MALI"
+  },
+  {
+    "tenantId": "guinea.labe.mali.madinawora",
+    "code": "GN_L_MALI_MAWO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_MALI"
+  },
+  {
+    "tenantId": "guinea.labe.mali.malictre",
+    "code": "GN_L_MALI_MACT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_MALI"
+  },
+  {
+    "tenantId": "guinea.labe.mali.salambande",
+    "code": "GN_L_MALI_SALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_MALI"
+  },
+  {
+    "tenantId": "guinea.labe.mali.telire",
+    "code": "GN_L_MALI_TELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_MALI"
+  },
+  {
+    "tenantId": "guinea.labe.mali.touba",
+    "code": "GN_L_MALI_TOUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_MALI"
+  },
+  {
+    "tenantId": "guinea.labe.tougue.fatako",
+    "code": "GN_L_TOUG_FATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_TOUG"
+  },
+  {
+    "tenantId": "guinea.labe.tougue.fellokoundoua",
+    "code": "GN_L_TOUG_FEKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_TOUG"
+  },
+  {
+    "tenantId": "guinea.labe.tougue.kansangui",
+    "code": "GN_L_TOUG_KANS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_TOUG"
+  },
+  {
+    "tenantId": "guinea.labe.tougue.kolangui",
+    "code": "GN_L_TOUG_KOLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_TOUG"
+  },
+  {
+    "tenantId": "guinea.labe.tougue.koin",
+    "code": "GN_L_TOUG_KOIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_TOUG"
+  },
+  {
+    "tenantId": "guinea.labe.tougue.kolet",
+    "code": "GN_L_TOUG_KOLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_TOUG"
+  },
+  {
+    "tenantId": "guinea.labe.tougue.konah",
+    "code": "GN_L_TOUG_KONA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_TOUG"
+  },
+  {
+    "tenantId": "guinea.labe.tougue.kouratongo",
+    "code": "GN_L_TOUG_KOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_TOUG"
+  },
+  {
+    "tenantId": "guinea.labe.tougue.tangali",
+    "code": "GN_L_TOUG_TANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_TOUG"
+  },
+  {
+    "tenantId": "guinea.labe.tougue.touguectre",
+    "code": "GN_L_TOUG_TOCT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GN_L_TOUG"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "mexico.bajacaliforniasur",
+    "code": "MX_BCS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MX"
+  },
+  {
+    "tenantId": "mexico.bajacaliforniasur.loreto",
+    "code": "MX_BCS_LORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "MX_BCS"
+  },
+  {
+    "tenantId": "mexico.bajacaliforniasur.muleg",
+    "code": "MX_BCS_MULE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "MX_BCS"
+  },
+  {
+    "tenantId": "mexico.bajacaliforniasur.comond",
+    "code": "MX_BCS_COMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "MX_BCS"
+  },
+  {
+    "tenantId": "mexico.bajacaliforniasur.loscabos",
+    "code": "MX_BCS_LOCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "MX_BCS"
+  },
+  {
+    "tenantId": "mexico.bajacaliforniasur.lapaz",
+    "code": "MX_BCS_LAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "MX_BCS"
+  }
+]

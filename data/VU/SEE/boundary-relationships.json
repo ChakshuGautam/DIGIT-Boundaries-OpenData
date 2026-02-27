@@ -1,0 +1,898 @@
+[
+  {
+    "tenantId": "vanuatu.shefaprovince",
+    "code": "VU_SEE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "VU"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.emau",
+    "code": "VU_SEE_EMAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SEE"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.erakor",
+    "code": "VU_SEE_ERAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SEE"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.eratap",
+    "code": "VU_SEE_ERAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SEE"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.eton",
+    "code": "VU_SEE_ETON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SEE"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.malorua",
+    "code": "VU_SEE_MALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SEE"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.mele",
+    "code": "VU_SEE_MELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SEE"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.nguna",
+    "code": "VU_SEE_NGUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SEE"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.northefate",
+    "code": "VU_SEE_NOEF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SEE"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.northtongoa",
+    "code": "VU_SEE_NOTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SEE"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila",
+    "code": "VU_SEE_POVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SEE"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.southepi",
+    "code": "VU_SEE_SOEP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SEE"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.vermali",
+    "code": "VU_SEE_VERM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SEE"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.vermaul",
+    "code": "VU_SEE_VERM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SEE"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.ifira",
+    "code": "VU_SEE_IFIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SEE"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.makimae",
+    "code": "VU_SEE_MAKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SEE"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.pango",
+    "code": "VU_SEE_PANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SEE"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.tongariki",
+    "code": "VU_SEE_TONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_SEE"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.emau.unknown",
+    "code": "VU_SEE_EMAU_785",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_EMAU"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.emau.unknown",
+    "code": "VU_SEE_EMAU_786",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_EMAU"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.emau.unknown",
+    "code": "VU_SEE_EMAU_787",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_EMAU"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.erakor.unknown",
+    "code": "VU_SEE_ERAK_718",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_ERAK"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.erakor.unknown",
+    "code": "VU_SEE_ERAK_717",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_ERAK"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.erakor.unknown",
+    "code": "VU_SEE_ERAK_716",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_ERAK"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.eratap.unknown",
+    "code": "VU_SEE_ERAT_715",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_ERAT"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.eton.unknown",
+    "code": "VU_SEE_ETON_708",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_ETON"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.eton.unknown",
+    "code": "VU_SEE_ETON_705",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_ETON"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.eton.unknown",
+    "code": "VU_SEE_ETON_706",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_ETON"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.eton.unknown",
+    "code": "VU_SEE_ETON_707",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_ETON"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.malorua.unknown",
+    "code": "VU_SEE_MALO_710",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_MALO"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.malorua.unknown",
+    "code": "VU_SEE_MALO_709",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_MALO"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.malorua.unknown",
+    "code": "VU_SEE_MALO_788",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_MALO"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.malorua.unknown",
+    "code": "VU_SEE_MALO_789",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_MALO"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.mele.unknown",
+    "code": "VU_SEE_MELE_714",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_MELE"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.mele.unknown",
+    "code": "VU_SEE_MELE_713",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_MELE"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.mele.unknown",
+    "code": "VU_SEE_MELE_712",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_MELE"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.mele.unknown",
+    "code": "VU_SEE_MELE_711",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_MELE"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.nguna.unknown",
+    "code": "VU_SEE_NGUN_784",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_NGUN"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.nguna.unknown",
+    "code": "VU_SEE_NGUN_780",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_NGUN"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.nguna.unknown",
+    "code": "VU_SEE_NGUN_781",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_NGUN"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.nguna.unknown",
+    "code": "VU_SEE_NGUN_782",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_NGUN"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.nguna.unknown",
+    "code": "VU_SEE_NGUN_783",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_NGUN"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.northefate.unknown",
+    "code": "VU_SEE_NOEF_704",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_NOEF"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.northefate.unknown",
+    "code": "VU_SEE_NOEF_700",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_NOEF"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.northefate.unknown",
+    "code": "VU_SEE_NOEF_701",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_NOEF"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.northefate.unknown",
+    "code": "VU_SEE_NOEF_702",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_NOEF"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.northefate.unknown",
+    "code": "VU_SEE_NOEF_703",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_NOEF"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.northtongoa.unknown",
+    "code": "VU_SEE_NOTO_191",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_NOTO"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.northtongoa.unknown",
+    "code": "VU_SEE_NOTO_190",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_NOTO"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.northtongoa.unknown",
+    "code": "VU_SEE_NOTO_186",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_NOTO"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.northtongoa.unknown",
+    "code": "VU_SEE_NOTO_187",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_NOTO"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.northtongoa.unknown",
+    "code": "VU_SEE_NOTO_184",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_NOTO"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.northtongoa.unknown",
+    "code": "VU_SEE_NOTO_185",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_NOTO"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.northtongoa.unknown",
+    "code": "VU_SEE_NOTO_188",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_NOTO"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.northtongoa.unknown",
+    "code": "VU_SEE_NOTO_189",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_NOTO"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_810",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_812",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_813",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_816",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_817",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_819",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_844",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_814",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_815",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_829",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_828",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_822",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_809",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_805",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_804",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_832",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_830",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_831",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_836",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_837",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_835",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_838",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_839",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_808",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_803",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_802",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_801",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_807",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_806",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_825",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_824",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_827",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_847",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_846",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_845",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_826",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_843",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_842",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_841",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_840",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_821",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_820",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_823",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_811",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.portvila.unknown",
+    "code": "VU_SEE_POVI_818",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_POVI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.southepi.unknown",
+    "code": "VU_SEE_SOEP_199",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_SOEP"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.southepi.unknown",
+    "code": "VU_SEE_SOEP_200",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_SOEP"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.vermali.unknown",
+    "code": "VU_SEE_VERM_111",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_VERM"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.vermali.unknown",
+    "code": "VU_SEE_VERM_113",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_VERM"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.vermali.unknown",
+    "code": "VU_SEE_VERM_112",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_VERM"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.vermaul.unknown",
+    "code": "VU_SEE_VERM2_201",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_VERM2"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.vermaul.unknown",
+    "code": "VU_SEE_VERM2_203",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_VERM2"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.vermaul.unknown",
+    "code": "VU_SEE_VERM2_202",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_VERM2"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.ifira.unknown",
+    "code": "VU_SEE_IFIR_724",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_IFIR"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.ifira.unknown",
+    "code": "VU_SEE_IFIR_725",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_IFIR"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.ifira.unknown",
+    "code": "VU_SEE_IFIR_723",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_IFIR"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.ifira.unknown",
+    "code": "VU_SEE_IFIR_720",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_IFIR"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.makimae.unknown",
+    "code": "VU_SEE_MAKI_198",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_MAKI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.makimae.unknown",
+    "code": "VU_SEE_MAKI_195",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_MAKI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.makimae.unknown",
+    "code": "VU_SEE_MAKI_197",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_MAKI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.makimae.unknown",
+    "code": "VU_SEE_MAKI_196",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_MAKI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.makimae.unknown",
+    "code": "VU_SEE_MAKI_179",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_MAKI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.makimae.unknown",
+    "code": "VU_SEE_MAKI_180",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_MAKI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.makimae.unknown",
+    "code": "VU_SEE_MAKI_178",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_MAKI"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.pango.unknown",
+    "code": "VU_SEE_PANG_719",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_PANG"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.pango.unknown",
+    "code": "VU_SEE_PANG_722",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_PANG"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.pango.unknown",
+    "code": "VU_SEE_PANG_721",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_PANG"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.tongariki.unknown",
+    "code": "VU_SEE_TONG_194",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_TONG"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.tongariki.unknown",
+    "code": "VU_SEE_TONG_193",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_TONG"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.tongariki.unknown",
+    "code": "VU_SEE_TONG_192",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_TONG"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.tongariki.unknown",
+    "code": "VU_SEE_TONG_182",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_TONG"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.tongariki.unknown",
+    "code": "VU_SEE_TONG_183",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_TONG"
+  },
+  {
+    "tenantId": "vanuatu.shefaprovince.tongariki.unknown",
+    "code": "VU_SEE_TONG_181",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_SEE_TONG"
+  }
+]

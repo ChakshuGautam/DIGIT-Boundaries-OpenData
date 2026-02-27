@@ -1,0 +1,681 @@
+[
+  {
+    "tenantId": "poland.lubuszvoivodeship",
+    "code": "PL_LB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PL"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatwiebodziski",
+    "code": "PL_LB_POW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_LB"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatgorzowski",
+    "code": "PL_LB_POGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_LB"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatmidzyrzecki",
+    "code": "PL_LB_POMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_LB"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatarski",
+    "code": "PL_LB_POA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_LB"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.gorzwwielkopolski",
+    "code": "PL_LB_GOWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_LB"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatkronieski",
+    "code": "PL_LB_POKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_LB"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatnowosolski",
+    "code": "PL_LB_PONO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_LB"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatsubicki",
+    "code": "PL_LB_POS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_LB"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatsulciski",
+    "code": "PL_LB_POSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_LB"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatwschowski",
+    "code": "PL_LB_POWS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_LB"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatagaski",
+    "code": "PL_LB_POA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_LB"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatstrzeleckodrezdenecki",
+    "code": "PL_LB_POST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_LB"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.zielonagra",
+    "code": "PL_LB_ZIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_LB"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatzielonogrski",
+    "code": "PL_LB_POZI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_LB"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatwiebodziski.gminawiebodzin",
+    "code": "PL_LB_POW_GMW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POW"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatwiebodziski.gminalubrza",
+    "code": "PL_LB_POW_GMLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POW"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatwiebodziski.gminazbszynek",
+    "code": "PL_LB_POW_GMZB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POW"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatwiebodziski.gminaagw",
+    "code": "PL_LB_POW_GMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POW"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatwiebodziski.gminaskpe",
+    "code": "PL_LB_POW_GMSK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POW"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatwiebodziski.gminaszczaniec",
+    "code": "PL_LB_POW_GMSZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POW"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatgorzowski.gminakodawa",
+    "code": "PL_LB_POGO_GMK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POGO"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatgorzowski.gminalubiszyn",
+    "code": "PL_LB_POGO_GMLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POGO"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatgorzowski.gminawitnica",
+    "code": "PL_LB_POGO_GMWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POGO"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatgorzowski.kostrzynnadodr",
+    "code": "PL_LB_POGO_KNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POGO"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatgorzowski.gminasantok",
+    "code": "PL_LB_POGO_GMSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POGO"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatgorzowski.gminadeszczno",
+    "code": "PL_LB_POGO_GMDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POGO"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatgorzowski.gminabogdaniec",
+    "code": "PL_LB_POGO_GMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POGO"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatmidzyrzecki.gminamidzyrzecz",
+    "code": "PL_LB_POMI_GMMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POMI"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatmidzyrzecki.gminabledzew",
+    "code": "PL_LB_POMI_GMBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POMI"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatmidzyrzecki.gminaprzytoczna",
+    "code": "PL_LB_POMI_GMPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POMI"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatmidzyrzecki.gminapszczew",
+    "code": "PL_LB_POMI_GMPS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POMI"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatmidzyrzecki.gminaskwierzyna",
+    "code": "PL_LB_POMI_GMSK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POMI"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatmidzyrzecki.gminatrzciel",
+    "code": "PL_LB_POMI_GMTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POMI"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatarski.ary",
+    "code": "PL_LB_POA_ARY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POA"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatarski.gminaprzewz",
+    "code": "PL_LB_POA_GMPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POA"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatarski.gminabrody",
+    "code": "PL_LB_POA_GMBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POA"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatarski.gminajasie",
+    "code": "PL_LB_POA_GMJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POA"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatarski.gminalipinkiuyckie",
+    "code": "PL_LB_POA_GL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POA"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatarski.gminalubsko",
+    "code": "PL_LB_POA_GMLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POA"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatarski.gminatrzebiel",
+    "code": "PL_LB_POA_GMTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POA"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatarski.gminatuplice",
+    "code": "PL_LB_POA_GMTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POA"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatarski.knica",
+    "code": "PL_LB_POA_KN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POA"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatarski.gminaary",
+    "code": "PL_LB_POA_GMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POA"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.gorzwwielkopolski.gorzwwielkopolski",
+    "code": "PL_LB_GOWI_GOWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_GOWI"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatkronieski.gminagubin",
+    "code": "PL_LB_POKR_GMGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POKR"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatkronieski.gminabytnica",
+    "code": "PL_LB_POKR_GMBY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POKR"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatkronieski.gminabobrowice",
+    "code": "PL_LB_POKR_GMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POKR"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatkronieski.gminamaszewo",
+    "code": "PL_LB_POKR_GMMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POKR"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatkronieski.gubin",
+    "code": "PL_LB_POKR_GUBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POKR"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatkronieski.gminakrosnoodrzaskie",
+    "code": "PL_LB_POKR_GKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POKR"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatkronieski.gminadbie",
+    "code": "PL_LB_POKR_GMD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POKR"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatnowosolski.gminakolsko",
+    "code": "PL_LB_PONO_GMKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_PONO"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatnowosolski.gminanowasl",
+    "code": "PL_LB_PONO_GNS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_PONO"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatnowosolski.gminabytomodrzaski",
+    "code": "PL_LB_PONO_GBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_PONO"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatnowosolski.gminakouchw",
+    "code": "PL_LB_PONO_GMKO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_PONO"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatnowosolski.gminanowemiasteczko",
+    "code": "PL_LB_PONO_GNM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_PONO"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatnowosolski.gminaoty",
+    "code": "PL_LB_PONO_GMOT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_PONO"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatnowosolski.gminasiedlisko",
+    "code": "PL_LB_PONO_GMSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_PONO"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatnowosolski.nowasl",
+    "code": "PL_LB_PONO_NOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_PONO"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatsubicki.gminacybinka",
+    "code": "PL_LB_POS_GMCY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POS"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatsubicki.gminagrzyca",
+    "code": "PL_LB_POS_GMG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POS"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatsubicki.gminaonolubuskie",
+    "code": "PL_LB_POS_GOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POS"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatsubicki.gminarzepin",
+    "code": "PL_LB_POS_GMRZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POS"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatsubicki.gminasubice",
+    "code": "PL_LB_POS_GMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POS"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatsulciski.gminasulcin",
+    "code": "PL_LB_POSU_GMSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POSU"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatsulciski.gminatorzym",
+    "code": "PL_LB_POSU_GMTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POSU"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatsulciski.gminakrzeszyce",
+    "code": "PL_LB_POSU_GMKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POSU"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatsulciski.gminalubniewice",
+    "code": "PL_LB_POSU_GMLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POSU"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatsulciski.gminasosk",
+    "code": "PL_LB_POSU_GMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POSU"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatwschowski.gminaszlichtyngowa",
+    "code": "PL_LB_POWS_GMSZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POWS"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatwschowski.gminawschowa",
+    "code": "PL_LB_POWS_GMWS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POWS"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatwschowski.gminasawa",
+    "code": "PL_LB_POWS_GMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POWS"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatagaski.gminaaga",
+    "code": "PL_LB_POA2_GMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POA2"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatagaski.gminaszprotawa",
+    "code": "PL_LB_POA2_GMSZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POA2"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatagaski.gminabrzenica",
+    "code": "PL_LB_POA2_GMBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POA2"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatagaski.gminaniegosawice",
+    "code": "PL_LB_POA2_GMNI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POA2"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatagaski.gozdnica",
+    "code": "PL_LB_POA2_GOZD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POA2"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatagaski.aga",
+    "code": "PL_LB_POA2_AGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POA2"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatagaski.gminawymiarki",
+    "code": "PL_LB_POA2_GMWY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POA2"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatagaski.gminaiowa",
+    "code": "PL_LB_POA2_GMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POA2"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatagaski.gminamaomice",
+    "code": "PL_LB_POA2_GMMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POA2"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatstrzeleckodrezdenecki.gminadrezdenko",
+    "code": "PL_LB_POST_GMDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POST"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatstrzeleckodrezdenecki.gminastrzelcekrajeskie",
+    "code": "PL_LB_POST_GSK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POST"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatstrzeleckodrezdenecki.gminazwierzyn",
+    "code": "PL_LB_POST_GMZW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POST"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatstrzeleckodrezdenecki.gminadobiegniew",
+    "code": "PL_LB_POST_GMDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POST"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatstrzeleckodrezdenecki.gminastarekurowo",
+    "code": "PL_LB_POST_GSK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POST"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.zielonagra.zielonagra",
+    "code": "PL_LB_ZIG_ZIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_ZIG"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatzielonogrski.gminakargowa",
+    "code": "PL_LB_POZI_GMKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POZI"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatzielonogrski.gminaczerwiesk",
+    "code": "PL_LB_POZI_GMCZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POZI"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatzielonogrski.gminababimost",
+    "code": "PL_LB_POZI_GMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POZI"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatzielonogrski.gminabojada",
+    "code": "PL_LB_POZI_GMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POZI"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatzielonogrski.gminanowogrdbobrzaski",
+    "code": "PL_LB_POZI_GNB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POZI"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatzielonogrski.gminasulechw",
+    "code": "PL_LB_POZI_GMSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POZI"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatzielonogrski.gminawidnica",
+    "code": "PL_LB_POZI_GMW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POZI"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatzielonogrski.gminatrzebiechw",
+    "code": "PL_LB_POZI_GMTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POZI"
+  },
+  {
+    "tenantId": "poland.lubuszvoivodeship.powiatzielonogrski.gminazabr",
+    "code": "PL_LB_POZI_GMZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_LB_POZI"
+  }
+]

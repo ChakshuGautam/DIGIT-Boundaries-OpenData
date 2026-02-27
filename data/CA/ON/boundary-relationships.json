@@ -1,0 +1,4076 @@
+[
+  {
+    "tenantId": "canada.ontario",
+    "code": "CA_ON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "CA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa",
+    "code": "CA_ON_OTTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Census Division",
+    "parent": "CA_ON"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke",
+    "code": "CA_ON_KING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Census Division",
+    "parent": "CA_ON"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas",
+    "code": "CA_ON_MUSK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Census Division",
+    "parent": "CA_ON"
+  },
+  {
+    "tenantId": "canada.ontario.toronto",
+    "code": "CA_ON_TORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Census Division",
+    "parent": "CA_ON"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie",
+    "code": "CA_ON_KITC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Census Division",
+    "parent": "CA_ON"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula",
+    "code": "CA_ON_HAPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Census Division",
+    "parent": "CA_ON"
+  },
+  {
+    "tenantId": "canada.ontario.london",
+    "code": "CA_ON_LOND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Census Division",
+    "parent": "CA_ON"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia",
+    "code": "CA_ON_WIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Census Division",
+    "parent": "CA_ON"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula",
+    "code": "CA_ON_STPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Census Division",
+    "parent": "CA_ON"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest",
+    "code": "CA_ON_NN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Census Division",
+    "parent": "CA_ON"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest",
+    "code": "CA_ON_NN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Census Division",
+    "parent": "CA_ON"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.prescott",
+    "code": "CA_ON_OTTA_PRES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.elizabethtownkitley",
+    "code": "CA_ON_OTTA_ELIZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.brockville",
+    "code": "CA_ON_OTTA_BROC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.frontofyonge",
+    "code": "CA_ON_OTTA_FOY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.leedsandthethousandislands",
+    "code": "CA_ON_OTTA_LATT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.gananoque",
+    "code": "CA_ON_OTTA_GANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.westport",
+    "code": "CA_ON_OTTA_WEST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.rideaulakes",
+    "code": "CA_ON_OTTA_RILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.athens",
+    "code": "CA_ON_OTTA_ATHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.southglengarry",
+    "code": "CA_ON_OTTA_SOGL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.southstormont",
+    "code": "CA_ON_OTTA_SOST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.cornwall",
+    "code": "CA_ON_OTTA_CORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.southdundas",
+    "code": "CA_ON_OTTA_SODU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.northdundas",
+    "code": "CA_ON_OTTA_NODU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.northstormont",
+    "code": "CA_ON_OTTA_NOST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.northglengarry",
+    "code": "CA_ON_OTTA_NOGL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.easthawkesbury",
+    "code": "CA_ON_OTTA_EAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.clarencerockland",
+    "code": "CA_ON_OTTA_CLAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.casselman",
+    "code": "CA_ON_OTTA_CASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.russell",
+    "code": "CA_ON_OTTA_RUSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.champlain",
+    "code": "CA_ON_OTTA_CHAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.alfredandplantagenet",
+    "code": "CA_ON_OTTA_AAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.thenationlanation",
+    "code": "CA_ON_OTTA_TNL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.ottawa",
+    "code": "CA_ON_OTTA_OTTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.edwardsburghcardinal",
+    "code": "CA_ON_OTTA_EDWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.augusta",
+    "code": "CA_ON_OTTA_AUGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.merrickvillewolford",
+    "code": "CA_ON_OTTA_MERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.northgrenville",
+    "code": "CA_ON_OTTA_NOGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.hawkesbury",
+    "code": "CA_ON_OTTA_HAWK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.lanarkhighlands",
+    "code": "CA_ON_OTTA_LAHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.smithsfalls",
+    "code": "CA_ON_OTTA_SMFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.drummondnorthelmsley",
+    "code": "CA_ON_OTTA_DREL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.tayvalley",
+    "code": "CA_ON_OTTA_TAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.carletonplace",
+    "code": "CA_ON_OTTA_CAPL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.mississippimills",
+    "code": "CA_ON_OTTA_MIMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.montague",
+    "code": "CA_ON_OTTA_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.perth",
+    "code": "CA_ON_OTTA_PERT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.beckwith",
+    "code": "CA_ON_OTTA_BECK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.ottawa.akwesasnepart",
+    "code": "CA_ON_OTTA_A5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_OTTA"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.greaternapanee",
+    "code": "CA_ON_KING_GRNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.stonemills",
+    "code": "CA_ON_KING_STMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.addingtonhighlands",
+    "code": "CA_ON_KING_ADHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.tyendinaga",
+    "code": "CA_ON_KING_TYEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.tyendinagamohawkterritory",
+    "code": "CA_ON_KING_TMT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.belleville",
+    "code": "CA_ON_KING_BELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.quintewest",
+    "code": "CA_ON_KING_QUWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.stirlingrawdon",
+    "code": "CA_ON_KING_STIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.frontenacislands",
+    "code": "CA_ON_KING_FRIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.kingston",
+    "code": "CA_ON_KING_KING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.southfrontenac",
+    "code": "CA_ON_KING_SOFR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.centralfrontenac",
+    "code": "CA_ON_KING_CEFR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.northfrontenac",
+    "code": "CA_ON_KING_NOFR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.loyalist",
+    "code": "CA_ON_KING_LOYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.deseronto",
+    "code": "CA_ON_KING_DESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.faraday",
+    "code": "CA_ON_KING_FARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.bancroft",
+    "code": "CA_ON_KING_BANC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.carlowmayo",
+    "code": "CA_ON_KING_CARL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.centrehastings",
+    "code": "CA_ON_KING_CEHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.tweed",
+    "code": "CA_ON_KING_TWEE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.madoc",
+    "code": "CA_ON_KING_MADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.marmoraandlake",
+    "code": "CA_ON_KING_MAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.tudorandcashel",
+    "code": "CA_ON_KING_TAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.limerick",
+    "code": "CA_ON_KING_LIME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.wollaston",
+    "code": "CA_ON_KING_WOLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.hastingshighlands",
+    "code": "CA_ON_KING_HAHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.princeedwardcounty",
+    "code": "CA_ON_KING_PEC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.bonnecherevalley",
+    "code": "CA_ON_KING_BOVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.pikwakanagangoldenlake",
+    "code": "CA_ON_KING_PL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.admastonbromley",
+    "code": "CA_ON_KING_ADMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.arnprior",
+    "code": "CA_ON_KING_ARNP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.mcnabbraeside",
+    "code": "CA_ON_KING_MCNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.greatermadawaska",
+    "code": "CA_ON_KING_GRMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.brudenelllyndochandraglan",
+    "code": "CA_ON_KING_BLAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.madawaskavalley",
+    "code": "CA_ON_KING_MAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.killaloehagartyandrichards",
+    "code": "CA_ON_KING_KHAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.laurentianhills",
+    "code": "CA_ON_KING_LAHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.deepriver",
+    "code": "CA_ON_KING_DERI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.headclaraandmaria",
+    "code": "CA_ON_KING_HCAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.horton",
+    "code": "CA_ON_KING_HORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.renfrew",
+    "code": "CA_ON_KING_RENF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.whitewaterregion",
+    "code": "CA_ON_KING_WHRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.pembroke",
+    "code": "CA_ON_KING_PEMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.northalgonawilberforce",
+    "code": "CA_ON_KING_NAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.laurentianvalley",
+    "code": "CA_ON_KING_LAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.kingstonpembroke.petawawa",
+    "code": "CA_ON_KING_PETA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KING"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.gravenhurst",
+    "code": "CA_ON_MUSK_GRAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.bracebridge",
+    "code": "CA_ON_MUSK_BRAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.selwyn",
+    "code": "CA_ON_MUSK_SELW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.cramahe",
+    "code": "CA_ON_MUSK_CRAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.otonabeesouthmonaghan",
+    "code": "CA_ON_MUSK_OTMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.aldervillefirstnation",
+    "code": "CA_ON_MUSK_AFN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.asphodelnorwood",
+    "code": "CA_ON_MUSK_ASPH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.cavanmonaghan",
+    "code": "CA_ON_MUSK_CAMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.peterborough",
+    "code": "CA_ON_MUSK_PETE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.curvelakefirstnation",
+    "code": "CA_ON_MUSK_CLFN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.dourodummer",
+    "code": "CA_ON_MUSK_DOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.havelockbelmontmethuen",
+    "code": "CA_ON_MUSK_HAVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.northkawartha",
+    "code": "CA_ON_MUSK_NOKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.kawarthalakes",
+    "code": "CA_ON_MUSK_KALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.cobourg",
+    "code": "CA_ON_MUSK_COBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.brighton",
+    "code": "CA_ON_MUSK_BRIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.hamilton",
+    "code": "CA_ON_MUSK_HAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.porthope",
+    "code": "CA_ON_MUSK_POHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.alnwickhaldimand",
+    "code": "CA_ON_MUSK_ALNW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.trenthills",
+    "code": "CA_ON_MUSK_TRHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.hiawathafirstnation",
+    "code": "CA_ON_MUSK_HFN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.trentlakes",
+    "code": "CA_ON_MUSK_TRLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.huntsville",
+    "code": "CA_ON_MUSK_HUNT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.muskokalakes",
+    "code": "CA_ON_MUSK_MULA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.highlandseast",
+    "code": "CA_ON_MUSK_HIEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.mindenhills",
+    "code": "CA_ON_MUSK_MIHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.algonquinhighlands",
+    "code": "CA_ON_MUSK_ALHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.dysartetal",
+    "code": "CA_ON_MUSK_DEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.lakeofbays",
+    "code": "CA_ON_MUSK_LOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.wahtamohawkterritory",
+    "code": "CA_ON_MUSK_WMT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.muskokakawarthas.moosepoint",
+    "code": "CA_ON_MUSK_MP7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_MUSK"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.newmarket",
+    "code": "CA_ON_TORO_NEWM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.king",
+    "code": "CA_ON_TORO_KING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.eastgwillimbury",
+    "code": "CA_ON_TORO_EAGW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.georgina",
+    "code": "CA_ON_TORO_GEOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.chippewasofgeorginaisland",
+    "code": "CA_ON_TORO_COGI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.toronto",
+    "code": "CA_ON_TORO_TORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.mississauga",
+    "code": "CA_ON_TORO_MISS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.brampton",
+    "code": "CA_ON_TORO_BRAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.caledon",
+    "code": "CA_ON_TORO_CALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.whitchurchstouffville",
+    "code": "CA_ON_TORO_WHIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.whitby",
+    "code": "CA_ON_TORO_WHIT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.oshawa",
+    "code": "CA_ON_TORO_OSHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.scugog",
+    "code": "CA_ON_TORO_SCUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.mississaugasofscugogisland",
+    "code": "CA_ON_TORO_MOSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.aurora",
+    "code": "CA_ON_TORO_AURO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.pickering",
+    "code": "CA_ON_TORO_PICK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.clarington",
+    "code": "CA_ON_TORO_CLAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.uxbridge",
+    "code": "CA_ON_TORO_UXBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.brock",
+    "code": "CA_ON_TORO_BROC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.vaughan",
+    "code": "CA_ON_TORO_VAUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.markham",
+    "code": "CA_ON_TORO_MARK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.richmondhill",
+    "code": "CA_ON_TORO_RIHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.ajax",
+    "code": "CA_ON_TORO_AJAX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.oakville",
+    "code": "CA_ON_TORO_OAKV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.milton",
+    "code": "CA_ON_TORO_MILT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.toronto.haltonhills",
+    "code": "CA_ON_TORO_HAHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_TORO"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.orangeville",
+    "code": "CA_ON_KITC_ORAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.eastgarafraxa",
+    "code": "CA_ON_KITC_EAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.grandvalley",
+    "code": "CA_ON_KITC_GRVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.mono",
+    "code": "CA_ON_KITC_MONO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.amaranth",
+    "code": "CA_ON_KITC_AMAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.mulmur",
+    "code": "CA_ON_KITC_MULM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.puslinch",
+    "code": "CA_ON_KITC_PUSL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.guelph",
+    "code": "CA_ON_KITC_GUEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.melancthon",
+    "code": "CA_ON_KITC_MELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.shelburne",
+    "code": "CA_ON_KITC_SHEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.wasagabeach",
+    "code": "CA_ON_KITC_WABE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.penetanguishene",
+    "code": "CA_ON_KITC_PENE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.midland",
+    "code": "CA_ON_KITC_MIDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.newtecumseth",
+    "code": "CA_ON_KITC_NETE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.innisfil",
+    "code": "CA_ON_KITC_INNI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.christianislanda",
+    "code": "CA_ON_KITC_CI3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.tay",
+    "code": "CA_ON_KITC_TAY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.barrie",
+    "code": "CA_ON_KITC_BARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.orillia",
+    "code": "CA_ON_KITC_ORIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.erin",
+    "code": "CA_ON_KITC_ERIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.centrewellington",
+    "code": "CA_ON_KITC_CEWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.mapleton",
+    "code": "CA_ON_KITC_MAPL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.guelpheramosa",
+    "code": "CA_ON_KITC_GUEL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.northdumfries",
+    "code": "CA_ON_KITC_NODU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.minto",
+    "code": "CA_ON_KITC_MINT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.wellingtonnorth",
+    "code": "CA_ON_KITC_WENO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.woolwich",
+    "code": "CA_ON_KITC_WOOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.cambridge",
+    "code": "CA_ON_KITC_CAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.kitchener",
+    "code": "CA_ON_KITC_KITC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.waterloo",
+    "code": "CA_ON_KITC_WATE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.adjalatosorontio",
+    "code": "CA_ON_KITC_ADJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.clearview",
+    "code": "CA_ON_KITC_CLEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.springwater",
+    "code": "CA_ON_KITC_SPRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.bradfordwestgwillimbury",
+    "code": "CA_ON_KITC_BWG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.severn",
+    "code": "CA_ON_KITC_SEVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.ramara",
+    "code": "CA_ON_KITC_RAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.essa",
+    "code": "CA_ON_KITC_ESSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.oromedonte",
+    "code": "CA_ON_KITC_ORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.mnjikaningfirstnation",
+    "code": "CA_ON_KITC_MFN3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.tiny",
+    "code": "CA_ON_KITC_TINY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.christianisland",
+    "code": "CA_ON_KITC_CI32",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.wilmot",
+    "code": "CA_ON_KITC_WILM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.wellesley",
+    "code": "CA_ON_KITC_WELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.thearchipelago",
+    "code": "CA_ON_KITC_THAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.collingwood",
+    "code": "CA_ON_KITC_COLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.kitchenerwaterloobarrie.georgianbay",
+    "code": "CA_ON_KITC_GEBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_KITC"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula.sixnationspart",
+    "code": "CA_ON_HAPE_SN4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_HAPE"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula.newcreditparta",
+    "code": "CA_ON_HAPE_NC4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_HAPE"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula.thorold",
+    "code": "CA_ON_HAPE_THOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_HAPE"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula.burlington",
+    "code": "CA_ON_HAPE_BURL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_HAPE"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula.hamilton",
+    "code": "CA_ON_HAPE_HAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_HAPE"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula.forterie",
+    "code": "CA_ON_HAPE_FOER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_HAPE"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula.portcolborne",
+    "code": "CA_ON_HAPE_POCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_HAPE"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula.wainfleet",
+    "code": "CA_ON_HAPE_WAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_HAPE"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula.westlincoln",
+    "code": "CA_ON_HAPE_WELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_HAPE"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula.niagarafalls",
+    "code": "CA_ON_HAPE_NIFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_HAPE"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula.niagaraonthelake",
+    "code": "CA_ON_HAPE_NIAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_HAPE"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula.stcatharines",
+    "code": "CA_ON_HAPE_STCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_HAPE"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula.lincoln",
+    "code": "CA_ON_HAPE_LINC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_HAPE"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula.grimsby",
+    "code": "CA_ON_HAPE_GRIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_HAPE"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula.haldimandcounty",
+    "code": "CA_ON_HAPE_HACO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_HAPE"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula.newcreditparta",
+    "code": "CA_ON_HAPE_NC42",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_HAPE"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula.pelham",
+    "code": "CA_ON_HAPE_PELH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_HAPE"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula.welland",
+    "code": "CA_ON_HAPE_WELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_HAPE"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula.sixnationspart",
+    "code": "CA_ON_HAPE_SN42",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_HAPE"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula.brant",
+    "code": "CA_ON_HAPE_BRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_HAPE"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula.brantford",
+    "code": "CA_ON_HAPE_BRAN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_HAPE"
+  },
+  {
+    "tenantId": "canada.ontario.hamiltonniagarapeninsula.norfolkcounty",
+    "code": "CA_ON_HAPE_NOCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_HAPE"
+  },
+  {
+    "tenantId": "canada.ontario.london.newbury",
+    "code": "CA_ON_LOND_NEWB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.southwestmiddlesex",
+    "code": "CA_ON_LOND_SOMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.adelaidemetcalfe",
+    "code": "CA_ON_LOND_ADEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.lucanbiddulph",
+    "code": "CA_ON_LOND_LUBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.strathroycaradoc",
+    "code": "CA_ON_LOND_STRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.chippewasofthethamesfirst",
+    "code": "CA_ON_LOND_COTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.munseedelawarenation",
+    "code": "CA_ON_LOND_MN1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.oneida",
+    "code": "CA_ON_LOND_ON41",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.thamescentre",
+    "code": "CA_ON_LOND_THCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.middlesexcentre",
+    "code": "CA_ON_LOND_MICE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.london",
+    "code": "CA_ON_LOND_LOND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.northmiddlesex",
+    "code": "CA_ON_LOND_NOMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.norwich",
+    "code": "CA_ON_LOND_NORW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.tillsonburg",
+    "code": "CA_ON_LOND_TILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.southwestoxford",
+    "code": "CA_ON_LOND_SOOX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.ingersoll",
+    "code": "CA_ON_LOND_INGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.zorra",
+    "code": "CA_ON_LOND_ZORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.eastzorratavistock",
+    "code": "CA_ON_LOND_EAZO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.woodstock",
+    "code": "CA_ON_LOND_WOOD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.blandfordblenheim",
+    "code": "CA_ON_LOND_BLAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.bayham",
+    "code": "CA_ON_LOND_BAYH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.malahide",
+    "code": "CA_ON_LOND_MALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.aylmer",
+    "code": "CA_ON_LOND_AYLM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.centralelgin",
+    "code": "CA_ON_LOND_CEEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.southwold",
+    "code": "CA_ON_LOND_SOUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.duttondunwich",
+    "code": "CA_ON_LOND_DUTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.westelgin",
+    "code": "CA_ON_LOND_WEEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.london.stthomas",
+    "code": "CA_ON_LOND_STTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_LOND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.pointedward",
+    "code": "CA_ON_WIND_POED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.sarnia",
+    "code": "CA_ON_WIND_SARN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.plymptonwyoming",
+    "code": "CA_ON_WIND_PLYM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.lambtonshores",
+    "code": "CA_ON_WIND_LASH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.warwick",
+    "code": "CA_ON_WIND_WARW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.kettlepoint",
+    "code": "CA_ON_WIND_KP4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.tecumseh",
+    "code": "CA_ON_WIND_TECU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.lakeshore",
+    "code": "CA_ON_WIND_LAKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.stclair",
+    "code": "CA_ON_WIND_STCL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.walpoleisland",
+    "code": "CA_ON_WIND_WI4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.dawneuphemia",
+    "code": "CA_ON_WIND_DAWN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.brookealvinston",
+    "code": "CA_ON_WIND_BROO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.enniskillen",
+    "code": "CA_ON_WIND_ENNI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.oilsprings",
+    "code": "CA_ON_WIND_OISP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.petrolia",
+    "code": "CA_ON_WIND_PETR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.sarnia",
+    "code": "CA_ON_WIND_SA45",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.pelee",
+    "code": "CA_ON_WIND_PELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.leamington",
+    "code": "CA_ON_WIND_LEAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.kingsville",
+    "code": "CA_ON_WIND_KING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.essex",
+    "code": "CA_ON_WIND_ESSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.amherstburg",
+    "code": "CA_ON_WIND_AMHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.lasalle",
+    "code": "CA_ON_WIND_LASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.windsor",
+    "code": "CA_ON_WIND_WIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.chathamkent",
+    "code": "CA_ON_WIND_CHAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.windsorsarnia.moravian",
+    "code": "CA_ON_WIND_MO47",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_WIND"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.thebluemountains",
+    "code": "CA_ON_STPE_TBM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.meaford",
+    "code": "CA_ON_STPE_MEAF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.georgianbluffs",
+    "code": "CA_ON_STPE_GEBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.northhuron",
+    "code": "CA_ON_STPE_NOHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.chiefspointno",
+    "code": "CA_ON_STPE_CPN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.southhuron",
+    "code": "CA_ON_STPE_SOHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.northernbrucepeninsula",
+    "code": "CA_ON_STPE_NBP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.westgrey",
+    "code": "CA_ON_STPE_WEGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.southgate",
+    "code": "CA_ON_STPE_SOUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.goderich",
+    "code": "CA_ON_STPE_GODE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.bluewater",
+    "code": "CA_ON_STPE_BLUE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.centralhuron",
+    "code": "CA_ON_STPE_CEHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.morristurnberry",
+    "code": "CA_ON_STPE_MORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.ashfieldcolbornewawanosh",
+    "code": "CA_ON_STPE_ASHF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.southbruce",
+    "code": "CA_ON_STPE_SOBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.huronkinloss",
+    "code": "CA_ON_STPE_HURO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.kincardine",
+    "code": "CA_ON_STPE_KINC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.brockton",
+    "code": "CA_ON_STPE_BROC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.saugeenshores",
+    "code": "CA_ON_STPE_SASH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.southbrucepeninsula",
+    "code": "CA_ON_STPE_SBP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.owensound",
+    "code": "CA_ON_STPE_OWSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.huroneast",
+    "code": "CA_ON_STPE_HUEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.howick",
+    "code": "CA_ON_STPE_HOWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.greyhighlands",
+    "code": "CA_ON_STPE_GRHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.hanover",
+    "code": "CA_ON_STPE_HANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.arranelderslie",
+    "code": "CA_ON_STPE_ARRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.saugeen",
+    "code": "CA_ON_STPE_SA29",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.chatsworth",
+    "code": "CA_ON_STPE_CHAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.pertheast",
+    "code": "CA_ON_STPE_PEEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.northperth",
+    "code": "CA_ON_STPE_NOPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.stratford",
+    "code": "CA_ON_STPE_STRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.perthsouth",
+    "code": "CA_ON_STPE_PESO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.stmarys",
+    "code": "CA_ON_STPE_STMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.westperth",
+    "code": "CA_ON_STPE_WEPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.stratfordbrucepeninsula.neyaashiinigmiing",
+    "code": "CA_ON_STPE_NE27",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_STPE"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.callander",
+    "code": "CA_ON_NN_CALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.baldwin",
+    "code": "CA_ON_NN_BALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.nairnandhyman",
+    "code": "CA_ON_NN_NAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.killarney",
+    "code": "CA_ON_NN_KILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.whitefishlake",
+    "code": "CA_ON_NN_WL6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.mattagami",
+    "code": "CA_ON_NN_MA71",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.chapleaua",
+    "code": "CA_ON_NN_CH74",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.ducklakeb",
+    "code": "CA_ON_NN_DL7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.chapleau",
+    "code": "CA_ON_NN_CH75",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.chapleau",
+    "code": "CA_ON_NN_CHAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.sudburyunorganizednorthp",
+    "code": "CA_ON_NN_SUNP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.greatersudburygrandsudbu",
+    "code": "CA_ON_NN_GSG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.wahnapitei",
+    "code": "CA_ON_NN_WA11",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.coleman",
+    "code": "CA_ON_NN_COLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.casey",
+    "code": "CA_ON_NN_CASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.hornepayne",
+    "code": "CA_ON_NN_HORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.cockburnisland",
+    "code": "CA_ON_NN_COIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.whitefishriverpart",
+    "code": "CA_ON_NN_WR4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.suckercreek",
+    "code": "CA_ON_NN_SC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.sheguiandah",
+    "code": "CA_ON_NN_SH24",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.sheshegwaning",
+    "code": "CA_ON_NN_SH20",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.manitoulinunorganizedwest",
+    "code": "CA_ON_NN_MUW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.zhiibaahaasingacockburn",
+    "code": "CA_ON_NN_Z1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.frenchriverriviredesfr",
+    "code": "CA_ON_NN_FRR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.southalgonquin",
+    "code": "CA_ON_NN_SOAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.papineaucameron",
+    "code": "CA_ON_NN_PAPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.temagami",
+    "code": "CA_ON_NN_TEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.bearisland",
+    "code": "CA_ON_NN_BI1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.nipissing",
+    "code": "CA_ON_NN_NI10",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.nipissingunorganizedsouth",
+    "code": "CA_ON_NN_NUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.nipissingunorganizednorth",
+    "code": "CA_ON_NN_NUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.seguin",
+    "code": "CA_ON_NN_SEGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.mcmurrichmonteith",
+    "code": "CA_ON_NN_MCMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.mattawan",
+    "code": "CA_ON_NN_MATT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.mattawa",
+    "code": "CA_ON_NN_MATT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.calvin",
+    "code": "CA_ON_NN_CALV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.eastferris",
+    "code": "CA_ON_NN_EAFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.northbay",
+    "code": "CA_ON_NN_NOBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.chamberlain",
+    "code": "CA_ON_NN_CHAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.mchigeengwestbay",
+    "code": "CA_ON_NN_M2B",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.stcharles",
+    "code": "CA_ON_NN_ST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.markstaywarren",
+    "code": "CA_ON_NN_MARK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.sablesspanishrivers",
+    "code": "CA_ON_NN_SARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.espanola",
+    "code": "CA_ON_NN_ESPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.parrysoundunorganizedcen",
+    "code": "CA_ON_NN_PSUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.algomaunorganizednorthpa",
+    "code": "CA_ON_NN_AUNP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.tehkummah",
+    "code": "CA_ON_NN_TEHK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.centralmanitoulin",
+    "code": "CA_ON_NN_CEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.assiginack",
+    "code": "CA_ON_NN_ASSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.northeasternmanitoulinandt",
+    "code": "CA_ON_NN_NMAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.billings",
+    "code": "CA_ON_NN_BILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.temiskamingshores",
+    "code": "CA_ON_NN_TESH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.hudson",
+    "code": "CA_ON_NN_HUDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.kerns",
+    "code": "CA_ON_NN_KERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.harley",
+    "code": "CA_ON_NN_HARL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.gauthier",
+    "code": "CA_ON_NN_GAUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.latchford",
+    "code": "CA_ON_NN_LATC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.cobalt",
+    "code": "CA_ON_NN_COBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.harris",
+    "code": "CA_ON_NN_HARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.matachewan",
+    "code": "CA_ON_NN_MATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.matachewan",
+    "code": "CA_ON_NN_MA72",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.kirklandlake",
+    "code": "CA_ON_NN_KILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.timiskamingunorganizedeas",
+    "code": "CA_ON_NN_TUE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.timiskamingunorganizedwes",
+    "code": "CA_ON_NN_TUW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.blackrivermatheson",
+    "code": "CA_ON_NN_BLRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.brethour",
+    "code": "CA_ON_NN_BRET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.hilliard",
+    "code": "CA_ON_NN_HILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.armstrong",
+    "code": "CA_ON_NN_ARMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.thornloe",
+    "code": "CA_ON_NN_THOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.james",
+    "code": "CA_ON_NN_JAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.charltonanddack",
+    "code": "CA_ON_NN_CAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.evanturel",
+    "code": "CA_ON_NN_EVAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.englehart",
+    "code": "CA_ON_NN_ENGL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.mckellar",
+    "code": "CA_ON_NN_MCKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.mcgarry",
+    "code": "CA_ON_NN_MCGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.larderlake",
+    "code": "CA_ON_NN_LALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.machar",
+    "code": "CA_ON_NN_MACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.southriver",
+    "code": "CA_ON_NN_SORI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.powassan",
+    "code": "CA_ON_NN_POWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.moosefactory",
+    "code": "CA_ON_NN_MF6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.armour",
+    "code": "CA_ON_NN_ARMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.burksfalls",
+    "code": "CA_ON_NN_BUFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.ryerson",
+    "code": "CA_ON_NN_RYER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.timmins",
+    "code": "CA_ON_NN_TIMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.mcdougall",
+    "code": "CA_ON_NN_MCDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.parrysound",
+    "code": "CA_ON_NN_PASO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.carling",
+    "code": "CA_ON_NN_CARL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.whitestone",
+    "code": "CA_ON_NN_WHIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.magnetawan",
+    "code": "CA_ON_NN_MAGN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.strong",
+    "code": "CA_ON_NN_STRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.sundridge",
+    "code": "CA_ON_NN_SUND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.joly",
+    "code": "CA_ON_NN_JOLY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.nipissing",
+    "code": "CA_ON_NN_NIPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.shawanaga",
+    "code": "CA_ON_NN_SH17",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.parryislandfirstnation",
+    "code": "CA_ON_NN_PIFN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.henveyinlet",
+    "code": "CA_ON_NN_HI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.thessalon",
+    "code": "CA_ON_NN_TH12",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.frenchriver",
+    "code": "CA_ON_NN_FR1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.parrysoundunorganizednor",
+    "code": "CA_ON_NN_PSUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.gorebay",
+    "code": "CA_ON_NN_GOBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.gordonbarrieisland",
+    "code": "CA_ON_NN_GOIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.burpeeandmills",
+    "code": "CA_ON_NN_BAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.rankinlocationd",
+    "code": "CA_ON_NN_RL1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.wawa",
+    "code": "CA_ON_NN_WAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.goulaisbaya",
+    "code": "CA_ON_NN_GB1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.cochraneunorganizedsouth",
+    "code": "CA_ON_NN_CUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.flyingpost",
+    "code": "CA_ON_NN_FP7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.newposta",
+    "code": "CA_ON_NN_NP6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.moosonee",
+    "code": "CA_ON_NN_MOOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.jocelyn",
+    "code": "CA_ON_NN_JOCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.hilton",
+    "code": "CA_ON_NN_HILT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.stjoseph",
+    "code": "CA_ON_NN_STJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.laird",
+    "code": "CA_ON_NN_LAIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.tarbuttandtarbuttadditional",
+    "code": "CA_ON_NN_TATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.johnson",
+    "code": "CA_ON_NN_JOHN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.plummeradditional",
+    "code": "CA_ON_NN_PLAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.brucemines",
+    "code": "CA_ON_NN_BRMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.iroquoisfalls",
+    "code": "CA_ON_NN_IRFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.abitibi",
+    "code": "CA_ON_NN_AB70",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.cochrane",
+    "code": "CA_ON_NN_COCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.smoothrockfalls",
+    "code": "CA_ON_NN_SRF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.fauquierstrickland",
+    "code": "CA_ON_NN_FAUQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.moonbeam",
+    "code": "CA_ON_NN_MOON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.kapuskasing",
+    "code": "CA_ON_NN_KAPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.valritaharty",
+    "code": "CA_ON_NN_VARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.opasatika",
+    "code": "CA_ON_NN_OPAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.hearst",
+    "code": "CA_ON_NN_HEAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.matticevalct",
+    "code": "CA_ON_NN_MAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.cochraneunorganizedsouth",
+    "code": "CA_ON_NN_CUS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.cochraneunorganizednorth",
+    "code": "CA_ON_NN_CUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.fortalbanypart",
+    "code": "CA_ON_NN_FA6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.factoryisland",
+    "code": "CA_ON_NN_FI1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.constancelake",
+    "code": "CA_ON_NN_CL9",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.thessalon",
+    "code": "CA_ON_NN_THES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.huronshores",
+    "code": "CA_ON_NN_HUSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.blindriver",
+    "code": "CA_ON_NN_BLRI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.spanish",
+    "code": "CA_ON_NN_SPAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.thenorthshore",
+    "code": "CA_ON_NN_TNS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.elliotlake",
+    "code": "CA_ON_NN_ELLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.macdonaldmeredithandaberd",
+    "code": "CA_ON_NN_MMAA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.saultstemarie",
+    "code": "CA_ON_NN_SSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.sagamok",
+    "code": "CA_ON_NN_SAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.serpentriver",
+    "code": "CA_ON_NN_SR7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.gardenriver",
+    "code": "CA_ON_NN_GR1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.prince",
+    "code": "CA_ON_NN_PRIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.mississagiriver",
+    "code": "CA_ON_NN_MR8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.whiteriver",
+    "code": "CA_ON_NN_WHRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.groscap",
+    "code": "CA_ON_NN_GC4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.dubreuilville",
+    "code": "CA_ON_NN_DUBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.perry",
+    "code": "CA_ON_NN_PERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.kearney",
+    "code": "CA_ON_NN_KEAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.bonfield",
+    "code": "CA_ON_NN_BONF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.chisholm",
+    "code": "CA_ON_NN_CHIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.westnipissingnipissingou",
+    "code": "CA_ON_NN_WNN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.dokis",
+    "code": "CA_ON_NN_DO9",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.magnetewan",
+    "code": "CA_ON_NN_MA1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.wikwemikongunceded",
+    "code": "CA_ON_NN_WIUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.marathon",
+    "code": "CA_ON_NN_MARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.algomaunorganizedsouthea",
+    "code": "CA_ON_NN_AUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northeastnordest.hiltonbeach",
+    "code": "CA_ON_NN_HIBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.greenstone",
+    "code": "CA_ON_NN2_GREE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.neebing",
+    "code": "CA_ON_NN2_NEEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.thunderbay",
+    "code": "CA_ON_NN2_THBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.picmobertnorth",
+    "code": "CA_ON_NN2_PMN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.picmobertsouth",
+    "code": "CA_ON_NN2_PMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.picriver",
+    "code": "CA_ON_NN2_PR5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.paysplat",
+    "code": "CA_ON_NN2_PP5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.lakehelena",
+    "code": "CA_ON_NN2_LH5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.gullriver",
+    "code": "CA_ON_NN2_GR5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.manitouwadge",
+    "code": "CA_ON_NN2_MANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.fortwilliam",
+    "code": "CA_ON_NN2_FW5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.oliverpaipoonge",
+    "code": "CA_ON_NN2_OLPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.gillies",
+    "code": "CA_ON_NN2_GILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.oconnor",
+    "code": "CA_ON_NN2_OCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.conmee",
+    "code": "CA_ON_NN2_CONM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.shuniah",
+    "code": "CA_ON_NN2_SHUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.dorion",
+    "code": "CA_ON_NN2_DORI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.redrock",
+    "code": "CA_ON_NN2_RERO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.nipigon",
+    "code": "CA_ON_NN2_NIPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.schreiber",
+    "code": "CA_ON_NN2_SCHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.pikangikum",
+    "code": "CA_ON_NN2_PI14",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.fortsevern",
+    "code": "CA_ON_NN2_FS8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.webequie",
+    "code": "CA_ON_NN2_WEBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.wabauskang",
+    "code": "CA_ON_NN2_WA21",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.wunnumin",
+    "code": "CA_ON_NN2_WU1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.summerbeaver",
+    "code": "CA_ON_NN2_SUBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.ginoogamingfirstnation",
+    "code": "CA_ON_NN2_GFN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.longlake",
+    "code": "CA_ON_NN2_LL5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.rockybay",
+    "code": "CA_ON_NN2_RB1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.aroland",
+    "code": "CA_ON_NN2_AR83",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.lakenipigon",
+    "code": "CA_ON_NN2_LANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.northspiritlake",
+    "code": "CA_ON_NN2_NSL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.lansdownehouse",
+    "code": "CA_ON_NN2_LAHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.whitefishbaya",
+    "code": "CA_ON_NN2_WB3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.wapekeka",
+    "code": "CA_ON_NN2_WA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.thedallesc",
+    "code": "CA_ON_NN2_TD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.kenoraunorganized",
+    "code": "CA_ON_NN2_KEUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.peawanuck",
+    "code": "CA_ON_NN2_PEAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.neskantaga",
+    "code": "CA_ON_NN2_NESK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.seinerivera",
+    "code": "CA_ON_NN2_SR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.whitesand",
+    "code": "CA_ON_NN2_WHIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.shoallakeparta",
+    "code": "CA_ON_NN2_SL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.deerlake",
+    "code": "CA_ON_NN2_DELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.sandylake",
+    "code": "CA_ON_NN2_SL8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.agency",
+    "code": "CA_ON_NN2_AG1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.couchichinga",
+    "code": "CA_ON_NN2_CO16",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.rainylakea",
+    "code": "CA_ON_NN2_RL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.seineriverb",
+    "code": "CA_ON_NN2_SR22",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.seinerivera",
+    "code": "CA_ON_NN2_SR23",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.wabigoonlake",
+    "code": "CA_ON_NN2_WL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.englishriver",
+    "code": "CA_ON_NN2_ER2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.biggrassyriverg",
+    "code": "CA_ON_NN2_BGR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.bigislandmainland",
+    "code": "CA_ON_NN2_BIM9",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.saugagawsing",
+    "code": "CA_ON_NN2_SA1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.redlake",
+    "code": "CA_ON_NN2_RELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.slatefalls",
+    "code": "CA_ON_NN2_SLFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.kitchenuhmaykoosibaakib",
+    "code": "CA_ON_NN2_KA8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.sachigolake",
+    "code": "CA_ON_NN2_SL1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.attawapiskata",
+    "code": "CA_ON_NN2_AT91",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.martenfalls",
+    "code": "CA_ON_NN2_MF6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.forthope",
+    "code": "CA_ON_NN2_FH6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.catlakec",
+    "code": "CA_ON_NN2_CL6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.lacdesmillelacsa",
+    "code": "CA_ON_NN2_LDML",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.atikokan",
+    "code": "CA_ON_NN2_ATIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.alberton",
+    "code": "CA_ON_NN2_ALBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.bearskinlake",
+    "code": "CA_ON_NN2_BELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.kasabonikalake",
+    "code": "CA_ON_NN2_KALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.rainylakea",
+    "code": "CA_ON_NN2_RL1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.rainylakeb",
+    "code": "CA_ON_NN2_RL12",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.rainyriverunorganized",
+    "code": "CA_ON_NN2_RRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.ignace",
+    "code": "CA_ON_NN2_IGNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.whitefishbaya",
+    "code": "CA_ON_NN2_WB32",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.emo",
+    "code": "CA_ON_NN2_EMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.muskratdamlake",
+    "code": "CA_ON_NN2_MDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.kingfisherlake",
+    "code": "CA_ON_NN2_KL1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.wawakapewinlongdoglake",
+    "code": "CA_ON_NN2_WDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.mcdowelllake",
+    "code": "CA_ON_NN2_MCLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.dawson",
+    "code": "CA_ON_NN2_DAWS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.rainyriver",
+    "code": "CA_ON_NN2_RARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.sabaskongbaypartc",
+    "code": "CA_ON_NN2_SB3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.neguaguonlaked",
+    "code": "CA_ON_NN2_NL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.rainylakec",
+    "code": "CA_ON_NN2_RL13",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.weagamowlake",
+    "code": "CA_ON_NN2_WL8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.northwestangleb",
+    "code": "CA_ON_NN2_NA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.chapple",
+    "code": "CA_ON_NN2_CHAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.manitourapids",
+    "code": "CA_ON_NN2_MR1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.longsault",
+    "code": "CA_ON_NN2_LS1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.morley",
+    "code": "CA_ON_NN2_MORL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.picklelake",
+    "code": "CA_ON_NN2_PILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.fortalbanypart",
+    "code": "CA_ON_NN2_FA6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.osnaburghb",
+    "code": "CA_ON_NN2_OS63",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.lacseul",
+    "code": "CA_ON_NN2_LS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.siouxlookout",
+    "code": "CA_ON_NN2_SILO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.keewaywin",
+    "code": "CA_ON_NN2_KEE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.lakeofthewoods",
+    "code": "CA_ON_NN2_LOTW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.wabaseemoong",
+    "code": "CA_ON_NN2_WABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.fortfrances",
+    "code": "CA_ON_NN2_FOFR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.lavallee",
+    "code": "CA_ON_NN2_LAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.whitefishbaya",
+    "code": "CA_ON_NN2_WB33",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.sabaskongbaypartc",
+    "code": "CA_ON_NN2_SB32",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.machin",
+    "code": "CA_ON_NN2_MACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.eaglelake",
+    "code": "CA_ON_NN2_EL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.dryden",
+    "code": "CA_ON_NN2_DRYD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.earfalls",
+    "code": "CA_ON_NN2_EAFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.sabaskongbayd",
+    "code": "CA_ON_NN2_SB33",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.lakeofthewoods",
+    "code": "CA_ON_NN2_LOTW2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.kenorab",
+    "code": "CA_ON_NN2_KE38",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.poplarhill",
+    "code": "CA_ON_NN2_POHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.ojibwaynationofsaugeensa",
+    "code": "CA_ON_NN2_ONOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.osnaburgha",
+    "code": "CA_ON_NN2_OS632",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.terracebay",
+    "code": "CA_ON_NN2_TEBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  },
+  {
+    "tenantId": "canada.ontario.northwestnordouest.thunderbayunorganized",
+    "code": "CA_ON_NN2_TBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_ON_NN2"
+  }
+]

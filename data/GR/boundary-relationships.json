@@ -1,0 +1,65 @@
+[
+  {
+    "tenantId": "greece",
+    "code": "GR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "greece.agionoros",
+    "code": "GR_MA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GR"
+  },
+  {
+    "tenantId": "greece.crete",
+    "code": "GR_CR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GR"
+  },
+  {
+    "tenantId": "greece.attica",
+    "code": "GR_AT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GR"
+  },
+  {
+    "tenantId": "greece.macedoniathrace",
+    "code": "GR_MH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GR"
+  },
+  {
+    "tenantId": "greece.epiruswesternmacedonia",
+    "code": "GR_EM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GR"
+  },
+  {
+    "tenantId": "greece.peloponisoswgreeceionian",
+    "code": "GR_PW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GR"
+  },
+  {
+    "tenantId": "greece.egean",
+    "code": "GR_AI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GR"
+  },
+  {
+    "tenantId": "greece.thessaliacentralgreece",
+    "code": "GR_TC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GR"
+  }
+]

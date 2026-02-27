@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "unitedstatesofamerica.delaware",
+    "code": "US_DE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "US"
+  },
+  {
+    "tenantId": "unitedstatesofamerica.delaware.kent",
+    "code": "US_DE_KENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "US_DE"
+  },
+  {
+    "tenantId": "unitedstatesofamerica.delaware.sussex",
+    "code": "US_DE_SUSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "US_DE"
+  },
+  {
+    "tenantId": "unitedstatesofamerica.delaware.newcastle",
+    "code": "US_DE_NECA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "US_DE"
+  }
+]

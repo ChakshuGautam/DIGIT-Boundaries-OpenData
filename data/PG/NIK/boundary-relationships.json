@@ -1,0 +1,86 @@
+[
+  {
+    "tenantId": "papuanewguinea.newirelandprovince",
+    "code": "PG_NIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PG"
+  },
+  {
+    "tenantId": "papuanewguinea.newirelandprovince.kaviengdistrict",
+    "code": "PG_NIK_KADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PG_NIK"
+  },
+  {
+    "tenantId": "papuanewguinea.newirelandprovince.namatanaidistrict",
+    "code": "PG_NIK_NADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PG_NIK"
+  },
+  {
+    "tenantId": "papuanewguinea.newirelandprovince.kaviengdistrict.kaviengurbanllg",
+    "code": "PG_NIK_KADI_KUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_NIK_KADI"
+  },
+  {
+    "tenantId": "papuanewguinea.newirelandprovince.kaviengdistrict.lovongairuralllg",
+    "code": "PG_NIK_KADI_LRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_NIK_KADI"
+  },
+  {
+    "tenantId": "papuanewguinea.newirelandprovince.kaviengdistrict.muratruralllg",
+    "code": "PG_NIK_KADI_MRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_NIK_KADI"
+  },
+  {
+    "tenantId": "papuanewguinea.newirelandprovince.kaviengdistrict.tikanaruralllg",
+    "code": "PG_NIK_KADI_TRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_NIK_KADI"
+  },
+  {
+    "tenantId": "papuanewguinea.newirelandprovince.namatanaidistrict.konoagilruralllg",
+    "code": "PG_NIK_NADI_KRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_NIK_NADI"
+  },
+  {
+    "tenantId": "papuanewguinea.newirelandprovince.namatanaidistrict.nimamarruralllg",
+    "code": "PG_NIK_NADI_NRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_NIK_NADI"
+  },
+  {
+    "tenantId": "papuanewguinea.newirelandprovince.namatanaidistrict.namatanairuralllg",
+    "code": "PG_NIK_NADI_NRL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_NIK_NADI"
+  },
+  {
+    "tenantId": "papuanewguinea.newirelandprovince.namatanaidistrict.sentralniuailanruralllg",
+    "code": "PG_NIK_NADI_SNAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_NIK_NADI"
+  },
+  {
+    "tenantId": "papuanewguinea.newirelandprovince.namatanaidistrict.tanirruralllg",
+    "code": "PG_NIK_NADI_TRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_NIK_NADI"
+  }
+]

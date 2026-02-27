@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "serbia.raskadistrict",
+    "code": "RS_18",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "RS"
+  },
+  {
+    "tenantId": "serbia.raskadistrict.kraljevocity",
+    "code": "RS_18_KRCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_18"
+  },
+  {
+    "tenantId": "serbia.raskadistrict.novipazarcity",
+    "code": "RS_18_NPC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_18"
+  },
+  {
+    "tenantId": "serbia.raskadistrict.raskamunicipality",
+    "code": "RS_18_RAMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_18"
+  },
+  {
+    "tenantId": "serbia.raskadistrict.tutinmunicipality",
+    "code": "RS_18_TUMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_18"
+  },
+  {
+    "tenantId": "serbia.raskadistrict.vrnjackabanjamunicipality",
+    "code": "RS_18_VBM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_18"
+  }
+]

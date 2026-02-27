@@ -1,0 +1,450 @@
+[
+  {
+    "tenantId": "greece.macedoniathrace",
+    "code": "GR_MH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GR"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr",
+    "code": "GR_MH_AMKT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GR_MH"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias",
+    "code": "GR_MH_KEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GR_MH"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr.paranestiou",
+    "code": "GR_MH_AMKT_PARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_AMKT"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr.orestiadas",
+    "code": "GR_MH_AMKT_ORES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_AMKT"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr.didymoteichou",
+    "code": "GR_MH_AMKT_DIDY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_AMKT"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr.alexandroupolis",
+    "code": "GR_MH_AMKT_ALEX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_AMKT"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr.soufliou",
+    "code": "GR_MH_AMKT_SOUF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_AMKT"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr.arrianon",
+    "code": "GR_MH_AMKT_ARRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_AMKT"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr.maroniassapon",
+    "code": "GR_MH_AMKT_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_AMKT"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr.komotinis",
+    "code": "GR_MH_AMKT_KOMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_AMKT"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr.iasmou",
+    "code": "GR_MH_AMKT_IASM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_AMKT"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr.avdiron",
+    "code": "GR_MH_AMKT_AVDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_AMKT"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr.mykis",
+    "code": "GR_MH_AMKT_MYKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_AMKT"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr.xanthis",
+    "code": "GR_MH_AMKT_XANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_AMKT"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr.topirou",
+    "code": "GR_MH_AMKT_TOPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_AMKT"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr.kavalas",
+    "code": "GR_MH_AMKT_KAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_AMKT"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr.pangeou",
+    "code": "GR_MH_AMKT_PANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_AMKT"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr.doxatou",
+    "code": "GR_MH_AMKT_DOXA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_AMKT"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr.katonevrokopiou",
+    "code": "GR_MH_AMKT_KANE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_AMKT"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr.dramas",
+    "code": "GR_MH_AMKT_DRAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_AMKT"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr.prosotsanis",
+    "code": "GR_MH_AMKT_PROS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_AMKT"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr.nestou",
+    "code": "GR_MH_AMKT_NEST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_AMKT"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr.thassou",
+    "code": "GR_MH_AMKT_THAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_AMKT"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.anatolikismakedoniaskaithr.samothrakis",
+    "code": "GR_MH_AMKT_SAMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_AMKT"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.amphipolis",
+    "code": "GR_MH_KEMA_AMPH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.serres",
+    "code": "GR_MH_KEMA_SERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.irakleia",
+    "code": "GR_MH_KEMA_IRAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.sintiki",
+    "code": "GR_MH_KEMA_SINT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.emmanouilpappas",
+    "code": "GR_MH_KEMA_EMPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.visaltia",
+    "code": "GR_MH_KEMA_VISA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.neazichni",
+    "code": "GR_MH_KEMA_NEZI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.aristotelis",
+    "code": "GR_MH_KEMA_ARIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.polygyros",
+    "code": "GR_MH_KEMA_POLY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.neapropontida",
+    "code": "GR_MH_KEMA_NEPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.kassandra",
+    "code": "GR_MH_KEMA_KASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.veria",
+    "code": "GR_MH_KEMA_VERI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.pavlosmelas",
+    "code": "GR_MH_KEMA_PAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.oraiokastro",
+    "code": "GR_MH_KEMA_ORAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.chalkidona",
+    "code": "GR_MH_KEMA_CHAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.delta",
+    "code": "GR_MH_KEMA_DELT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.volvi",
+    "code": "GR_MH_KEMA_VOLV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.thermaikos",
+    "code": "GR_MH_KEMA_THER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.thermi",
+    "code": "GR_MH_KEMA_THER2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.lagkadas",
+    "code": "GR_MH_KEMA_LAGK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.pylaiachortiatis",
+    "code": "GR_MH_KEMA_PYLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.sithonia",
+    "code": "GR_MH_KEMA_SITH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.kilkis",
+    "code": "GR_MH_KEMA_KILK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.paionia",
+    "code": "GR_MH_KEMA_PAIO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.almopia",
+    "code": "GR_MH_KEMA_ALMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.pella",
+    "code": "GR_MH_KEMA_PELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.skydra",
+    "code": "GR_MH_KEMA_SKYD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.edessa",
+    "code": "GR_MH_KEMA_EDES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.alexandria",
+    "code": "GR_MH_KEMA_ALEX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.naousa",
+    "code": "GR_MH_KEMA_NAOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.pydnakolindros",
+    "code": "GR_MH_KEMA_PK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.dionolympus",
+    "code": "GR_MH_KEMA_DION",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.katerini",
+    "code": "GR_MH_KEMA_KATE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.ampelokipoimenemeni",
+    "code": "GR_MH_KEMA_AMPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.kordelioevosmos",
+    "code": "GR_MH_KEMA_KORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.thessaloniki",
+    "code": "GR_MH_KEMA_THES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.kalamaria",
+    "code": "GR_MH_KEMA_KALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.neapolisykies",
+    "code": "GR_MH_KEMA_NEAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  },
+  {
+    "tenantId": "greece.macedoniathrace.kentrikismakedonias.oraiokastro",
+    "code": "GR_MH_KEMA_ORAI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MH_KEMA"
+  }
+]

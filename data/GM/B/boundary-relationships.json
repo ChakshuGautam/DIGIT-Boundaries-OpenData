@@ -1,0 +1,93 @@
+[
+  {
+    "tenantId": "gambia.banjul",
+    "code": "GM_B",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GM"
+  },
+  {
+    "tenantId": "gambia.banjul.banjulcentral",
+    "code": "GM_B_BACE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GM_B"
+  },
+  {
+    "tenantId": "gambia.banjul.banjulnorth",
+    "code": "GM_B_BANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GM_B"
+  },
+  {
+    "tenantId": "gambia.banjul.banjulsouth",
+    "code": "GM_B_BASO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GM_B"
+  },
+  {
+    "tenantId": "gambia.banjul.banjulcentral.newtowneast",
+    "code": "GM_B_BACE_NTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_B_BACE"
+  },
+  {
+    "tenantId": "gambia.banjul.banjulcentral.newtownwest",
+    "code": "GM_B_BACE_NTW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_B_BACE"
+  },
+  {
+    "tenantId": "gambia.banjul.banjulcentral.soldiertown",
+    "code": "GM_B_BACE_SOTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_B_BACE"
+  },
+  {
+    "tenantId": "gambia.banjul.banjulnorth.boxbar",
+    "code": "GM_B_BANO_BOBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_B_BANO"
+  },
+  {
+    "tenantId": "gambia.banjul.banjulnorth.campama",
+    "code": "GM_B_BANO_CAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_B_BANO"
+  },
+  {
+    "tenantId": "gambia.banjul.banjulnorth.crabisland",
+    "code": "GM_B_BANO_CRIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_B_BANO"
+  },
+  {
+    "tenantId": "gambia.banjul.banjulsouth.halfdie",
+    "code": "GM_B_BASO_HADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_B_BASO"
+  },
+  {
+    "tenantId": "gambia.banjul.banjulsouth.jolloftown",
+    "code": "GM_B_BASO_JOTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_B_BASO"
+  },
+  {
+    "tenantId": "gambia.banjul.banjulsouth.portugiesetown",
+    "code": "GM_B_BASO_POTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_B_BASO"
+  }
+]

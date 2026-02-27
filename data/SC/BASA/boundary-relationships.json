@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "seychelles.baiesaint",
+    "code": "SC_BASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SC"
+  },
+  {
+    "tenantId": "seychelles.baiesaint.praslin",
+    "code": "SC_BASA_PRAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SC_BASA"
+  },
+  {
+    "tenantId": "seychelles.baiesaint.praslin.baiesainteanne",
+    "code": "SC_BASA_PRAS_BSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SC_BASA_PRAS"
+  },
+  {
+    "tenantId": "seychelles.baiesaint.praslin.grandansepraslin",
+    "code": "SC_BASA_PRAS_GAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SC_BASA_PRAS"
+  }
+]

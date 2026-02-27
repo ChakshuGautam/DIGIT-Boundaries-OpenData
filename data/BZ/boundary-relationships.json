@@ -1,0 +1,51 @@
+[
+  {
+    "tenantId": "belize",
+    "code": "BZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "belize.orangewalk",
+    "code": "BZ_OW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BZ"
+  },
+  {
+    "tenantId": "belize.corozal",
+    "code": "BZ_CZL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BZ"
+  },
+  {
+    "tenantId": "belize.belize",
+    "code": "BZ_BZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BZ"
+  },
+  {
+    "tenantId": "belize.cayo",
+    "code": "BZ_CY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BZ"
+  },
+  {
+    "tenantId": "belize.stanncreek",
+    "code": "BZ_SC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BZ"
+  },
+  {
+    "tenantId": "belize.toledo",
+    "code": "BZ_TOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BZ"
+  }
+]

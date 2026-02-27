@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "morocco.guelmimouednoun",
+    "code": "MA_10",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MA"
+  },
+  {
+    "tenantId": "morocco.guelmimouednoun.sidiifniprovince",
+    "code": "MA_10_SIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MA_10"
+  },
+  {
+    "tenantId": "morocco.guelmimouednoun.provincedetantan",
+    "code": "MA_10_PDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MA_10"
+  },
+  {
+    "tenantId": "morocco.guelmimouednoun.guelmimprovince",
+    "code": "MA_10_GUPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MA_10"
+  },
+  {
+    "tenantId": "morocco.guelmimouednoun.assazagprovince",
+    "code": "MA_10_ASPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MA_10"
+  }
+]

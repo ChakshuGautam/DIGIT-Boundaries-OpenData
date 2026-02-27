@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "unitedstatesofamerica.americansamoa",
+    "code": "US_AS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "US"
+  },
+  {
+    "tenantId": "unitedstatesofamerica.americansamoa.swainsisland",
+    "code": "US_AS_SWIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "US_AS"
+  },
+  {
+    "tenantId": "unitedstatesofamerica.americansamoa.western",
+    "code": "US_AS_WEST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "US_AS"
+  },
+  {
+    "tenantId": "unitedstatesofamerica.americansamoa.eastern",
+    "code": "US_AS_EAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "US_AS"
+  },
+  {
+    "tenantId": "unitedstatesofamerica.americansamoa.roseisland",
+    "code": "US_AS_ROIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "US_AS"
+  },
+  {
+    "tenantId": "unitedstatesofamerica.americansamoa.manua",
+    "code": "US_AS_MANU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "US_AS"
+  }
+]

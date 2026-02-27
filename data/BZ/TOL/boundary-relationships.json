@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "belize.toledo",
+    "code": "BZ_TOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BZ"
+  },
+  {
+    "tenantId": "belize.toledo.toledowest",
+    "code": "BZ_TOL_TOWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BZ_TOL"
+  },
+  {
+    "tenantId": "belize.toledo.toledoeast",
+    "code": "BZ_TOL_TOEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BZ_TOL"
+  }
+]

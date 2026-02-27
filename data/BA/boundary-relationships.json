@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "bosniaandherzegovina",
+    "code": "BA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "bosniaandherzegovina.brkodistrict",
+    "code": "BA_BRC*",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BA"
+  },
+  {
+    "tenantId": "bosniaandherzegovina.republikasrpska",
+    "code": "BA_SRP*",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BA"
+  },
+  {
+    "tenantId": "bosniaandherzegovina.federationofbosniaandherzegovina",
+    "code": "BA_BIH*",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BA"
+  }
+]

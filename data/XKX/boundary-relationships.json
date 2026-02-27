@@ -1,0 +1,58 @@
+[
+  {
+    "tenantId": "kosovo",
+    "code": "XKX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "kosovo.districtofprishtina",
+    "code": "XKX_DOP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "XKX"
+  },
+  {
+    "tenantId": "kosovo.districtofmitrovica",
+    "code": "XKX_DOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "XKX"
+  },
+  {
+    "tenantId": "kosovo.districtofpeja",
+    "code": "XKX_DOP2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "XKX"
+  },
+  {
+    "tenantId": "kosovo.districtofgjilan",
+    "code": "XKX_DOG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "XKX"
+  },
+  {
+    "tenantId": "kosovo.districtofgjakova",
+    "code": "XKX_DOG2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "XKX"
+  },
+  {
+    "tenantId": "kosovo.districtofprizren",
+    "code": "XKX_DOP3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "XKX"
+  },
+  {
+    "tenantId": "kosovo.districtofferizaj",
+    "code": "XKX_DOF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "XKX"
+  }
+]

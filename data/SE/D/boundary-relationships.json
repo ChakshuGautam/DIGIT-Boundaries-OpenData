@@ -1,0 +1,590 @@
+[
+  {
+    "tenantId": "sweden.sdermanlandsln",
+    "code": "SE_D",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SE"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.eskilstuna",
+    "code": "SE_D_ESKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_D"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.trosa",
+    "code": "SE_D_TROS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_D"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.oxelsund",
+    "code": "SE_D_OXEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_D"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.nykping",
+    "code": "SE_D_NYK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_D"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.gnesta",
+    "code": "SE_D_GNES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_D"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.flen",
+    "code": "SE_D_FLEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_D"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.vingker",
+    "code": "SE_D_VING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_D"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.katrineholm",
+    "code": "SE_D_KATR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_D"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.strngns",
+    "code": "SE_D_STR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_D"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.eskilstuna.kafjrden",
+    "code": "SE_D_ESKI_KAFJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_ESKI"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.eskilstuna.torshlla",
+    "code": "SE_D_ESKI_TORS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_ESKI"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.eskilstuna.tumbo",
+    "code": "SE_D_ESKI_TUMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_ESKI"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.eskilstuna.hllby",
+    "code": "SE_D_ESKI_HL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_ESKI"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.eskilstuna.eskilstunakloster",
+    "code": "SE_D_ESKI_ESKL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_ESKI"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.eskilstuna.rbyrekarne",
+    "code": "SE_D_ESKI_RB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_ESKI"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.eskilstuna.eskilstunafors",
+    "code": "SE_D_ESKI_ESFO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_ESKI"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.eskilstuna.vstermo",
+    "code": "SE_D_ESKI_VS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_ESKI"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.eskilstuna.lista",
+    "code": "SE_D_ESKI_LIST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_ESKI"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.eskilstuna.gillberga",
+    "code": "SE_D_ESKI_GILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_ESKI"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.eskilstuna.ja",
+    "code": "SE_D_ESKI_JA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_ESKI"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.eskilstuna.stenkvista",
+    "code": "SE_D_ESKI_STEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_ESKI"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.eskilstuna.husbyrekarne",
+    "code": "SE_D_ESKI_HUSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_ESKI"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.eskilstuna.rla",
+    "code": "SE_D_ESKI_RL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_ESKI"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.eskilstuna.nshulta",
+    "code": "SE_D_ESKI_NS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_ESKI"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.trosa.trosavagnhrad",
+    "code": "SE_D_TROS_TROS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_TROS"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.trosa.vsterljung",
+    "code": "SE_D_TROS_VS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_TROS"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.trosa.trosastadsdistrikt",
+    "code": "SE_D_TROS_TRST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_TROS"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.oxelsund.oxelsund",
+    "code": "SE_D_OXEL_OXEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_OXEL"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.nykping.rbyrnochripsa",
+    "code": "SE_D_NYK_ROR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_NYK"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.nykping.ludgospelvik",
+    "code": "SE_D_NYK_LUDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_NYK"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.nykping.lid",
+    "code": "SE_D_NYK_LID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_NYK"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.nykping.lstringe",
+    "code": "SE_D_NYK_LS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_NYK"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.nykping.vrena",
+    "code": "SE_D_NYK_VREN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_NYK"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.nykping.runtuna",
+    "code": "SE_D_NYK_RUNT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_NYK"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.nykping.tystbergablinge",
+    "code": "SE_D_NYK_TYST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_NYK"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.nykping.stigtomta",
+    "code": "SE_D_NYK_STIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_NYK"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.nykping.svrta",
+    "code": "SE_D_NYK_SV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_NYK"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.nykping.nykpingsallahelgona",
+    "code": "SE_D_NYK_NAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_NYK"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.nykping.kila",
+    "code": "SE_D_NYK_KILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_NYK"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.nykping.nykpingssanktnicolai",
+    "code": "SE_D_NYK_NSN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_NYK"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.nykping.tuna",
+    "code": "SE_D_NYK_TUNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_NYK"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.nykping.lunda",
+    "code": "SE_D_NYK_LUND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_NYK"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.nykping.bergshammar",
+    "code": "SE_D_NYK_BERG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_NYK"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.nykping.tunaberg",
+    "code": "SE_D_NYK_TUNA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_NYK"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.gnesta.gsingedillns",
+    "code": "SE_D_GNES_GS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_GNES"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.gnesta.gryt",
+    "code": "SE_D_GNES_GRYT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_GNES"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.gnesta.frustuna",
+    "code": "SE_D_GNES_FRUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_GNES"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.gnesta.bjrnlunda",
+    "code": "SE_D_GNES_BJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_GNES"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.flen.dunker",
+    "code": "SE_D_FLEN_DUNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_FLEN"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.flen.lillamalma",
+    "code": "SE_D_FLEN_LIMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_FLEN"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.flen.mellsa",
+    "code": "SE_D_FLEN_MELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_FLEN"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.flen.helgestahyltinge",
+    "code": "SE_D_FLEN_HELG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_FLEN"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.flen.flen",
+    "code": "SE_D_FLEN_FLEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_FLEN"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.flen.forsa",
+    "code": "SE_D_FLEN_FORS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_FLEN"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.flen.vadsbro",
+    "code": "SE_D_FLEN_VADS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_FLEN"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.flen.rdala",
+    "code": "SE_D_FLEN_RD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_FLEN"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.flen.blacksta",
+    "code": "SE_D_FLEN_BLAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_FLEN"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.flen.bettna",
+    "code": "SE_D_FLEN_BETT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_FLEN"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.vingker.vstravingker",
+    "code": "SE_D_VING_VVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_VING"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.vingker.sterker",
+    "code": "SE_D_VING_ST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_VING"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.katrineholm.julita",
+    "code": "SE_D_KATR_JULI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_KATR"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.katrineholm.floda",
+    "code": "SE_D_KATR_FLOD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_KATR"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.katrineholm.skldinge",
+    "code": "SE_D_KATR_SK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_KATR"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.katrineholm.stravingker",
+    "code": "SE_D_KATR_VI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_KATR"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.katrineholm.katrineholm",
+    "code": "SE_D_KATR_KATR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_KATR"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.katrineholm.storamalm",
+    "code": "SE_D_KATR_STMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_KATR"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.katrineholm.lerbo",
+    "code": "SE_D_KATR_LERB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_KATR"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.katrineholm.nvertorp",
+    "code": "SE_D_KATR_NV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_KATR"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.katrineholm.bjrkvik",
+    "code": "SE_D_KATR_BJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_KATR"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.strngns.enkpingsns",
+    "code": "SE_D_STR_ENK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_STR"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.strngns.kungshusby",
+    "code": "SE_D_STR_KUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_STR"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.strngns.asp",
+    "code": "SE_D_STR_ASP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_STR"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.strngns.lillkyrka",
+    "code": "SE_D_STR_LILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_STR"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.strngns.torsvi",
+    "code": "SE_D_STR_TORS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_STR"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.strngns.vrfruberga",
+    "code": "SE_D_STR_VR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_STR"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.strngns.versel",
+    "code": "SE_D_STR_VE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_STR"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.strngns.yttersel",
+    "code": "SE_D_STR_YTTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_STR"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.strngns.strngnsdomkyrkodistrikt",
+    "code": "SE_D_STR_STDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_STR"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.strngns.hrad",
+    "code": "SE_D_STR_HR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_STR"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.strngns.toresund",
+    "code": "SE_D_STR_TORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_STR"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.strngns.lnna",
+    "code": "SE_D_STR_LN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_STR"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.strngns.ker",
+    "code": "SE_D_STR_KE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_STR"
+  },
+  {
+    "tenantId": "sweden.sdermanlandsln.strngns.mariefred",
+    "code": "SE_D_STR_MARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_D_STR"
+  }
+]

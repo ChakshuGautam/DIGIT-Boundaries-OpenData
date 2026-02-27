@@ -1,0 +1,1486 @@
+[
+  {
+    "tenantId": "switzerland.aargau",
+    "code": "CH_AG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CH"
+  },
+  {
+    "tenantId": "switzerland.aargau.aarau",
+    "code": "CH_AG_AARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_AG"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden",
+    "code": "CH_AG_BADE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_AG"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten",
+    "code": "CH_AG_BREM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_AG"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg",
+    "code": "CH_AG_BRUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_AG"
+  },
+  {
+    "tenantId": "switzerland.aargau.kulm",
+    "code": "CH_AG_KULM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_AG"
+  },
+  {
+    "tenantId": "switzerland.aargau.laufenburg",
+    "code": "CH_AG_LAUF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_AG"
+  },
+  {
+    "tenantId": "switzerland.aargau.lenzburg",
+    "code": "CH_AG_LENZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_AG"
+  },
+  {
+    "tenantId": "switzerland.aargau.muri",
+    "code": "CH_AG_MURI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_AG"
+  },
+  {
+    "tenantId": "switzerland.aargau.rheinfelden",
+    "code": "CH_AG_RHEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_AG"
+  },
+  {
+    "tenantId": "switzerland.aargau.zofingen",
+    "code": "CH_AG_ZOFI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_AG"
+  },
+  {
+    "tenantId": "switzerland.aargau.zurzach",
+    "code": "CH_AG_ZURZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_AG"
+  },
+  {
+    "tenantId": "switzerland.aargau.aarau.grnichen",
+    "code": "CH_AG_AARA_GRN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_AARA"
+  },
+  {
+    "tenantId": "switzerland.aargau.aarau.densbren",
+    "code": "CH_AG_AARA_DENS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_AARA"
+  },
+  {
+    "tenantId": "switzerland.aargau.aarau.aarau",
+    "code": "CH_AG_AARA_AARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_AARA"
+  },
+  {
+    "tenantId": "switzerland.aargau.aarau.kttigen",
+    "code": "CH_AG_AARA_KTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_AARA"
+  },
+  {
+    "tenantId": "switzerland.aargau.aarau.suhr",
+    "code": "CH_AG_AARA_SUHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_AARA"
+  },
+  {
+    "tenantId": "switzerland.aargau.aarau.oberentfelden",
+    "code": "CH_AG_AARA_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_AARA"
+  },
+  {
+    "tenantId": "switzerland.aargau.aarau.muhen",
+    "code": "CH_AG_AARA_MUHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_AARA"
+  },
+  {
+    "tenantId": "switzerland.aargau.aarau.buchsag",
+    "code": "CH_AG_AARA_BUA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_AARA"
+  },
+  {
+    "tenantId": "switzerland.aargau.aarau.biberstein",
+    "code": "CH_AG_AARA_BIBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_AARA"
+  },
+  {
+    "tenantId": "switzerland.aargau.aarau.hirschthal",
+    "code": "CH_AG_AARA_HIRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_AARA"
+  },
+  {
+    "tenantId": "switzerland.aargau.aarau.unterentfelden",
+    "code": "CH_AG_AARA_UNTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_AARA"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.baden",
+    "code": "CH_AG_BADE_BADE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.wettingen",
+    "code": "CH_AG_BADE_WETT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.wrenlingen",
+    "code": "CH_AG_BADE_WRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.wrenlos",
+    "code": "CH_AG_BADE_WRE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.spreitenbach",
+    "code": "CH_AG_BADE_SPRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.obersiggenthal",
+    "code": "CH_AG_BADE_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.untersiggenthal",
+    "code": "CH_AG_BADE_UNTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.ehrendingen",
+    "code": "CH_AG_BADE_EHRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.bergdietikon",
+    "code": "CH_AG_BADE_BERG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.gebenstorf",
+    "code": "CH_AG_BADE_GEBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.neuenhof",
+    "code": "CH_AG_BADE_NEUE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.fislisbach",
+    "code": "CH_AG_BADE_FISL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.bellikon",
+    "code": "CH_AG_BADE_BELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.knten",
+    "code": "CH_AG_BADE_KNT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.mellingen",
+    "code": "CH_AG_BADE_MELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.stettenag",
+    "code": "CH_AG_BADE_STA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.wohlenschwil",
+    "code": "CH_AG_BADE_WOHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.oberrohrdorf",
+    "code": "CH_AG_BADE_OBER2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.freienwil",
+    "code": "CH_AG_BADE_FREI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.remetschwil",
+    "code": "CH_AG_BADE_REME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.mgenwil",
+    "code": "CH_AG_BADE_MGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.niederrohrdorf",
+    "code": "CH_AG_BADE_NIED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.killwangen",
+    "code": "CH_AG_BADE_KILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.ennetbaden",
+    "code": "CH_AG_BADE_ENNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.turgi",
+    "code": "CH_AG_BADE_TURG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.baden",
+    "code": "CH_AG_BADE_BADE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.baden.turgi",
+    "code": "CH_AG_BADE_TURG2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BADE"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten.wohlenag",
+    "code": "CH_AG_BREM_WOA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BREM"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten.villmergen",
+    "code": "CH_AG_BREM_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BREM"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten.bremgartenag",
+    "code": "CH_AG_BREM_BRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BREM"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten.sarmenstorf",
+    "code": "CH_AG_BREM_SARM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BREM"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten.hgglingen",
+    "code": "CH_AG_BREM_HGG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BREM"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten.niederwilag",
+    "code": "CH_AG_BREM_NIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BREM"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten.jonen",
+    "code": "CH_AG_BREM_JONE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BREM"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten.berikon",
+    "code": "CH_AG_BREM_BERI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BREM"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten.oberwillieli",
+    "code": "CH_AG_BREM_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BREM"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten.rudolfstettenfriedlisberg",
+    "code": "CH_AG_BREM_RUDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BREM"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten.zufikon",
+    "code": "CH_AG_BREM_ZUFI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BREM"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten.unterlunkhofen",
+    "code": "CH_AG_BREM_UNTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BREM"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten.dottikon",
+    "code": "CH_AG_BREM_DOTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BREM"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten.arniag",
+    "code": "CH_AG_BREM_ARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BREM"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten.tgerig",
+    "code": "CH_AG_BREM_TGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BREM"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten.oberlunkhofen",
+    "code": "CH_AG_BREM_OBER2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BREM"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten.fischbachgslikon",
+    "code": "CH_AG_BREM_FISC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BREM"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten.bttikon",
+    "code": "CH_AG_BREM_BTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BREM"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten.widen",
+    "code": "CH_AG_BREM_WIDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BREM"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten.eggenwil",
+    "code": "CH_AG_BREM_EGGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BREM"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten.uezwil",
+    "code": "CH_AG_BREM_UEZW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BREM"
+  },
+  {
+    "tenantId": "switzerland.aargau.bremgarten.islisberg",
+    "code": "CH_AG_BREM_ISLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BREM"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg.bztal",
+    "code": "CH_AG_BRUG_BZT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BRUG"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg.bzberg",
+    "code": "CH_AG_BRUG_BZB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BRUG"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg.schinznach",
+    "code": "CH_AG_BRUG_SCHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BRUG"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg.villigen",
+    "code": "CH_AG_BRUG_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BRUG"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg.thalheimag",
+    "code": "CH_AG_BRUG_THA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BRUG"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg.lupfig",
+    "code": "CH_AG_BRUG_LUPF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BRUG"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg.brugg",
+    "code": "CH_AG_BRUG_BRUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BRUG"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg.remigen",
+    "code": "CH_AG_BRUG_REMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BRUG"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg.birmenstorfag",
+    "code": "CH_AG_BRUG_BIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BRUG"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg.villnachern",
+    "code": "CH_AG_BRUG_VILL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BRUG"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg.auenstein",
+    "code": "CH_AG_BRUG_AUEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BRUG"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg.mandach",
+    "code": "CH_AG_BRUG_MAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BRUG"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg.veltheimag",
+    "code": "CH_AG_BRUG_VEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BRUG"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg.birr",
+    "code": "CH_AG_BRUG_BIRR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BRUG"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg.windisch",
+    "code": "CH_AG_BRUG_WIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BRUG"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg.riniken",
+    "code": "CH_AG_BRUG_RINI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BRUG"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg.rfenach",
+    "code": "CH_AG_BRUG_RFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BRUG"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg.mnthal",
+    "code": "CH_AG_BRUG_MNT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BRUG"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg.hausenag",
+    "code": "CH_AG_BRUG_HAA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BRUG"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg.mlligen",
+    "code": "CH_AG_BRUG_MLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BRUG"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg.birrhard",
+    "code": "CH_AG_BRUG_BIRR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BRUG"
+  },
+  {
+    "tenantId": "switzerland.aargau.brugg.habsburg",
+    "code": "CH_AG_BRUG_HABS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_BRUG"
+  },
+  {
+    "tenantId": "switzerland.aargau.kulm.gontenschwil",
+    "code": "CH_AG_KULM_GONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_KULM"
+  },
+  {
+    "tenantId": "switzerland.aargau.kulm.reinachag",
+    "code": "CH_AG_KULM_REA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_KULM"
+  },
+  {
+    "tenantId": "switzerland.aargau.kulm.oberkulm",
+    "code": "CH_AG_KULM_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_KULM"
+  },
+  {
+    "tenantId": "switzerland.aargau.kulm.unterkulm",
+    "code": "CH_AG_KULM_UNTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_KULM"
+  },
+  {
+    "tenantId": "switzerland.aargau.kulm.schmiedrued",
+    "code": "CH_AG_KULM_SCHM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_KULM"
+  },
+  {
+    "tenantId": "switzerland.aargau.kulm.schlossrued",
+    "code": "CH_AG_KULM_SCHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_KULM"
+  },
+  {
+    "tenantId": "switzerland.aargau.kulm.menziken",
+    "code": "CH_AG_KULM_MENZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_KULM"
+  },
+  {
+    "tenantId": "switzerland.aargau.kulm.schftland",
+    "code": "CH_AG_KULM_SCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_KULM"
+  },
+  {
+    "tenantId": "switzerland.aargau.kulm.drrensch",
+    "code": "CH_AG_KULM_DRR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_KULM"
+  },
+  {
+    "tenantId": "switzerland.aargau.kulm.zetzwil",
+    "code": "CH_AG_KULM_ZETZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_KULM"
+  },
+  {
+    "tenantId": "switzerland.aargau.kulm.beinwilamsee",
+    "code": "CH_AG_KULM_BAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_KULM"
+  },
+  {
+    "tenantId": "switzerland.aargau.kulm.birrwil",
+    "code": "CH_AG_KULM_BIRR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_KULM"
+  },
+  {
+    "tenantId": "switzerland.aargau.kulm.leutwil",
+    "code": "CH_AG_KULM_LEUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_KULM"
+  },
+  {
+    "tenantId": "switzerland.aargau.kulm.teufenthalag",
+    "code": "CH_AG_KULM_TEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_KULM"
+  },
+  {
+    "tenantId": "switzerland.aargau.kulm.holziken",
+    "code": "CH_AG_KULM_HOLZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_KULM"
+  },
+  {
+    "tenantId": "switzerland.aargau.kulm.leimbachag",
+    "code": "CH_AG_KULM_LEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_KULM"
+  },
+  {
+    "tenantId": "switzerland.aargau.kulm.burgag",
+    "code": "CH_AG_KULM_BUA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_KULM"
+  },
+  {
+    "tenantId": "switzerland.aargau.laufenburg.mettauertal",
+    "code": "CH_AG_LAUF_METT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LAUF"
+  },
+  {
+    "tenantId": "switzerland.aargau.laufenburg.kaisten",
+    "code": "CH_AG_LAUF_KAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LAUF"
+  },
+  {
+    "tenantId": "switzerland.aargau.laufenburg.laufenburg",
+    "code": "CH_AG_LAUF_LAUF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LAUF"
+  },
+  {
+    "tenantId": "switzerland.aargau.laufenburg.wittnau",
+    "code": "CH_AG_LAUF_WITT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LAUF"
+  },
+  {
+    "tenantId": "switzerland.aargau.laufenburg.gipfoberfrick",
+    "code": "CH_AG_LAUF_GIPF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LAUF"
+  },
+  {
+    "tenantId": "switzerland.aargau.laufenburg.frick",
+    "code": "CH_AG_LAUF_FRIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LAUF"
+  },
+  {
+    "tenantId": "switzerland.aargau.laufenburg.wlflinswil",
+    "code": "CH_AG_LAUF_WLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LAUF"
+  },
+  {
+    "tenantId": "switzerland.aargau.laufenburg.gansingen",
+    "code": "CH_AG_LAUF_GANS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LAUF"
+  },
+  {
+    "tenantId": "switzerland.aargau.laufenburg.oberhof",
+    "code": "CH_AG_LAUF_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LAUF"
+  },
+  {
+    "tenantId": "switzerland.aargau.laufenburg.eiken",
+    "code": "CH_AG_LAUF_EIKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LAUF"
+  },
+  {
+    "tenantId": "switzerland.aargau.laufenburg.zeihen",
+    "code": "CH_AG_LAUF_ZEIH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LAUF"
+  },
+  {
+    "tenantId": "switzerland.aargau.laufenburg.herznach",
+    "code": "CH_AG_LAUF_HERZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LAUF"
+  },
+  {
+    "tenantId": "switzerland.aargau.laufenburg.ueken",
+    "code": "CH_AG_LAUF_UEKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LAUF"
+  },
+  {
+    "tenantId": "switzerland.aargau.laufenburg.oeschgen",
+    "code": "CH_AG_LAUF_OESC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LAUF"
+  },
+  {
+    "tenantId": "switzerland.aargau.laufenburg.schwaderloch",
+    "code": "CH_AG_LAUF_SCHW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LAUF"
+  },
+  {
+    "tenantId": "switzerland.aargau.laufenburg.sisseln",
+    "code": "CH_AG_LAUF_SISS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LAUF"
+  },
+  {
+    "tenantId": "switzerland.aargau.laufenburg.mnchwilenag",
+    "code": "CH_AG_LAUF_MA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LAUF"
+  },
+  {
+    "tenantId": "switzerland.aargau.lenzburg.lenzburg",
+    "code": "CH_AG_LENZ_LENZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LENZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.lenzburg.seengen",
+    "code": "CH_AG_LENZ_SEEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LENZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.lenzburg.seon",
+    "code": "CH_AG_LENZ_SEON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LENZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.lenzburg.meisterschwanden",
+    "code": "CH_AG_LENZ_MEIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LENZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.lenzburg.mrikenwildegg",
+    "code": "CH_AG_LENZ_MRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LENZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.lenzburg.schafisheim",
+    "code": "CH_AG_LENZ_SCHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LENZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.lenzburg.egliswil",
+    "code": "CH_AG_LENZ_EGLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LENZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.lenzburg.rupperswil",
+    "code": "CH_AG_LENZ_RUPP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LENZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.lenzburg.fahrwangen",
+    "code": "CH_AG_LENZ_FAHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LENZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.lenzburg.othmarsingen",
+    "code": "CH_AG_LENZ_OTHM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LENZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.lenzburg.dintikon",
+    "code": "CH_AG_LENZ_DINT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LENZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.lenzburg.staufen",
+    "code": "CH_AG_LENZ_STAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LENZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.lenzburg.hendschiken",
+    "code": "CH_AG_LENZ_HEND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LENZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.lenzburg.niederlenz",
+    "code": "CH_AG_LENZ_NIED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LENZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.lenzburg.hunzenschwil",
+    "code": "CH_AG_LENZ_HUNZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LENZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.lenzburg.ammerswil",
+    "code": "CH_AG_LENZ_AMME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LENZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.lenzburg.boniswil",
+    "code": "CH_AG_LENZ_BONI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LENZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.lenzburg.holderbankag",
+    "code": "CH_AG_LENZ_HOA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LENZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.lenzburg.hallwil",
+    "code": "CH_AG_LENZ_HALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LENZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.lenzburg.brunegg",
+    "code": "CH_AG_LENZ_BRUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_LENZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.muri.sins",
+    "code": "CH_AG_MURI_SINS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_MURI"
+  },
+  {
+    "tenantId": "switzerland.aargau.muri.merenschwand",
+    "code": "CH_AG_MURI_MERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_MURI"
+  },
+  {
+    "tenantId": "switzerland.aargau.muri.muriag",
+    "code": "CH_AG_MURI_MUA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_MURI"
+  },
+  {
+    "tenantId": "switzerland.aargau.muri.boswil",
+    "code": "CH_AG_MURI_BOSW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_MURI"
+  },
+  {
+    "tenantId": "switzerland.aargau.muri.beinwilfreiamt",
+    "code": "CH_AG_MURI_BEF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_MURI"
+  },
+  {
+    "tenantId": "switzerland.aargau.muri.aristau",
+    "code": "CH_AG_MURI_ARIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_MURI"
+  },
+  {
+    "tenantId": "switzerland.aargau.muri.auw",
+    "code": "CH_AG_MURI_AUW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_MURI"
+  },
+  {
+    "tenantId": "switzerland.aargau.muri.bnzen",
+    "code": "CH_AG_MURI_BNZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_MURI"
+  },
+  {
+    "tenantId": "switzerland.aargau.muri.mhlau",
+    "code": "CH_AG_MURI_MHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_MURI"
+  },
+  {
+    "tenantId": "switzerland.aargau.muri.dietwil",
+    "code": "CH_AG_MURI_DIET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_MURI"
+  },
+  {
+    "tenantId": "switzerland.aargau.muri.oberrti",
+    "code": "CH_AG_MURI_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_MURI"
+  },
+  {
+    "tenantId": "switzerland.aargau.muri.buttwil",
+    "code": "CH_AG_MURI_BUTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_MURI"
+  },
+  {
+    "tenantId": "switzerland.aargau.muri.waltenschwil",
+    "code": "CH_AG_MURI_WALT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_MURI"
+  },
+  {
+    "tenantId": "switzerland.aargau.muri.rottenschwil",
+    "code": "CH_AG_MURI_ROTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_MURI"
+  },
+  {
+    "tenantId": "switzerland.aargau.muri.bettwil",
+    "code": "CH_AG_MURI_BETT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_MURI"
+  },
+  {
+    "tenantId": "switzerland.aargau.muri.abtwil",
+    "code": "CH_AG_MURI_ABTW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_MURI"
+  },
+  {
+    "tenantId": "switzerland.aargau.muri.geltwil",
+    "code": "CH_AG_MURI_GELT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_MURI"
+  },
+  {
+    "tenantId": "switzerland.aargau.muri.kallern",
+    "code": "CH_AG_MURI_KALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_MURI"
+  },
+  {
+    "tenantId": "switzerland.aargau.muri.besenbren",
+    "code": "CH_AG_MURI_BESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_MURI"
+  },
+  {
+    "tenantId": "switzerland.aargau.rheinfelden.mhlin",
+    "code": "CH_AG_RHEI_MHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.aargau.rheinfelden.rheinfelden",
+    "code": "CH_AG_RHEI_RHEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.aargau.rheinfelden.zeiningen",
+    "code": "CH_AG_RHEI_ZEIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.aargau.rheinfelden.magden",
+    "code": "CH_AG_RHEI_MAGD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.aargau.rheinfelden.zuzgen",
+    "code": "CH_AG_RHEI_ZUZG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.aargau.rheinfelden.wegenstetten",
+    "code": "CH_AG_RHEI_WEGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.aargau.rheinfelden.schupfart",
+    "code": "CH_AG_RHEI_SCHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.aargau.rheinfelden.hellikon",
+    "code": "CH_AG_RHEI_HELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.aargau.rheinfelden.obermumpf",
+    "code": "CH_AG_RHEI_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.aargau.rheinfelden.kaiseraugst",
+    "code": "CH_AG_RHEI_KAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.aargau.rheinfelden.wallbach",
+    "code": "CH_AG_RHEI_WALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.aargau.rheinfelden.mumpf",
+    "code": "CH_AG_RHEI_MUMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.aargau.rheinfelden.steinag",
+    "code": "CH_AG_RHEI_STA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.aargau.zofingen.murgenthal",
+    "code": "CH_AG_ZOFI_MURG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZOFI"
+  },
+  {
+    "tenantId": "switzerland.aargau.zofingen.brittnau",
+    "code": "CH_AG_ZOFI_BRIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZOFI"
+  },
+  {
+    "tenantId": "switzerland.aargau.zofingen.oftringen",
+    "code": "CH_AG_ZOFI_OFTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZOFI"
+  },
+  {
+    "tenantId": "switzerland.aargau.zofingen.rothrist",
+    "code": "CH_AG_ZOFI_ROTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZOFI"
+  },
+  {
+    "tenantId": "switzerland.aargau.zofingen.zofingen",
+    "code": "CH_AG_ZOFI_ZOFI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZOFI"
+  },
+  {
+    "tenantId": "switzerland.aargau.zofingen.vordemwald",
+    "code": "CH_AG_ZOFI_VORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZOFI"
+  },
+  {
+    "tenantId": "switzerland.aargau.zofingen.staffelbach",
+    "code": "CH_AG_ZOFI_STAF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZOFI"
+  },
+  {
+    "tenantId": "switzerland.aargau.zofingen.klliken",
+    "code": "CH_AG_ZOFI_KLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZOFI"
+  },
+  {
+    "tenantId": "switzerland.aargau.zofingen.reitnau",
+    "code": "CH_AG_ZOFI_REIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZOFI"
+  },
+  {
+    "tenantId": "switzerland.aargau.zofingen.uerkheim",
+    "code": "CH_AG_ZOFI_UERK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZOFI"
+  },
+  {
+    "tenantId": "switzerland.aargau.zofingen.strengelbach",
+    "code": "CH_AG_ZOFI_STRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZOFI"
+  },
+  {
+    "tenantId": "switzerland.aargau.zofingen.safenwil",
+    "code": "CH_AG_ZOFI_SAFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZOFI"
+  },
+  {
+    "tenantId": "switzerland.aargau.zofingen.bottenwil",
+    "code": "CH_AG_ZOFI_BOTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZOFI"
+  },
+  {
+    "tenantId": "switzerland.aargau.zofingen.aarburg",
+    "code": "CH_AG_ZOFI_AARB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZOFI"
+  },
+  {
+    "tenantId": "switzerland.aargau.zofingen.kirchleerau",
+    "code": "CH_AG_ZOFI_KIRC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZOFI"
+  },
+  {
+    "tenantId": "switzerland.aargau.zofingen.moosleerau",
+    "code": "CH_AG_ZOFI_MOOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZOFI"
+  },
+  {
+    "tenantId": "switzerland.aargau.zofingen.wiliberg",
+    "code": "CH_AG_ZOFI_WILI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZOFI"
+  },
+  {
+    "tenantId": "switzerland.aargau.zurzach.zurzach",
+    "code": "CH_AG_ZURZ_ZURZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZURZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.zurzach.leuggern",
+    "code": "CH_AG_ZURZ_LEUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZURZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.zurzach.lengnauag",
+    "code": "CH_AG_ZURZ_LEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZURZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.zurzach.endingen",
+    "code": "CH_AG_ZURZ_ENDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZURZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.zurzach.schneisingen",
+    "code": "CH_AG_ZURZ_SCHN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZURZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.zurzach.bttstein",
+    "code": "CH_AG_ZURZ_BTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZURZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.zurzach.tegerfelden",
+    "code": "CH_AG_ZURZ_TEGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZURZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.zurzach.dttingen",
+    "code": "CH_AG_ZURZ_DTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZURZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.zurzach.klingnau",
+    "code": "CH_AG_ZURZ_KLIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZURZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.zurzach.leibstadt",
+    "code": "CH_AG_ZURZ_LEIB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZURZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.zurzach.fisibach",
+    "code": "CH_AG_ZURZ_FISI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZURZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.zurzach.siglistorf",
+    "code": "CH_AG_ZURZ_SIGL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZURZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.zurzach.fullreuenthal",
+    "code": "CH_AG_ZURZ_FULL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZURZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.zurzach.koblenz",
+    "code": "CH_AG_ZURZ_KOBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZURZ"
+  },
+  {
+    "tenantId": "switzerland.aargau.zurzach.mellikon",
+    "code": "CH_AG_ZURZ_MELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_AG_ZURZ"
+  }
+]

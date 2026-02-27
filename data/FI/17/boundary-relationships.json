@@ -1,0 +1,149 @@
+[
+  {
+    "tenantId": "finland.satakunta",
+    "code": "FI_17",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "FI"
+  },
+  {
+    "tenantId": "finland.satakunta.raumanseutukunta",
+    "code": "FI_17_RASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_17"
+  },
+  {
+    "tenantId": "finland.satakunta.pohjoissatakunnanseutukunta",
+    "code": "FI_17_POSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_17"
+  },
+  {
+    "tenantId": "finland.satakunta.porinseutukunta",
+    "code": "FI_17_POSE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_17"
+  },
+  {
+    "tenantId": "finland.satakunta.raumanseutukunta.eura",
+    "code": "FI_17_RASE_EURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_17_RASE"
+  },
+  {
+    "tenantId": "finland.satakunta.raumanseutukunta.skyl",
+    "code": "FI_17_RASE_SKY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_17_RASE"
+  },
+  {
+    "tenantId": "finland.satakunta.raumanseutukunta.eurajoki",
+    "code": "FI_17_RASE_EURA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_17_RASE"
+  },
+  {
+    "tenantId": "finland.satakunta.raumanseutukunta.rauma",
+    "code": "FI_17_RASE_RAUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_17_RASE"
+  },
+  {
+    "tenantId": "finland.satakunta.raumanseutukunta.luvia",
+    "code": "FI_17_RASE_LUVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_17_RASE"
+  },
+  {
+    "tenantId": "finland.satakunta.pohjoissatakunnanseutukunta.honkajoki",
+    "code": "FI_17_POSE_HONK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_17_POSE"
+  },
+  {
+    "tenantId": "finland.satakunta.pohjoissatakunnanseutukunta.kankaanp",
+    "code": "FI_17_POSE_KANK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_17_POSE"
+  },
+  {
+    "tenantId": "finland.satakunta.pohjoissatakunnanseutukunta.karvia",
+    "code": "FI_17_POSE_KARV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_17_POSE"
+  },
+  {
+    "tenantId": "finland.satakunta.pohjoissatakunnanseutukunta.siikainen",
+    "code": "FI_17_POSE_SIIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_17_POSE"
+  },
+  {
+    "tenantId": "finland.satakunta.pohjoissatakunnanseutukunta.jmijrvi",
+    "code": "FI_17_POSE_JMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_17_POSE"
+  },
+  {
+    "tenantId": "finland.satakunta.porinseutukunta.pomarkku",
+    "code": "FI_17_POSE2_POMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_17_POSE2"
+  },
+  {
+    "tenantId": "finland.satakunta.porinseutukunta.nakkila",
+    "code": "FI_17_POSE2_NAKK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_17_POSE2"
+  },
+  {
+    "tenantId": "finland.satakunta.porinseutukunta.harjavalta",
+    "code": "FI_17_POSE2_HARJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_17_POSE2"
+  },
+  {
+    "tenantId": "finland.satakunta.porinseutukunta.kokemki",
+    "code": "FI_17_POSE2_KOKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_17_POSE2"
+  },
+  {
+    "tenantId": "finland.satakunta.porinseutukunta.ulvila",
+    "code": "FI_17_POSE2_ULVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_17_POSE2"
+  },
+  {
+    "tenantId": "finland.satakunta.porinseutukunta.pori",
+    "code": "FI_17_POSE2_PORI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_17_POSE2"
+  },
+  {
+    "tenantId": "finland.satakunta.porinseutukunta.merikarvia",
+    "code": "FI_17_POSE2_MERI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_17_POSE2"
+  }
+]

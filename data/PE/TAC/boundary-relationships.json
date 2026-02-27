@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "peru.tacna",
+    "code": "PE_TAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PE"
+  },
+  {
+    "tenantId": "peru.tacna.candarave",
+    "code": "PE_TAC_CAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_TAC"
+  },
+  {
+    "tenantId": "peru.tacna.jorgebasadre",
+    "code": "PE_TAC_JOBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_TAC"
+  },
+  {
+    "tenantId": "peru.tacna.tacna",
+    "code": "PE_TAC_TACN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_TAC"
+  },
+  {
+    "tenantId": "peru.tacna.tarata",
+    "code": "PE_TAC_TARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_TAC"
+  }
+]

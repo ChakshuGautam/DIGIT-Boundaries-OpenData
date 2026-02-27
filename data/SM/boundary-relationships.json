@@ -1,0 +1,72 @@
+[
+  {
+    "tenantId": "sanmarino",
+    "code": "SM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "sanmarino.acquaviva",
+    "code": "SM_01",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SM"
+  },
+  {
+    "tenantId": "sanmarino.borgomaggiore",
+    "code": "SM_06",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SM"
+  },
+  {
+    "tenantId": "sanmarino.chiesanuova",
+    "code": "SM_02",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SM"
+  },
+  {
+    "tenantId": "sanmarino.domagnano",
+    "code": "SM_03",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SM"
+  },
+  {
+    "tenantId": "sanmarino.faetano",
+    "code": "SM_04",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SM"
+  },
+  {
+    "tenantId": "sanmarino.fiorentino",
+    "code": "SM_05",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SM"
+  },
+  {
+    "tenantId": "sanmarino.montegiardino",
+    "code": "SM_08",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SM"
+  },
+  {
+    "tenantId": "sanmarino.cittdisanmarino",
+    "code": "SM_07",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SM"
+  },
+  {
+    "tenantId": "sanmarino.serravalle",
+    "code": "SM_09",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SM"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "chad.salamat",
+    "code": "TD_SA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TD"
+  },
+  {
+    "tenantId": "chad.salamat.bahrazoum",
+    "code": "TD_SA_BAHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_SA"
+  },
+  {
+    "tenantId": "chad.salamat.aboudia",
+    "code": "TD_SA_ABOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_SA"
+  },
+  {
+    "tenantId": "chad.salamat.harazemangueigne",
+    "code": "TD_SA_HARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_SA"
+  }
+]

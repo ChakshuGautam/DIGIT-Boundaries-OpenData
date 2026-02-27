@@ -1,0 +1,93 @@
+[
+  {
+    "tenantId": "senegal.kolda",
+    "code": "SN_KD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SN"
+  },
+  {
+    "tenantId": "senegal.kolda.kolda",
+    "code": "SN_KD_KOLD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SN_KD"
+  },
+  {
+    "tenantId": "senegal.kolda.medinayoroufoula",
+    "code": "SN_KD_MEYO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SN_KD"
+  },
+  {
+    "tenantId": "senegal.kolda.velingara",
+    "code": "SN_KD_VELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SN_KD"
+  },
+  {
+    "tenantId": "senegal.kolda.kolda.dioulakolon",
+    "code": "SN_KD_KOLD_DIOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_KD_KOLD"
+  },
+  {
+    "tenantId": "senegal.kolda.kolda.mampatim",
+    "code": "SN_KD_KOLD_MAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_KD_KOLD"
+  },
+  {
+    "tenantId": "senegal.kolda.kolda.ndorna",
+    "code": "SN_KD_KOLD_NDOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_KD_KOLD"
+  },
+  {
+    "tenantId": "senegal.kolda.kolda.sarbidji",
+    "code": "SN_KD_KOLD_SABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_KD_KOLD"
+  },
+  {
+    "tenantId": "senegal.kolda.medinayoroufoula.fafacourou",
+    "code": "SN_KD_MEYO_FAFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_KD_MEYO"
+  },
+  {
+    "tenantId": "senegal.kolda.medinayoroufoula.nianing",
+    "code": "SN_KD_MEYO_NIAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_KD_MEYO"
+  },
+  {
+    "tenantId": "senegal.kolda.velingara.bonconto",
+    "code": "SN_KD_VELI_BONC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_KD_VELI"
+  },
+  {
+    "tenantId": "senegal.kolda.velingara.pakour",
+    "code": "SN_KD_VELI_PAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_KD_VELI"
+  },
+  {
+    "tenantId": "senegal.kolda.velingara.sarecolysall",
+    "code": "SN_KD_VELI_SCS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_KD_VELI"
+  }
+]

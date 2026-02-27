@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "bahamas.blackpoint",
+    "code": "BS_BP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BS"
+  },
+  {
+    "tenantId": "bahamas.blackpoint.blackpoint",
+    "code": "BS_BP_BLPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BS_BP"
+  },
+  {
+    "tenantId": "bahamas.blackpoint.exuma",
+    "code": "BS_BP_EXUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BS_BP"
+  }
+]

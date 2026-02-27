@@ -1,0 +1,1157 @@
+[
+  {
+    "tenantId": "republicofkorea.incheon",
+    "code": "KR_28",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "KR"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.yeonsugu",
+    "code": "KR_28_YEON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KR_28"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.namdonggu",
+    "code": "KR_28_NAMD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KR_28"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu",
+    "code": "KR_28_MIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KR_28"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.donggueastdistrict",
+    "code": "KR_28_DD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KR_28"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict",
+    "code": "KR_28_SD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KR_28"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu",
+    "code": "KR_28_BUPY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KR_28"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.junggucentraldistrict",
+    "code": "KR_28_JD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KR_28"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ongjingun",
+    "code": "KR_28_ONGJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KR_28"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi",
+    "code": "KR_28_ANSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KR_28"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.yeonsugu.yeonsuidong",
+    "code": "KR_28_YEON_YE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_YEON"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.yeonsugu.yeonsusamdong",
+    "code": "KR_28_YEON_YE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_YEON"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.yeonsugu.dongchunildong",
+    "code": "KR_28_YEON_DO1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_YEON"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.yeonsugu.dongchunidong",
+    "code": "KR_28_YEON_DO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_YEON"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.yeonsugu.dongchundong",
+    "code": "KR_28_YEON_DONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_YEON"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.yeonsugu.songdodong",
+    "code": "KR_28_YEON_SONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_YEON"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.yeonsugu.songdodong",
+    "code": "KR_28_YEON_SO3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_YEON"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.yeonsugu.jeongwangdong",
+    "code": "KR_28_YEON_JEON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_YEON"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.namdonggu.juanyukdong",
+    "code": "KR_28_NAMD_JU6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_NAMD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.namdonggu.guwolildong",
+    "code": "KR_28_NAMD_GU1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_NAMD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.namdonggu.guwolidong",
+    "code": "KR_28_NAMD_GU2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_NAMD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.namdonggu.guwolsamdong",
+    "code": "KR_28_NAMD_GU3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_NAMD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.namdonggu.guwolsadong",
+    "code": "KR_28_NAMD_GU4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_NAMD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.namdonggu.mansuildong",
+    "code": "KR_28_NAMD_MA1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_NAMD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.namdonggu.mansusadong",
+    "code": "KR_28_NAMD_MA4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_NAMD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.namdonggu.mansuodong",
+    "code": "KR_28_NAMD_MA5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_NAMD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.namdonggu.mansuyukdong",
+    "code": "KR_28_NAMD_MA6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_NAMD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.namdonggu.jangsuseochangdong",
+    "code": "KR_28_NAMD_JANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_NAMD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.namdonggu.namchondorimdong",
+    "code": "KR_28_NAMD_NAMC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_NAMD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.namdonggu.nonhyeonildong",
+    "code": "KR_28_NAMD_NO1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_NAMD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.namdonggu.nonhyeonidong",
+    "code": "KR_28_NAMD_NO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_NAMD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.namdonggu.nonhyeongojandong",
+    "code": "KR_28_NAMD_NONH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_NAMD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.namdonggu.jeongwangdong",
+    "code": "KR_28_NAMD_JEON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_NAMD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.sunguiidong",
+    "code": "KR_28_MIN_SU2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.sunguisadong",
+    "code": "KR_28_MIN_SU4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.yonghyeonidong",
+    "code": "KR_28_MIN_YO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.yonghyeonsamdong",
+    "code": "KR_28_MIN_YO3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.yonghyeonodong",
+    "code": "KR_28_MIN_YO5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.hagikildong",
+    "code": "KR_28_MIN_HA1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.hagikidong",
+    "code": "KR_28_MIN_HA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.dohwaildong",
+    "code": "KR_28_MIN_DO1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.juanildong",
+    "code": "KR_28_MIN_JU1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.juanidong",
+    "code": "KR_28_MIN_JU2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.juansamdong",
+    "code": "KR_28_MIN_JU3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.juansadong",
+    "code": "KR_28_MIN_JU4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.juanchildong",
+    "code": "KR_28_MIN_JU7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.juanpaldong",
+    "code": "KR_28_MIN_JU8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.gwangyodong",
+    "code": "KR_28_MIN_GWAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.munhakdong",
+    "code": "KR_28_MIN_MUNH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.sunguidong",
+    "code": "KR_28_MIN_SUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.yonghyeondong",
+    "code": "KR_28_MIN_YONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.ongnyeondong",
+    "code": "KR_28_MIN_ONGN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.seonhakdong",
+    "code": "KR_28_MIN_SEON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.yeonsuildong",
+    "code": "KR_28_MIN_YE1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.cheonghakdong",
+    "code": "KR_28_MIN_CHEO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.ongnyeondong",
+    "code": "KR_28_MIN_ONGN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.michuholgunamgu.songdodong",
+    "code": "KR_28_MIN_SONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_MIN"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.donggueastdistrict.dowondong",
+    "code": "KR_28_DD_DOWO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_DD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.donggueastdistrict.yulmokdong",
+    "code": "KR_28_DD_YULM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_DD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.donggueastdistrict.dongincheondong",
+    "code": "KR_28_DD_DONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_DD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.donggueastdistrict.songwoldong",
+    "code": "KR_28_DD_SONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_DD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.donggueastdistrict.hwasuhwapyeongdong",
+    "code": "KR_28_DD_HWAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_DD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.donggueastdistrict.songhyeondong",
+    "code": "KR_28_DD_SONG2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_DD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.donggueastdistrict.songnimildong",
+    "code": "KR_28_DD_SO1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_DD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.donggueastdistrict.songnimidong",
+    "code": "KR_28_DD_SO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_DD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.donggueastdistrict.songnimdong",
+    "code": "KR_28_DD_SONG3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_DD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.donggueastdistrict.songnimyukdong",
+    "code": "KR_28_DD_SO6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_DD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.donggueastdistrict.geumchangdong",
+    "code": "KR_28_DD_GEUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_DD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.donggueastdistrict.dohwadong",
+    "code": "KR_28_DD_DOHW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_DD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.donggueastdistrict.bukseongdong",
+    "code": "KR_28_DD_BUKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_DD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.donggueastdistrict.manseokdong",
+    "code": "KR_28_DD_MANS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_DD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.donggueastdistrict.hwasuidong",
+    "code": "KR_28_DD_HW2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_DD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.donggueastdistrict.songhyeonsamdong",
+    "code": "KR_28_DD_SO3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_DD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.songnimsadong",
+    "code": "KR_28_SD_SO4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.juanodong",
+    "code": "KR_28_SD_JU5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.sipjeongildong",
+    "code": "KR_28_SD_SI1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.hyoseongildong",
+    "code": "KR_28_SD_HY1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.hyoseongidong",
+    "code": "KR_28_SD_HY2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.geomamgyeongseodong",
+    "code": "KR_28_SD_GEOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.yeonhuidong",
+    "code": "KR_28_SD_YEON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.gajeongildong",
+    "code": "KR_28_SD_GA1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.gajeongidong",
+    "code": "KR_28_SD_GA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.gajeongsamdong",
+    "code": "KR_28_SD_GA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.seongnamildong",
+    "code": "KR_28_SD_SE1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.seongnamidong",
+    "code": "KR_28_SD_SE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.seongnamsamdong",
+    "code": "KR_28_SD_SE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.gajwaildong",
+    "code": "KR_28_SD_GA12",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.gajwaidong",
+    "code": "KR_28_SD_GA22",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.gajwasamdong",
+    "code": "KR_28_SD_GA32",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.gajwasadong",
+    "code": "KR_28_SD_GA4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.geomdandong",
+    "code": "KR_28_SD_GEOM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.geomdandong",
+    "code": "KR_28_SD_GEOM3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.geomdandong",
+    "code": "KR_28_SD_GEOM4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.cheongnadong",
+    "code": "KR_28_SD_CHEO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.geomdanildong",
+    "code": "KR_28_SD_GEOM5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.geomdanodong",
+    "code": "KR_28_SD_GEOM6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.cheongnadong",
+    "code": "KR_28_SD_CHEO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.cheongnadong",
+    "code": "KR_28_SD_CHEO3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.seoguwestdistrict.sinhyeonwonchangdong",
+    "code": "KR_28_SD_SINH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_SD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.ganseokildong",
+    "code": "KR_28_BUPY_GA1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.ganseokidong",
+    "code": "KR_28_BUPY_GA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.ganseoksamdong",
+    "code": "KR_28_BUPY_GA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.ganseoksadong",
+    "code": "KR_28_BUPY_GA4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.mansuidong",
+    "code": "KR_28_BUPY_MA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.mansusamdong",
+    "code": "KR_28_BUPY_MA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.bupyeongildong",
+    "code": "KR_28_BUPY_BU1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.bupyeongidong",
+    "code": "KR_28_BUPY_BU2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.bupyeongsamdong",
+    "code": "KR_28_BUPY_BU3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.bupyeongsadong",
+    "code": "KR_28_BUPY_BU4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.bupyeongodong",
+    "code": "KR_28_BUPY_BU5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.bupyeongyukdong",
+    "code": "KR_28_BUPY_BU6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.sangokildong",
+    "code": "KR_28_BUPY_SA1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.sangokidong",
+    "code": "KR_28_BUPY_SA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.sangoksamdong",
+    "code": "KR_28_BUPY_SA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.sangoksadong",
+    "code": "KR_28_BUPY_SA4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.cheongcheonidong",
+    "code": "KR_28_BUPY_CH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.galsanildong",
+    "code": "KR_28_BUPY_GA12",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.galsanidong",
+    "code": "KR_28_BUPY_GA22",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.bugaeildong",
+    "code": "KR_28_BUPY_BU12",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.bugaeidong",
+    "code": "KR_28_BUPY_BU22",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.bugaesamdong",
+    "code": "KR_28_BUPY_BU32",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.ilsindong",
+    "code": "KR_28_BUPY_ILSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.sipjeongidong",
+    "code": "KR_28_BUPY_SI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.samsandong",
+    "code": "KR_28_BUPY_SAMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.jungsadong",
+    "code": "KR_28_BUPY_JU4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.sangdong",
+    "code": "KR_28_BUPY_SANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.bupyeonggu.sangdong",
+    "code": "KR_28_BUPY_SANG2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_BUPY"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.junggucentraldistrict.yeonandong",
+    "code": "KR_28_JD_YEON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_JD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.junggucentraldistrict.sinpodong",
+    "code": "KR_28_JD_SINP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_JD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.junggucentraldistrict.sinheungdong",
+    "code": "KR_28_JD_SINH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_JD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.junggucentraldistrict.unseodong",
+    "code": "KR_28_JD_UNSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_JD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.junggucentraldistrict.yeongjongdong",
+    "code": "KR_28_JD_YEON2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_JD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.junggucentraldistrict.yeongjongdong",
+    "code": "KR_28_JD_YEON3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_JD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.junggucentraldistrict.yongyudong",
+    "code": "KR_28_JD_YONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_JD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.junggucentraldistrict.jawolmyeon",
+    "code": "KR_28_JD_JAWO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_JD"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ongjingun.baengnyeongmyeon",
+    "code": "KR_28_ONGJ_BAEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ONGJ"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ongjingun.yeonpyeongmyeon",
+    "code": "KR_28_ONGJ_YEON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ONGJ"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ongjingun.daecheongmyeon",
+    "code": "KR_28_ONGJ_DAEC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ONGJ"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ongjingun.deokjeokmyeon",
+    "code": "KR_28_ONGJ_DEOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ONGJ"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.ipbukdong",
+    "code": "KR_28_ANSA_IPBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.ildong",
+    "code": "KR_28_ANSA_ILD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.bonoildong",
+    "code": "KR_28_ANSA_BO1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.bonoidong",
+    "code": "KR_28_ANSA_BO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.bonosamdong",
+    "code": "KR_28_ANSA_BO3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.bugokdong",
+    "code": "KR_28_ANSA_BUGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.wolpidong",
+    "code": "KR_28_ANSA_WOLP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.seongpodong",
+    "code": "KR_28_ANSA_SEON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.banwoldong",
+    "code": "KR_28_ANSA_BANW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.ansandong",
+    "code": "KR_28_ANSA_ANSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.idong",
+    "code": "KR_28_ANSA_IDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.sadong",
+    "code": "KR_28_ANSA_SAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.saidong",
+    "code": "KR_28_ANSA_SA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.haeyangdong",
+    "code": "KR_28_ANSA_HAEY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.wadong",
+    "code": "KR_28_ANSA_WAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.chojidong",
+    "code": "KR_28_ANSA_CHOJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.seonbuildong",
+    "code": "KR_28_ANSA_SE1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.seonbusamdong",
+    "code": "KR_28_ANSA_SE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.daebudong",
+    "code": "KR_28_ANSA_DAEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.hosudong",
+    "code": "KR_28_ANSA_HOSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.gojandong",
+    "code": "KR_28_ANSA_GOJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.jungangdong",
+    "code": "KR_28_ANSA_JUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.baegundong",
+    "code": "KR_28_ANSA_BAEG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.saesoldong",
+    "code": "KR_28_ANSA_SAES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.yeongheungmyeon",
+    "code": "KR_28_ANSA_YEON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  },
+  {
+    "tenantId": "republicofkorea.incheon.ansansi.seosinmyeon",
+    "code": "KR_28_ANSA_SEOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KR_28_ANSA"
+  }
+]

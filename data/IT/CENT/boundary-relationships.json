@@ -1,0 +1,198 @@
+[
+  {
+    "tenantId": "italy.centro",
+    "code": "IT_CENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IT"
+  },
+  {
+    "tenantId": "italy.centro.toscana",
+    "code": "IT_CENT_TOSC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IT_CENT"
+  },
+  {
+    "tenantId": "italy.centro.umbria",
+    "code": "IT_CENT_UMBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IT_CENT"
+  },
+  {
+    "tenantId": "italy.centro.marche",
+    "code": "IT_CENT_MARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IT_CENT"
+  },
+  {
+    "tenantId": "italy.centro.lazio",
+    "code": "IT_CENT_LAZI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IT_CENT"
+  },
+  {
+    "tenantId": "italy.centro.toscana.massacarrara",
+    "code": "IT_CENT_TOSC_MACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_TOSC"
+  },
+  {
+    "tenantId": "italy.centro.toscana.lucca",
+    "code": "IT_CENT_TOSC_LUCC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_TOSC"
+  },
+  {
+    "tenantId": "italy.centro.toscana.pistoia",
+    "code": "IT_CENT_TOSC_PIST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_TOSC"
+  },
+  {
+    "tenantId": "italy.centro.toscana.firenze",
+    "code": "IT_CENT_TOSC_FIRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_TOSC"
+  },
+  {
+    "tenantId": "italy.centro.toscana.pisa",
+    "code": "IT_CENT_TOSC_PISA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_TOSC"
+  },
+  {
+    "tenantId": "italy.centro.toscana.arezzo",
+    "code": "IT_CENT_TOSC_AREZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_TOSC"
+  },
+  {
+    "tenantId": "italy.centro.toscana.siena",
+    "code": "IT_CENT_TOSC_SIEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_TOSC"
+  },
+  {
+    "tenantId": "italy.centro.toscana.grosseto",
+    "code": "IT_CENT_TOSC_GROS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_TOSC"
+  },
+  {
+    "tenantId": "italy.centro.toscana.prato",
+    "code": "IT_CENT_TOSC_PRAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_TOSC"
+  },
+  {
+    "tenantId": "italy.centro.toscana.livorno",
+    "code": "IT_CENT_TOSC_LIVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_TOSC"
+  },
+  {
+    "tenantId": "italy.centro.umbria.perugia",
+    "code": "IT_CENT_UMBR_PERU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_UMBR"
+  },
+  {
+    "tenantId": "italy.centro.umbria.terni",
+    "code": "IT_CENT_UMBR_TERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_UMBR"
+  },
+  {
+    "tenantId": "italy.centro.marche.pesaroeurbino",
+    "code": "IT_CENT_MARC_PEU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_MARC"
+  },
+  {
+    "tenantId": "italy.centro.marche.ancona",
+    "code": "IT_CENT_MARC_ANCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_MARC"
+  },
+  {
+    "tenantId": "italy.centro.marche.macerata",
+    "code": "IT_CENT_MARC_MACE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_MARC"
+  },
+  {
+    "tenantId": "italy.centro.marche.ascolipiceno",
+    "code": "IT_CENT_MARC_ASPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_MARC"
+  },
+  {
+    "tenantId": "italy.centro.marche.fermo",
+    "code": "IT_CENT_MARC_FERM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_MARC"
+  },
+  {
+    "tenantId": "italy.centro.marche.rimini",
+    "code": "IT_CENT_MARC_RIMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_MARC"
+  },
+  {
+    "tenantId": "italy.centro.lazio.viterbo",
+    "code": "IT_CENT_LAZI_VITE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_LAZI"
+  },
+  {
+    "tenantId": "italy.centro.lazio.rieti",
+    "code": "IT_CENT_LAZI_RIET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_LAZI"
+  },
+  {
+    "tenantId": "italy.centro.lazio.roma",
+    "code": "IT_CENT_LAZI_ROMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_LAZI"
+  },
+  {
+    "tenantId": "italy.centro.lazio.frosinone",
+    "code": "IT_CENT_LAZI_FROS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_LAZI"
+  },
+  {
+    "tenantId": "italy.centro.lazio.latina",
+    "code": "IT_CENT_LAZI_LATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IT_CENT_LAZI"
+  }
+]

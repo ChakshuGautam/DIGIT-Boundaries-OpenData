@@ -1,0 +1,940 @@
+[
+  {
+    "tenantId": "philippines.ilocosregion",
+    "code": "PH_01",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "PH"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte",
+    "code": "PH_01_ILNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_01"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur",
+    "code": "PH_01_ILSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_01"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion",
+    "code": "PH_01_LAUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_01"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan",
+    "code": "PH_01_PANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_01"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.adams",
+    "code": "PH_01_ILNO_ADAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.bacarra",
+    "code": "PH_01_ILNO_BACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.badoc",
+    "code": "PH_01_ILNO_BADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.banna",
+    "code": "PH_01_ILNO_BANN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.burgos",
+    "code": "PH_01_ILNO_BURG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.carasi",
+    "code": "PH_01_ILNO_CARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.cityofbatac",
+    "code": "PH_01_ILNO_COB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.currimao",
+    "code": "PH_01_ILNO_CURR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.dingras",
+    "code": "PH_01_ILNO_DING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.dumalneg",
+    "code": "PH_01_ILNO_DUMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.laoagcity",
+    "code": "PH_01_ILNO_LACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.marcos",
+    "code": "PH_01_ILNO_MARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.nuevaera",
+    "code": "PH_01_ILNO_NUER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.pagudpud",
+    "code": "PH_01_ILNO_PAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.paoay",
+    "code": "PH_01_ILNO_PAOA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.piddig",
+    "code": "PH_01_ILNO_PIDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.pinili",
+    "code": "PH_01_ILNO_PINI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.sannicolas",
+    "code": "PH_01_ILNO_SANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.sarrat",
+    "code": "PH_01_ILNO_SARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.solsona",
+    "code": "PH_01_ILNO_SOLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.vintar",
+    "code": "PH_01_ILNO_VINT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.bangui",
+    "code": "PH_01_ILNO_BANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.claveria",
+    "code": "PH_01_ILNO_CLAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.pasuquin",
+    "code": "PH_01_ILNO_PASU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocosnorte.santapraxedes",
+    "code": "PH_01_ILNO_SAPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILNO"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.alilem",
+    "code": "PH_01_ILSU_ALIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.banayoyo",
+    "code": "PH_01_ILSU_BANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.bantay",
+    "code": "PH_01_ILSU_BANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.burgos",
+    "code": "PH_01_ILSU_BURG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.cabugao",
+    "code": "PH_01_ILSU_CABU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.caoayan",
+    "code": "PH_01_ILSU_CAOA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.cervantes",
+    "code": "PH_01_ILSU_CERV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.cityofcandon",
+    "code": "PH_01_ILSU_COC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.cityofvigan",
+    "code": "PH_01_ILSU_COV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.galimuyod",
+    "code": "PH_01_ILSU_GALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.gregoriodelpilar",
+    "code": "PH_01_ILSU_GDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.lidlidda",
+    "code": "PH_01_ILSU_LIDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.nagbukel",
+    "code": "PH_01_ILSU_NAGB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.narvacan",
+    "code": "PH_01_ILSU_NARV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.quirino",
+    "code": "PH_01_ILSU_QUIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.salcedo",
+    "code": "PH_01_ILSU_SALC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.sanemilio",
+    "code": "PH_01_ILSU_SAEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.sanesteban",
+    "code": "PH_01_ILSU_SAES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.sanildefonso",
+    "code": "PH_01_ILSU_SAIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.sanvicente",
+    "code": "PH_01_ILSU_SAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.santa",
+    "code": "PH_01_ILSU_SANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.santacatalina",
+    "code": "PH_01_ILSU_SACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.santacruz",
+    "code": "PH_01_ILSU_SACR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.santalucia",
+    "code": "PH_01_ILSU_SALU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.santamaria",
+    "code": "PH_01_ILSU_SAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.santiago",
+    "code": "PH_01_ILSU_SANT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.santodomingo",
+    "code": "PH_01_ILSU_SADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.sigay",
+    "code": "PH_01_ILSU_SIGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.sinait",
+    "code": "PH_01_ILSU_SINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.suyo",
+    "code": "PH_01_ILSU_SUYO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.tagudin",
+    "code": "PH_01_ILSU_TAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.magsingal",
+    "code": "PH_01_ILSU_MAGS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.ilocossur.sanjuan",
+    "code": "PH_01_ILSU_SAJU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_ILSU"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion.agoo",
+    "code": "PH_01_LAUN_AGOO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_LAUN"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion.aringay",
+    "code": "PH_01_LAUN_ARIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_LAUN"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion.bacnotan",
+    "code": "PH_01_LAUN_BACN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_LAUN"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion.bagulin",
+    "code": "PH_01_LAUN_BAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_LAUN"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion.balaoan",
+    "code": "PH_01_LAUN_BALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_LAUN"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion.bangar",
+    "code": "PH_01_LAUN_BANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_LAUN"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion.bauang",
+    "code": "PH_01_LAUN_BAUA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_LAUN"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion.burgos",
+    "code": "PH_01_LAUN_BURG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_LAUN"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion.caba",
+    "code": "PH_01_LAUN_CABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_LAUN"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion.luna",
+    "code": "PH_01_LAUN_LUNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_LAUN"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion.naguilian",
+    "code": "PH_01_LAUN_NAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_LAUN"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion.pugo",
+    "code": "PH_01_LAUN_PUGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_LAUN"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion.rosario",
+    "code": "PH_01_LAUN_ROSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_LAUN"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion.sangabriel",
+    "code": "PH_01_LAUN_SAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_LAUN"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion.sanjuan",
+    "code": "PH_01_LAUN_SAJU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_LAUN"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion.santol",
+    "code": "PH_01_LAUN_SANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_LAUN"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion.sudipen",
+    "code": "PH_01_LAUN_SUDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_LAUN"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion.sugpon",
+    "code": "PH_01_LAUN_SUGP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_LAUN"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion.tubao",
+    "code": "PH_01_LAUN_TUBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_LAUN"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion.cityofsanfernando",
+    "code": "PH_01_LAUN_COSF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_LAUN"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion.sanfabian",
+    "code": "PH_01_LAUN_SAFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_LAUN"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.launion.santotomas",
+    "code": "PH_01_LAUN_SATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_LAUN"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.agno",
+    "code": "PH_01_PANG_AGNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.aguilar",
+    "code": "PH_01_PANG_AGUI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.alcala",
+    "code": "PH_01_PANG_ALCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.anda",
+    "code": "PH_01_PANG_ANDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.asingan",
+    "code": "PH_01_PANG_ASIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.balungao",
+    "code": "PH_01_PANG_BALU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.bani",
+    "code": "PH_01_PANG_BANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.basista",
+    "code": "PH_01_PANG_BASI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.bautista",
+    "code": "PH_01_PANG_BAUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.bayambang",
+    "code": "PH_01_PANG_BAYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.binalonan",
+    "code": "PH_01_PANG_BINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.binmaley",
+    "code": "PH_01_PANG_BINM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.bolinao",
+    "code": "PH_01_PANG_BOLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.bugallon",
+    "code": "PH_01_PANG_BUGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.burgos",
+    "code": "PH_01_PANG_BURG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.calasiao",
+    "code": "PH_01_PANG_CALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.cityofurdaneta",
+    "code": "PH_01_PANG_COU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.dagupancity",
+    "code": "PH_01_PANG_DACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.infanta",
+    "code": "PH_01_PANG_INFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.labrador",
+    "code": "PH_01_PANG_LABR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.laoac",
+    "code": "PH_01_PANG_LAOA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.lingayen",
+    "code": "PH_01_PANG_LING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.mabini",
+    "code": "PH_01_PANG_MABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.malasiqui",
+    "code": "PH_01_PANG_MALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.manaoag",
+    "code": "PH_01_PANG_MANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.mangaldan",
+    "code": "PH_01_PANG_MANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.mangatarem",
+    "code": "PH_01_PANG_MANG2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.mapandan",
+    "code": "PH_01_PANG_MAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.natividad",
+    "code": "PH_01_PANG_NATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.pozorrubio",
+    "code": "PH_01_PANG_POZO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.rosales",
+    "code": "PH_01_PANG_ROSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.sancarloscity",
+    "code": "PH_01_PANG_SCC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.sanclemente",
+    "code": "PH_01_PANG_SACL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.sanjacinto",
+    "code": "PH_01_PANG_SAJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.sanmanuel",
+    "code": "PH_01_PANG_SAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.sannicolas",
+    "code": "PH_01_PANG_SANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.sanquintin",
+    "code": "PH_01_PANG_SAQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.santabarbara",
+    "code": "PH_01_PANG_SABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.santamaria",
+    "code": "PH_01_PANG_SAMA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.santotomas",
+    "code": "PH_01_PANG_SATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.sison",
+    "code": "PH_01_PANG_SISO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.tayug",
+    "code": "PH_01_PANG_TAYU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.umingan",
+    "code": "PH_01_PANG_UMIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.urbiztondo",
+    "code": "PH_01_PANG_URBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.villasis",
+    "code": "PH_01_PANG_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.cityofalaminos",
+    "code": "PH_01_PANG_COA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.dasol",
+    "code": "PH_01_PANG_DASO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.santacruz",
+    "code": "PH_01_PANG_SACR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  },
+  {
+    "tenantId": "philippines.ilocosregion.pangasinan.sual",
+    "code": "PH_01_PANG_SUAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_01_PANG"
+  }
+]

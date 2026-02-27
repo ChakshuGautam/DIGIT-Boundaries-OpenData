@@ -1,0 +1,268 @@
+[
+  {
+    "tenantId": "albania.shkodr",
+    "code": "AL_10",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "AL"
+  },
+  {
+    "tenantId": "albania.shkodr.malsiemadhe",
+    "code": "AL_10_MEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AL_10"
+  },
+  {
+    "tenantId": "albania.shkodr.puk",
+    "code": "AL_10_PUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AL_10"
+  },
+  {
+    "tenantId": "albania.shkodr.shkodr",
+    "code": "AL_10_SHKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AL_10"
+  },
+  {
+    "tenantId": "albania.shkodr.malsiemadhe.kelmend",
+    "code": "AL_10_MEM_KELM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_MEM"
+  },
+  {
+    "tenantId": "albania.shkodr.malsiemadhe.kastrat",
+    "code": "AL_10_MEM_KAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_MEM"
+  },
+  {
+    "tenantId": "albania.shkodr.malsiemadhe.shkrel",
+    "code": "AL_10_MEM_SHKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_MEM"
+  },
+  {
+    "tenantId": "albania.shkodr.malsiemadhe.qendr",
+    "code": "AL_10_MEM_QEND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_MEM"
+  },
+  {
+    "tenantId": "albania.shkodr.malsiemadhe.koplik",
+    "code": "AL_10_MEM_KOPL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_MEM"
+  },
+  {
+    "tenantId": "albania.shkodr.malsiemadhe.gruemir",
+    "code": "AL_10_MEM_GRUE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_MEM"
+  },
+  {
+    "tenantId": "albania.shkodr.puk.qafmali",
+    "code": "AL_10_PUK_QAF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_PUK"
+  },
+  {
+    "tenantId": "albania.shkodr.puk.rrap",
+    "code": "AL_10_PUK_RRAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_PUK"
+  },
+  {
+    "tenantId": "albania.shkodr.puk.qerret",
+    "code": "AL_10_PUK_QERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_PUK"
+  },
+  {
+    "tenantId": "albania.shkodr.puk.qelz",
+    "code": "AL_10_PUK_QEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_PUK"
+  },
+  {
+    "tenantId": "albania.shkodr.puk.puk",
+    "code": "AL_10_PUK_PUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_PUK"
+  },
+  {
+    "tenantId": "albania.shkodr.puk.iballe",
+    "code": "AL_10_PUK_IBAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_PUK"
+  },
+  {
+    "tenantId": "albania.shkodr.puk.gjegjan",
+    "code": "AL_10_PUK_GJEG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_PUK"
+  },
+  {
+    "tenantId": "albania.shkodr.puk.fierz",
+    "code": "AL_10_PUK_FIER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_PUK"
+  },
+  {
+    "tenantId": "albania.shkodr.puk.blerim",
+    "code": "AL_10_PUK_BLER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_PUK"
+  },
+  {
+    "tenantId": "albania.shkodr.puk.fusharrz",
+    "code": "AL_10_PUK_FUSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_PUK"
+  },
+  {
+    "tenantId": "albania.shkodr.shkodr.velipoj",
+    "code": "AL_10_SHKO_VELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_SHKO"
+  },
+  {
+    "tenantId": "albania.shkodr.shkodr.shal",
+    "code": "AL_10_SHKO_SHAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_SHKO"
+  },
+  {
+    "tenantId": "albania.shkodr.shkodr.shkder",
+    "code": "AL_10_SHKO_SHK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_SHKO"
+  },
+  {
+    "tenantId": "albania.shkodr.shkodr.vaudejs",
+    "code": "AL_10_SHKO_VAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_SHKO"
+  },
+  {
+    "tenantId": "albania.shkodr.shkodr.vigmnel",
+    "code": "AL_10_SHKO_VIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_SHKO"
+  },
+  {
+    "tenantId": "albania.shkodr.shkodr.temal",
+    "code": "AL_10_SHKO_TEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_SHKO"
+  },
+  {
+    "tenantId": "albania.shkodr.shkodr.shosh",
+    "code": "AL_10_SHKO_SHOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_SHKO"
+  },
+  {
+    "tenantId": "albania.shkodr.shkodr.shllak",
+    "code": "AL_10_SHKO_SHLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_SHKO"
+  },
+  {
+    "tenantId": "albania.shkodr.shkodr.guriizi",
+    "code": "AL_10_SHKO_GIZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_SHKO"
+  },
+  {
+    "tenantId": "albania.shkodr.shkodr.postrib",
+    "code": "AL_10_SHKO_POST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_SHKO"
+  },
+  {
+    "tenantId": "albania.shkodr.shkodr.daj",
+    "code": "AL_10_SHKO_DAJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_SHKO"
+  },
+  {
+    "tenantId": "albania.shkodr.shkodr.bushat",
+    "code": "AL_10_SHKO_BUSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_SHKO"
+  },
+  {
+    "tenantId": "albania.shkodr.shkodr.brdic",
+    "code": "AL_10_SHKO_BRD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_SHKO"
+  },
+  {
+    "tenantId": "albania.shkodr.shkodr.balldreniri",
+    "code": "AL_10_SHKO_BIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_SHKO"
+  },
+  {
+    "tenantId": "albania.shkodr.shkodr.anaemalit",
+    "code": "AL_10_SHKO_AEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_SHKO"
+  },
+  {
+    "tenantId": "albania.shkodr.shkodr.pult",
+    "code": "AL_10_SHKO_PULT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_SHKO"
+  },
+  {
+    "tenantId": "albania.shkodr.shkodr.hajmel",
+    "code": "AL_10_SHKO_HAJM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_SHKO"
+  },
+  {
+    "tenantId": "albania.shkodr.shkodr.rrethinat",
+    "code": "AL_10_SHKO_RRET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AL_10_SHKO"
+  }
+]

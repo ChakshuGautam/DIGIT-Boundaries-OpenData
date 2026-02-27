@@ -1,0 +1,996 @@
+[
+  {
+    "tenantId": "brazil.matogrosso",
+    "code": "BR_MT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BR"
+  },
+  {
+    "tenantId": "brazil.matogrosso.acorizal",
+    "code": "BR_MT_ACOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.guaboa",
+    "code": "BR_MT_GBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.altafloresta",
+    "code": "BR_MT_ALFL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.altoaraguaia",
+    "code": "BR_MT_ALAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.altoboavista",
+    "code": "BR_MT_ABV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.altogaras",
+    "code": "BR_MT_ALGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.altoparaguai",
+    "code": "BR_MT_ALPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.altotaquari",
+    "code": "BR_MT_ALTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.apiacs",
+    "code": "BR_MT_APIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.araguaiana",
+    "code": "BR_MT_ARAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.araguainha",
+    "code": "BR_MT_ARAG2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.araputanga",
+    "code": "BR_MT_ARAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.arenpolis",
+    "code": "BR_MT_AREN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.aripuan",
+    "code": "BR_MT_ARIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.barodemelgao",
+    "code": "BR_MT_BDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.barradobugres",
+    "code": "BR_MT_BDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.barradogaras",
+    "code": "BR_MT_BDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.bomjesusdoaraguaia",
+    "code": "BR_MT_BJDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.brasnorte",
+    "code": "BR_MT_BRAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.cceres",
+    "code": "BR_MT_CCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.campinpolis",
+    "code": "BR_MT_CAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.camponovodoparecis",
+    "code": "BR_MT_CNDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.campoverde",
+    "code": "BR_MT_CAVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.camposdejlio",
+    "code": "BR_MT_CDJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.canabravadonorte",
+    "code": "BR_MT_CDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.canarana",
+    "code": "BR_MT_CANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.carlinda",
+    "code": "BR_MT_CARL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.castanheira",
+    "code": "BR_MT_CAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.chapadadosguimares",
+    "code": "BR_MT_CDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.cludia",
+    "code": "BR_MT_CLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.cocalinho",
+    "code": "BR_MT_COCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.colder",
+    "code": "BR_MT_COL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.colniza",
+    "code": "BR_MT_COLN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.comodoro",
+    "code": "BR_MT_COMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.confresa",
+    "code": "BR_MT_CONF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.conquistadoeste",
+    "code": "BR_MT_COD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.cotriguau",
+    "code": "BR_MT_COTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.cuiab",
+    "code": "BR_MT_CUIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.curvelndia",
+    "code": "BR_MT_CURV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.denise",
+    "code": "BR_MT_DENI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.diamantino",
+    "code": "BR_MT_DIAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.domaquino",
+    "code": "BR_MT_DOAQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.feliznatal",
+    "code": "BR_MT_FENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.figueirpolisdoeste",
+    "code": "BR_MT_FID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.gachadonorte",
+    "code": "BR_MT_GDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.generalcarneiro",
+    "code": "BR_MT_GECA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.glriadoeste",
+    "code": "BR_MT_GLD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.guarantdonorte",
+    "code": "BR_MT_GDN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.guiratinga",
+    "code": "BR_MT_GUIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.indiava",
+    "code": "BR_MT_INDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.ipirangadonorte",
+    "code": "BR_MT_IDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.itanhang",
+    "code": "BR_MT_ITAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.itaba",
+    "code": "BR_MT_ITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.itiquira",
+    "code": "BR_MT_ITIQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.jaciara",
+    "code": "BR_MT_JACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.jangada",
+    "code": "BR_MT_JANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.jauru",
+    "code": "BR_MT_JAUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.juara",
+    "code": "BR_MT_JUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.juna",
+    "code": "BR_MT_JUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.juruena",
+    "code": "BR_MT_JURU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.juscimeira",
+    "code": "BR_MT_JUSC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.lambaridoeste",
+    "code": "BR_MT_LAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.lucasdorioverde",
+    "code": "BR_MT_LDRV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.luciara",
+    "code": "BR_MT_LUCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.vilabeladasantssimatrindade",
+    "code": "BR_MT_VBDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.marcelndia",
+    "code": "BR_MT_MARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.matup",
+    "code": "BR_MT_MATU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.mirassoldoeste",
+    "code": "BR_MT_MID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.nobres",
+    "code": "BR_MT_NOBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.nortelndia",
+    "code": "BR_MT_NORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.nossasenhoradolivramento",
+    "code": "BR_MT_NSDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.novabandeirantes",
+    "code": "BR_MT_NOBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.novanazar",
+    "code": "BR_MT_NONA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.novalacerda",
+    "code": "BR_MT_NOLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.novasantahelena",
+    "code": "BR_MT_NSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.novabrasilndia",
+    "code": "BR_MT_NOBR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.novacanadonorte",
+    "code": "BR_MT_NCDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.novamutum",
+    "code": "BR_MT_NOMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.novaolmpia",
+    "code": "BR_MT_NOOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.novaubirat",
+    "code": "BR_MT_NOUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.novaxavantina",
+    "code": "BR_MT_NOXA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.novomundo",
+    "code": "BR_MT_NOMU2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.novohorizontedonorte",
+    "code": "BR_MT_NHDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.novosojoaquim",
+    "code": "BR_MT_NSJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.paranata",
+    "code": "BR_MT_PARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.paranatinga",
+    "code": "BR_MT_PARA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.novosantoantnio",
+    "code": "BR_MT_NSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.pedrapreta",
+    "code": "BR_MT_PEPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.peixotodeazevedo",
+    "code": "BR_MT_PDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.planaltodaserra",
+    "code": "BR_MT_PDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.pocon",
+    "code": "BR_MT_POCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.pontaldoaraguaia",
+    "code": "BR_MT_PDA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.pontebranca",
+    "code": "BR_MT_POBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.ponteselacerda",
+    "code": "BR_MT_PEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.portoalegredonorte",
+    "code": "BR_MT_PADN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.portodosgachos",
+    "code": "BR_MT_PDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.portoesperidio",
+    "code": "BR_MT_POES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.portoestrela",
+    "code": "BR_MT_POES2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.poxoru",
+    "code": "BR_MT_POXO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.primaveradoleste",
+    "code": "BR_MT_PDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.querncia",
+    "code": "BR_MT_QUER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.sojosdosquatromarcos",
+    "code": "BR_MT_SJDQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.reservadocabaal",
+    "code": "BR_MT_RDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.ribeirocascalheira",
+    "code": "BR_MT_RICA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.ribeirozinho",
+    "code": "BR_MT_RIBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.riobranco",
+    "code": "BR_MT_RIBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.santacarmem",
+    "code": "BR_MT_SACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.santoafonso",
+    "code": "BR_MT_SAAF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.sojosdopovo",
+    "code": "BR_MT_SJDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.sojosdorioclaro",
+    "code": "BR_MT_SJDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.sojosdoxingu",
+    "code": "BR_MT_SJDX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.sopedrodacipa",
+    "code": "BR_MT_SPDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.rondolndia",
+    "code": "BR_MT_ROND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.rondonpolis",
+    "code": "BR_MT_ROND2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.rosriooeste",
+    "code": "BR_MT_ROOE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.santacruzdoxingu",
+    "code": "BR_MT_SCDX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.saltodocu",
+    "code": "BR_MT_SDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.santaritadotrivelato",
+    "code": "BR_MT_SRDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.santaterezinha",
+    "code": "BR_MT_SATE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.santoantniodoleste",
+    "code": "BR_MT_SADL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.santoantniodoleverger",
+    "code": "BR_MT_SADL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.soflixdoaraguaia",
+    "code": "BR_MT_SFDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.sapezal",
+    "code": "BR_MT_SAPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.serranovadourada",
+    "code": "BR_MT_SND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.sinop",
+    "code": "BR_MT_SINO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.sorriso",
+    "code": "BR_MT_SORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.tabapor",
+    "code": "BR_MT_TABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.tangardaserra",
+    "code": "BR_MT_TDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.tapurah",
+    "code": "BR_MT_TAPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.terranovadonorte",
+    "code": "BR_MT_TNDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.tesouro",
+    "code": "BR_MT_TESO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.torixoru",
+    "code": "BR_MT_TORI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.uniodosul",
+    "code": "BR_MT_UDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.valedesodomingos",
+    "code": "BR_MT_VDSD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.vrzeagrande",
+    "code": "BR_MT_VGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.vera",
+    "code": "BR_MT_VERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.vilarica",
+    "code": "BR_MT_VIRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.novaguarita",
+    "code": "BR_MT_NOGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.novamarilndia",
+    "code": "BR_MT_NOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.novamaring",
+    "code": "BR_MT_NOMA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  },
+  {
+    "tenantId": "brazil.matogrosso.novamonteverde",
+    "code": "BR_MT_NMV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "BR_MT"
+  }
+]

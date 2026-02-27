@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "panama.comarcagunayala",
+    "code": "PA_KY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PA"
+  },
+  {
+    "tenantId": "panama.comarcagunayala.comarcakunayala",
+    "code": "PA_KY_CKY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PA_KY"
+  },
+  {
+    "tenantId": "panama.comarcagunayala.comarcakunayala.ailigand",
+    "code": "PA_KY_CKY_AILI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_KY_CKY"
+  },
+  {
+    "tenantId": "panama.comarcagunayala.comarcakunayala.puertoobalda",
+    "code": "PA_KY_CKY_PUOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_KY_CKY"
+  }
+]

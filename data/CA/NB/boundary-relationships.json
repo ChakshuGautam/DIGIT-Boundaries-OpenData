@@ -1,0 +1,3215 @@
+[
+  {
+    "tenantId": "canada.newbrunswick",
+    "code": "CA_NB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "CA"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi",
+    "code": "CA_NB_CAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Census Division",
+    "parent": "CA_NB"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto",
+    "code": "CA_NB_MONC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Census Division",
+    "parent": "CA_NB"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen",
+    "code": "CA_NB_SJS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Census Division",
+    "parent": "CA_NB"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto",
+    "code": "CA_NB_FRED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Census Division",
+    "parent": "CA_NB"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock",
+    "code": "CA_NB_EDMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Census Division",
+    "parent": "CA_NB"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie",
+    "code": "CA_NB_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Census Division",
+    "parent": "CA_NB"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.bigholetractsouthhalf",
+    "code": "CA_NB_CAMP_BHT8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.eelground",
+    "code": "CA_NB_CAMP_EG2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.alnwick",
+    "code": "CA_NB_CAMP_ALNW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.neguac",
+    "code": "CA_NB_CAMP_NEGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.hardwicke",
+    "code": "CA_NB_CAMP_HARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.glenelg",
+    "code": "CA_NB_CAMP_GLEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.chatham",
+    "code": "CA_NB_CAMP_CHAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.southesk",
+    "code": "CA_NB_CAMP_SOUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.uppermiramichi",
+    "code": "CA_NB_CAMP_UPMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.derby",
+    "code": "CA_NB_CAMP_DERB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.nelson",
+    "code": "CA_NB_CAMP_NELS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.blissfield",
+    "code": "CA_NB_CAMP_BLIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.doaktown",
+    "code": "CA_NB_CAMP_DOAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.redbank",
+    "code": "CA_NB_CAMP_RB4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.northesk",
+    "code": "CA_NB_CAMP_NORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.newcastle",
+    "code": "CA_NB_CAMP_NEWC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.rogersville",
+    "code": "CA_NB_CAMP_ROGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.rogersville",
+    "code": "CA_NB_CAMP_ROGE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.blackville",
+    "code": "CA_NB_CAMP_BLAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.blackville",
+    "code": "CA_NB_CAMP_BLAC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.esgenopetitj",
+    "code": "CA_NB_CAMP_ES14",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.tabusintac",
+    "code": "CA_NB_CAMP_TA9",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.miramichi",
+    "code": "CA_NB_CAMP_MIRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.campbellton",
+    "code": "CA_NB_CAMP_CAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.tidehead",
+    "code": "CA_NB_CAMP_TIHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.durham",
+    "code": "CA_NB_CAMP_DURH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.colborne",
+    "code": "CA_NB_CAMP_COLB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.charlo",
+    "code": "CA_NB_CAMP_CHAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.balmoral",
+    "code": "CA_NB_CAMP_BALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.balmoral",
+    "code": "CA_NB_CAMP_BALM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.eelrivercrossing",
+    "code": "CA_NB_CAMP_ERC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.legoulet",
+    "code": "CA_NB_CAMP_LEGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.lamque",
+    "code": "CA_NB_CAMP_LAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.saintemariesaintraphal",
+    "code": "CA_NB_CAMP_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.bertrand",
+    "code": "CA_NB_CAMP_BERT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.nigadoo",
+    "code": "CA_NB_CAMP_NIGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.grandeanse",
+    "code": "CA_NB_CAMP_GRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.maisonnette",
+    "code": "CA_NB_CAMP_MAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.beresford",
+    "code": "CA_NB_CAMP_BERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.newbandon",
+    "code": "CA_NB_CAMP_NEBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.saintlolin",
+    "code": "CA_NB_CAMP_SAIN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.paquetville",
+    "code": "CA_NB_CAMP_PAQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.paquetville",
+    "code": "CA_NB_CAMP_PAQU2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.saintisidore",
+    "code": "CA_NB_CAMP_SAIN3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.shippagan",
+    "code": "CA_NB_CAMP_SHIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.allardville",
+    "code": "CA_NB_CAMP_ALLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.bathurst",
+    "code": "CA_NB_CAMP_BATH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.pabineau",
+    "code": "CA_NB_CAMP_PA11",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.addington",
+    "code": "CA_NB_CAMP_ADDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.atholville",
+    "code": "CA_NB_CAMP_ATHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.saintisidore",
+    "code": "CA_NB_CAMP_SAIN4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.inkerman",
+    "code": "CA_NB_CAMP_INKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.caraquet",
+    "code": "CA_NB_CAMP_CARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.bascaraquet",
+    "code": "CA_NB_CAMP_BAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.eldon",
+    "code": "CA_NB_CAMP_ELDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.dalhousie",
+    "code": "CA_NB_CAMP_DALH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.dalhousie",
+    "code": "CA_NB_CAMP_DALH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.beresford",
+    "code": "CA_NB_CAMP_BERE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.caraquet",
+    "code": "CA_NB_CAMP_CARA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.shippagan",
+    "code": "CA_NB_CAMP_SHIP2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.kedgwick",
+    "code": "CA_NB_CAMP_KEDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.saintquentin",
+    "code": "CA_NB_CAMP_SAIN5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.saintquentin",
+    "code": "CA_NB_CAMP_SAIN6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.belledune",
+    "code": "CA_NB_CAMP_BELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.indianranch",
+    "code": "CA_NB_CAMP_INRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.tracadie",
+    "code": "CA_NB_CAMP_TRAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.pointeverte",
+    "code": "CA_NB_CAMP_POIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.petitrocher",
+    "code": "CA_NB_CAMP_PETI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.eelriver",
+    "code": "CA_NB_CAMP_ER3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.campbelltonmiramichi.bathurst",
+    "code": "CA_NB_CAMP_BATH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_CAMP"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.hillsborough",
+    "code": "CA_NB_MONC_HILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.petitcodiac",
+    "code": "CA_NB_MONC_PETI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.dieppe",
+    "code": "CA_NB_MONC_DIEP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.shediac",
+    "code": "CA_NB_MONC_SHED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.dundas",
+    "code": "CA_NB_MONC_DUND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.cocagne",
+    "code": "CA_NB_MONC_COCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.buctouche",
+    "code": "CA_NB_MONC_BU16",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.wellington",
+    "code": "CA_NB_MONC_WELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.bouctouche",
+    "code": "CA_NB_MONC_BOUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.hopewell",
+    "code": "CA_NB_MONC_HOPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.riversidealbert",
+    "code": "CA_NB_MONC_RIVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.harvey",
+    "code": "CA_NB_MONC_HARV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.alma",
+    "code": "CA_NB_MONC_ALMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.alma",
+    "code": "CA_NB_MONC_ALMA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.elgin",
+    "code": "CA_NB_MONC_ELGI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.saintmary",
+    "code": "CA_NB_MONC_SAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.saintantoine",
+    "code": "CA_NB_MONC_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.saintpaul",
+    "code": "CA_NB_MONC_SAIN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.harcourt",
+    "code": "CA_NB_MONC_HARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.huskisson",
+    "code": "CA_NB_MONC_HUSK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.weldford",
+    "code": "CA_NB_MONC_WELD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.richibucto",
+    "code": "CA_NB_MONC_RI15",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.richibucto",
+    "code": "CA_NB_MONC_RICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.westmorland",
+    "code": "CA_NB_MONC_WEST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.portelgin",
+    "code": "CA_NB_MONC_POEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.botsford",
+    "code": "CA_NB_MONC_BOTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.beaubassineastbeaubassin",
+    "code": "CA_NB_MONC_BEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.sackville",
+    "code": "CA_NB_MONC_SACK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.coverdale",
+    "code": "CA_NB_MONC_COVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.riverview",
+    "code": "CA_NB_MONC_RIVE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.hillsborough",
+    "code": "CA_NB_MONC_HILL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.fortfolly",
+    "code": "CA_NB_MONC_FF1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.cappel",
+    "code": "CA_NB_MONC_CAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.sackville",
+    "code": "CA_NB_MONC_SACK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.dorchester",
+    "code": "CA_NB_MONC_DORC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.dorchester",
+    "code": "CA_NB_MONC_DORC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.memramcook",
+    "code": "CA_NB_MONC_MEMR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.shediac",
+    "code": "CA_NB_MONC_SHED2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.moncton",
+    "code": "CA_NB_MONC_MONC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.moncton",
+    "code": "CA_NB_MONC_MONC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.salisbury",
+    "code": "CA_NB_MONC_SALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.salisbury",
+    "code": "CA_NB_MONC_SALI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.rexton",
+    "code": "CA_NB_MONC_REXT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.richibucto",
+    "code": "CA_NB_MONC_RICH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.saintcharles",
+    "code": "CA_NB_MONC_SAIN3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.indianisland",
+    "code": "CA_NB_MONC_II2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.saintlouis",
+    "code": "CA_NB_MONC_SAIN4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.saintlouisdekent",
+    "code": "CA_NB_MONC_SDK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.acadieville",
+    "code": "CA_NB_MONC_ACAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.monctonrichibucto.carleton",
+    "code": "CA_NB_MONC_CARL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONC"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.saintmartins",
+    "code": "CA_NB_SJS_SAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.stmartins",
+    "code": "CA_NB_SJS_STMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.simonds",
+    "code": "CA_NB_SJS_SIMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.musquash",
+    "code": "CA_NB_SJS_MUSQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.grandmanan",
+    "code": "CA_NB_SJS_GRMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.westisles",
+    "code": "CA_NB_SJS_WEIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.pennfield",
+    "code": "CA_NB_SJS_PENN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.blacksharbour",
+    "code": "CA_NB_SJS_BLHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.clarendon",
+    "code": "CA_NB_SJS_CLAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.saintgeorge",
+    "code": "CA_NB_SJS_SAGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.stgeorge",
+    "code": "CA_NB_SJS_STGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.saintpatrick",
+    "code": "CA_NB_SJS_SAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.saintandrews",
+    "code": "CA_NB_SJS_SAAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.saintcroix",
+    "code": "CA_NB_SJS_SACR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.dufferin",
+    "code": "CA_NB_SJS_DUFF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.saintdavid",
+    "code": "CA_NB_SJS_SADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.dumbarton",
+    "code": "CA_NB_SJS_DUMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.grandmanan",
+    "code": "CA_NB_SJS_GRMA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.saintstephen",
+    "code": "CA_NB_SJS_SAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.saintjames",
+    "code": "CA_NB_SJS_SAJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.hammond",
+    "code": "CA_NB_SJS_HAMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.upham",
+    "code": "CA_NB_SJS_UPHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.norton",
+    "code": "CA_NB_SJS_NORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.norton",
+    "code": "CA_NB_SJS_NORT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.sussex",
+    "code": "CA_NB_SJS_SUSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.cardwell",
+    "code": "CA_NB_SJS_CARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.hampton",
+    "code": "CA_NB_SJS_HAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.hampton",
+    "code": "CA_NB_SJS_HAMP2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.rothesay",
+    "code": "CA_NB_SJS_ROTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.westfield",
+    "code": "CA_NB_SJS_WEST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.kingston",
+    "code": "CA_NB_SJS_KING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.grandbaywestfield",
+    "code": "CA_NB_SJS_GRBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.sussex",
+    "code": "CA_NB_SJS_SUSS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.sussexcorner",
+    "code": "CA_NB_SJS_SUCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.waterford",
+    "code": "CA_NB_SJS_WATE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.havelock",
+    "code": "CA_NB_SJS_HAVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.studholm",
+    "code": "CA_NB_SJS_STUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.springfield",
+    "code": "CA_NB_SJS_SPRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.kars",
+    "code": "CA_NB_SJS_KARS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.greenwich",
+    "code": "CA_NB_SJS_GREE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.rothesay",
+    "code": "CA_NB_SJS_ROTH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.quispamsis",
+    "code": "CA_NB_SJS_QUIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.digby",
+    "code": "CA_NB_SJS_DIGB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.saintjohn",
+    "code": "CA_NB_SJS_SAJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.campobelloisland",
+    "code": "CA_NB_SJS_CAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.lepreau",
+    "code": "CA_NB_SJS_LEPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.saintandrews",
+    "code": "CA_NB_SJS_SAAN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.saintjohnststephen.ststephen",
+    "code": "CA_NB_SJS_STST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_SJS"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.oromocto",
+    "code": "CA_NB_FRED_OROM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.oromocto",
+    "code": "CA_NB_FRED_OR26",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.gladstone",
+    "code": "CA_NB_FRED_GLAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.tracy",
+    "code": "CA_NB_FRED_TRAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.frederictonjunction",
+    "code": "CA_NB_FRED_FRJU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.sheffield",
+    "code": "CA_NB_FRED_SHEF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.maugerville",
+    "code": "CA_NB_FRED_MAUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.northfield",
+    "code": "CA_NB_FRED_NORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.petersville",
+    "code": "CA_NB_FRED_PETE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.gagetown",
+    "code": "CA_NB_FRED_GAGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.gagetown",
+    "code": "CA_NB_FRED_GAGE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.lincoln",
+    "code": "CA_NB_FRED_LINC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.burton",
+    "code": "CA_NB_FRED_BURT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.blissville",
+    "code": "CA_NB_FRED_BLIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.hampstead",
+    "code": "CA_NB_FRED_HAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.wickham",
+    "code": "CA_NB_FRED_WICK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.cambridge",
+    "code": "CA_NB_FRED_CAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.cambridgenarrows",
+    "code": "CA_NB_FRED_CAMB2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.johnston",
+    "code": "CA_NB_FRED_JOHN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.brunswick",
+    "code": "CA_NB_FRED_BRUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.waterborough",
+    "code": "CA_NB_FRED_WATE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.canning",
+    "code": "CA_NB_FRED_CANN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.minto",
+    "code": "CA_NB_FRED_MINT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.chipman",
+    "code": "CA_NB_FRED_CHIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.chipman",
+    "code": "CA_NB_FRED_CHIP2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.mannerssutton",
+    "code": "CA_NB_FRED_MASU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.harvey",
+    "code": "CA_NB_FRED_HARV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.mcadam",
+    "code": "CA_NB_FRED_MCAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.mcadam",
+    "code": "CA_NB_FRED_MCAD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.northlake",
+    "code": "CA_NB_FRED_NOLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.canterbury",
+    "code": "CA_NB_FRED_CANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.canterbury",
+    "code": "CA_NB_FRED_CANT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.meductic",
+    "code": "CA_NB_FRED_MEDU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.dumfries",
+    "code": "CA_NB_FRED_DUMF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.princewilliam",
+    "code": "CA_NB_FRED_PRWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.newmaryland",
+    "code": "CA_NB_FRED_NEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.hanwell",
+    "code": "CA_NB_FRED_HANW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.kingsclear",
+    "code": "CA_NB_FRED_KING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.kingsclear",
+    "code": "CA_NB_FRED_KI6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.queensbury",
+    "code": "CA_NB_FRED_QUEE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.southampton",
+    "code": "CA_NB_FRED_SOUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.millville",
+    "code": "CA_NB_FRED_MILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.bright",
+    "code": "CA_NB_FRED_BRIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.douglas",
+    "code": "CA_NB_FRED_DOUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.fredericton",
+    "code": "CA_NB_FRED_FRED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.saintmarys",
+    "code": "CA_NB_FRED_SAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.devon",
+    "code": "CA_NB_FRED_DE30",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.stanley",
+    "code": "CA_NB_FRED_STAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.stanley",
+    "code": "CA_NB_FRED_STAN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.nackawic",
+    "code": "CA_NB_FRED_NACK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.frederictonoromocto.newmaryland",
+    "code": "CA_NB_FRED_NEMA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_FRED"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.sainteannedemadawaska",
+    "code": "CA_NB_EDMU_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.rivireverte",
+    "code": "CA_NB_EDMU_RIVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.rivireverte",
+    "code": "CA_NB_EDMU_RIVI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.saintbasile",
+    "code": "CA_NB_EDMU_SAIN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.stbasile",
+    "code": "CA_NB_EDMU_SB1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.clair",
+    "code": "CA_NB_EDMU_CLAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.clair",
+    "code": "CA_NB_EDMU_CLAI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.madawaska",
+    "code": "CA_NB_EDMU_MADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.sainthilaire",
+    "code": "CA_NB_EDMU_SAIN3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.sthilaire",
+    "code": "CA_NB_EDMU_STHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.bakerbrook",
+    "code": "CA_NB_EDMU_BABR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.bakerbrook",
+    "code": "CA_NB_EDMU_BAKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.lacbaker",
+    "code": "CA_NB_EDMU_LAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.lacbaker",
+    "code": "CA_NB_EDMU_LABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.saintfranois",
+    "code": "CA_NB_EDMU_SAIN4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.saintfranoisdemadawaska",
+    "code": "CA_NB_EDMU_SDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.perth",
+    "code": "CA_NB_EDMU_PERT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.perthandover",
+    "code": "CA_NB_EDMU_PERT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.gordon",
+    "code": "CA_NB_EDMU_GORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.plasterrock",
+    "code": "CA_NB_EDMU_PLRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.lorne",
+    "code": "CA_NB_EDMU_LORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.denmark",
+    "code": "CA_NB_EDMU_DENM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.grandfalls",
+    "code": "CA_NB_EDMU_GRFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.grandfallsgrandsault",
+    "code": "CA_NB_EDMU_GFG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.drummond",
+    "code": "CA_NB_EDMU_DRUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.florencevillebristol",
+    "code": "CA_NB_EDMU_FLOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.kent",
+    "code": "CA_NB_EDMU_KENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.wicklow",
+    "code": "CA_NB_EDMU_WICK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.andover",
+    "code": "CA_NB_EDMU_ANDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.aroostook",
+    "code": "CA_NB_EDMU_AROO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.centreville",
+    "code": "CA_NB_EDMU_CENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.tobique",
+    "code": "CA_NB_EDMU_TO20",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.woodstock",
+    "code": "CA_NB_EDMU_WOOD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.woodstock",
+    "code": "CA_NB_EDMU_WO23",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.woodstock",
+    "code": "CA_NB_EDMU_WOOD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.northampton",
+    "code": "CA_NB_EDMU_NORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.bath",
+    "code": "CA_NB_EDMU_BATH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.brighton",
+    "code": "CA_NB_EDMU_BRIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.hartland",
+    "code": "CA_NB_EDMU_HART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.wakefield",
+    "code": "CA_NB_EDMU_WAKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.wilmot",
+    "code": "CA_NB_EDMU_WILM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.simonds",
+    "code": "CA_NB_EDMU_SIMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.peel",
+    "code": "CA_NB_EDMU_PEEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.aberdeen",
+    "code": "CA_NB_EDMU_ABER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.drummond",
+    "code": "CA_NB_EDMU_DRUM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.notredamedelourdes",
+    "code": "CA_NB_EDMU_NOTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.sainteanne",
+    "code": "CA_NB_EDMU_SAIN5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.saintjoseph",
+    "code": "CA_NB_EDMU_SAIN6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.saintjacques",
+    "code": "CA_NB_EDMU_SAIN7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.edmundston",
+    "code": "CA_NB_EDMU_EDMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.saintandr",
+    "code": "CA_NB_EDMU_SAIN8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.saintandr",
+    "code": "CA_NB_EDMU_SAIN9",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.saintlonard",
+    "code": "CA_NB_EDMU_SAIN10",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.saintlonard",
+    "code": "CA_NB_EDMU_SAIN11",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.edmundstonwoodstock.richmond",
+    "code": "CA_NB_EDMU_RICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_EDMU"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintarmand",
+    "code": "CA_NB_MONT_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.pikeriver",
+    "code": "CA_NB_MONT_PIRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.stanbridgestation",
+    "code": "CA_NB_MONT_STST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.bedford",
+    "code": "CA_NB_MONT_BEDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintgeorgesdeclarenceville",
+    "code": "CA_NB_MONT_SAIN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.noyan",
+    "code": "CA_NB_MONT_NOYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.lacolle",
+    "code": "CA_NB_MONT_LACO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintvalentin",
+    "code": "CA_NB_MONT_SAIN3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintpauldelleauxnoix",
+    "code": "CA_NB_MONT_SAIN4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.henryville",
+    "code": "CA_NB_MONT_HENR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintsbastien",
+    "code": "CA_NB_MONT_SAIN5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintalexandre",
+    "code": "CA_NB_MONT_SAIN6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.roxtonfalls",
+    "code": "CA_NB_MONT_ROFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.roxton",
+    "code": "CA_NB_MONT_ROXT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.angegardien",
+    "code": "CA_NB_MONT_ANGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintpauldabbotsford",
+    "code": "CA_NB_MONT_SAIN7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.boltonouest",
+    "code": "CA_NB_MONT_BOLT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.brome",
+    "code": "CA_NB_MONT_BROM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.lacbrome",
+    "code": "CA_NB_MONT_LAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.bromont",
+    "code": "CA_NB_MONT_BROM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.cowansville",
+    "code": "CA_NB_MONT_COWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.eastfarnham",
+    "code": "CA_NB_MONT_EAFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.brigham",
+    "code": "CA_NB_MONT_BRIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintechristine",
+    "code": "CA_NB_MONT_SAIN8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintignacedestanbridge",
+    "code": "CA_NB_MONT_SAIN9",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.notredamedestanbridge",
+    "code": "CA_NB_MONT_NOTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintesabine",
+    "code": "CA_NB_MONT_SAIN10",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.farnham",
+    "code": "CA_NB_MONT_FARN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintalphonsedegranby",
+    "code": "CA_NB_MONT_SAIN11",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.granby",
+    "code": "CA_NB_MONT_GRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.waterloo",
+    "code": "CA_NB_MONT_WATE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.warden",
+    "code": "CA_NB_MONT_WARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.shefford",
+    "code": "CA_NB_MONT_SHEF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintcsaire",
+    "code": "CA_NB_MONT_SAIN12",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.actonvale",
+    "code": "CA_NB_MONT_ACVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.upton",
+    "code": "CA_NB_MONT_UPTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintthodoredacton",
+    "code": "CA_NB_MONT_SAIN13",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintnazairedacton",
+    "code": "CA_NB_MONT_SAIN14",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintdamase",
+    "code": "CA_NB_MONT_SAIN15",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.sainthyacinthe",
+    "code": "CA_NB_MONT_SAIN16",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintdominique",
+    "code": "CA_NB_MONT_SAIN17",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.sainthugues",
+    "code": "CA_NB_MONT_SAIN18",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.sainteangledemonnoir",
+    "code": "CA_NB_MONT_SAIN19",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.rougemont",
+    "code": "CA_NB_MONT_ROUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.marieville",
+    "code": "CA_NB_MONT_MARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.richelieu",
+    "code": "CA_NB_MONT_RICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintmathiassurrichelieu",
+    "code": "CA_NB_MONT_SAIN20",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.veniseenqubec",
+    "code": "CA_NB_MONT_VENI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintdavid",
+    "code": "CA_NB_MONT_SAIN21",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.soreltracy",
+    "code": "CA_NB_MONT_SORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.sainteannedesorel",
+    "code": "CA_NB_MONT_SAIN22",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.yamaska",
+    "code": "CA_NB_MONT_YAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintgrardmajella",
+    "code": "CA_NB_MONT_SAIN23",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintpie",
+    "code": "CA_NB_MONT_SAIN24",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintemadeleine",
+    "code": "CA_NB_MONT_SAIN25",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.sainteannedesabrevois",
+    "code": "CA_NB_MONT_SAIN26",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintemariemadeleine",
+    "code": "CA_NB_MONT_SAIN27",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.laprsentation",
+    "code": "CA_NB_MONT_LAPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintvalriendemilton",
+    "code": "CA_NB_MONT_SAIN28",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintliboire",
+    "code": "CA_NB_MONT_SAIN29",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintsimon",
+    "code": "CA_NB_MONT_SAIN30",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintehlnedebagot",
+    "code": "CA_NB_MONT_SAIN31",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintblaisesurrichelieu",
+    "code": "CA_NB_MONT_SAIN32",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintjeansurrichelieu",
+    "code": "CA_NB_MONT_SAIN33",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.chambly",
+    "code": "CA_NB_MONT_CHAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintbasilelegrand",
+    "code": "CA_NB_MONT_SAIN34",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.mcmasterville",
+    "code": "CA_NB_MONT_MCMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintjeanbaptiste",
+    "code": "CA_NB_MONT_SAIN35",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.montsainthilaire",
+    "code": "CA_NB_MONT_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.montsaintgrgoire",
+    "code": "CA_NB_MONT_MONT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintebrigidediberville",
+    "code": "CA_NB_MONT_SAIN36",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.carignan",
+    "code": "CA_NB_MONT_CARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.huntingdon",
+    "code": "CA_NB_MONT_HUNT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.godmanchester",
+    "code": "CA_NB_MONT_GODM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintebarbe",
+    "code": "CA_NB_MONT_SAIN37",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintanicet",
+    "code": "CA_NB_MONT_SAIN38",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.dundee",
+    "code": "CA_NB_MONT_DUND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.akwesasne",
+    "code": "CA_NB_MONT_AKWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.abercorn",
+    "code": "CA_NB_MONT_ABER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.frelighsburg",
+    "code": "CA_NB_MONT_FREL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.otterburnpark",
+    "code": "CA_NB_MONT_OTPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintjoachimdeshefford",
+    "code": "CA_NB_MONT_SAIN39",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.sainturbainpremier",
+    "code": "CA_NB_MONT_SAIN40",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintemartine",
+    "code": "CA_NB_MONT_SAIN41",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.beauharnois",
+    "code": "CA_NB_MONT_BEAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.sainttiennedebeauharnois",
+    "code": "CA_NB_MONT_SAIN42",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.bedford",
+    "code": "CA_NB_MONT_BEDF2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.sutton",
+    "code": "CA_NB_MONT_SUTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.hinchinbrooke",
+    "code": "CA_NB_MONT_HINC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.elgin",
+    "code": "CA_NB_MONT_ELGI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.stanbridgeeast",
+    "code": "CA_NB_MONT_STEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.dunham",
+    "code": "CA_NB_MONT_DUNH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.roxtonpond",
+    "code": "CA_NB_MONT_ROPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintecciledemilton",
+    "code": "CA_NB_MONT_SAIN43",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.bthanie",
+    "code": "CA_NB_MONT_BT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintconstant",
+    "code": "CA_NB_MONT_SAIN44",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintmichel",
+    "code": "CA_NB_MONT_SAIN45",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintrmi",
+    "code": "CA_NB_MONT_SAIN46",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.howick",
+    "code": "CA_NB_MONT_HOWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintbarnabsud",
+    "code": "CA_NB_MONT_SAIN47",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintjude",
+    "code": "CA_NB_MONT_SAIN48",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintbernarddemichaudville",
+    "code": "CA_NB_MONT_SAIN49",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintlouis",
+    "code": "CA_NB_MONT_SAIN50",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintmarcelderichelieu",
+    "code": "CA_NB_MONT_SAIN51",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintlouisdegonzague",
+    "code": "CA_NB_MONT_SAIN52",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintstanislasdekostka",
+    "code": "CA_NB_MONT_SAIN53",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.salaberrydevalleyfield",
+    "code": "CA_NB_MONT_SALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.rivirebeaudette",
+    "code": "CA_NB_MONT_RIVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.massueville",
+    "code": "CA_NB_MONT_MASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintaim",
+    "code": "CA_NB_MONT_SAIN54",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintrobert",
+    "code": "CA_NB_MONT_SAIN55",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintevictoiredesorel",
+    "code": "CA_NB_MONT_SAIN56",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintours",
+    "code": "CA_NB_MONT_SAIN57",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintrochderichelieu",
+    "code": "CA_NB_MONT_SAIN58",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintjosephdesorel",
+    "code": "CA_NB_MONT_SAIN59",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintcharlessurrichelieu",
+    "code": "CA_NB_MONT_SAIN60",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintdenissurrichelieu",
+    "code": "CA_NB_MONT_SAIN61",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintantoinesurrichelieu",
+    "code": "CA_NB_MONT_SAIN62",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.brossard",
+    "code": "CA_NB_MONT_BROS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.boucherville",
+    "code": "CA_NB_MONT_BOUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.longueuil",
+    "code": "CA_NB_MONT_LONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintbrunodemontarville",
+    "code": "CA_NB_MONT_SAIN63",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintejulie",
+    "code": "CA_NB_MONT_SAIN64",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintamable",
+    "code": "CA_NB_MONT_SAIN65",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.varennes",
+    "code": "CA_NB_MONT_VARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.verchres",
+    "code": "CA_NB_MONT_VERC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.calixalavalle",
+    "code": "CA_NB_MONT_CALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.beloeil",
+    "code": "CA_NB_MONT_BELO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintmathieudebeloeil",
+    "code": "CA_NB_MONT_SAIN66",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintmarcsurrichelieu",
+    "code": "CA_NB_MONT_SAIN67",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintlambert",
+    "code": "CA_NB_MONT_SAIN68",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintphilippe",
+    "code": "CA_NB_MONT_SAIN69",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.laprairie",
+    "code": "CA_NB_MONT_LAPR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.candiac",
+    "code": "CA_NB_MONT_CAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintmathieu",
+    "code": "CA_NB_MONT_SAIN70",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.havelock",
+    "code": "CA_NB_MONT_HAVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.franklin",
+    "code": "CA_NB_MONT_FRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.trssaintsacrement",
+    "code": "CA_NB_MONT_TR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.ormstown",
+    "code": "CA_NB_MONT_ORMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.lleperrot",
+    "code": "CA_NB_MONT_L",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintjacqueslemineur",
+    "code": "CA_NB_MONT_SAIN71",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintdouard",
+    "code": "CA_NB_MONT_SAIN72",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintlazare",
+    "code": "CA_NB_MONT_SAIN73",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.sainttlesphore",
+    "code": "CA_NB_MONT_SAIN74",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintpolycarpe",
+    "code": "CA_NB_MONT_SAIN75",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintzotique",
+    "code": "CA_NB_MONT_SAIN76",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.lescoteaux",
+    "code": "CA_NB_MONT_LECO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.coteaudulac",
+    "code": "CA_NB_MONT_COTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintclet",
+    "code": "CA_NB_MONT_SAIN77",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.lescdres",
+    "code": "CA_NB_MONT_LEC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.notredamedelleperrot",
+    "code": "CA_NB_MONT_NOTR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintpatricedesherrington",
+    "code": "CA_NB_MONT_SAIN78",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.napierville",
+    "code": "CA_NB_MONT_NAPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.pincourt",
+    "code": "CA_NB_MONT_PINC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.terrassevaudreuil",
+    "code": "CA_NB_MONT_TERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintemarthe",
+    "code": "CA_NB_MONT_SAIN79",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintejustinedenewton",
+    "code": "CA_NB_MONT_SAIN80",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.trssaintrdempteur",
+    "code": "CA_NB_MONT_TR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintisidore",
+    "code": "CA_NB_MONT_SAIN81",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintcypriendenapierville",
+    "code": "CA_NB_MONT_SAIN82",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.vaudreuildorion",
+    "code": "CA_NB_MONT_VAUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.vaudreuilsurlelac",
+    "code": "CA_NB_MONT_VAUD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.llecadieux",
+    "code": "CA_NB_MONT_L2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.hudson",
+    "code": "CA_NB_MONT_HUDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.rigaud",
+    "code": "CA_NB_MONT_RIGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.pointefortune",
+    "code": "CA_NB_MONT_POIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.delson",
+    "code": "CA_NB_MONT_DELS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintecatherine",
+    "code": "CA_NB_MONT_SAIN83",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.mercier",
+    "code": "CA_NB_MONT_MERC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.chteauguay",
+    "code": "CA_NB_MONT_CH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.lry",
+    "code": "CA_NB_MONT_LR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.kahnawake",
+    "code": "CA_NB_MONT_KAHN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintchrysostome",
+    "code": "CA_NB_MONT_SAIN84",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.saintbernarddelacolle",
+    "code": "CA_NB_MONT_SAIN85",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.hemmingford",
+    "code": "CA_NB_MONT_HEMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.hemmingford",
+    "code": "CA_NB_MONT_HEMM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.sainteclotilde",
+    "code": "CA_NB_MONT_SAIN86",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  },
+  {
+    "tenantId": "canada.newbrunswick.montrgie.pointedescascades",
+    "code": "CA_NB_MONT_POIN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CA_NB_MONT"
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "tenantId": "belgium.vlaamsgewest",
+    "code": "BE_VLGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BE"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.antwerpen",
+    "code": "BE_VLGE_ANTW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BE_VLGE"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.limburg",
+    "code": "BE_VLGE_LIMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BE_VLGE"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.oostvlaanderen",
+    "code": "BE_VLGE_OOST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BE_VLGE"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.vlaamsbrabant",
+    "code": "BE_VLGE_VLAA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BE_VLGE"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.westvlaanderen",
+    "code": "BE_VLGE_WEST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BE_VLGE"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.antwerpen.anvers",
+    "code": "BE_VLGE_ANTW_ANVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_ANTW"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.antwerpen.malines",
+    "code": "BE_VLGE_ANTW_MALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_ANTW"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.antwerpen.turnhout",
+    "code": "BE_VLGE_ANTW_TURN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_ANTW"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.limburg.hasselt",
+    "code": "BE_VLGE_LIMB_HASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_LIMB"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.limburg.maaseik",
+    "code": "BE_VLGE_LIMB_MAAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_LIMB"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.limburg.tongres",
+    "code": "BE_VLGE_LIMB_TONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_LIMB"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.oostvlaanderen.alost",
+    "code": "BE_VLGE_OOST_ALOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_OOST"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.oostvlaanderen.audenarde",
+    "code": "BE_VLGE_OOST_AUDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_OOST"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.oostvlaanderen.eeklo",
+    "code": "BE_VLGE_OOST_EEKL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_OOST"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.oostvlaanderen.gand",
+    "code": "BE_VLGE_OOST_GAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_OOST"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.oostvlaanderen.saintnicolas",
+    "code": "BE_VLGE_OOST_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_OOST"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.oostvlaanderen.termonde",
+    "code": "BE_VLGE_OOST_TERM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_OOST"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.vlaamsbrabant.halvilvorde",
+    "code": "BE_VLGE_VLAA_HAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_VLAA"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.vlaamsbrabant.louvain",
+    "code": "BE_VLGE_VLAA_LOUV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_VLAA"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.westvlaanderen.bruges",
+    "code": "BE_VLGE_WEST_BRUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_WEST"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.westvlaanderen.courtrai",
+    "code": "BE_VLGE_WEST_COUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_WEST"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.westvlaanderen.dixmude",
+    "code": "BE_VLGE_WEST_DIXM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_WEST"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.westvlaanderen.furnes",
+    "code": "BE_VLGE_WEST_FURN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_WEST"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.westvlaanderen.ostende",
+    "code": "BE_VLGE_WEST_OSTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_WEST"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.westvlaanderen.roulers",
+    "code": "BE_VLGE_WEST_ROUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_WEST"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.westvlaanderen.tielt",
+    "code": "BE_VLGE_WEST_TIEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_WEST"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.westvlaanderen.ypres",
+    "code": "BE_VLGE_WEST_YPRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_WEST"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest.westvlaanderen.mouscron",
+    "code": "BE_VLGE_WEST_MOUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BE_VLGE_WEST"
+  }
+]

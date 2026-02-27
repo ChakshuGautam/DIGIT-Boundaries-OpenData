@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "serbia.zajecardistrict",
+    "code": "RS_15",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "RS"
+  },
+  {
+    "tenantId": "serbia.zajecardistrict.zajecarcity",
+    "code": "RS_15_ZACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_15"
+  },
+  {
+    "tenantId": "serbia.zajecardistrict.boljevacmunicipality",
+    "code": "RS_15_BOMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_15"
+  },
+  {
+    "tenantId": "serbia.zajecardistrict.knjazevacmunicipality",
+    "code": "RS_15_KNMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_15"
+  },
+  {
+    "tenantId": "serbia.zajecardistrict.sokobanjamunicipality",
+    "code": "RS_15_SOMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_15"
+  }
+]

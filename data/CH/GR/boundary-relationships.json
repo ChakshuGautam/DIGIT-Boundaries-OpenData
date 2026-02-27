@@ -1,0 +1,926 @@
+[
+  {
+    "tenantId": "switzerland.graubnden",
+    "code": "CH_GR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CH"
+  },
+  {
+    "tenantId": "switzerland.graubnden.albula",
+    "code": "CH_GR_ALBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_GR"
+  },
+  {
+    "tenantId": "switzerland.graubnden.bernina",
+    "code": "CH_GR_BERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_GR"
+  },
+  {
+    "tenantId": "switzerland.graubnden.hinterrhein",
+    "code": "CH_GR_HINT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_GR"
+  },
+  {
+    "tenantId": "switzerland.graubnden.imboden",
+    "code": "CH_GR_IMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_GR"
+  },
+  {
+    "tenantId": "switzerland.graubnden.inn",
+    "code": "CH_GR_INN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_GR"
+  },
+  {
+    "tenantId": "switzerland.graubnden.landquart",
+    "code": "CH_GR_LAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_GR"
+  },
+  {
+    "tenantId": "switzerland.graubnden.maloja",
+    "code": "CH_GR_MALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_GR"
+  },
+  {
+    "tenantId": "switzerland.graubnden.mosa",
+    "code": "CH_GR_MOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_GR"
+  },
+  {
+    "tenantId": "switzerland.graubnden.plessur",
+    "code": "CH_GR_PLES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_GR"
+  },
+  {
+    "tenantId": "switzerland.graubnden.prttigaudavos",
+    "code": "CH_GR_PRT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_GR"
+  },
+  {
+    "tenantId": "switzerland.graubnden.surselva",
+    "code": "CH_GR_SURS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_GR"
+  },
+  {
+    "tenantId": "switzerland.graubnden.albula.surses",
+    "code": "CH_GR_ALBU_SURS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_ALBU"
+  },
+  {
+    "tenantId": "switzerland.graubnden.albula.bergnfilisur",
+    "code": "CH_GR_ALBU_BEFI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_ALBU"
+  },
+  {
+    "tenantId": "switzerland.graubnden.albula.albulaalvra",
+    "code": "CH_GR_ALBU_ALBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_ALBU"
+  },
+  {
+    "tenantId": "switzerland.graubnden.albula.vazobervaz",
+    "code": "CH_GR_ALBU_VAZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_ALBU"
+  },
+  {
+    "tenantId": "switzerland.graubnden.albula.lantschlenz",
+    "code": "CH_GR_ALBU_LANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_ALBU"
+  },
+  {
+    "tenantId": "switzerland.graubnden.albula.schmittengr",
+    "code": "CH_GR_ALBU_SCG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_ALBU"
+  },
+  {
+    "tenantId": "switzerland.graubnden.albula.thusis",
+    "code": "CH_GR_ALBU_THUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_ALBU"
+  },
+  {
+    "tenantId": "switzerland.graubnden.bernina.poschiavo",
+    "code": "CH_GR_BERN_POSC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_BERN"
+  },
+  {
+    "tenantId": "switzerland.graubnden.bernina.brusio",
+    "code": "CH_GR_BERN_BRUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_BERN"
+  },
+  {
+    "tenantId": "switzerland.graubnden.hinterrhein.rheinwald",
+    "code": "CH_GR_HINT_RHEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_HINT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.hinterrhein.avers",
+    "code": "CH_GR_HINT_AVER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_HINT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.hinterrhein.ferrera",
+    "code": "CH_GR_HINT_FERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_HINT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.hinterrhein.muntognadaschons",
+    "code": "CH_GR_HINT_MDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_HINT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.hinterrhein.andeer",
+    "code": "CH_GR_HINT_ANDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_HINT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.hinterrhein.domleschg",
+    "code": "CH_GR_HINT_DOML",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_HINT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.hinterrhein.sufers",
+    "code": "CH_GR_HINT_SUFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_HINT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.hinterrhein.cazis",
+    "code": "CH_GR_HINT_CAZI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_HINT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.hinterrhein.tschappina",
+    "code": "CH_GR_HINT_TSCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_HINT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.hinterrhein.zillisreischen",
+    "code": "CH_GR_HINT_ZILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_HINT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.hinterrhein.scharans",
+    "code": "CH_GR_HINT_SCHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_HINT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.hinterrhein.silsimdomleschg",
+    "code": "CH_GR_HINT_SID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_HINT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.hinterrhein.thusis",
+    "code": "CH_GR_HINT_THUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_HINT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.hinterrhein.flerden",
+    "code": "CH_GR_HINT_FLER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_HINT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.hinterrhein.urmein",
+    "code": "CH_GR_HINT_URME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_HINT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.hinterrhein.masein",
+    "code": "CH_GR_HINT_MASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_HINT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.hinterrhein.rongellen",
+    "code": "CH_GR_HINT_RONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_HINT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.hinterrhein.flerden",
+    "code": "CH_GR_HINT_FLER2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_HINT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.hinterrhein.frstenau",
+    "code": "CH_GR_HINT_FRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_HINT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.hinterrhein.ferrera",
+    "code": "CH_GR_HINT_FERR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_HINT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.imboden.flims",
+    "code": "CH_GR_IMBO_FLIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_IMBO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.imboden.trin",
+    "code": "CH_GR_IMBO_TRIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_IMBO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.imboden.tamins",
+    "code": "CH_GR_IMBO_TAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_IMBO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.imboden.domatems",
+    "code": "CH_GR_IMBO_DOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_IMBO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.imboden.bonaduz",
+    "code": "CH_GR_IMBO_BONA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_IMBO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.imboden.felsberg",
+    "code": "CH_GR_IMBO_FELS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_IMBO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.imboden.rhzns",
+    "code": "CH_GR_IMBO_RHZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_IMBO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.imboden.rothenbrunnen",
+    "code": "CH_GR_IMBO_ROTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_IMBO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.inn.scuol",
+    "code": "CH_GR_INN_SCUO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_INN"
+  },
+  {
+    "tenantId": "switzerland.graubnden.inn.zernez",
+    "code": "CH_GR_INN_ZERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_INN"
+  },
+  {
+    "tenantId": "switzerland.graubnden.inn.valmstair",
+    "code": "CH_GR_INN_VAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_INN"
+  },
+  {
+    "tenantId": "switzerland.graubnden.inn.valsot",
+    "code": "CH_GR_INN_VALS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_INN"
+  },
+  {
+    "tenantId": "switzerland.graubnden.inn.samnaun",
+    "code": "CH_GR_INN_SAMN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_INN"
+  },
+  {
+    "tenantId": "switzerland.graubnden.inn.valsot",
+    "code": "CH_GR_INN_VALS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_INN"
+  },
+  {
+    "tenantId": "switzerland.graubnden.landquart.trimmis",
+    "code": "CH_GR_LAND_TRIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_LAND"
+  },
+  {
+    "tenantId": "switzerland.graubnden.landquart.maienfeld",
+    "code": "CH_GR_LAND_MAIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_LAND"
+  },
+  {
+    "tenantId": "switzerland.graubnden.landquart.untervaz",
+    "code": "CH_GR_LAND_UNTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_LAND"
+  },
+  {
+    "tenantId": "switzerland.graubnden.landquart.flsch",
+    "code": "CH_GR_LAND_FLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_LAND"
+  },
+  {
+    "tenantId": "switzerland.graubnden.landquart.malans",
+    "code": "CH_GR_LAND_MALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_LAND"
+  },
+  {
+    "tenantId": "switzerland.graubnden.landquart.zizers",
+    "code": "CH_GR_LAND_ZIZE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_LAND"
+  },
+  {
+    "tenantId": "switzerland.graubnden.landquart.landquart",
+    "code": "CH_GR_LAND_LAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_LAND"
+  },
+  {
+    "tenantId": "switzerland.graubnden.landquart.jenins",
+    "code": "CH_GR_LAND_JENI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_LAND"
+  },
+  {
+    "tenantId": "switzerland.graubnden.landquart.landquart",
+    "code": "CH_GR_LAND_LAND2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_LAND"
+  },
+  {
+    "tenantId": "switzerland.graubnden.landquart.flsch",
+    "code": "CH_GR_LAND_FLS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_LAND"
+  },
+  {
+    "tenantId": "switzerland.graubnden.landquart.maienfeld",
+    "code": "CH_GR_LAND_MAIE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_LAND"
+  },
+  {
+    "tenantId": "switzerland.graubnden.landquart.triesen",
+    "code": "CH_GR_LAND_TRIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_LAND"
+  },
+  {
+    "tenantId": "switzerland.graubnden.landquart.balzers",
+    "code": "CH_GR_LAND_BALZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_LAND"
+  },
+  {
+    "tenantId": "switzerland.graubnden.landquart.triesenberg",
+    "code": "CH_GR_LAND_TRIE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_LAND"
+  },
+  {
+    "tenantId": "switzerland.graubnden.landquart.vaduz",
+    "code": "CH_GR_LAND_VADU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_LAND"
+  },
+  {
+    "tenantId": "switzerland.graubnden.landquart.schaan",
+    "code": "CH_GR_LAND_SCHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_LAND"
+  },
+  {
+    "tenantId": "switzerland.graubnden.landquart.balzers",
+    "code": "CH_GR_LAND_BALZ2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_LAND"
+  },
+  {
+    "tenantId": "switzerland.graubnden.maloja.bregaglia",
+    "code": "CH_GR_MALO_BREG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MALO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.maloja.schanf",
+    "code": "CH_GR_MALO_SCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MALO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.maloja.pontresina",
+    "code": "CH_GR_MALO_PONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MALO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.maloja.silsimengadinsegl",
+    "code": "CH_GR_MALO_SIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MALO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.maloja.samedan",
+    "code": "CH_GR_MALO_SAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MALO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.maloja.lapuntchamuesch",
+    "code": "CH_GR_MALO_LPC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MALO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.maloja.zuoz",
+    "code": "CH_GR_MALO_ZUOZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MALO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.maloja.samedan",
+    "code": "CH_GR_MALO_SAME2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MALO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.maloja.silvaplana",
+    "code": "CH_GR_MALO_SILV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MALO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.maloja.stmoritz",
+    "code": "CH_GR_MALO_STMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MALO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.maloja.celerinaschlarigna",
+    "code": "CH_GR_MALO_CELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MALO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.maloja.bever",
+    "code": "CH_GR_MALO_BEVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MALO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.maloja.bever",
+    "code": "CH_GR_MALO_BEVE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MALO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.maloja.zuoz",
+    "code": "CH_GR_MALO_ZUOZ2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MALO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.maloja.madulain",
+    "code": "CH_GR_MALO_MADU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MALO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.maloja.madulain",
+    "code": "CH_GR_MALO_MADU2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MALO"
+  },
+  {
+    "tenantId": "switzerland.graubnden.mosa.mesocco",
+    "code": "CH_GR_MOS_MESO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MOS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.mosa.rossa",
+    "code": "CH_GR_MOS_ROSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MOS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.mosa.lostallo",
+    "code": "CH_GR_MOS_LOST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MOS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.mosa.soazza",
+    "code": "CH_GR_MOS_SOAZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MOS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.mosa.roveredogr",
+    "code": "CH_GR_MOS_ROG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MOS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.mosa.calanca",
+    "code": "CH_GR_MOS_CALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MOS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.mosa.grono",
+    "code": "CH_GR_MOS_GRON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MOS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.mosa.sanvittore",
+    "code": "CH_GR_MOS_SAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MOS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.mosa.cama",
+    "code": "CH_GR_MOS_CAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MOS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.mosa.buseno",
+    "code": "CH_GR_MOS_BUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MOS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.mosa.santamariaincalanca",
+    "code": "CH_GR_MOS_SMIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MOS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.mosa.grono",
+    "code": "CH_GR_MOS_GRON2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MOS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.mosa.castaneda",
+    "code": "CH_GR_MOS_CAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MOS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.mosa.sanvittore",
+    "code": "CH_GR_MOS_SAVI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_MOS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.plessur.arosa",
+    "code": "CH_GR_PLES_AROS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_PLES"
+  },
+  {
+    "tenantId": "switzerland.graubnden.plessur.chur",
+    "code": "CH_GR_PLES_CHUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_PLES"
+  },
+  {
+    "tenantId": "switzerland.graubnden.plessur.churwalden",
+    "code": "CH_GR_PLES_CHUR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_PLES"
+  },
+  {
+    "tenantId": "switzerland.graubnden.plessur.tschiertschenpraden",
+    "code": "CH_GR_PLES_TSCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_PLES"
+  },
+  {
+    "tenantId": "switzerland.graubnden.prttigaudavos.davos",
+    "code": "CH_GR_PRT_DAVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_PRT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.prttigaudavos.klosters",
+    "code": "CH_GR_PRT_KLOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_PRT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.prttigaudavos.luzein",
+    "code": "CH_GR_PRT_LUZE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_PRT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.prttigaudavos.schiers",
+    "code": "CH_GR_PRT_SCHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_PRT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.prttigaudavos.seewisimprttigau",
+    "code": "CH_GR_PRT_SIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_PRT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.prttigaudavos.grsch",
+    "code": "CH_GR_PRT_GRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_PRT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.prttigaudavos.furna",
+    "code": "CH_GR_PRT_FURN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_PRT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.prttigaudavos.jenaz",
+    "code": "CH_GR_PRT_JENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_PRT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.prttigaudavos.fideris",
+    "code": "CH_GR_PRT_FIDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_PRT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.prttigaudavos.contersimprttigau",
+    "code": "CH_GR_PRT_CIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_PRT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.prttigaudavos.kblis",
+    "code": "CH_GR_PRT_KBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_PRT"
+  },
+  {
+    "tenantId": "switzerland.graubnden.surselva.vals",
+    "code": "CH_GR_SURS_VALS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_SURS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.surselva.lumnezia",
+    "code": "CH_GR_SURS_LUMN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_SURS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.surselva.safiental",
+    "code": "CH_GR_SURS_SAFI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_SURS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.surselva.medellucmagn",
+    "code": "CH_GR_SURS_MEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_SURS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.surselva.tujetsch",
+    "code": "CH_GR_SURS_TUJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_SURS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.surselva.ilanzglion",
+    "code": "CH_GR_SURS_ILAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_SURS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.surselva.sumvitg",
+    "code": "CH_GR_SURS_SUMV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_SURS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.surselva.breilbrigels",
+    "code": "CH_GR_SURS_BREI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_SURS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.surselva.disentismustr",
+    "code": "CH_GR_SURS_DISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_SURS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.surselva.obersaxenmundaun",
+    "code": "CH_GR_SURS_OBMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_SURS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.surselva.trun",
+    "code": "CH_GR_SURS_TRUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_SURS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.surselva.laax",
+    "code": "CH_GR_SURS_LAAX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_SURS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.surselva.falera",
+    "code": "CH_GR_SURS_FALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_SURS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.surselva.sagogn",
+    "code": "CH_GR_SURS_SAGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_SURS"
+  },
+  {
+    "tenantId": "switzerland.graubnden.surselva.schluein",
+    "code": "CH_GR_SURS_SCHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_GR_SURS"
+  }
+]

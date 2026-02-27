@@ -1,0 +1,401 @@
+[
+  {
+    "tenantId": "iranislamicrepublicof.tehran",
+    "code": "IR_TEHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.islamshahr",
+    "code": "IR_TEHR_ISLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IR_TEHR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.baharestan",
+    "code": "IR_TEHR_BAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IR_TEHR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.tehran",
+    "code": "IR_TEHR_TEHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IR_TEHR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.damavand",
+    "code": "IR_TEHR_DAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IR_TEHR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.robatkarim",
+    "code": "IR_TEHR_ROBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IR_TEHR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.rey",
+    "code": "IR_TEHR_REY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IR_TEHR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.shemiranat",
+    "code": "IR_TEHR_SHEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IR_TEHR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.shahriar",
+    "code": "IR_TEHR_SHAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IR_TEHR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.firuzkuh",
+    "code": "IR_TEHR_FIRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IR_TEHR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.qods",
+    "code": "IR_TEHR_QODS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IR_TEHR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.gharchak",
+    "code": "IR_TEHR_GHAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IR_TEHR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.malard",
+    "code": "IR_TEHR_MALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IR_TEHR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.varamin",
+    "code": "IR_TEHR_VARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IR_TEHR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.pakdasht",
+    "code": "IR_TEHR_PAKD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IR_TEHR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.paveh",
+    "code": "IR_TEHR_PAVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IR_TEHR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.pishva",
+    "code": "IR_TEHR_PISH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IR_TEHR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.cityoftehran",
+    "code": "IR_TEHR_COT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IR_TEHR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.islamshahr.unknown",
+    "code": "IR_TEHR_ISLA_UNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_ISLA"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.islamshahr.unknown",
+    "code": "IR_TEHR_ISLA_UNK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_ISLA"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.islamshahr.unknown",
+    "code": "IR_TEHR_ISLA_UNK3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_ISLA"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.baharestan.unknown",
+    "code": "IR_TEHR_BAHA_UNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_BAHA"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.baharestan.unknown",
+    "code": "IR_TEHR_BAHA_UNK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_BAHA"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.tehran.unknown",
+    "code": "IR_TEHR_TEHR_UNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_TEHR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.tehran.unknown",
+    "code": "IR_TEHR_TEHR_UNK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_TEHR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.tehran.unknown",
+    "code": "IR_TEHR_TEHR_UNK3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_TEHR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.tehran.unknown",
+    "code": "IR_TEHR_TEHR_UNK4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_TEHR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.damavand.unknown",
+    "code": "IR_TEHR_DAMA_UNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_DAMA"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.damavand.unknown",
+    "code": "IR_TEHR_DAMA_UNK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_DAMA"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.robatkarim.unknown",
+    "code": "IR_TEHR_ROBA_UNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_ROBA"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.rey.unknown",
+    "code": "IR_TEHR_REY_UNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_REY"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.rey.unknown",
+    "code": "IR_TEHR_REY_UNK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_REY"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.rey.unknown",
+    "code": "IR_TEHR_REY_UNK3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_REY"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.rey.unknown",
+    "code": "IR_TEHR_REY_UNK4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_REY"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.rey.unknown",
+    "code": "IR_TEHR_REY_UNK5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_REY"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.shemiranat.unknown",
+    "code": "IR_TEHR_SHEM_UNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_SHEM"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.shemiranat.unknown",
+    "code": "IR_TEHR_SHEM_UNK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_SHEM"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.shemiranat.unknown",
+    "code": "IR_TEHR_SHEM_UNK3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_SHEM"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.shahriar.unknown",
+    "code": "IR_TEHR_SHAH_UNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_SHAH"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.firuzkuh.unknown",
+    "code": "IR_TEHR_FIRU_UNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_FIRU"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.firuzkuh.unknown",
+    "code": "IR_TEHR_FIRU_UNK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_FIRU"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.qods.unknown",
+    "code": "IR_TEHR_QODS_UNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_QODS"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.gharchak.unknown",
+    "code": "IR_TEHR_GHAR_UNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_GHAR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.malard.unknown",
+    "code": "IR_TEHR_MALA_UNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_MALA"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.malard.unknown",
+    "code": "IR_TEHR_MALA_UNK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_MALA"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.varamin.unknown",
+    "code": "IR_TEHR_VARA_UNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_VARA"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.varamin.unknown",
+    "code": "IR_TEHR_VARA_UNK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_VARA"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.pakdasht.unknown",
+    "code": "IR_TEHR_PAKD_UNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_PAKD"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.pakdasht.unknown",
+    "code": "IR_TEHR_PAKD_UNK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_PAKD"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.paveh.unknown",
+    "code": "IR_TEHR_PAVE_UNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_PAVE"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.paveh.unknown",
+    "code": "IR_TEHR_PAVE_UNK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_PAVE"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.pishva.unknown",
+    "code": "IR_TEHR_PISH_UNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_PISH"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.pishva.unknown",
+    "code": "IR_TEHR_PISH_UNK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_PISH"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.cityoftehran.unknown",
+    "code": "IR_TEHR_COT_UNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_COT"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.cityoftehran.unknown",
+    "code": "IR_TEHR_COT_UNK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_COT"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.cityoftehran.unknown",
+    "code": "IR_TEHR_COT_UNK3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_COT"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.tehran.cityoftehran.unknown",
+    "code": "IR_TEHR_COT_UNK4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_TEHR_COT"
+  }
+]

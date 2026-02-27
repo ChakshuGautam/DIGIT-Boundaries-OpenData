@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "palau.ngardmau",
+    "code": "PW_222",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PW"
+  },
+  {
+    "tenantId": "palau.ngardmau.ngerutoi",
+    "code": "PW_222_NGER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PW_222"
+  },
+  {
+    "tenantId": "palau.ngardmau.ngetbong",
+    "code": "PW_222_NGET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PW_222"
+  },
+  {
+    "tenantId": "palau.ngardmau.urdmau",
+    "code": "PW_222_URDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PW_222"
+  }
+]

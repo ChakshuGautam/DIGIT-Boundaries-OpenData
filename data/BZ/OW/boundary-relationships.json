@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "belize.orangewalk",
+    "code": "BZ_OW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BZ"
+  },
+  {
+    "tenantId": "belize.orangewalk.orangewalknorth",
+    "code": "BZ_OW_OWN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BZ_OW"
+  },
+  {
+    "tenantId": "belize.orangewalk.orangewalkcentral",
+    "code": "BZ_OW_OWC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BZ_OW"
+  },
+  {
+    "tenantId": "belize.orangewalk.orangewalkeast",
+    "code": "BZ_OW_OWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BZ_OW"
+  },
+  {
+    "tenantId": "belize.orangewalk.orangewalksouth",
+    "code": "BZ_OW_OWS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BZ_OW"
+  }
+]

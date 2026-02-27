@@ -1,0 +1,72 @@
+[
+  {
+    "tenantId": "senegal.kedougou",
+    "code": "SN_KE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SN"
+  },
+  {
+    "tenantId": "senegal.kedougou.kedougou",
+    "code": "SN_KE_KEDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SN_KE"
+  },
+  {
+    "tenantId": "senegal.kedougou.salemata",
+    "code": "SN_KE_SALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SN_KE"
+  },
+  {
+    "tenantId": "senegal.kedougou.saraya",
+    "code": "SN_KE_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SN_KE"
+  },
+  {
+    "tenantId": "senegal.kedougou.kedougou.bandafassi",
+    "code": "SN_KE_KEDO_BAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_KE_KEDO"
+  },
+  {
+    "tenantId": "senegal.kedougou.kedougou.fongolembi",
+    "code": "SN_KE_KEDO_FONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_KE_KEDO"
+  },
+  {
+    "tenantId": "senegal.kedougou.salemata.dakteli",
+    "code": "SN_KE_SALE_DAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_KE_SALE"
+  },
+  {
+    "tenantId": "senegal.kedougou.salemata.darsalam",
+    "code": "SN_KE_SALE_DASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_KE_SALE"
+  },
+  {
+    "tenantId": "senegal.kedougou.saraya.bembou",
+    "code": "SN_KE_SARA_BEMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_KE_SARA"
+  },
+  {
+    "tenantId": "senegal.kedougou.saraya.sabodala",
+    "code": "SN_KE_SARA_SABO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_KE_SARA"
+  }
+]

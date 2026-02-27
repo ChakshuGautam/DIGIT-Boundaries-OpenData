@@ -1,0 +1,156 @@
+[
+  {
+    "tenantId": "newzealand.otagoregion",
+    "code": "NZ_OTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NZ"
+  },
+  {
+    "tenantId": "newzealand.otagoregion.centralotagodistrict",
+    "code": "NZ_OTA_COD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_OTA"
+  },
+  {
+    "tenantId": "newzealand.otagoregion.queenstownlakesdistrict",
+    "code": "NZ_OTA_QUDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_OTA"
+  },
+  {
+    "tenantId": "newzealand.otagoregion.dunedincity",
+    "code": "NZ_OTA_DUCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_OTA"
+  },
+  {
+    "tenantId": "newzealand.otagoregion.cluthadistrict",
+    "code": "NZ_OTA_CLDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_OTA"
+  },
+  {
+    "tenantId": "newzealand.otagoregion.centralotagodistrict.cromwellward",
+    "code": "NZ_OTA_COD_CRWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_OTA_COD"
+  },
+  {
+    "tenantId": "newzealand.otagoregion.centralotagodistrict.earnscleughmanuherikiaward",
+    "code": "NZ_OTA_COD_EAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_OTA_COD"
+  },
+  {
+    "tenantId": "newzealand.otagoregion.centralotagodistrict.maniototoward",
+    "code": "NZ_OTA_COD_MAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_OTA_COD"
+  },
+  {
+    "tenantId": "newzealand.otagoregion.centralotagodistrict.alexandraward",
+    "code": "NZ_OTA_COD_ALWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_OTA_COD"
+  },
+  {
+    "tenantId": "newzealand.otagoregion.centralotagodistrict.teviotvalleyward",
+    "code": "NZ_OTA_COD_TVW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_OTA_COD"
+  },
+  {
+    "tenantId": "newzealand.otagoregion.queenstownlakesdistrict.queenstownwakatipuward",
+    "code": "NZ_OTA_QUDI_QUWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_OTA_QUDI"
+  },
+  {
+    "tenantId": "newzealand.otagoregion.queenstownlakesdistrict.wanakaward",
+    "code": "NZ_OTA_QUDI_WAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_OTA_QUDI"
+  },
+  {
+    "tenantId": "newzealand.otagoregion.queenstownlakesdistrict.arrowtownward",
+    "code": "NZ_OTA_QUDI_ARWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_OTA_QUDI"
+  },
+  {
+    "tenantId": "newzealand.otagoregion.dunedincity.areaoutsideward",
+    "code": "NZ_OTA_DUCI_AOW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_OTA_DUCI"
+  },
+  {
+    "tenantId": "newzealand.otagoregion.cluthadistrict.westotagoward",
+    "code": "NZ_OTA_CLDI_WOW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_OTA_CLDI"
+  },
+  {
+    "tenantId": "newzealand.otagoregion.cluthadistrict.clintonward",
+    "code": "NZ_OTA_CLDI_CLWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_OTA_CLDI"
+  },
+  {
+    "tenantId": "newzealand.otagoregion.cluthadistrict.lawrencetuapekaward",
+    "code": "NZ_OTA_CLDI_LAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_OTA_CLDI"
+  },
+  {
+    "tenantId": "newzealand.otagoregion.cluthadistrict.balcluthaward",
+    "code": "NZ_OTA_CLDI_BAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_OTA_CLDI"
+  },
+  {
+    "tenantId": "newzealand.otagoregion.cluthadistrict.catlinsward",
+    "code": "NZ_OTA_CLDI_CAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_OTA_CLDI"
+  },
+  {
+    "tenantId": "newzealand.otagoregion.cluthadistrict.bruceward",
+    "code": "NZ_OTA_CLDI_BRWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_OTA_CLDI"
+  },
+  {
+    "tenantId": "newzealand.otagoregion.cluthadistrict.kaitangatamatauward",
+    "code": "NZ_OTA_CLDI_KAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_OTA_CLDI"
+  },
+  {
+    "tenantId": "newzealand.otagoregion.cluthadistrict.cluthavalleyward",
+    "code": "NZ_OTA_CLDI_CVW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_OTA_CLDI"
+  }
+]

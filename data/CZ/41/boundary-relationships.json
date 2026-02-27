@@ -1,0 +1,975 @@
+[
+  {
+    "tenantId": "czechia.karlovarskkraj",
+    "code": "CZ_41",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CZ"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb",
+    "code": "CZ_41_CHEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CZ_41"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov",
+    "code": "CZ_41_SOKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CZ_41"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary",
+    "code": "CZ_41_KAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CZ_41"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.podhrad",
+    "code": "CZ_41_CHEB_PODH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.valy",
+    "code": "CZ_41_CHEB_VALY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.okrouhl",
+    "code": "CZ_41_CHEB_OKRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.zzdubzvin",
+    "code": "CZ_41_CHEB_ZZDU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.poustka",
+    "code": "CZ_41_CHEB_POUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.trisekery",
+    "code": "CZ_41_CHEB_TRSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.trstenice",
+    "code": "CZ_41_CHEB_TRST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.vlkovice",
+    "code": "CZ_41_CHEB_VLKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.krsn",
+    "code": "CZ_41_CHEB_KR0S",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.vojtanov",
+    "code": "CZ_41_CHEB_VOJT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.treben",
+    "code": "CZ_41_CHEB_TREB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.ovesnkladruby",
+    "code": "CZ_41_CHEB_OVKL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.pomeznadohrr",
+    "code": "CZ_41_CHEB_PNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.milkov",
+    "code": "CZ_41_CHEB_MIL4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.starvoda",
+    "code": "CZ_41_CHEB_STVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.velkhledsebe",
+    "code": "CZ_41_CHEB_VEHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.skaln",
+    "code": "CZ_41_CHEB_SKAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.plesn",
+    "code": "CZ_41_CHEB_PLES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.novkostel",
+    "code": "CZ_41_CHEB_NOKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.nebanice",
+    "code": "CZ_41_CHEB_NEBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.mnichov",
+    "code": "CZ_41_CHEB_MNIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.milhostov",
+    "code": "CZ_41_CHEB_MILH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.velkluh",
+    "code": "CZ_41_CHEB_VELU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.tepl",
+    "code": "CZ_41_CHEB_TEPL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.cheb",
+    "code": "CZ_41_CHEB_CHEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.turany",
+    "code": "CZ_41_CHEB_TURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.dolnandov",
+    "code": "CZ_41_CHEB_DO5A",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.az",
+    "code": "CZ_41_CHEB_AZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.marinsklzne",
+    "code": "CZ_41_CHEB_MAL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.luby",
+    "code": "CZ_41_CHEB_LUBY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.odrava",
+    "code": "CZ_41_CHEB_ODRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.prameny",
+    "code": "CZ_41_CHEB_PRAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.lzznekynvart",
+    "code": "CZ_41_CHEB_LZKY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.kriovatka",
+    "code": "CZ_41_CHEB_KRI4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.lipov",
+    "code": "CZ_41_CHEB_LIPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.lib",
+    "code": "CZ_41_CHEB_LIB4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.hranice",
+    "code": "CZ_41_CHEB_HRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.hazlov",
+    "code": "CZ_41_CHEB_HAZL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.drmoul",
+    "code": "CZ_41_CHEB_DRMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.cheb.frantikovylezne",
+    "code": "CZ_41_CHEB_FRLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_CHEB"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.jindrichovice",
+    "code": "CZ_41_SOKO_JIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.lomnice",
+    "code": "CZ_41_SOKO_LOMN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.novsedlo",
+    "code": "CZ_41_SOKO_NOSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.starsedlo",
+    "code": "CZ_41_SOKO_STSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.bukovany",
+    "code": "CZ_41_SOKO_BUKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.krsno",
+    "code": "CZ_41_SOKO_KR0S",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.dasnice",
+    "code": "CZ_41_SOKO_DASN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.dolnnivy",
+    "code": "CZ_41_SOKO_DONI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.brezov",
+    "code": "CZ_41_SOKO_BREZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.bublava",
+    "code": "CZ_41_SOKO_BUBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.habartov",
+    "code": "CZ_41_SOKO_HABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.hornslavkov",
+    "code": "CZ_41_SOKO_HOSL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.svatava",
+    "code": "CZ_41_SOKO_SVAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.dolnrychnov",
+    "code": "CZ_41_SOKO_DORY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.citice",
+    "code": "CZ_41_SOKO_CITI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.josefov",
+    "code": "CZ_41_SOKO_JOSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.tatrovice",
+    "code": "CZ_41_SOKO_TATR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.sokolov",
+    "code": "CZ_41_SOKO_SOKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.cabina",
+    "code": "CZ_41_SOKO_CABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.teovice",
+    "code": "CZ_41_SOKO_TE0O",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.vintrov",
+    "code": "CZ_41_SOKO_VINT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.vresov",
+    "code": "CZ_41_SOKO_VRES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.strbrn",
+    "code": "CZ_41_SOKO_STR4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.cindelov",
+    "code": "CZ_41_SOKO_CIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.novves",
+    "code": "CZ_41_SOKO_NOVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.olov",
+    "code": "CZ_41_SOKO_OLOV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.prebuz",
+    "code": "CZ_41_SOKO_PREB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.rotava",
+    "code": "CZ_41_SOKO_ROTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.rovn",
+    "code": "CZ_41_SOKO_ROVN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.kacerov",
+    "code": "CZ_41_SOKO_KACE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.krajkov",
+    "code": "CZ_41_SOKO_KRAJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.krlovskporece",
+    "code": "CZ_41_SOKO_KRPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.kraslice",
+    "code": "CZ_41_SOKO_KRAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.kynperknadohre",
+    "code": "CZ_41_SOKO_KNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.libavskdola",
+    "code": "CZ_41_SOKO_LI5D",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.loket",
+    "code": "CZ_41_SOKO_LOKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.chodov",
+    "code": "CZ_41_SOKO_CHOD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.sokolov.chlumsvatmars",
+    "code": "CZ_41_SOKO_CSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_SOKO"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.hory",
+    "code": "CZ_41_KAVA_HORY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.hzjek",
+    "code": "CZ_41_KAVA_HZJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.otovice",
+    "code": "CZ_41_KAVA_OTOV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.pzov",
+    "code": "CZ_41_KAVA_PZOV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.merkln",
+    "code": "CZ_41_KAVA_MERK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.valec",
+    "code": "CZ_41_KAVA_VALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.vrbice",
+    "code": "CZ_41_KAVA_VRBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.podboranskrohozec",
+    "code": "CZ_41_KAVA_PORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.brezov",
+    "code": "CZ_41_KAVA_BREZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.teplicka",
+    "code": "CZ_41_KAVA_TEPL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.cichalov",
+    "code": "CZ_41_KAVA_CICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.novhamry",
+    "code": "CZ_41_KAVA_NOHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.bodar",
+    "code": "CZ_41_KAVA_BODA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.hroznetn",
+    "code": "CZ_41_KAVA_HROZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.hradite",
+    "code": "CZ_41_KAVA_HRAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.kyselka",
+    "code": "CZ_41_KAVA_KYSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.potucky",
+    "code": "CZ_41_KAVA_POTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.pernink",
+    "code": "CZ_41_KAVA_PERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.jzchymov",
+    "code": "CZ_41_KAVA_JZCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.chye",
+    "code": "CZ_41_KAVA_CHY4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.novrole",
+    "code": "CZ_41_KAVA_NORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.nejdek",
+    "code": "CZ_41_KAVA_NEJD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.sadov",
+    "code": "CZ_41_KAVA_SADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.otrocn",
+    "code": "CZ_41_KAVA_OTRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.ostrov",
+    "code": "CZ_41_KAVA_OSTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.karlovyvary",
+    "code": "CZ_41_KAVA_KAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.abertamy",
+    "code": "CZ_41_KAVA_ABER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.krsndol",
+    "code": "CZ_41_KAVA_KR5D",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.kolov",
+    "code": "CZ_41_KAVA_KOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.boicany",
+    "code": "CZ_41_KAVA_BO0I",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.hornblatn",
+    "code": "CZ_41_KAVA_HOBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.mzrov",
+    "code": "CZ_41_KAVA_MZRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.becovnadteplou",
+    "code": "CZ_41_KAVA_BNT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.bochov",
+    "code": "CZ_41_KAVA_BOCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.smolnpece",
+    "code": "CZ_41_KAVA_SMPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.depoltovice",
+    "code": "CZ_41_KAVA_DEPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.dalovice",
+    "code": "CZ_41_KAVA_DALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.jeniov",
+    "code": "CZ_41_KAVA_JENI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.cernava",
+    "code": "CZ_41_KAVA_CERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.andelskhora",
+    "code": "CZ_41_KAVA_ANHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.krsnles",
+    "code": "CZ_41_KAVA_KRLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.pila",
+    "code": "CZ_41_KAVA_PILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.chodov",
+    "code": "CZ_41_KAVA_CHOD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.vysokpec",
+    "code": "CZ_41_KAVA_VYPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.velichov",
+    "code": "CZ_41_KAVA_VELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.veruicky",
+    "code": "CZ_41_KAVA_VERU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.vojkovice",
+    "code": "CZ_41_KAVA_VOJK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.clutice",
+    "code": "CZ_41_KAVA_CLUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.ctedr",
+    "code": "CZ_41_KAVA_CTED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.touim",
+    "code": "CZ_41_KAVA_TOU4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.ctvina",
+    "code": "CZ_41_KAVA_CTVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.stanovice",
+    "code": "CZ_41_KAVA_STAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.strnadohr",
+    "code": "CZ_41_KAVA_SNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.cemnice",
+    "code": "CZ_41_KAVA_CEMN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.strun",
+    "code": "CZ_41_KAVA_STRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.braec",
+    "code": "CZ_41_KAVA_BRA4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  },
+  {
+    "tenantId": "czechia.karlovarskkraj.karlovyvary.doupovskhradi",
+    "code": "CZ_41_KAVA_DOHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_41_KAVA"
+  }
+]

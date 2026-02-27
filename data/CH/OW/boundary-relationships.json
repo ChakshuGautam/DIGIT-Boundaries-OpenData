@@ -1,0 +1,65 @@
+[
+  {
+    "tenantId": "switzerland.obwalden",
+    "code": "CH_OW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CH"
+  },
+  {
+    "tenantId": "switzerland.obwalden.obwalden",
+    "code": "CH_OW_OBWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_OW"
+  },
+  {
+    "tenantId": "switzerland.obwalden.obwalden.kerns",
+    "code": "CH_OW_OBWA_KERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_OW_OBWA"
+  },
+  {
+    "tenantId": "switzerland.obwalden.obwalden.giswil",
+    "code": "CH_OW_OBWA_GISW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_OW_OBWA"
+  },
+  {
+    "tenantId": "switzerland.obwalden.obwalden.sarnen",
+    "code": "CH_OW_OBWA_SARN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_OW_OBWA"
+  },
+  {
+    "tenantId": "switzerland.obwalden.obwalden.engelberg",
+    "code": "CH_OW_OBWA_ENGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_OW_OBWA"
+  },
+  {
+    "tenantId": "switzerland.obwalden.obwalden.sachseln",
+    "code": "CH_OW_OBWA_SACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_OW_OBWA"
+  },
+  {
+    "tenantId": "switzerland.obwalden.obwalden.alpnach",
+    "code": "CH_OW_OBWA_ALPN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_OW_OBWA"
+  },
+  {
+    "tenantId": "switzerland.obwalden.obwalden.lungern",
+    "code": "CH_OW_OBWA_LUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_OW_OBWA"
+  }
+]

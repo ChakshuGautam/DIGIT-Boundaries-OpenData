@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "serbia.bordistrict",
+    "code": "RS_14",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "RS"
+  },
+  {
+    "tenantId": "serbia.bordistrict.negotinmunicipality",
+    "code": "RS_14_NEMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_14"
+  },
+  {
+    "tenantId": "serbia.bordistrict.bormunicipality",
+    "code": "RS_14_BOMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_14"
+  },
+  {
+    "tenantId": "serbia.bordistrict.kladovomunicipality",
+    "code": "RS_14_KLMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_14"
+  },
+  {
+    "tenantId": "serbia.bordistrict.majdanpekmunicipality",
+    "code": "RS_14_MAMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_14"
+  }
+]

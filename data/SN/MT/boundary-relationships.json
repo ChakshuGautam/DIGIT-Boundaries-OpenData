@@ -1,0 +1,65 @@
+[
+  {
+    "tenantId": "senegal.matam",
+    "code": "SN_MT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SN"
+  },
+  {
+    "tenantId": "senegal.matam.kanel",
+    "code": "SN_MT_KANE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SN_MT"
+  },
+  {
+    "tenantId": "senegal.matam.matam",
+    "code": "SN_MT_MATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SN_MT"
+  },
+  {
+    "tenantId": "senegal.matam.ranerou",
+    "code": "SN_MT_RANE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SN_MT"
+  },
+  {
+    "tenantId": "senegal.matam.kanel.orkadiere",
+    "code": "SN_MT_KANE_ORKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_MT_KANE"
+  },
+  {
+    "tenantId": "senegal.matam.kanel.sinthioubanambewourosidy",
+    "code": "SN_MT_KANE_SBS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_MT_KANE"
+  },
+  {
+    "tenantId": "senegal.matam.matam.agnamcivol",
+    "code": "SN_MT_MATA_AGCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_MT_MATA"
+  },
+  {
+    "tenantId": "senegal.matam.matam.ogo",
+    "code": "SN_MT_MATA_OGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_MT_MATA"
+  },
+  {
+    "tenantId": "senegal.matam.ranerou.velingara",
+    "code": "SN_MT_RANE_VELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_MT_RANE"
+  }
+]

@@ -1,0 +1,884 @@
+[
+  {
+    "tenantId": "malaysia.pahang",
+    "code": "MY_06",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MY"
+  },
+  {
+    "tenantId": "malaysia.pahang.cameronhighlands",
+    "code": "MY_06_CAHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_06"
+  },
+  {
+    "tenantId": "malaysia.pahang.lipis",
+    "code": "MY_06_LIPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_06"
+  },
+  {
+    "tenantId": "malaysia.pahang.jerantut",
+    "code": "MY_06_JERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_06"
+  },
+  {
+    "tenantId": "malaysia.pahang.raub",
+    "code": "MY_06_RAUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_06"
+  },
+  {
+    "tenantId": "malaysia.pahang.kuantan",
+    "code": "MY_06_KUAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_06"
+  },
+  {
+    "tenantId": "malaysia.pahang.temerloh",
+    "code": "MY_06_TEME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_06"
+  },
+  {
+    "tenantId": "malaysia.pahang.maran",
+    "code": "MY_06_MARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_06"
+  },
+  {
+    "tenantId": "malaysia.pahang.pekan",
+    "code": "MY_06_PEKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_06"
+  },
+  {
+    "tenantId": "malaysia.pahang.bentong",
+    "code": "MY_06_BENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_06"
+  },
+  {
+    "tenantId": "malaysia.pahang.bera",
+    "code": "MY_06_BERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_06"
+  },
+  {
+    "tenantId": "malaysia.pahang.cameronhighlands.bandartanahrata",
+    "code": "MY_06_CAHI_BTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_CAHI"
+  },
+  {
+    "tenantId": "malaysia.pahang.cameronhighlands.pekanluboktamang",
+    "code": "MY_06_CAHI_PLT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_CAHI"
+  },
+  {
+    "tenantId": "malaysia.pahang.cameronhighlands.pekanbrinchang",
+    "code": "MY_06_CAHI_PEBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_CAHI"
+  },
+  {
+    "tenantId": "malaysia.pahang.cameronhighlands.pekanringlet",
+    "code": "MY_06_CAHI_PERI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_CAHI"
+  },
+  {
+    "tenantId": "malaysia.pahang.cameronhighlands.mukimringlet",
+    "code": "MY_06_CAHI_MURI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_CAHI"
+  },
+  {
+    "tenantId": "malaysia.pahang.cameronhighlands.mukimhulutelom",
+    "code": "MY_06_CAHI_MHT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_CAHI"
+  },
+  {
+    "tenantId": "malaysia.pahang.cameronhighlands.mukimtanahrata",
+    "code": "MY_06_CAHI_MTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_CAHI"
+  },
+  {
+    "tenantId": "malaysia.pahang.lipis.mukimcheka",
+    "code": "MY_06_LIPI_MUCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_LIPI"
+  },
+  {
+    "tenantId": "malaysia.pahang.lipis.mukimtelang",
+    "code": "MY_06_LIPI_MUTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_LIPI"
+  },
+  {
+    "tenantId": "malaysia.pahang.lipis.pekanmerapuh",
+    "code": "MY_06_LIPI_PEME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_LIPI"
+  },
+  {
+    "tenantId": "malaysia.pahang.lipis.mukimbatuyon",
+    "code": "MY_06_LIPI_MBY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_LIPI"
+  },
+  {
+    "tenantId": "malaysia.pahang.lipis.mukimhulujelai",
+    "code": "MY_06_LIPI_MHJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_LIPI"
+  },
+  {
+    "tenantId": "malaysia.pahang.lipis.pekanpadangtengku",
+    "code": "MY_06_LIPI_PPT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_LIPI"
+  },
+  {
+    "tenantId": "malaysia.pahang.lipis.pekankechautui",
+    "code": "MY_06_LIPI_PKT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_LIPI"
+  },
+  {
+    "tenantId": "malaysia.pahang.lipis.mukimbudu",
+    "code": "MY_06_LIPI_MUBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_LIPI"
+  },
+  {
+    "tenantId": "malaysia.pahang.lipis.pekankerambit",
+    "code": "MY_06_LIPI_PEKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_LIPI"
+  },
+  {
+    "tenantId": "malaysia.pahang.lipis.bandarbenta",
+    "code": "MY_06_LIPI_BABE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_LIPI"
+  },
+  {
+    "tenantId": "malaysia.pahang.lipis.bandarpadangtengku",
+    "code": "MY_06_LIPI_BPT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_LIPI"
+  },
+  {
+    "tenantId": "malaysia.pahang.lipis.pekanpenjom",
+    "code": "MY_06_LIPI_PEPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_LIPI"
+  },
+  {
+    "tenantId": "malaysia.pahang.lipis.mukimpenjom",
+    "code": "MY_06_LIPI_MUPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_LIPI"
+  },
+  {
+    "tenantId": "malaysia.pahang.lipis.bandarkualalipis",
+    "code": "MY_06_LIPI_BKL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_LIPI"
+  },
+  {
+    "tenantId": "malaysia.pahang.lipis.mukimtanjungbesar",
+    "code": "MY_06_LIPI_MTB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_LIPI"
+  },
+  {
+    "tenantId": "malaysia.pahang.lipis.mukimkualalipis",
+    "code": "MY_06_LIPI_MKL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_LIPI"
+  },
+  {
+    "tenantId": "malaysia.pahang.lipis.pekantamanjelai",
+    "code": "MY_06_LIPI_PTJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_LIPI"
+  },
+  {
+    "tenantId": "malaysia.pahang.lipis.mukimkechau",
+    "code": "MY_06_LIPI_MUKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_LIPI"
+  },
+  {
+    "tenantId": "malaysia.pahang.lipis.pekanmela",
+    "code": "MY_06_LIPI_PEME2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_LIPI"
+  },
+  {
+    "tenantId": "malaysia.pahang.lipis.pekanrpsbkgpagar",
+    "code": "MY_06_LIPI_PRKP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_LIPI"
+  },
+  {
+    "tenantId": "malaysia.pahang.jerantut.pekankualatembeling",
+    "code": "MY_06_JERA_PKT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_JERA"
+  },
+  {
+    "tenantId": "malaysia.pahang.jerantut.mukimhulutembeling",
+    "code": "MY_06_JERA_MHT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_JERA"
+  },
+  {
+    "tenantId": "malaysia.pahang.jerantut.mukimkualatembeling",
+    "code": "MY_06_JERA_MKT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_JERA"
+  },
+  {
+    "tenantId": "malaysia.pahang.jerantut.mukimpedah",
+    "code": "MY_06_JERA_MUPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_JERA"
+  },
+  {
+    "tenantId": "malaysia.pahang.jerantut.mukimhulucheka",
+    "code": "MY_06_JERA_MHC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_JERA"
+  },
+  {
+    "tenantId": "malaysia.pahang.jerantut.mukimpulautawar",
+    "code": "MY_06_JERA_MPT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_JERA"
+  },
+  {
+    "tenantId": "malaysia.pahang.jerantut.mukimkelola",
+    "code": "MY_06_JERA_MUKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_JERA"
+  },
+  {
+    "tenantId": "malaysia.pahang.jerantut.pekanjeransang",
+    "code": "MY_06_JERA_PEJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_JERA"
+  },
+  {
+    "tenantId": "malaysia.pahang.jerantut.mukimburau",
+    "code": "MY_06_JERA_MUBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_JERA"
+  },
+  {
+    "tenantId": "malaysia.pahang.jerantut.mukimpantai",
+    "code": "MY_06_JERA_MUPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_JERA"
+  },
+  {
+    "tenantId": "malaysia.pahang.jerantut.mukimtembeling",
+    "code": "MY_06_JERA_MUTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_JERA"
+  },
+  {
+    "tenantId": "malaysia.pahang.jerantut.mukimteh",
+    "code": "MY_06_JERA_MUTE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_JERA"
+  },
+  {
+    "tenantId": "malaysia.pahang.jerantut.bandarjerantut",
+    "code": "MY_06_JERA_BAJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_JERA"
+  },
+  {
+    "tenantId": "malaysia.pahang.jerantut.mukimjelutong",
+    "code": "MY_06_JERA_MUJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_JERA"
+  },
+  {
+    "tenantId": "malaysia.pahang.raub.pekandong",
+    "code": "MY_06_RAUB_PEDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_RAUB"
+  },
+  {
+    "tenantId": "malaysia.pahang.raub.mukimteras",
+    "code": "MY_06_RAUB_MUTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_RAUB"
+  },
+  {
+    "tenantId": "malaysia.pahang.raub.bandarteras",
+    "code": "MY_06_RAUB_BATE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_RAUB"
+  },
+  {
+    "tenantId": "malaysia.pahang.raub.mukimhuludong",
+    "code": "MY_06_RAUB_MHD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_RAUB"
+  },
+  {
+    "tenantId": "malaysia.pahang.raub.mukimgali",
+    "code": "MY_06_RAUB_MUGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_RAUB"
+  },
+  {
+    "tenantId": "malaysia.pahang.raub.pekancheroh",
+    "code": "MY_06_RAUB_PECH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_RAUB"
+  },
+  {
+    "tenantId": "malaysia.pahang.raub.pekantranum",
+    "code": "MY_06_RAUB_PETR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_RAUB"
+  },
+  {
+    "tenantId": "malaysia.pahang.raub.bandarraub",
+    "code": "MY_06_RAUB_BARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_RAUB"
+  },
+  {
+    "tenantId": "malaysia.pahang.raub.mukimbatutalam",
+    "code": "MY_06_RAUB_MBT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_RAUB"
+  },
+  {
+    "tenantId": "malaysia.pahang.raub.mukimsemantanhulu",
+    "code": "MY_06_RAUB_MSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_RAUB"
+  },
+  {
+    "tenantId": "malaysia.pahang.raub.mukimsungairaya",
+    "code": "MY_06_RAUB_MSR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_RAUB"
+  },
+  {
+    "tenantId": "malaysia.pahang.raub.mukimdong",
+    "code": "MY_06_RAUB_MUDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_RAUB"
+  },
+  {
+    "tenantId": "malaysia.pahang.raub.mukimsega",
+    "code": "MY_06_RAUB_MUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_RAUB"
+  },
+  {
+    "tenantId": "malaysia.pahang.kuantan.mukimkualakuantan",
+    "code": "MY_06_KUAN_MKK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_KUAN"
+  },
+  {
+    "tenantId": "malaysia.pahang.kuantan.mukimhululepar",
+    "code": "MY_06_KUAN_MHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_KUAN"
+  },
+  {
+    "tenantId": "malaysia.pahang.kuantan.bandargambang",
+    "code": "MY_06_KUAN_BAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_KUAN"
+  },
+  {
+    "tenantId": "malaysia.pahang.kuantan.mukimbeserah",
+    "code": "MY_06_KUAN_MUBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_KUAN"
+  },
+  {
+    "tenantId": "malaysia.pahang.kuantan.mukimhulukuantan",
+    "code": "MY_06_KUAN_MHK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_KUAN"
+  },
+  {
+    "tenantId": "malaysia.pahang.kuantan.mukimpenor",
+    "code": "MY_06_KUAN_MUPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_KUAN"
+  },
+  {
+    "tenantId": "malaysia.pahang.kuantan.bandarkuantan",
+    "code": "MY_06_KUAN_BAKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_KUAN"
+  },
+  {
+    "tenantId": "malaysia.pahang.kuantan.pekanbeserah",
+    "code": "MY_06_KUAN_PEBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_KUAN"
+  },
+  {
+    "tenantId": "malaysia.pahang.kuantan.pekantanjunglumpur",
+    "code": "MY_06_KUAN_PTL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_KUAN"
+  },
+  {
+    "tenantId": "malaysia.pahang.temerloh.mukimlebak",
+    "code": "MY_06_TEME_MULE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_TEME"
+  },
+  {
+    "tenantId": "malaysia.pahang.temerloh.mukimlipatkajang",
+    "code": "MY_06_TEME_MLK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_TEME"
+  },
+  {
+    "tenantId": "malaysia.pahang.temerloh.mukimperak",
+    "code": "MY_06_TEME_MUPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_TEME"
+  },
+  {
+    "tenantId": "malaysia.pahang.temerloh.mukimkerdau",
+    "code": "MY_06_TEME_MUKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_TEME"
+  },
+  {
+    "tenantId": "malaysia.pahang.temerloh.mukimsongsang",
+    "code": "MY_06_TEME_MUSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_TEME"
+  },
+  {
+    "tenantId": "malaysia.pahang.temerloh.mukimjenderak",
+    "code": "MY_06_TEME_MUJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_TEME"
+  },
+  {
+    "tenantId": "malaysia.pahang.temerloh.mukimsemantan",
+    "code": "MY_06_TEME_MUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_TEME"
+  },
+  {
+    "tenantId": "malaysia.pahang.temerloh.bandartemerloh",
+    "code": "MY_06_TEME_BATE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_TEME"
+  },
+  {
+    "tenantId": "malaysia.pahang.temerloh.mukimsanggang",
+    "code": "MY_06_TEME_MUSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_TEME"
+  },
+  {
+    "tenantId": "malaysia.pahang.temerloh.bandarmentakab",
+    "code": "MY_06_TEME_BAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_TEME"
+  },
+  {
+    "tenantId": "malaysia.pahang.temerloh.pekanlanchang",
+    "code": "MY_06_TEME_PELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_TEME"
+  },
+  {
+    "tenantId": "malaysia.pahang.temerloh.pekankerdau",
+    "code": "MY_06_TEME_PEKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_TEME"
+  },
+  {
+    "tenantId": "malaysia.pahang.temerloh.pekankualakerau",
+    "code": "MY_06_TEME_PKK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_TEME"
+  },
+  {
+    "tenantId": "malaysia.pahang.temerloh.mukimmentakab",
+    "code": "MY_06_TEME_MUME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_TEME"
+  },
+  {
+    "tenantId": "malaysia.pahang.temerloh.mukimbangau",
+    "code": "MY_06_TEME_MUBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_TEME"
+  },
+  {
+    "tenantId": "malaysia.pahang.maran.mukimluit",
+    "code": "MY_06_MARA_MULU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_MARA"
+  },
+  {
+    "tenantId": "malaysia.pahang.maran.pekanchenor",
+    "code": "MY_06_MARA_PECH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_MARA"
+  },
+  {
+    "tenantId": "malaysia.pahang.maran.bandarmaran",
+    "code": "MY_06_MARA_BAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_MARA"
+  },
+  {
+    "tenantId": "malaysia.pahang.maran.pekansrijaya",
+    "code": "MY_06_MARA_PSJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_MARA"
+  },
+  {
+    "tenantId": "malaysia.pahang.maran.mukimchenor",
+    "code": "MY_06_MARA_MUCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_MARA"
+  },
+  {
+    "tenantId": "malaysia.pahang.maran.mukimbukitsegumpal",
+    "code": "MY_06_MARA_MBS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_MARA"
+  },
+  {
+    "tenantId": "malaysia.pahang.maran.mukimpaloh",
+    "code": "MY_06_MARA_MUPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_MARA"
+  },
+  {
+    "tenantId": "malaysia.pahang.maran.mukimkertau",
+    "code": "MY_06_MARA_MUKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_MARA"
+  },
+  {
+    "tenantId": "malaysia.pahang.pekan.bandarmuadzamshahii",
+    "code": "MY_06_PEKA_BMSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_PEKA"
+  },
+  {
+    "tenantId": "malaysia.pahang.pekan.mukimsungaikarang",
+    "code": "MY_06_PEKA_MSK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_PEKA"
+  },
+  {
+    "tenantId": "malaysia.pahang.pekan.mukimpekan",
+    "code": "MY_06_PEKA_MUPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_PEKA"
+  },
+  {
+    "tenantId": "malaysia.pahang.pekan.mukimpenyor",
+    "code": "MY_06_PEKA_MUPE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_PEKA"
+  },
+  {
+    "tenantId": "malaysia.pahang.pekan.mukimpulaurusa",
+    "code": "MY_06_PEKA_MPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_PEKA"
+  },
+  {
+    "tenantId": "malaysia.pahang.pekan.mukimtemai",
+    "code": "MY_06_PEKA_MUTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_PEKA"
+  },
+  {
+    "tenantId": "malaysia.pahang.pekan.pekankualapahang",
+    "code": "MY_06_PEKA_PKP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_PEKA"
+  },
+  {
+    "tenantId": "malaysia.pahang.pekan.pekannenasi",
+    "code": "MY_06_PEKA_PENE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_PEKA"
+  },
+  {
+    "tenantId": "malaysia.pahang.pekan.mukimkualapahang",
+    "code": "MY_06_PEKA_MKP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_PEKA"
+  },
+  {
+    "tenantId": "malaysia.pahang.pekan.mukimlepar",
+    "code": "MY_06_PEKA_MULE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_PEKA"
+  },
+  {
+    "tenantId": "malaysia.pahang.pekan.mukimbebar",
+    "code": "MY_06_PEKA_MUBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_PEKA"
+  },
+  {
+    "tenantId": "malaysia.pahang.pekan.mukimpahangtua",
+    "code": "MY_06_PEKA_MPT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_PEKA"
+  },
+  {
+    "tenantId": "malaysia.pahang.pekan.mukimpulaumanis",
+    "code": "MY_06_PEKA_MPM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_PEKA"
+  },
+  {
+    "tenantId": "malaysia.pahang.pekan.bandarmuadzamshahi",
+    "code": "MY_06_PEKA_BMSI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_PEKA"
+  },
+  {
+    "tenantId": "malaysia.pahang.pekan.mukimganchong",
+    "code": "MY_06_PEKA_MUGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_PEKA"
+  },
+  {
+    "tenantId": "malaysia.pahang.pekan.bandarpekan",
+    "code": "MY_06_PEKA_BAPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_PEKA"
+  },
+  {
+    "tenantId": "malaysia.pahang.bentong.mukimpelangai",
+    "code": "MY_06_BENT_MUPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_BENT"
+  },
+  {
+    "tenantId": "malaysia.pahang.bentong.mukimsabai",
+    "code": "MY_06_BENT_MUSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_BENT"
+  },
+  {
+    "tenantId": "malaysia.pahang.bentong.mukimbentong",
+    "code": "MY_06_BENT_MUBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_BENT"
+  },
+  {
+    "tenantId": "malaysia.pahang.bentong.pekantelemong",
+    "code": "MY_06_BENT_PETE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_BENT"
+  },
+  {
+    "tenantId": "malaysia.pahang.bentong.bandarkarak",
+    "code": "MY_06_BENT_BAKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_BENT"
+  },
+  {
+    "tenantId": "malaysia.pahang.bentong.bandarbentong",
+    "code": "MY_06_BENT_BABE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_BENT"
+  },
+  {
+    "tenantId": "malaysia.pahang.bera.mukimtriang",
+    "code": "MY_06_BERA_MUTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_BERA"
+  },
+  {
+    "tenantId": "malaysia.pahang.bera.mukimbagan",
+    "code": "MY_06_BERA_MUBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_BERA"
+  },
+  {
+    "tenantId": "malaysia.pahang.bera.mukimbera",
+    "code": "MY_06_BERA_MUBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_BERA"
+  },
+  {
+    "tenantId": "malaysia.pahang.bera.bandartriang",
+    "code": "MY_06_BERA_BATR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_BERA"
+  },
+  {
+    "tenantId": "malaysia.pahang.bera.pekanmengkarak",
+    "code": "MY_06_BERA_PEME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_BERA"
+  },
+  {
+    "tenantId": "malaysia.pahang.bera.pekanmengkuang",
+    "code": "MY_06_BERA_PEME2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_BERA"
+  },
+  {
+    "tenantId": "malaysia.pahang.bera.pekanduriantawar",
+    "code": "MY_06_BERA_PDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_06_BERA"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "tenantId": "chile.regindeantofagasta",
+    "code": "CL_RDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CL"
+  },
+  {
+    "tenantId": "chile.regindeantofagasta.provinciadetocopilla",
+    "code": "CL_RDA_PDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CL_RDA"
+  },
+  {
+    "tenantId": "chile.regindeantofagasta.provinciadeelloa",
+    "code": "CL_RDA_PDEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CL_RDA"
+  },
+  {
+    "tenantId": "chile.regindeantofagasta.provinciadeantofagasta",
+    "code": "CL_RDA_PDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CL_RDA"
+  },
+  {
+    "tenantId": "chile.regindeantofagasta.provinciadetocopilla.maraelena",
+    "code": "CL_RDA_PDT_MAEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDA_PDT"
+  },
+  {
+    "tenantId": "chile.regindeantofagasta.provinciadetocopilla.tocopilla",
+    "code": "CL_RDA_PDT_TOCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDA_PDT"
+  },
+  {
+    "tenantId": "chile.regindeantofagasta.provinciadeelloa.calama",
+    "code": "CL_RDA_PDEL_CALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDA_PDEL"
+  },
+  {
+    "tenantId": "chile.regindeantofagasta.provinciadeelloa.sanpedrodeatacama",
+    "code": "CL_RDA_PDEL_SPDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDA_PDEL"
+  },
+  {
+    "tenantId": "chile.regindeantofagasta.provinciadeelloa.ollage",
+    "code": "CL_RDA_PDEL_OLLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDA_PDEL"
+  },
+  {
+    "tenantId": "chile.regindeantofagasta.provinciadeantofagasta.antofagasta",
+    "code": "CL_RDA_PDA_ANTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDA_PDA"
+  },
+  {
+    "tenantId": "chile.regindeantofagasta.provinciadeantofagasta.sierragorda",
+    "code": "CL_RDA_PDA_SIGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDA_PDA"
+  },
+  {
+    "tenantId": "chile.regindeantofagasta.provinciadeantofagasta.mejillones",
+    "code": "CL_RDA_PDA_MEJI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDA_PDA"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "latvia.saulkrastunovads",
+    "code": "LV_089",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "LV"
+  },
+  {
+    "tenantId": "latvia.saulkrastunovads.saulkrastupag",
+    "code": "LV_089_SAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LV_089"
+  },
+  {
+    "tenantId": "latvia.saulkrastunovads.sjaspag",
+    "code": "LV_089_SPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LV_089"
+  },
+  {
+    "tenantId": "latvia.saulkrastunovads.saulkrasti",
+    "code": "LV_089_SAUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LV_089"
+  }
+]

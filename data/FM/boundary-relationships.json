@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "micronesiafedstatesof",
+    "code": "FM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "micronesiafedstatesof.yap",
+    "code": "FM_YAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "FM"
+  },
+  {
+    "tenantId": "micronesiafedstatesof.chuuk",
+    "code": "FM_TRK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "FM"
+  },
+  {
+    "tenantId": "micronesiafedstatesof.pohnpei",
+    "code": "FM_PNI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "FM"
+  },
+  {
+    "tenantId": "micronesiafedstatesof.kosrae",
+    "code": "FM_KSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "FM"
+  }
+]

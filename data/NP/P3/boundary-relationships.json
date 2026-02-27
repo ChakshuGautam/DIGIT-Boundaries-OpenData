@@ -1,0 +1,982 @@
+[
+  {
+    "tenantId": "nepal.bagmati",
+    "code": "NP_P3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NP"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhupalchok",
+    "code": "NP_P3_SIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P3"
+  },
+  {
+    "tenantId": "nepal.bagmati.nuwakot",
+    "code": "NP_P3_NUWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P3"
+  },
+  {
+    "tenantId": "nepal.bagmati.chitawan",
+    "code": "NP_P3_CHIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P3"
+  },
+  {
+    "tenantId": "nepal.bagmati.dhading",
+    "code": "NP_P3_DHAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P3"
+  },
+  {
+    "tenantId": "nepal.bagmati.rasuwa",
+    "code": "NP_P3_RASU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P3"
+  },
+  {
+    "tenantId": "nepal.bagmati.kathmandu",
+    "code": "NP_P3_KATH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P3"
+  },
+  {
+    "tenantId": "nepal.bagmati.makawanpur",
+    "code": "NP_P3_MAKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P3"
+  },
+  {
+    "tenantId": "nepal.bagmati.lalitpur",
+    "code": "NP_P3_LALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P3"
+  },
+  {
+    "tenantId": "nepal.bagmati.bhaktapur",
+    "code": "NP_P3_BHAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P3"
+  },
+  {
+    "tenantId": "nepal.bagmati.kabherepalanchok",
+    "code": "NP_P3_KABH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P3"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhuli",
+    "code": "NP_P3_SIND2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P3"
+  },
+  {
+    "tenantId": "nepal.bagmati.ramechhap",
+    "code": "NP_P3_RAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P3"
+  },
+  {
+    "tenantId": "nepal.bagmati.dolakha",
+    "code": "NP_P3_DOLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P3"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhupalchok.balefi",
+    "code": "NP_P3_SIND_BALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_SIND"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhupalchok.barhabise",
+    "code": "NP_P3_SIND_BARH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_SIND"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhupalchok.bhotekoshi",
+    "code": "NP_P3_SIND_BHOT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_SIND"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhupalchok.chautarasangachokgadhi",
+    "code": "NP_P3_SIND_CHSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_SIND"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhupalchok.helambu",
+    "code": "NP_P3_SIND_HELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_SIND"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhupalchok.indrawati",
+    "code": "NP_P3_SIND_INDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_SIND"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhupalchok.jugal",
+    "code": "NP_P3_SIND_JUGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_SIND"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhupalchok.lisangkhupakhar",
+    "code": "NP_P3_SIND_LIPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_SIND"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhupalchok.melamchi",
+    "code": "NP_P3_SIND_MELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_SIND"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhupalchok.panchpokharithangpal",
+    "code": "NP_P3_SIND_PATH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_SIND"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhupalchok.sunkoshi",
+    "code": "NP_P3_SIND_SUNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_SIND"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhupalchok.tripurasundari",
+    "code": "NP_P3_SIND_TRIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_SIND"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhupalchok.langtangnationalpark",
+    "code": "NP_P3_SIND_LNP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_SIND"
+  },
+  {
+    "tenantId": "nepal.bagmati.nuwakot.belkotgadhi",
+    "code": "NP_P3_NUWA_BELK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_NUWA"
+  },
+  {
+    "tenantId": "nepal.bagmati.nuwakot.bidur",
+    "code": "NP_P3_NUWA_BIDU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_NUWA"
+  },
+  {
+    "tenantId": "nepal.bagmati.nuwakot.dupcheshwar",
+    "code": "NP_P3_NUWA_DUPC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_NUWA"
+  },
+  {
+    "tenantId": "nepal.bagmati.nuwakot.kakani",
+    "code": "NP_P3_NUWA_KAKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_NUWA"
+  },
+  {
+    "tenantId": "nepal.bagmati.nuwakot.likhu",
+    "code": "NP_P3_NUWA_LIKH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_NUWA"
+  },
+  {
+    "tenantId": "nepal.bagmati.nuwakot.meghang",
+    "code": "NP_P3_NUWA_MEGH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_NUWA"
+  },
+  {
+    "tenantId": "nepal.bagmati.nuwakot.panchakanya",
+    "code": "NP_P3_NUWA_PANC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_NUWA"
+  },
+  {
+    "tenantId": "nepal.bagmati.nuwakot.shivapuri",
+    "code": "NP_P3_NUWA_SHIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_NUWA"
+  },
+  {
+    "tenantId": "nepal.bagmati.nuwakot.suryagadhi",
+    "code": "NP_P3_NUWA_SURY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_NUWA"
+  },
+  {
+    "tenantId": "nepal.bagmati.nuwakot.tadi",
+    "code": "NP_P3_NUWA_TADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_NUWA"
+  },
+  {
+    "tenantId": "nepal.bagmati.nuwakot.tarkeshwar",
+    "code": "NP_P3_NUWA_TARK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_NUWA"
+  },
+  {
+    "tenantId": "nepal.bagmati.nuwakot.shivapuriwatershedandwildlifereserve",
+    "code": "NP_P3_NUWA_SWAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_NUWA"
+  },
+  {
+    "tenantId": "nepal.bagmati.nuwakot.netrawati",
+    "code": "NP_P3_NUWA_NETR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_NUWA"
+  },
+  {
+    "tenantId": "nepal.bagmati.chitawan.bharatpur",
+    "code": "NP_P3_CHIT_BHAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_CHIT"
+  },
+  {
+    "tenantId": "nepal.bagmati.chitawan.ichchhyakamana",
+    "code": "NP_P3_CHIT_ICHC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_CHIT"
+  },
+  {
+    "tenantId": "nepal.bagmati.chitawan.kalika",
+    "code": "NP_P3_CHIT_KALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_CHIT"
+  },
+  {
+    "tenantId": "nepal.bagmati.chitawan.khairahani",
+    "code": "NP_P3_CHIT_KHAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_CHIT"
+  },
+  {
+    "tenantId": "nepal.bagmati.chitawan.madi",
+    "code": "NP_P3_CHIT_MADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_CHIT"
+  },
+  {
+    "tenantId": "nepal.bagmati.chitawan.rapti",
+    "code": "NP_P3_CHIT_RAPT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_CHIT"
+  },
+  {
+    "tenantId": "nepal.bagmati.chitawan.ratnanagar",
+    "code": "NP_P3_CHIT_RATN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_CHIT"
+  },
+  {
+    "tenantId": "nepal.bagmati.chitawan.chitawannationalpark",
+    "code": "NP_P3_CHIT_CNP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_CHIT"
+  },
+  {
+    "tenantId": "nepal.bagmati.chitawan.chitawannationalpark",
+    "code": "NP_P3_CHIT_CNP2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_CHIT"
+  },
+  {
+    "tenantId": "nepal.bagmati.dhading.benighatrorang",
+    "code": "NP_P3_DHAD_BERO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_DHAD"
+  },
+  {
+    "tenantId": "nepal.bagmati.dhading.dhunibesi",
+    "code": "NP_P3_DHAD_DHUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_DHAD"
+  },
+  {
+    "tenantId": "nepal.bagmati.dhading.gajuri",
+    "code": "NP_P3_DHAD_GAJU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_DHAD"
+  },
+  {
+    "tenantId": "nepal.bagmati.dhading.galchi",
+    "code": "NP_P3_DHAD_GALC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_DHAD"
+  },
+  {
+    "tenantId": "nepal.bagmati.dhading.gangajamuna",
+    "code": "NP_P3_DHAD_GANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_DHAD"
+  },
+  {
+    "tenantId": "nepal.bagmati.dhading.jwalamukhi",
+    "code": "NP_P3_DHAD_JWAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_DHAD"
+  },
+  {
+    "tenantId": "nepal.bagmati.dhading.khaniyabash",
+    "code": "NP_P3_DHAD_KHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_DHAD"
+  },
+  {
+    "tenantId": "nepal.bagmati.dhading.nilakantha",
+    "code": "NP_P3_DHAD_NILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_DHAD"
+  },
+  {
+    "tenantId": "nepal.bagmati.dhading.rubivalley",
+    "code": "NP_P3_DHAD_RUVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_DHAD"
+  },
+  {
+    "tenantId": "nepal.bagmati.dhading.siddhalek",
+    "code": "NP_P3_DHAD_SIDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_DHAD"
+  },
+  {
+    "tenantId": "nepal.bagmati.dhading.thakre",
+    "code": "NP_P3_DHAD_THAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_DHAD"
+  },
+  {
+    "tenantId": "nepal.bagmati.dhading.tripurasundari",
+    "code": "NP_P3_DHAD_TRSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_DHAD"
+  },
+  {
+    "tenantId": "nepal.bagmati.dhading.aarughat",
+    "code": "NP_P3_DHAD_AARU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_DHAD"
+  },
+  {
+    "tenantId": "nepal.bagmati.rasuwa.kispang",
+    "code": "NP_P3_RASU_KISP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_RASU"
+  },
+  {
+    "tenantId": "nepal.bagmati.rasuwa.gosaikunda",
+    "code": "NP_P3_RASU_GOSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_RASU"
+  },
+  {
+    "tenantId": "nepal.bagmati.rasuwa.kalika",
+    "code": "NP_P3_RASU_KALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_RASU"
+  },
+  {
+    "tenantId": "nepal.bagmati.rasuwa.naukunda",
+    "code": "NP_P3_RASU_NAUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_RASU"
+  },
+  {
+    "tenantId": "nepal.bagmati.rasuwa.parbatikunda",
+    "code": "NP_P3_RASU_PAKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_RASU"
+  },
+  {
+    "tenantId": "nepal.bagmati.rasuwa.uttargaya",
+    "code": "NP_P3_RASU_UTTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_RASU"
+  },
+  {
+    "tenantId": "nepal.bagmati.kathmandu.budhanilakantha",
+    "code": "NP_P3_KATH_BUDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KATH"
+  },
+  {
+    "tenantId": "nepal.bagmati.kathmandu.chandragiri",
+    "code": "NP_P3_KATH_CHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KATH"
+  },
+  {
+    "tenantId": "nepal.bagmati.kathmandu.dakshinkali",
+    "code": "NP_P3_KATH_DAKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KATH"
+  },
+  {
+    "tenantId": "nepal.bagmati.kathmandu.gokarneshwor",
+    "code": "NP_P3_KATH_GOKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KATH"
+  },
+  {
+    "tenantId": "nepal.bagmati.kathmandu.kageshworimanahora",
+    "code": "NP_P3_KATH_KAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KATH"
+  },
+  {
+    "tenantId": "nepal.bagmati.kathmandu.kathmandu",
+    "code": "NP_P3_KATH_KATH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KATH"
+  },
+  {
+    "tenantId": "nepal.bagmati.kathmandu.nagarjun",
+    "code": "NP_P3_KATH_NAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KATH"
+  },
+  {
+    "tenantId": "nepal.bagmati.kathmandu.shankharapur",
+    "code": "NP_P3_KATH_SHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KATH"
+  },
+  {
+    "tenantId": "nepal.bagmati.kathmandu.tarakeshwor",
+    "code": "NP_P3_KATH_TARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KATH"
+  },
+  {
+    "tenantId": "nepal.bagmati.kathmandu.tokha",
+    "code": "NP_P3_KATH_TOKH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KATH"
+  },
+  {
+    "tenantId": "nepal.bagmati.makawanpur.bagmati",
+    "code": "NP_P3_MAKA_BAGM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_MAKA"
+  },
+  {
+    "tenantId": "nepal.bagmati.makawanpur.bakaiya",
+    "code": "NP_P3_MAKA_BAKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_MAKA"
+  },
+  {
+    "tenantId": "nepal.bagmati.makawanpur.bhimphedi",
+    "code": "NP_P3_MAKA_BHIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_MAKA"
+  },
+  {
+    "tenantId": "nepal.bagmati.makawanpur.hetauda",
+    "code": "NP_P3_MAKA_HETA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_MAKA"
+  },
+  {
+    "tenantId": "nepal.bagmati.makawanpur.indrasarowar",
+    "code": "NP_P3_MAKA_INDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_MAKA"
+  },
+  {
+    "tenantId": "nepal.bagmati.makawanpur.kailash",
+    "code": "NP_P3_MAKA_KAIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_MAKA"
+  },
+  {
+    "tenantId": "nepal.bagmati.makawanpur.makawanpurgadhi",
+    "code": "NP_P3_MAKA_MAKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_MAKA"
+  },
+  {
+    "tenantId": "nepal.bagmati.makawanpur.manahari",
+    "code": "NP_P3_MAKA_MANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_MAKA"
+  },
+  {
+    "tenantId": "nepal.bagmati.makawanpur.raksirang",
+    "code": "NP_P3_MAKA_RAKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_MAKA"
+  },
+  {
+    "tenantId": "nepal.bagmati.makawanpur.thaha",
+    "code": "NP_P3_MAKA_THAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_MAKA"
+  },
+  {
+    "tenantId": "nepal.bagmati.makawanpur.parsawildlifereserve",
+    "code": "NP_P3_MAKA_PWR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_MAKA"
+  },
+  {
+    "tenantId": "nepal.bagmati.makawanpur.chitawannationalpark",
+    "code": "NP_P3_MAKA_CNP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_MAKA"
+  },
+  {
+    "tenantId": "nepal.bagmati.lalitpur.bagmati",
+    "code": "NP_P3_LALI_BAGM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_LALI"
+  },
+  {
+    "tenantId": "nepal.bagmati.lalitpur.godawari",
+    "code": "NP_P3_LALI_GODA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_LALI"
+  },
+  {
+    "tenantId": "nepal.bagmati.lalitpur.konjyosom",
+    "code": "NP_P3_LALI_KONJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_LALI"
+  },
+  {
+    "tenantId": "nepal.bagmati.lalitpur.lalitpur",
+    "code": "NP_P3_LALI_LALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_LALI"
+  },
+  {
+    "tenantId": "nepal.bagmati.lalitpur.mahankal",
+    "code": "NP_P3_LALI_MAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_LALI"
+  },
+  {
+    "tenantId": "nepal.bagmati.lalitpur.kirtipur",
+    "code": "NP_P3_LALI_KIRT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_LALI"
+  },
+  {
+    "tenantId": "nepal.bagmati.bhaktapur.mahalaxmi",
+    "code": "NP_P3_BHAK_MAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_BHAK"
+  },
+  {
+    "tenantId": "nepal.bagmati.bhaktapur.bhaktapur",
+    "code": "NP_P3_BHAK_BHAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_BHAK"
+  },
+  {
+    "tenantId": "nepal.bagmati.bhaktapur.changunarayan",
+    "code": "NP_P3_BHAK_CHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_BHAK"
+  },
+  {
+    "tenantId": "nepal.bagmati.bhaktapur.madhyapurthimi",
+    "code": "NP_P3_BHAK_MATH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_BHAK"
+  },
+  {
+    "tenantId": "nepal.bagmati.bhaktapur.suryabinayak",
+    "code": "NP_P3_BHAK_SURY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_BHAK"
+  },
+  {
+    "tenantId": "nepal.bagmati.kabherepalanchok.banepa",
+    "code": "NP_P3_KABH_BANE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KABH"
+  },
+  {
+    "tenantId": "nepal.bagmati.kabherepalanchok.bethanchowk",
+    "code": "NP_P3_KABH_BETH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KABH"
+  },
+  {
+    "tenantId": "nepal.bagmati.kabherepalanchok.bhumlu",
+    "code": "NP_P3_KABH_BHUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KABH"
+  },
+  {
+    "tenantId": "nepal.bagmati.kabherepalanchok.chaurideurali",
+    "code": "NP_P3_KABH_CHAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KABH"
+  },
+  {
+    "tenantId": "nepal.bagmati.kabherepalanchok.dhulikhel",
+    "code": "NP_P3_KABH_DHUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KABH"
+  },
+  {
+    "tenantId": "nepal.bagmati.kabherepalanchok.khanikhola",
+    "code": "NP_P3_KABH_KHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KABH"
+  },
+  {
+    "tenantId": "nepal.bagmati.kabherepalanchok.mahabharat",
+    "code": "NP_P3_KABH_MAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KABH"
+  },
+  {
+    "tenantId": "nepal.bagmati.kabherepalanchok.mandandeupur",
+    "code": "NP_P3_KABH_MAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KABH"
+  },
+  {
+    "tenantId": "nepal.bagmati.kabherepalanchok.namobuddha",
+    "code": "NP_P3_KABH_NAMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KABH"
+  },
+  {
+    "tenantId": "nepal.bagmati.kabherepalanchok.panauti",
+    "code": "NP_P3_KABH_PANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KABH"
+  },
+  {
+    "tenantId": "nepal.bagmati.kabherepalanchok.panchkhal",
+    "code": "NP_P3_KABH_PANC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KABH"
+  },
+  {
+    "tenantId": "nepal.bagmati.kabherepalanchok.roshi",
+    "code": "NP_P3_KABH_ROSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KABH"
+  },
+  {
+    "tenantId": "nepal.bagmati.kabherepalanchok.temal",
+    "code": "NP_P3_KABH_TEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_KABH"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhuli.dudhouli",
+    "code": "NP_P3_SIND2_DUDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_SIND2"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhuli.ghanglekh",
+    "code": "NP_P3_SIND2_GHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_SIND2"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhuli.golanjor",
+    "code": "NP_P3_SIND2_GOLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_SIND2"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhuli.hariharpurgadhi",
+    "code": "NP_P3_SIND2_HARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_SIND2"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhuli.kamalamai",
+    "code": "NP_P3_SIND2_KAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_SIND2"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhuli.marin",
+    "code": "NP_P3_SIND2_MARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_SIND2"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhuli.phikkal",
+    "code": "NP_P3_SIND2_PHIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_SIND2"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhuli.sunkoshi",
+    "code": "NP_P3_SIND2_SUNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_SIND2"
+  },
+  {
+    "tenantId": "nepal.bagmati.sindhuli.tinpatan",
+    "code": "NP_P3_SIND2_TINP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_SIND2"
+  },
+  {
+    "tenantId": "nepal.bagmati.ramechhap.doramba",
+    "code": "NP_P3_RAME_DORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_RAME"
+  },
+  {
+    "tenantId": "nepal.bagmati.ramechhap.gokulganga",
+    "code": "NP_P3_RAME_GOKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_RAME"
+  },
+  {
+    "tenantId": "nepal.bagmati.ramechhap.khadadevi",
+    "code": "NP_P3_RAME_KHAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_RAME"
+  },
+  {
+    "tenantId": "nepal.bagmati.ramechhap.likhu",
+    "code": "NP_P3_RAME_LIKH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_RAME"
+  },
+  {
+    "tenantId": "nepal.bagmati.ramechhap.manthali",
+    "code": "NP_P3_RAME_MANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_RAME"
+  },
+  {
+    "tenantId": "nepal.bagmati.ramechhap.ramechhap",
+    "code": "NP_P3_RAME_RAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_RAME"
+  },
+  {
+    "tenantId": "nepal.bagmati.ramechhap.sunapati",
+    "code": "NP_P3_RAME_SUNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_RAME"
+  },
+  {
+    "tenantId": "nepal.bagmati.ramechhap.umakunda",
+    "code": "NP_P3_RAME_UMAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_RAME"
+  },
+  {
+    "tenantId": "nepal.bagmati.dolakha.baiteshwor",
+    "code": "NP_P3_DOLA_BAIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_DOLA"
+  },
+  {
+    "tenantId": "nepal.bagmati.dolakha.bhimeshwor",
+    "code": "NP_P3_DOLA_BHIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_DOLA"
+  },
+  {
+    "tenantId": "nepal.bagmati.dolakha.bigu",
+    "code": "NP_P3_DOLA_BIGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_DOLA"
+  },
+  {
+    "tenantId": "nepal.bagmati.dolakha.gaurishankar",
+    "code": "NP_P3_DOLA_GAUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_DOLA"
+  },
+  {
+    "tenantId": "nepal.bagmati.dolakha.jiri",
+    "code": "NP_P3_DOLA_JIRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_DOLA"
+  },
+  {
+    "tenantId": "nepal.bagmati.dolakha.kalinchok",
+    "code": "NP_P3_DOLA_KALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_DOLA"
+  },
+  {
+    "tenantId": "nepal.bagmati.dolakha.melung",
+    "code": "NP_P3_DOLA_MELU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_DOLA"
+  },
+  {
+    "tenantId": "nepal.bagmati.dolakha.sailung",
+    "code": "NP_P3_DOLA_SAIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_DOLA"
+  },
+  {
+    "tenantId": "nepal.bagmati.dolakha.tamakoshi",
+    "code": "NP_P3_DOLA_TAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P3_DOLA"
+  }
+]

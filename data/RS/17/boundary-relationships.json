@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "serbia.moravicadistrict",
+    "code": "RS_17",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "RS"
+  },
+  {
+    "tenantId": "serbia.moravicadistrict.cacakcity",
+    "code": "RS_17_CACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_17"
+  },
+  {
+    "tenantId": "serbia.moravicadistrict.gornjimilanovacmunicipality",
+    "code": "RS_17_GMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_17"
+  },
+  {
+    "tenantId": "serbia.moravicadistrict.ivanjicamunicipality",
+    "code": "RS_17_IVMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_17"
+  },
+  {
+    "tenantId": "serbia.moravicadistrict.lucanimunicipality",
+    "code": "RS_17_LUMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_17"
+  }
+]

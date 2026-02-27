@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "seychelles.glacis",
+    "code": "SC_GLAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SC"
+  },
+  {
+    "tenantId": "seychelles.glacis.northmahe",
+    "code": "SC_GLAC_NOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SC_GLAC"
+  },
+  {
+    "tenantId": "seychelles.glacis.northmahe.belombre",
+    "code": "SC_GLAC_NOMA_BELO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SC_GLAC_NOMA"
+  },
+  {
+    "tenantId": "seychelles.glacis.northmahe.glacis",
+    "code": "SC_GLAC_NOMA_GLAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SC_GLAC_NOMA"
+  },
+  {
+    "tenantId": "seychelles.glacis.northmahe.beauvallon",
+    "code": "SC_GLAC_NOMA_BEVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SC_GLAC_NOMA"
+  }
+]

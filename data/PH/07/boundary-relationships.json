@@ -1,0 +1,933 @@
+[
+  {
+    "tenantId": "philippines.centralvisayas",
+    "code": "PH_07",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "PH"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol",
+    "code": "PH_07_BOHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_07"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu",
+    "code": "PH_07_CEBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_07"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental",
+    "code": "PH_07_NEOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_07"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.siquijor",
+    "code": "PH_07_SIQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_07"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.alburquerque",
+    "code": "PH_07_BOHO_ALBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.alicia",
+    "code": "PH_07_BOHO_ALIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.anda",
+    "code": "PH_07_BOHO_ANDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.antequera",
+    "code": "PH_07_BOHO_ANTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.balilihan",
+    "code": "PH_07_BOHO_BALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.batuan",
+    "code": "PH_07_BOHO_BATU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.bilar",
+    "code": "PH_07_BOHO_BILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.carmen",
+    "code": "PH_07_BOHO_CARM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.catigbian",
+    "code": "PH_07_BOHO_CATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.corella",
+    "code": "PH_07_BOHO_CORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.cortes",
+    "code": "PH_07_BOHO_CORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.dagohoy",
+    "code": "PH_07_BOHO_DAGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.danao",
+    "code": "PH_07_BOHO_DANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.dauis",
+    "code": "PH_07_BOHO_DAUI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.dimiao",
+    "code": "PH_07_BOHO_DIMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.duero",
+    "code": "PH_07_BOHO_DUER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.garciahernandez",
+    "code": "PH_07_BOHO_GAHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.jagna",
+    "code": "PH_07_BOHO_JAGN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.lila",
+    "code": "PH_07_BOHO_LILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.loboc",
+    "code": "PH_07_BOHO_LOBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.mabini",
+    "code": "PH_07_BOHO_MABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.panglao",
+    "code": "PH_07_BOHO_PANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.pilar",
+    "code": "PH_07_BOHO_PILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.prescarlospgarcia",
+    "code": "PH_07_BOHO_PCPG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.sagbayan",
+    "code": "PH_07_BOHO_SAGB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.sanisidro",
+    "code": "PH_07_BOHO_SAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.sanmiguel",
+    "code": "PH_07_BOHO_SAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.sevilla",
+    "code": "PH_07_BOHO_SEVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.sierrabullones",
+    "code": "PH_07_BOHO_SIBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.sikatuna",
+    "code": "PH_07_BOHO_SIKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.tagbilarancity",
+    "code": "PH_07_BOHO_TACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.trinidad",
+    "code": "PH_07_BOHO_TRIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.valencia",
+    "code": "PH_07_BOHO_VALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.baclayon",
+    "code": "PH_07_BOHO_BACL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.bienunido",
+    "code": "PH_07_BOHO_BIUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.buenavista",
+    "code": "PH_07_BOHO_BUEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.calape",
+    "code": "PH_07_BOHO_CALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.candijay",
+    "code": "PH_07_BOHO_CAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.clarin",
+    "code": "PH_07_BOHO_CLAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.getafe",
+    "code": "PH_07_BOHO_GETA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.guindulman",
+    "code": "PH_07_BOHO_GUIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.inabanga",
+    "code": "PH_07_BOHO_INAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.loay",
+    "code": "PH_07_BOHO_LOAY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.loon",
+    "code": "PH_07_BOHO_LOON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.maribojoc",
+    "code": "PH_07_BOHO_MARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.sibonga",
+    "code": "PH_07_BOHO_SIBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.talibon",
+    "code": "PH_07_BOHO_TALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.tubigon",
+    "code": "PH_07_BOHO_TUBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.bohol.ubay",
+    "code": "PH_07_BOHO_UBAY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_BOHO"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.alcantara",
+    "code": "PH_07_CEBU_ALCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.alcoy",
+    "code": "PH_07_CEBU_ALCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.alegria",
+    "code": "PH_07_CEBU_ALEG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.aloguinsan",
+    "code": "PH_07_CEBU_ALOG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.argao",
+    "code": "PH_07_CEBU_ARGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.asturias",
+    "code": "PH_07_CEBU_ASTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.balamban",
+    "code": "PH_07_CEBU_BALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.borbon",
+    "code": "PH_07_CEBU_BORB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.carmen",
+    "code": "PH_07_CEBU_CARM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.catmon",
+    "code": "PH_07_CEBU_CATM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.cebucity",
+    "code": "PH_07_CEBU_CECI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.cityofbogo",
+    "code": "PH_07_CEBU_COB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.cityofcarcar",
+    "code": "PH_07_CEBU_COC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.cityofnaga",
+    "code": "PH_07_CEBU_CON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.cityoftalisay",
+    "code": "PH_07_CEBU_COT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.compostela",
+    "code": "PH_07_CEBU_COMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.consolacion",
+    "code": "PH_07_CEBU_CONS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.cordova",
+    "code": "PH_07_CEBU_CORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.daanbantayan",
+    "code": "PH_07_CEBU_DAAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.danaocity",
+    "code": "PH_07_CEBU_DACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.ginatilan",
+    "code": "PH_07_CEBU_GINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.liloan",
+    "code": "PH_07_CEBU_LILO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.madridejos",
+    "code": "PH_07_CEBU_MADR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.malabuyoc",
+    "code": "PH_07_CEBU_MALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.mandauecity",
+    "code": "PH_07_CEBU_MACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.medellin",
+    "code": "PH_07_CEBU_MEDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.minglanilla",
+    "code": "PH_07_CEBU_MING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.moalboal",
+    "code": "PH_07_CEBU_MOAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.pilar",
+    "code": "PH_07_CEBU_PILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.poro",
+    "code": "PH_07_CEBU_PORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.samboan",
+    "code": "PH_07_CEBU_SAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.sanfrancisco",
+    "code": "PH_07_CEBU_SAFR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.sanremigio",
+    "code": "PH_07_CEBU_SARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.santander",
+    "code": "PH_07_CEBU_SANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.tabuelan",
+    "code": "PH_07_CEBU_TABU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.toledocity",
+    "code": "PH_07_CEBU_TOCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.tudela",
+    "code": "PH_07_CEBU_TUDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.bantayan",
+    "code": "PH_07_CEBU_BANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.lapulapucity",
+    "code": "PH_07_CEBU_LACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.pinamungahan",
+    "code": "PH_07_CEBU_PINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.sagaycity",
+    "code": "PH_07_CEBU_SACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.sanfernando",
+    "code": "PH_07_CEBU_SAFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.sogod",
+    "code": "PH_07_CEBU_SOGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.tabogon",
+    "code": "PH_07_CEBU_TABO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.cebu.tuburan",
+    "code": "PH_07_CEBU_TUBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_CEBU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.amlan",
+    "code": "PH_07_NEOR_AMLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.bacong",
+    "code": "PH_07_NEOR_BACO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.basay",
+    "code": "PH_07_NEOR_BASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.canlaoncity",
+    "code": "PH_07_NEOR_CACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.cityofbayawan",
+    "code": "PH_07_NEOR_COB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.cityoftanjay",
+    "code": "PH_07_NEOR_COT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.dumaguetecity",
+    "code": "PH_07_NEOR_DUCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.jimalalud",
+    "code": "PH_07_NEOR_JIMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.lalibertad",
+    "code": "PH_07_NEOR_LALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.mabinay",
+    "code": "PH_07_NEOR_MABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.manjuyod",
+    "code": "PH_07_NEOR_MANJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.pamplona",
+    "code": "PH_07_NEOR_PAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.sanjose",
+    "code": "PH_07_NEOR_SAJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.santacatalina",
+    "code": "PH_07_NEOR_SACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.siaton",
+    "code": "PH_07_NEOR_SIAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.sibulan",
+    "code": "PH_07_NEOR_SIBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.tayasan",
+    "code": "PH_07_NEOR_TAYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.valencia",
+    "code": "PH_07_NEOR_VALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.zamboanguita",
+    "code": "PH_07_NEOR_ZAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.ayungon",
+    "code": "PH_07_NEOR_AYUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.badian",
+    "code": "PH_07_NEOR_BADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.baiscity",
+    "code": "PH_07_NEOR_BACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.bindoy",
+    "code": "PH_07_NEOR_BIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.boljoon",
+    "code": "PH_07_NEOR_BOLJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.dalaguete",
+    "code": "PH_07_NEOR_DALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.oslob",
+    "code": "PH_07_NEOR_OSLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.negrosoriental.ronda",
+    "code": "PH_07_NEOR_ROND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_NEOR"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.siquijor.enriquevillanueva",
+    "code": "PH_07_SIQU_ENVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_SIQU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.siquijor.lazi",
+    "code": "PH_07_SIQU_LAZI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_SIQU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.siquijor.sanjuan",
+    "code": "PH_07_SIQU_SAJU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_SIQU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.siquijor.dauin",
+    "code": "PH_07_SIQU_DAUI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_SIQU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.siquijor.larena",
+    "code": "PH_07_SIQU_LARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_SIQU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.siquijor.maria",
+    "code": "PH_07_SIQU_MARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_SIQU"
+  },
+  {
+    "tenantId": "philippines.centralvisayas.siquijor.siquijor",
+    "code": "PH_07_SIQU_SIQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_07_SIQU"
+  }
+]

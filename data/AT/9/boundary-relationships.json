@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "austria.wien",
+    "code": "AT_9",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "AT"
+  },
+  {
+    "tenantId": "austria.wien.wienstadt",
+    "code": "AT_9_WIEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_9"
+  },
+  {
+    "tenantId": "austria.wien.wienstadt.wien",
+    "code": "AT_9_WIEN_WIEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_9_WIEN"
+  }
+]

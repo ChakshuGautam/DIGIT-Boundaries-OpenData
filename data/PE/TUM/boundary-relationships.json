@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "peru.tumbes",
+    "code": "PE_TUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PE"
+  },
+  {
+    "tenantId": "peru.tumbes.contralmirantevillar",
+    "code": "PE_TUM_COVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_TUM"
+  },
+  {
+    "tenantId": "peru.tumbes.tumbes",
+    "code": "PE_TUM_TUMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_TUM"
+  },
+  {
+    "tenantId": "peru.tumbes.zarumilla",
+    "code": "PE_TUM_ZARU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_TUM"
+  }
+]

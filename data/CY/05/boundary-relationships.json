@@ -1,0 +1,884 @@
+[
+  {
+    "tenantId": "cyprus.paphos",
+    "code": "CY_05",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CY"
+  },
+  {
+    "tenantId": "cyprus.paphos.livadi",
+    "code": "CY_05_LIVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.lysos",
+    "code": "CY_05_LYSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.panopanagia",
+    "code": "CY_05_PAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.vretsia",
+    "code": "CY_05_VRET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.neadimmata",
+    "code": "CY_05_NEDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.agiamarinachrysochous",
+    "code": "CY_05_AMC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.gialia",
+    "code": "CY_05_GIAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.argaka",
+    "code": "CY_05_ARGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.agiosioannispafou",
+    "code": "CY_05_AIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.agiosnikolaospafou",
+    "code": "CY_05_ANP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.arminou",
+    "code": "CY_05_ARMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.filousakelokedaron",
+    "code": "CY_05_FIKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.makounta",
+    "code": "CY_05_MAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.polis",
+    "code": "CY_05_POLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.pelathousa",
+    "code": "CY_05_PELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.agiosisidoros",
+    "code": "CY_05_AGIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.karamoullides",
+    "code": "CY_05_KARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.chrysochou",
+    "code": "CY_05_CHRY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.steni",
+    "code": "CY_05_STEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.peristeronapafou",
+    "code": "CY_05_PEPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.meladeia",
+    "code": "CY_05_MELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.melandra",
+    "code": "CY_05_MELA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.zacharia",
+    "code": "CY_05_ZACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.skoulli",
+    "code": "CY_05_SKOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.choli",
+    "code": "CY_05_CHOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.tera",
+    "code": "CY_05_TERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.praitori",
+    "code": "CY_05_PRAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.trimithousa",
+    "code": "CY_05_TRIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.filousachrysochous",
+    "code": "CY_05_FICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.kios",
+    "code": "CY_05_KIOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.sarama",
+    "code": "CY_05_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.anadiou",
+    "code": "CY_05_ANAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.kritoumarottou",
+    "code": "CY_05_KRMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.asprogia",
+    "code": "CY_05_ASPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.mamountali",
+    "code": "CY_05_MAMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.neochoriopafou",
+    "code": "CY_05_NCP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.androlikou",
+    "code": "CY_05_ANDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.fasli",
+    "code": "CY_05_FASL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.drouseia",
+    "code": "CY_05_DROU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.ineia",
+    "code": "CY_05_INEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.katoarodes",
+    "code": "CY_05_KAAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.pegeia",
+    "code": "CY_05_PEGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.kritoutera",
+    "code": "CY_05_KRTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.katoakourdaleia",
+    "code": "CY_05_KAAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.evretou",
+    "code": "CY_05_EVRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.panoarodes",
+    "code": "CY_05_PAAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.panoakourdaleia",
+    "code": "CY_05_PAAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.loukrounou",
+    "code": "CY_05_LOUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.miliou",
+    "code": "CY_05_MILI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.simou",
+    "code": "CY_05_SIMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.giolou",
+    "code": "CY_05_GIOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.theletra",
+    "code": "CY_05_THEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.drymou",
+    "code": "CY_05_DRYM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.lasa",
+    "code": "CY_05_LASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.fyti",
+    "code": "CY_05_FYTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.miliapafou",
+    "code": "CY_05_MIPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.psathi",
+    "code": "CY_05_PSAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.agiosdimitrianos",
+    "code": "CY_05_AGDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.thrinia",
+    "code": "CY_05_THRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.kannaviou",
+    "code": "CY_05_KANN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.lapithiou",
+    "code": "CY_05_LAPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.kathikas",
+    "code": "CY_05_KATH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.akoursos",
+    "code": "CY_05_AKOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.stroumpi",
+    "code": "CY_05_STRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.polemi",
+    "code": "CY_05_POLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.choulou",
+    "code": "CY_05_CHOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.statosagiosfotios",
+    "code": "CY_05_SAF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.koilineia",
+    "code": "CY_05_KOIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.kissonerga",
+    "code": "CY_05_KISS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.lempa",
+    "code": "CY_05_LEMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.chloraka",
+    "code": "CY_05_CHLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.kedares",
+    "code": "CY_05_KEDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.mesana",
+    "code": "CY_05_MESA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.paphos",
+    "code": "CY_05_PAPH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.geroskipou",
+    "code": "CY_05_GERO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.koili",
+    "code": "CY_05_KOIL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.acheleia",
+    "code": "CY_05_ACHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.tala",
+    "code": "CY_05_TALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.empa",
+    "code": "CY_05_EMPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.trimithousa",
+    "code": "CY_05_TRIM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.mesogi",
+    "code": "CY_05_MESO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.galataria",
+    "code": "CY_05_GALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.kallepeia",
+    "code": "CY_05_KALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.kourdaka",
+    "code": "CY_05_KOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.letymvou",
+    "code": "CY_05_LETY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.tsada",
+    "code": "CY_05_TSAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.mesachorio",
+    "code": "CY_05_MECH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.pitargou",
+    "code": "CY_05_PITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.lemona",
+    "code": "CY_05_LEMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.faleia",
+    "code": "CY_05_FALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.konia",
+    "code": "CY_05_KONI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.armou",
+    "code": "CY_05_ARMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.agiamarinouda",
+    "code": "CY_05_AGMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.marathounta",
+    "code": "CY_05_MARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.episkopipafou",
+    "code": "CY_05_EPPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.axylou",
+    "code": "CY_05_AXYL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.eledio",
+    "code": "CY_05_ELED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.amargeti",
+    "code": "CY_05_AMAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.pentalia",
+    "code": "CY_05_PENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.timi",
+    "code": "CY_05_TIMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.mandriapafou",
+    "code": "CY_05_MAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.agiavarvarapafou",
+    "code": "CY_05_AVP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.ayiamarinakelokedharon",
+    "code": "CY_05_AMK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.nata",
+    "code": "CY_05_NATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.salamiou",
+    "code": "CY_05_SALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.kidasi",
+    "code": "CY_05_KIDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.kelokedara",
+    "code": "CY_05_KELO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.stavrokonnou",
+    "code": "CY_05_STAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.anarita",
+    "code": "CY_05_ANAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.koukliapafou",
+    "code": "CY_05_KOPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.nikokleia",
+    "code": "CY_05_NIKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.foinikas",
+    "code": "CY_05_FOIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.choletria",
+    "code": "CY_05_CHOL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.panoarchimandrita",
+    "code": "CY_05_PAAR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.souskiou",
+    "code": "CY_05_SOUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.fasoulapafou",
+    "code": "CY_05_FAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.mamonia",
+    "code": "CY_05_MAMO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.maronas",
+    "code": "CY_05_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.mousere",
+    "code": "CY_05_MOUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.agiosgeorgios",
+    "code": "CY_05_AGGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.trachypedoula",
+    "code": "CY_05_TRAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.prastiopafou",
+    "code": "CY_05_PRPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.goudi",
+    "code": "CY_05_GOUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.pomos",
+    "code": "CY_05_POMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  },
+  {
+    "tenantId": "cyprus.paphos.kynousa",
+    "code": "CY_05_KYNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CY_05"
+  }
+]

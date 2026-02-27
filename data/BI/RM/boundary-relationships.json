@@ -1,0 +1,695 @@
+[
+  {
+    "tenantId": "burundi.rumonge",
+    "code": "BI_RM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BI"
+  },
+  {
+    "tenantId": "burundi.rumonge.buyengero",
+    "code": "BI_RM_BUYE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BI_RM"
+  },
+  {
+    "tenantId": "burundi.rumonge.bugarama",
+    "code": "BI_RM_BUGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BI_RM"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge",
+    "code": "BI_RM_RUMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BI_RM"
+  },
+  {
+    "tenantId": "burundi.rumonge.burambi",
+    "code": "BI_RM_BURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BI_RM"
+  },
+  {
+    "tenantId": "burundi.rumonge.muhuta",
+    "code": "BI_RM_MUHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BI_RM"
+  },
+  {
+    "tenantId": "burundi.rumonge.buyengero.kirama",
+    "code": "BI_RM_BUYE_KIRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUYE"
+  },
+  {
+    "tenantId": "burundi.rumonge.buyengero.muhanda",
+    "code": "BI_RM_BUYE_MUHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUYE"
+  },
+  {
+    "tenantId": "burundi.rumonge.buyengero.gasebeyi",
+    "code": "BI_RM_BUYE_GASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUYE"
+  },
+  {
+    "tenantId": "burundi.rumonge.buyengero.mudende",
+    "code": "BI_RM_BUYE_MUDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUYE"
+  },
+  {
+    "tenantId": "burundi.rumonge.buyengero.sebeyi",
+    "code": "BI_RM_BUYE_SEBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUYE"
+  },
+  {
+    "tenantId": "burundi.rumonge.buyengero.kinama",
+    "code": "BI_RM_BUYE_KINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUYE"
+  },
+  {
+    "tenantId": "burundi.rumonge.buyengero.runyinya",
+    "code": "BI_RM_BUYE_RUNY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUYE"
+  },
+  {
+    "tenantId": "burundi.rumonge.buyengero.mabanza",
+    "code": "BI_RM_BUYE_MABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUYE"
+  },
+  {
+    "tenantId": "burundi.rumonge.buyengero.nkizi",
+    "code": "BI_RM_BUYE_NKIZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUYE"
+  },
+  {
+    "tenantId": "burundi.rumonge.buyengero.kanyinya",
+    "code": "BI_RM_BUYE_KANY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUYE"
+  },
+  {
+    "tenantId": "burundi.rumonge.buyengero.karambi",
+    "code": "BI_RM_BUYE_KARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUYE"
+  },
+  {
+    "tenantId": "burundi.rumonge.buyengero.banda",
+    "code": "BI_RM_BUYE_BAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUYE"
+  },
+  {
+    "tenantId": "burundi.rumonge.buyengero.mujigo",
+    "code": "BI_RM_BUYE_MUJI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUYE"
+  },
+  {
+    "tenantId": "burundi.rumonge.buyengero.nyamurenga",
+    "code": "BI_RM_BUYE_NYAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUYE"
+  },
+  {
+    "tenantId": "burundi.rumonge.buyengero.nyakabuko",
+    "code": "BI_RM_BUYE_NYAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUYE"
+  },
+  {
+    "tenantId": "burundi.rumonge.buyengero.rubirizi",
+    "code": "BI_RM_BUYE_RUBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUYE"
+  },
+  {
+    "tenantId": "burundi.rumonge.buyengero.gitsinda",
+    "code": "BI_RM_BUYE_GITS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUYE"
+  },
+  {
+    "tenantId": "burundi.rumonge.bugarama.magara",
+    "code": "BI_RM_BUGA_MAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUGA"
+  },
+  {
+    "tenantId": "burundi.rumonge.bugarama.mugendo",
+    "code": "BI_RM_BUGA_MUGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUGA"
+  },
+  {
+    "tenantId": "burundi.rumonge.bugarama.burangwa",
+    "code": "BI_RM_BUGA_BURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUGA"
+  },
+  {
+    "tenantId": "burundi.rumonge.bugarama.bugarama",
+    "code": "BI_RM_BUGA_BUGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUGA"
+  },
+  {
+    "tenantId": "burundi.rumonge.bugarama.kagoma",
+    "code": "BI_RM_BUGA_KAGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUGA"
+  },
+  {
+    "tenantId": "burundi.rumonge.bugarama.kayombe",
+    "code": "BI_RM_BUGA_KAYO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUGA"
+  },
+  {
+    "tenantId": "burundi.rumonge.bugarama.nyabungere",
+    "code": "BI_RM_BUGA_NYAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUGA"
+  },
+  {
+    "tenantId": "burundi.rumonge.bugarama.gitwaro",
+    "code": "BI_RM_BUGA_GITW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUGA"
+  },
+  {
+    "tenantId": "burundi.rumonge.bugarama.cashi",
+    "code": "BI_RM_BUGA_CASH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUGA"
+  },
+  {
+    "tenantId": "burundi.rumonge.bugarama.nyangushwe",
+    "code": "BI_RM_BUGA_NYAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUGA"
+  },
+  {
+    "tenantId": "burundi.rumonge.bugarama.gahuni",
+    "code": "BI_RM_BUGA_GAHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUGA"
+  },
+  {
+    "tenantId": "burundi.rumonge.bugarama.mihongoro",
+    "code": "BI_RM_BUGA_MIHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUGA"
+  },
+  {
+    "tenantId": "burundi.rumonge.bugarama.kizuga",
+    "code": "BI_RM_BUGA_KIZU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUGA"
+  },
+  {
+    "tenantId": "burundi.rumonge.bugarama.janda",
+    "code": "BI_RM_BUGA_JAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUGA"
+  },
+  {
+    "tenantId": "burundi.rumonge.bugarama.saga",
+    "code": "BI_RM_BUGA_SAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BUGA"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge.kizuka",
+    "code": "BI_RM_RUMO_KIZU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_RUMO"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge.mwange",
+    "code": "BI_RM_RUMO_MWAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_RUMO"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge.gatwe",
+    "code": "BI_RM_RUMO_GATW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_RUMO"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge.centreurbain",
+    "code": "BI_RM_RUMO_CENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_RUMO"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge.mutambara",
+    "code": "BI_RM_RUMO_MUTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_RUMO"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge.rukinga",
+    "code": "BI_RM_RUMO_RUKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_RUMO"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge.rumonge",
+    "code": "BI_RM_RUMO_RUMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_RUMO"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge.kagongo",
+    "code": "BI_RM_RUMO_KAGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_RUMO"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge.mibanda",
+    "code": "BI_RM_RUMO_MIBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_RUMO"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge.minago",
+    "code": "BI_RM_RUMO_MINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_RUMO"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge.gatete",
+    "code": "BI_RM_RUMO_GATE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_RUMO"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge.mugara",
+    "code": "BI_RM_RUMO_MUGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_RUMO"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge.kashasha",
+    "code": "BI_RM_RUMO_KASH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_RUMO"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge.cabara",
+    "code": "BI_RM_RUMO_CABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_RUMO"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge.gitwe",
+    "code": "BI_RM_RUMO_GITW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_RUMO"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge.karagara",
+    "code": "BI_RM_RUMO_KARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_RUMO"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge.muturirwa",
+    "code": "BI_RM_RUMO_MUTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_RUMO"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge.rutumo",
+    "code": "BI_RM_RUMO_RUTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_RUMO"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge.karonke",
+    "code": "BI_RM_RUMO_KARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_RUMO"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge.muhuzu",
+    "code": "BI_RM_RUMO_MUHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_RUMO"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge.kanenge",
+    "code": "BI_RM_RUMO_KANE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_RUMO"
+  },
+  {
+    "tenantId": "burundi.rumonge.rumonge.murambi",
+    "code": "BI_RM_RUMO_MURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_RUMO"
+  },
+  {
+    "tenantId": "burundi.rumonge.burambi.busaga",
+    "code": "BI_RM_BURA_BUSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BURA"
+  },
+  {
+    "tenantId": "burundi.rumonge.burambi.bisaka",
+    "code": "BI_RM_BURA_BISA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BURA"
+  },
+  {
+    "tenantId": "burundi.rumonge.burambi.gahinda",
+    "code": "BI_RM_BURA_GAHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BURA"
+  },
+  {
+    "tenantId": "burundi.rumonge.burambi.gitaramuka",
+    "code": "BI_RM_BURA_GITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BURA"
+  },
+  {
+    "tenantId": "burundi.rumonge.burambi.rwaniro",
+    "code": "BI_RM_BURA_RWAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BURA"
+  },
+  {
+    "tenantId": "burundi.rumonge.burambi.gatobo",
+    "code": "BI_RM_BURA_GATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BURA"
+  },
+  {
+    "tenantId": "burundi.rumonge.burambi.gitongwe",
+    "code": "BI_RM_BURA_GITO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BURA"
+  },
+  {
+    "tenantId": "burundi.rumonge.burambi.gitaba",
+    "code": "BI_RM_BURA_GITA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BURA"
+  },
+  {
+    "tenantId": "burundi.rumonge.burambi.gakonko",
+    "code": "BI_RM_BURA_GAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BURA"
+  },
+  {
+    "tenantId": "burundi.rumonge.burambi.murara",
+    "code": "BI_RM_BURA_MURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BURA"
+  },
+  {
+    "tenantId": "burundi.rumonge.burambi.murenge",
+    "code": "BI_RM_BURA_MURE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BURA"
+  },
+  {
+    "tenantId": "burundi.rumonge.burambi.muzi",
+    "code": "BI_RM_BURA_MUZI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BURA"
+  },
+  {
+    "tenantId": "burundi.rumonge.burambi.busura",
+    "code": "BI_RM_BURA_BUSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BURA"
+  },
+  {
+    "tenantId": "burundi.rumonge.burambi.rutwenzi",
+    "code": "BI_RM_BURA_RUTW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BURA"
+  },
+  {
+    "tenantId": "burundi.rumonge.burambi.rumonyi",
+    "code": "BI_RM_BURA_RUMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BURA"
+  },
+  {
+    "tenantId": "burundi.rumonge.burambi.buhinyuza",
+    "code": "BI_RM_BURA_BUHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BURA"
+  },
+  {
+    "tenantId": "burundi.rumonge.burambi.buyenzi",
+    "code": "BI_RM_BURA_BUYE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BURA"
+  },
+  {
+    "tenantId": "burundi.rumonge.burambi.maramvya",
+    "code": "BI_RM_BURA_MARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BURA"
+  },
+  {
+    "tenantId": "burundi.rumonge.burambi.magana",
+    "code": "BI_RM_BURA_MAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BURA"
+  },
+  {
+    "tenantId": "burundi.rumonge.burambi.gishiha",
+    "code": "BI_RM_BURA_GISH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BURA"
+  },
+  {
+    "tenantId": "burundi.rumonge.burambi.gisenyi",
+    "code": "BI_RM_BURA_GISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_BURA"
+  },
+  {
+    "tenantId": "burundi.rumonge.muhuta.kibingo",
+    "code": "BI_RM_MUHU_KIBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_MUHU"
+  },
+  {
+    "tenantId": "burundi.rumonge.muhuta.mubone",
+    "code": "BI_RM_MUHU_MUBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_MUHU"
+  },
+  {
+    "tenantId": "burundi.rumonge.muhuta.muhuta",
+    "code": "BI_RM_MUHU_MUHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_MUHU"
+  },
+  {
+    "tenantId": "burundi.rumonge.muhuta.rutunga",
+    "code": "BI_RM_MUHU_RUTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_MUHU"
+  },
+  {
+    "tenantId": "burundi.rumonge.muhuta.mubanga",
+    "code": "BI_RM_MUHU_MUBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_MUHU"
+  },
+  {
+    "tenantId": "burundi.rumonge.muhuta.nyabway",
+    "code": "BI_RM_MUHU_NYAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_MUHU"
+  },
+  {
+    "tenantId": "burundi.rumonge.muhuta.kinyovu",
+    "code": "BI_RM_MUHU_KINY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_MUHU"
+  },
+  {
+    "tenantId": "burundi.rumonge.muhuta.rutongo",
+    "code": "BI_RM_MUHU_RUTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_MUHU"
+  },
+  {
+    "tenantId": "burundi.rumonge.muhuta.murago",
+    "code": "BI_RM_MUHU_MURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_MUHU"
+  },
+  {
+    "tenantId": "burundi.rumonge.muhuta.gitaza",
+    "code": "BI_RM_MUHU_GITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_MUHU"
+  },
+  {
+    "tenantId": "burundi.rumonge.muhuta.gitunda",
+    "code": "BI_RM_MUHU_GITU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_MUHU"
+  },
+  {
+    "tenantId": "burundi.rumonge.muhuta.rubura",
+    "code": "BI_RM_MUHU_RUBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_MUHU"
+  },
+  {
+    "tenantId": "burundi.rumonge.muhuta.gasebeyi",
+    "code": "BI_RM_MUHU_GASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_MUHU"
+  },
+  {
+    "tenantId": "burundi.rumonge.muhuta.canda",
+    "code": "BI_RM_MUHU_CAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_MUHU"
+  },
+  {
+    "tenantId": "burundi.rumonge.muhuta.busenga",
+    "code": "BI_RM_MUHU_BUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_MUHU"
+  },
+  {
+    "tenantId": "burundi.rumonge.muhuta.gihondo",
+    "code": "BI_RM_MUHU_GIHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_MUHU"
+  },
+  {
+    "tenantId": "burundi.rumonge.muhuta.higiro",
+    "code": "BI_RM_MUHU_HIGI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_MUHU"
+  },
+  {
+    "tenantId": "burundi.rumonge.muhuta.burazi",
+    "code": "BI_RM_MUHU_BURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RM_MUHU"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "rwanda",
+    "code": "RW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "rwanda.cityofkigali",
+    "code": "RW_01",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "RW"
+  },
+  {
+    "tenantId": "rwanda.southernprovince",
+    "code": "RW_05",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "RW"
+  },
+  {
+    "tenantId": "rwanda.northernprovince",
+    "code": "RW_03",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "RW"
+  },
+  {
+    "tenantId": "rwanda.easternprovince",
+    "code": "RW_02",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "RW"
+  },
+  {
+    "tenantId": "rwanda.westernprovince",
+    "code": "RW_04",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "RW"
+  }
+]

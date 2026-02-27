@@ -1,0 +1,331 @@
+[
+  {
+    "tenantId": "jamaica.kingston",
+    "code": "JM_01",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "JM"
+  },
+  {
+    "tenantId": "jamaica.kingston.allmantown",
+    "code": "JM_01_ALTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.newporteast",
+    "code": "JM_01_NEEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.hannahtowncraigtown",
+    "code": "JM_01_HTCT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.fletchersland",
+    "code": "JM_01_FLLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.campbelltown",
+    "code": "JM_01_CATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.daguilartownrennocklodge",
+    "code": "JM_01_DTRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.normangardens",
+    "code": "JM_01_NOGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.rollingtontown",
+    "code": "JM_01_ROTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.johnsontown",
+    "code": "JM_01_JOTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.kingstongardens",
+    "code": "JM_01_KIGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.denhamtown",
+    "code": "JM_01_DETO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.franklyntown",
+    "code": "JM_01_FRTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.newtonsquare",
+    "code": "JM_01_NESQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.tivoligardens",
+    "code": "JM_01_TIGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.centraldowntown",
+    "code": "JM_01_CDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.eastdowntown",
+    "code": "JM_01_EDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.passmoretown",
+    "code": "JM_01_PATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.westdowntown",
+    "code": "JM_01_WDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.springfield",
+    "code": "JM_01_SPRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.bournemouthgardens",
+    "code": "JM_01_BOGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.manleymeadows",
+    "code": "JM_01_MAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.raetown",
+    "code": "JM_01_RATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.southside",
+    "code": "JM_01_SOUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JM_01"
+  },
+  {
+    "tenantId": "jamaica.kingston.allmantown.allmantown",
+    "code": "JM_01_ALTO_ALTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_ALTO"
+  },
+  {
+    "tenantId": "jamaica.kingston.newporteast.newporteast",
+    "code": "JM_01_NEEA_NEEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_NEEA"
+  },
+  {
+    "tenantId": "jamaica.kingston.hannahtowncraigtown.hannahtowncraigtown",
+    "code": "JM_01_HTCT_HTCT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_HTCT"
+  },
+  {
+    "tenantId": "jamaica.kingston.fletchersland.fletchersland",
+    "code": "JM_01_FLLA_FLLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_FLLA"
+  },
+  {
+    "tenantId": "jamaica.kingston.campbelltown.campbelltown",
+    "code": "JM_01_CATO_CATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_CATO"
+  },
+  {
+    "tenantId": "jamaica.kingston.daguilartownrennocklodge.daguilartownrennocklodge",
+    "code": "JM_01_DTRL_DTRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_DTRL"
+  },
+  {
+    "tenantId": "jamaica.kingston.normangardens.normangardens",
+    "code": "JM_01_NOGA_NOGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_NOGA"
+  },
+  {
+    "tenantId": "jamaica.kingston.rollingtontown.rollingtontown",
+    "code": "JM_01_ROTO_ROTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_ROTO"
+  },
+  {
+    "tenantId": "jamaica.kingston.johnsontown.johnsontown",
+    "code": "JM_01_JOTO_JOTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_JOTO"
+  },
+  {
+    "tenantId": "jamaica.kingston.kingstongardens.kingstongardens",
+    "code": "JM_01_KIGA_KIGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_KIGA"
+  },
+  {
+    "tenantId": "jamaica.kingston.denhamtown.denhamtown",
+    "code": "JM_01_DETO_DETO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_DETO"
+  },
+  {
+    "tenantId": "jamaica.kingston.franklyntown.franklyntown",
+    "code": "JM_01_FRTO_FRTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_FRTO"
+  },
+  {
+    "tenantId": "jamaica.kingston.newtonsquare.newtonsquare",
+    "code": "JM_01_NESQ_NESQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_NESQ"
+  },
+  {
+    "tenantId": "jamaica.kingston.tivoligardens.tivoligardens",
+    "code": "JM_01_TIGA_TIGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_TIGA"
+  },
+  {
+    "tenantId": "jamaica.kingston.centraldowntown.centraldowntown",
+    "code": "JM_01_CDT_CDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_CDT"
+  },
+  {
+    "tenantId": "jamaica.kingston.eastdowntown.eastdowntown",
+    "code": "JM_01_EDT_EDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_EDT"
+  },
+  {
+    "tenantId": "jamaica.kingston.passmoretown.passmoretown",
+    "code": "JM_01_PATO_PATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_PATO"
+  },
+  {
+    "tenantId": "jamaica.kingston.westdowntown.westdowntown",
+    "code": "JM_01_WDT_WDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_WDT"
+  },
+  {
+    "tenantId": "jamaica.kingston.springfield.springfield",
+    "code": "JM_01_SPRI_SPRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_SPRI"
+  },
+  {
+    "tenantId": "jamaica.kingston.bournemouthgardens.bournemouthgardens",
+    "code": "JM_01_BOGA_BOGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_BOGA"
+  },
+  {
+    "tenantId": "jamaica.kingston.manleymeadows.manleymeadows",
+    "code": "JM_01_MAME_MAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_MAME"
+  },
+  {
+    "tenantId": "jamaica.kingston.raetown.raetown",
+    "code": "JM_01_RATO_RATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_RATO"
+  },
+  {
+    "tenantId": "jamaica.kingston.southside.southside",
+    "code": "JM_01_SOUT_SOUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "JM_01_SOUT"
+  }
+]

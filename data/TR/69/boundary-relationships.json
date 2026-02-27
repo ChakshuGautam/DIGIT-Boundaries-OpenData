@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "turkey.bayburt",
+    "code": "TR_69",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TR"
+  },
+  {
+    "tenantId": "turkey.bayburt.bayburtmerkez",
+    "code": "TR_69_BAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TR_69"
+  },
+  {
+    "tenantId": "turkey.bayburt.demirz",
+    "code": "TR_69_DEMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TR_69"
+  },
+  {
+    "tenantId": "turkey.bayburt.aydntepe",
+    "code": "TR_69_AYDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TR_69"
+  }
+]

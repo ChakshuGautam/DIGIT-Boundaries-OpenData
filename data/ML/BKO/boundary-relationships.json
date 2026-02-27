@@ -1,0 +1,72 @@
+[
+  {
+    "tenantId": "mali.bamako",
+    "code": "ML_BKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "ML"
+  },
+  {
+    "tenantId": "mali.bamako.bamako",
+    "code": "ML_BKO_BAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ML_BKO"
+  },
+  {
+    "tenantId": "mali.bamako.bamako.kalabancoro",
+    "code": "ML_BKO_BAMA_KALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_BKO_BAMA"
+  },
+  {
+    "tenantId": "mali.bamako.bamako.dogodouman",
+    "code": "ML_BKO_BAMA_DOGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_BKO_BAMA"
+  },
+  {
+    "tenantId": "mali.bamako.bamako.communeiv",
+    "code": "ML_BKO_BAMA_COIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_BKO_BAMA"
+  },
+  {
+    "tenantId": "mali.bamako.bamako.communeiii",
+    "code": "ML_BKO_BAMA_COII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_BKO_BAMA"
+  },
+  {
+    "tenantId": "mali.bamako.bamako.communeii",
+    "code": "ML_BKO_BAMA_COII2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_BKO_BAMA"
+  },
+  {
+    "tenantId": "mali.bamako.bamako.communevi",
+    "code": "ML_BKO_BAMA_COVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_BKO_BAMA"
+  },
+  {
+    "tenantId": "mali.bamako.bamako.communei",
+    "code": "ML_BKO_BAMA_COI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_BKO_BAMA"
+  },
+  {
+    "tenantId": "mali.bamako.bamako.communev",
+    "code": "ML_BKO_BAMA_COV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_BKO_BAMA"
+  }
+]

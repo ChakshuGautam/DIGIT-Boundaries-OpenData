@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "slovenia",
+    "code": "SI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "slovenia.vzhodna",
+    "code": "SI_VZHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SI"
+  },
+  {
+    "tenantId": "slovenia.zahodnaslovenija",
+    "code": "SI_ZASL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SI"
+  }
+]

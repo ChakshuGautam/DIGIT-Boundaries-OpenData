@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "unitedstatesofamerica.rhodeisland",
+    "code": "US_RI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "US"
+  },
+  {
+    "tenantId": "unitedstatesofamerica.rhodeisland.washington",
+    "code": "US_RI_WASH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "US_RI"
+  },
+  {
+    "tenantId": "unitedstatesofamerica.rhodeisland.kent",
+    "code": "US_RI_KENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "US_RI"
+  },
+  {
+    "tenantId": "unitedstatesofamerica.rhodeisland.bristol",
+    "code": "US_RI_BRIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "US_RI"
+  },
+  {
+    "tenantId": "unitedstatesofamerica.rhodeisland.providence",
+    "code": "US_RI_PROV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "US_RI"
+  },
+  {
+    "tenantId": "unitedstatesofamerica.rhodeisland.newport",
+    "code": "US_RI_NEWP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "US_RI"
+  }
+]

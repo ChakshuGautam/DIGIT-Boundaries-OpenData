@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "chad.moyenchari",
+    "code": "TD_MC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TD"
+  },
+  {
+    "tenantId": "chad.moyenchari.grandesido",
+    "code": "TD_MC_GRSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_MC"
+  },
+  {
+    "tenantId": "chad.moyenchari.laciro",
+    "code": "TD_MC_LAIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_MC"
+  },
+  {
+    "tenantId": "chad.moyenchari.bahrkh",
+    "code": "TD_MC_BAHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_MC"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "dominicanrepublic.dajabn",
+    "code": "DO_05",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "DO"
+  },
+  {
+    "tenantId": "dominicanrepublic.dajabn.dajabn",
+    "code": "DO_05_DAJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DO_05"
+  },
+  {
+    "tenantId": "dominicanrepublic.dajabn.elpino",
+    "code": "DO_05_ELPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DO_05"
+  },
+  {
+    "tenantId": "dominicanrepublic.dajabn.lomadecabrera",
+    "code": "DO_05_LDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DO_05"
+  },
+  {
+    "tenantId": "dominicanrepublic.dajabn.partido",
+    "code": "DO_05_PART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DO_05"
+  },
+  {
+    "tenantId": "dominicanrepublic.dajabn.restauracin",
+    "code": "DO_05_REST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DO_05"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "ecuador.orellana",
+    "code": "EC_D*",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "EC"
+  },
+  {
+    "tenantId": "ecuador.orellana.aguarico",
+    "code": "EC_D*_AGUA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EC_D*"
+  },
+  {
+    "tenantId": "ecuador.orellana.lajoyadelossachas",
+    "code": "EC_D*_LJDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EC_D*"
+  },
+  {
+    "tenantId": "ecuador.orellana.loreto",
+    "code": "EC_D*_LORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EC_D*"
+  },
+  {
+    "tenantId": "ecuador.orellana.orellana",
+    "code": "EC_D*_OREL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EC_D*"
+  }
+]

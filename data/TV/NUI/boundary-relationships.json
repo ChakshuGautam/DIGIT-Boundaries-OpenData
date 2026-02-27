@@ -1,0 +1,58 @@
+[
+  {
+    "tenantId": "tuvalu.nui",
+    "code": "TV_NUI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TV"
+  },
+  {
+    "tenantId": "tuvalu.nui.manutalake",
+    "code": "TV_NUI_MANU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TV_NUI"
+  },
+  {
+    "tenantId": "tuvalu.nui.alamoni",
+    "code": "TV_NUI_ALAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TV_NUI"
+  },
+  {
+    "tenantId": "tuvalu.nui.manutalake.unknown",
+    "code": "TV_NUI_MANU_4401",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NUI_MANU"
+  },
+  {
+    "tenantId": "tuvalu.nui.manutalake.unknown",
+    "code": "TV_NUI_MANU_44012",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NUI_MANU"
+  },
+  {
+    "tenantId": "tuvalu.nui.alamoni.unknown",
+    "code": "TV_NUI_ALAM_4402",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NUI_ALAM"
+  },
+  {
+    "tenantId": "tuvalu.nui.alamoni.unknown",
+    "code": "TV_NUI_ALAM_44022",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NUI_ALAM"
+  },
+  {
+    "tenantId": "tuvalu.nui.alamoni.unknown",
+    "code": "TV_NUI_ALAM_44023",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NUI_ALAM"
+  }
+]

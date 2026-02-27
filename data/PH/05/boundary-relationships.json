@@ -1,0 +1,835 @@
+[
+  {
+    "tenantId": "philippines.bicolregion",
+    "code": "PH_05",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "PH"
+  },
+  {
+    "tenantId": "philippines.bicolregion.albay",
+    "code": "PH_05_ALBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_05"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinesnorte",
+    "code": "PH_05_CANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_05"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur",
+    "code": "PH_05_CASU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_05"
+  },
+  {
+    "tenantId": "philippines.bicolregion.catanduanes",
+    "code": "PH_05_CATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_05"
+  },
+  {
+    "tenantId": "philippines.bicolregion.masbate",
+    "code": "PH_05_MASB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_05"
+  },
+  {
+    "tenantId": "philippines.bicolregion.sorsogon",
+    "code": "PH_05_SORS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_05"
+  },
+  {
+    "tenantId": "philippines.bicolregion.albay.bacacay",
+    "code": "PH_05_ALBA_BACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_ALBA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.albay.camalig",
+    "code": "PH_05_ALBA_CAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_ALBA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.albay.cityofligao",
+    "code": "PH_05_ALBA_COL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_ALBA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.albay.daraga",
+    "code": "PH_05_ALBA_DARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_ALBA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.albay.guinobatan",
+    "code": "PH_05_ALBA_GUIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_ALBA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.albay.jovellar",
+    "code": "PH_05_ALBA_JOVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_ALBA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.albay.legazpicity",
+    "code": "PH_05_ALBA_LECI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_ALBA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.albay.malinao",
+    "code": "PH_05_ALBA_MALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_ALBA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.albay.manito",
+    "code": "PH_05_ALBA_MANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_ALBA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.albay.oas",
+    "code": "PH_05_ALBA_OAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_ALBA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.albay.pioduran",
+    "code": "PH_05_ALBA_PIDU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_ALBA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.albay.polangui",
+    "code": "PH_05_ALBA_POLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_ALBA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.albay.rapurapu",
+    "code": "PH_05_ALBA_RAPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_ALBA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.albay.tiwi",
+    "code": "PH_05_ALBA_TIWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_ALBA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.albay.cityoftabaco",
+    "code": "PH_05_ALBA_COT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_ALBA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.albay.libon",
+    "code": "PH_05_ALBA_LIBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_ALBA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.albay.malilipot",
+    "code": "PH_05_ALBA_MALI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_ALBA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.albay.santodomingo",
+    "code": "PH_05_ALBA_SADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_ALBA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinesnorte.basud",
+    "code": "PH_05_CANO_BASU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CANO"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinesnorte.capalonga",
+    "code": "PH_05_CANO_CAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CANO"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinesnorte.daet",
+    "code": "PH_05_CANO_DAET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CANO"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinesnorte.labo",
+    "code": "PH_05_CANO_LABO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CANO"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinesnorte.sanlorenzoruiz",
+    "code": "PH_05_CANO_SLR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CANO"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinesnorte.sanvicente",
+    "code": "PH_05_CANO_SAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CANO"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinesnorte.santaelena",
+    "code": "PH_05_CANO_SAEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CANO"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinesnorte.talisay",
+    "code": "PH_05_CANO_TALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CANO"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinesnorte.guinayangan",
+    "code": "PH_05_CANO_GUIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CANO"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinesnorte.josepanganiban",
+    "code": "PH_05_CANO_JOPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CANO"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinesnorte.mercedes",
+    "code": "PH_05_CANO_MERC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CANO"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinesnorte.paracale",
+    "code": "PH_05_CANO_PARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CANO"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinesnorte.ragay",
+    "code": "PH_05_CANO_RAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CANO"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinesnorte.vinzons",
+    "code": "PH_05_CANO_VINZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CANO"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.baao",
+    "code": "PH_05_CASU_BAAO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.balatan",
+    "code": "PH_05_CASU_BALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.bato",
+    "code": "PH_05_CASU_BATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.bombon",
+    "code": "PH_05_CASU_BOMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.buhi",
+    "code": "PH_05_CASU_BUHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.bula",
+    "code": "PH_05_CASU_BULA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.cabusao",
+    "code": "PH_05_CASU_CABU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.camaligan",
+    "code": "PH_05_CASU_CAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.canaman",
+    "code": "PH_05_CASU_CANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.delgallego",
+    "code": "PH_05_CASU_DEGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.gainza",
+    "code": "PH_05_CASU_GAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.garchitorena",
+    "code": "PH_05_CASU_GARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.goa",
+    "code": "PH_05_CASU_GOA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.irigacity",
+    "code": "PH_05_CASU_IRCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.lagonoy",
+    "code": "PH_05_CASU_LAGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.libmanan",
+    "code": "PH_05_CASU_LIBM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.lupi",
+    "code": "PH_05_CASU_LUPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.magarao",
+    "code": "PH_05_CASU_MAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.milaor",
+    "code": "PH_05_CASU_MILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.minalabac",
+    "code": "PH_05_CASU_MINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.nabua",
+    "code": "PH_05_CASU_NABU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.nagacity",
+    "code": "PH_05_CASU_NACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.ocampo",
+    "code": "PH_05_CASU_OCAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.pamplona",
+    "code": "PH_05_CASU_PAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.pasacao",
+    "code": "PH_05_CASU_PASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.pili",
+    "code": "PH_05_CASU_PILI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.sanfernando",
+    "code": "PH_05_CASU_SAFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.sipocot",
+    "code": "PH_05_CASU_SIPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.siruma",
+    "code": "PH_05_CASU_SIRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.tigaon",
+    "code": "PH_05_CASU_TIGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.tinambac",
+    "code": "PH_05_CASU_TINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.calabanga",
+    "code": "PH_05_CASU_CALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.presentacion",
+    "code": "PH_05_CASU_PRES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.sagay",
+    "code": "PH_05_CASU_SAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.camarinessur.sanjose",
+    "code": "PH_05_CASU_SAJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CASU"
+  },
+  {
+    "tenantId": "philippines.bicolregion.catanduanes.baras",
+    "code": "PH_05_CATA_BARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CATA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.catanduanes.gigmoto",
+    "code": "PH_05_CATA_GIGM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CATA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.catanduanes.pandan",
+    "code": "PH_05_CATA_PAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CATA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.catanduanes.panganiban",
+    "code": "PH_05_CATA_PANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CATA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.catanduanes.sanandres",
+    "code": "PH_05_CATA_SAAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CATA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.catanduanes.sanmiguel",
+    "code": "PH_05_CATA_SAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CATA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.catanduanes.virac",
+    "code": "PH_05_CATA_VIRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CATA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.catanduanes.bagamanoc",
+    "code": "PH_05_CATA_BAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CATA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.catanduanes.bato",
+    "code": "PH_05_CATA_BATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CATA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.catanduanes.caramoan",
+    "code": "PH_05_CATA_CARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CATA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.catanduanes.caramoran",
+    "code": "PH_05_CATA_CARA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CATA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.catanduanes.viga",
+    "code": "PH_05_CATA_VIGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_CATA"
+  },
+  {
+    "tenantId": "philippines.bicolregion.masbate.aroroy",
+    "code": "PH_05_MASB_AROR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_MASB"
+  },
+  {
+    "tenantId": "philippines.bicolregion.masbate.baleno",
+    "code": "PH_05_MASB_BALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_MASB"
+  },
+  {
+    "tenantId": "philippines.bicolregion.masbate.balud",
+    "code": "PH_05_MASB_BALU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_MASB"
+  },
+  {
+    "tenantId": "philippines.bicolregion.masbate.batuan",
+    "code": "PH_05_MASB_BATU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_MASB"
+  },
+  {
+    "tenantId": "philippines.bicolregion.masbate.cityofmasbate",
+    "code": "PH_05_MASB_COM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_MASB"
+  },
+  {
+    "tenantId": "philippines.bicolregion.masbate.claveria",
+    "code": "PH_05_MASB_CLAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_MASB"
+  },
+  {
+    "tenantId": "philippines.bicolregion.masbate.esperanza",
+    "code": "PH_05_MASB_ESPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_MASB"
+  },
+  {
+    "tenantId": "philippines.bicolregion.masbate.mobo",
+    "code": "PH_05_MASB_MOBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_MASB"
+  },
+  {
+    "tenantId": "philippines.bicolregion.masbate.monreal",
+    "code": "PH_05_MASB_MONR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_MASB"
+  },
+  {
+    "tenantId": "philippines.bicolregion.masbate.palanas",
+    "code": "PH_05_MASB_PALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_MASB"
+  },
+  {
+    "tenantId": "philippines.bicolregion.masbate.sanfernando",
+    "code": "PH_05_MASB_SAFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_MASB"
+  },
+  {
+    "tenantId": "philippines.bicolregion.masbate.sanjacinto",
+    "code": "PH_05_MASB_SAJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_MASB"
+  },
+  {
+    "tenantId": "philippines.bicolregion.masbate.sanpascual",
+    "code": "PH_05_MASB_SAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_MASB"
+  },
+  {
+    "tenantId": "philippines.bicolregion.masbate.cawayan",
+    "code": "PH_05_MASB_CAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_MASB"
+  },
+  {
+    "tenantId": "philippines.bicolregion.masbate.dimasalang",
+    "code": "PH_05_MASB_DIMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_MASB"
+  },
+  {
+    "tenantId": "philippines.bicolregion.masbate.mandaon",
+    "code": "PH_05_MASB_MAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_MASB"
+  },
+  {
+    "tenantId": "philippines.bicolregion.masbate.milagros",
+    "code": "PH_05_MASB_MILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_MASB"
+  },
+  {
+    "tenantId": "philippines.bicolregion.masbate.uson",
+    "code": "PH_05_MASB_USON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_MASB"
+  },
+  {
+    "tenantId": "philippines.bicolregion.sorsogon.castilla",
+    "code": "PH_05_SORS_CAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_SORS"
+  },
+  {
+    "tenantId": "philippines.bicolregion.sorsogon.cityofsorsogon",
+    "code": "PH_05_SORS_COS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_SORS"
+  },
+  {
+    "tenantId": "philippines.bicolregion.sorsogon.donsol",
+    "code": "PH_05_SORS_DONS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_SORS"
+  },
+  {
+    "tenantId": "philippines.bicolregion.sorsogon.irosin",
+    "code": "PH_05_SORS_IROS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_SORS"
+  },
+  {
+    "tenantId": "philippines.bicolregion.sorsogon.juban",
+    "code": "PH_05_SORS_JUBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_SORS"
+  },
+  {
+    "tenantId": "philippines.bicolregion.sorsogon.magallanes",
+    "code": "PH_05_SORS_MAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_SORS"
+  },
+  {
+    "tenantId": "philippines.bicolregion.sorsogon.matnog",
+    "code": "PH_05_SORS_MATN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_SORS"
+  },
+  {
+    "tenantId": "philippines.bicolregion.sorsogon.pilar",
+    "code": "PH_05_SORS_PILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_SORS"
+  },
+  {
+    "tenantId": "philippines.bicolregion.sorsogon.prietodiaz",
+    "code": "PH_05_SORS_PRDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_SORS"
+  },
+  {
+    "tenantId": "philippines.bicolregion.sorsogon.barcelona",
+    "code": "PH_05_SORS_BARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_SORS"
+  },
+  {
+    "tenantId": "philippines.bicolregion.sorsogon.bulan",
+    "code": "PH_05_SORS_BULA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_SORS"
+  },
+  {
+    "tenantId": "philippines.bicolregion.sorsogon.bulusan",
+    "code": "PH_05_SORS_BULU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_SORS"
+  },
+  {
+    "tenantId": "philippines.bicolregion.sorsogon.casiguran",
+    "code": "PH_05_SORS_CASI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_SORS"
+  },
+  {
+    "tenantId": "philippines.bicolregion.sorsogon.gubat",
+    "code": "PH_05_SORS_GUBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_SORS"
+  },
+  {
+    "tenantId": "philippines.bicolregion.sorsogon.santamagdalena",
+    "code": "PH_05_SORS_SAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_05_SORS"
+  }
+]

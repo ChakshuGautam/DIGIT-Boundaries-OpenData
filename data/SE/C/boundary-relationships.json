@@ -1,0 +1,863 @@
+[
+  {
+    "tenantId": "sweden.uppsalaln",
+    "code": "SE_C",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SE"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.lvkarleby",
+    "code": "SE_C_LVK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_C"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.heby",
+    "code": "SE_C_HEBY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_C"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.tierp",
+    "code": "SE_C_TIER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_C"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.sthammar",
+    "code": "SE_C_STH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_C"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.knivsta",
+    "code": "SE_C_KNIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_C"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala",
+    "code": "SE_C_UPPS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_C"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping",
+    "code": "SE_C_ENK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_C"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.hbo",
+    "code": "SE_C_HBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_C"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.lvkarleby.lvkarleby",
+    "code": "SE_C_LVK_LV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_LVK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.lvkarleby.skutskr",
+    "code": "SE_C_LVK_SKUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_LVK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.heby.stervla",
+    "code": "SE_C_HEBY_ST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_HEBY"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.heby.nora",
+    "code": "SE_C_HEBY_NORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_HEBY"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.heby.harbo",
+    "code": "SE_C_HEBY_HARB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_HEBY"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.heby.enker",
+    "code": "SE_C_HEBY_EN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_HEBY"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.heby.huddunge",
+    "code": "SE_C_HEBY_HUDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_HEBY"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.heby.vsterlvsta",
+    "code": "SE_C_HEBY_VS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_HEBY"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.heby.vittinge",
+    "code": "SE_C_HEBY_VITT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_HEBY"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.tierp.hllns",
+    "code": "SE_C_TIER_HL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_TIER"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.tierp.vstland",
+    "code": "SE_C_TIER_VS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_TIER"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.tierp.sterlvsta",
+    "code": "SE_C_TIER_ST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_TIER"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.tierp.tierp",
+    "code": "SE_C_TIER_TIER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_TIER"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.tierp.sderfors",
+    "code": "SE_C_TIER_SD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_TIER"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.tierp.tolfta",
+    "code": "SE_C_TIER_TOLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_TIER"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.tierp.tierp",
+    "code": "SE_C_TIER_TIER2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_TIER"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.tierp.tegelsmora",
+    "code": "SE_C_TIER_TEGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_TIER"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.tierp.vendel",
+    "code": "SE_C_TIER_VEND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_TIER"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.sthammar.forsmark",
+    "code": "SE_C_STH_FORS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_STH"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.sthammar.brstil",
+    "code": "SE_C_STH_BR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_STH"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.sthammar.val",
+    "code": "SE_C_STH_VAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_STH"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.sthammar.regrund",
+    "code": "SE_C_STH_RE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_STH"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.sthammar.film",
+    "code": "SE_C_STH_FILM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_STH"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.sthammar.sthammar",
+    "code": "SE_C_STH_ST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_STH"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.sthammar.hkhuvud",
+    "code": "SE_C_STH_HK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_STH"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.sthammar.harg",
+    "code": "SE_C_STH_HARG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_STH"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.sthammar.dannemora",
+    "code": "SE_C_STH_DANN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_STH"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.sthammar.morkarla",
+    "code": "SE_C_STH_MORK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_STH"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.sthammar.skfthammar",
+    "code": "SE_C_STH_SK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_STH"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.sthammar.alunda",
+    "code": "SE_C_STH_ALUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_STH"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.sthammar.ekeby",
+    "code": "SE_C_STH_EKEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_STH"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.sthammar.grs",
+    "code": "SE_C_STH_GR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_STH"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.knivsta.lagga",
+    "code": "SE_C_KNIV_LAGG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_KNIV"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.knivsta.stuna",
+    "code": "SE_C_KNIV_ST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_KNIV"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.knivsta.funbo",
+    "code": "SE_C_KNIV_FUNB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_KNIV"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.knivsta.alsike",
+    "code": "SE_C_KNIV_ALSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_KNIV"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.knivsta.knivsta",
+    "code": "SE_C_KNIV_KNIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_KNIV"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.uppsalahelgatrefaldighet",
+    "code": "SE_C_UPPS_UHT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.skogstibble",
+    "code": "SE_C_UPPS_SKOG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.uppsaladomkyrkodistrikt",
+    "code": "SE_C_UPPS_UPDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.danmark",
+    "code": "SE_C_UPPS_DANM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.lby",
+    "code": "SE_C_UPPS_LB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.hagby",
+    "code": "SE_C_UPPS_HAGB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.gottsunda",
+    "code": "SE_C_UPPS_GOTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.uppsalans",
+    "code": "SE_C_UPPS_UPPS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.ramsta",
+    "code": "SE_C_UPPS_RAMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.viksta",
+    "code": "SE_C_UPPS_VIKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.tensta",
+    "code": "SE_C_UPPS_TENS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.bjrklinge",
+    "code": "SE_C_UPPS_BJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.viksta",
+    "code": "SE_C_UPPS_VIKS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.rasbokil",
+    "code": "SE_C_UPPS_RASB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.skuttunge",
+    "code": "SE_C_UPPS_SKUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.blinge",
+    "code": "SE_C_UPPS_BL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.bladker",
+    "code": "SE_C_UPPS_BLAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.skuttunge",
+    "code": "SE_C_UPPS_SKUT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.lena",
+    "code": "SE_C_UPPS_LENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.stavby",
+    "code": "SE_C_UPPS_STAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.tuna",
+    "code": "SE_C_UPPS_TUNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.faringe",
+    "code": "SE_C_UPPS_FARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.blinge",
+    "code": "SE_C_UPPS_BL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.kerby",
+    "code": "SE_C_UPPS_KE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.kerby",
+    "code": "SE_C_UPPS_KE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.rentuna",
+    "code": "SE_C_UPPS_RE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.jumkil",
+    "code": "SE_C_UPPS_JUMK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.jrlsa",
+    "code": "SE_C_UPPS_JR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.rasbo",
+    "code": "SE_C_UPPS_RASB2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.kerby",
+    "code": "SE_C_UPPS_KE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.knutby",
+    "code": "SE_C_UPPS_KNUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.gamlauppsala",
+    "code": "SE_C_UPPS_GAUP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.almunge",
+    "code": "SE_C_UPPS_ALMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.kerby",
+    "code": "SE_C_UPPS_KE4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.vaksala",
+    "code": "SE_C_UPPS_VAKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.land",
+    "code": "SE_C_UPPS_LA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.brje",
+    "code": "SE_C_UPPS_BR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.vnge",
+    "code": "SE_C_UPPS_VN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.dalby",
+    "code": "SE_C_UPPS_DALB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.uppsala.vsterker",
+    "code": "SE_C_UPPS_VS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_UPPS"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.sterunda",
+    "code": "SE_C_ENK_ST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.altuna",
+    "code": "SE_C_ENK_ALTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.hagby",
+    "code": "SE_C_ENK_HAGB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.torstuna",
+    "code": "SE_C_ENK_TORS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.nystra",
+    "code": "SE_C_ENK_NYS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.simtuna",
+    "code": "SE_C_ENK_SIMT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.gryta",
+    "code": "SE_C_ENK_GRYT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.balingsta",
+    "code": "SE_C_ENK_BALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.frsthult",
+    "code": "SE_C_ENK_FR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.lngtora",
+    "code": "SE_C_ENK_LN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.biskopskulla",
+    "code": "SE_C_ENK_BISK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.frslunda",
+    "code": "SE_C_ENK_FR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.hrnevi",
+    "code": "SE_C_ENK_HR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.giresta",
+    "code": "SE_C_ENK_GIRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.holm",
+    "code": "SE_C_ENK_HOLM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.fittja",
+    "code": "SE_C_ENK_FITT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.sparrstra",
+    "code": "SE_C_ENK_SPAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.enkping",
+    "code": "SE_C_ENK_ENK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.hjlsta",
+    "code": "SE_C_ENK_HJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.hrkeberga",
+    "code": "SE_C_ENK_HR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.litslena",
+    "code": "SE_C_ENK_LITS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.husbysjutolft",
+    "code": "SE_C_ENK_HUSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.tillinge",
+    "code": "SE_C_ENK_TILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.villberga",
+    "code": "SE_C_ENK_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.boglsa",
+    "code": "SE_C_ENK_BOGL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.lt",
+    "code": "SE_C_ENK_LT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.svinnegarn",
+    "code": "SE_C_ENK_SVIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.teda",
+    "code": "SE_C_ENK_TEDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.vallby",
+    "code": "SE_C_ENK_VALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.lillkyrka",
+    "code": "SE_C_ENK_LILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.hacksta",
+    "code": "SE_C_ENK_HACK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.enkping.veckholm",
+    "code": "SE_C_ENK_VECK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_ENK"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.hbo.skokloster",
+    "code": "SE_C_HBO_SKOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_HBO"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.hbo.kulla",
+    "code": "SE_C_HBO_KULL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_HBO"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.hbo.vergran",
+    "code": "SE_C_HBO_VE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_HBO"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.hbo.yttergran",
+    "code": "SE_C_HBO_YTTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_HBO"
+  },
+  {
+    "tenantId": "sweden.uppsalaln.hbo.kalmar",
+    "code": "SE_C_HBO_KALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_C_HBO"
+  }
+]

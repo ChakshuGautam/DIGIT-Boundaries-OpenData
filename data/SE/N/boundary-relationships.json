@@ -1,0 +1,779 @@
+[
+  {
+    "tenantId": "sweden.hallandsln",
+    "code": "SE_N",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SE"
+  },
+  {
+    "tenantId": "sweden.hallandsln.kungsbacka",
+    "code": "SE_N_KUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_N"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg",
+    "code": "SE_N_VARB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_N"
+  },
+  {
+    "tenantId": "sweden.hallandsln.hylte",
+    "code": "SE_N_HYLT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_N"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg",
+    "code": "SE_N_FALK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_N"
+  },
+  {
+    "tenantId": "sweden.hallandsln.laholm",
+    "code": "SE_N_LAHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_N"
+  },
+  {
+    "tenantId": "sweden.hallandsln.halmstad",
+    "code": "SE_N_HALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_N"
+  },
+  {
+    "tenantId": "sweden.hallandsln.kungsbacka.lmevalla",
+    "code": "SE_N_KUNG_LM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_KUNG"
+  },
+  {
+    "tenantId": "sweden.hallandsln.kungsbacka.idala",
+    "code": "SE_N_KUNG_IDAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_KUNG"
+  },
+  {
+    "tenantId": "sweden.hallandsln.kungsbacka.landa",
+    "code": "SE_N_KUNG_LAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_KUNG"
+  },
+  {
+    "tenantId": "sweden.hallandsln.kungsbacka.lvsker",
+    "code": "SE_N_KUNG_LV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_KUNG"
+  },
+  {
+    "tenantId": "sweden.hallandsln.kungsbacka.fjrs",
+    "code": "SE_N_KUNG_FJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_KUNG"
+  },
+  {
+    "tenantId": "sweden.hallandsln.kungsbacka.slp",
+    "code": "SE_N_KUNG_SL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_KUNG"
+  },
+  {
+    "tenantId": "sweden.hallandsln.kungsbacka.tl",
+    "code": "SE_N_KUNG_TL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_KUNG"
+  },
+  {
+    "tenantId": "sweden.hallandsln.kungsbacka.tl",
+    "code": "SE_N_KUNG_TL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_KUNG"
+  },
+  {
+    "tenantId": "sweden.hallandsln.kungsbacka.vallda",
+    "code": "SE_N_KUNG_VALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_KUNG"
+  },
+  {
+    "tenantId": "sweden.hallandsln.kungsbacka.kungsbacka",
+    "code": "SE_N_KUNG_KUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_KUNG"
+  },
+  {
+    "tenantId": "sweden.hallandsln.kungsbacka.hanhals",
+    "code": "SE_N_KUNG_HANH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_KUNG"
+  },
+  {
+    "tenantId": "sweden.hallandsln.kungsbacka.frlanda",
+    "code": "SE_N_KUNG_FR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_KUNG"
+  },
+  {
+    "tenantId": "sweden.hallandsln.kungsbacka.onsala",
+    "code": "SE_N_KUNG_ONSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_KUNG"
+  },
+  {
+    "tenantId": "sweden.hallandsln.kungsbacka.gllinge",
+    "code": "SE_N_KUNG_GL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_KUNG"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.lekulla",
+    "code": "SE_N_VARB_LE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.frilless",
+    "code": "SE_N_VARB_FRIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.veddige",
+    "code": "SE_N_VARB_VEDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.kungster",
+    "code": "SE_N_VARB_KUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.vr",
+    "code": "SE_N_VARB_VR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.gunnarsj",
+    "code": "SE_N_VARB_GUNN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.strvalla",
+    "code": "SE_N_VARB_STR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.karlgustav",
+    "code": "SE_N_VARB_KAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.grimmared",
+    "code": "SE_N_VARB_GRIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.sllstorp",
+    "code": "SE_N_VARB_SL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.s",
+    "code": "SE_N_VARB_S",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.nsslinge",
+    "code": "SE_N_VARB_NS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.stamnared",
+    "code": "SE_N_VARB_STAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.skllinge",
+    "code": "SE_N_VARB_SK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.valinge",
+    "code": "SE_N_VARB_VALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.torpa",
+    "code": "SE_N_VARB_TORP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.lindberg",
+    "code": "SE_N_VARB_LIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.rolfstorp",
+    "code": "SE_N_VARB_ROLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.trslv",
+    "code": "SE_N_VARB_TR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.gdestad",
+    "code": "SE_N_VARB_GD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.varberg",
+    "code": "SE_N_VARB_VARB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.grimeton",
+    "code": "SE_N_VARB_GRIM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.hunnestad",
+    "code": "SE_N_VARB_HUNN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.sibbarp",
+    "code": "SE_N_VARB_SIBB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.spannarp",
+    "code": "SE_N_VARB_SPAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.dagss",
+    "code": "SE_N_VARB_DAGS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.varberg.tvker",
+    "code": "SE_N_VARB_TV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_VARB"
+  },
+  {
+    "tenantId": "sweden.hallandsln.hylte.frgaryd",
+    "code": "SE_N_HYLT_FR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HYLT"
+  },
+  {
+    "tenantId": "sweden.hallandsln.hylte.sdraunnaryd",
+    "code": "SE_N_HYLT_SUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HYLT"
+  },
+  {
+    "tenantId": "sweden.hallandsln.hylte.torup",
+    "code": "SE_N_HYLT_TORU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HYLT"
+  },
+  {
+    "tenantId": "sweden.hallandsln.hylte.femsj",
+    "code": "SE_N_HYLT_FEMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HYLT"
+  },
+  {
+    "tenantId": "sweden.hallandsln.hylte.gryteryd",
+    "code": "SE_N_HYLT_GRYT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HYLT"
+  },
+  {
+    "tenantId": "sweden.hallandsln.hylte.kllerstad",
+    "code": "SE_N_HYLT_KL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HYLT"
+  },
+  {
+    "tenantId": "sweden.hallandsln.hylte.lngaryd",
+    "code": "SE_N_HYLT_LN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HYLT"
+  },
+  {
+    "tenantId": "sweden.hallandsln.hylte.drngsered",
+    "code": "SE_N_HYLT_DR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HYLT"
+  },
+  {
+    "tenantId": "sweden.hallandsln.hylte.kinnared",
+    "code": "SE_N_HYLT_KINN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HYLT"
+  },
+  {
+    "tenantId": "sweden.hallandsln.hylte.jlluntofta",
+    "code": "SE_N_HYLT_JL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HYLT"
+  },
+  {
+    "tenantId": "sweden.hallandsln.hylte.sdrahestra",
+    "code": "SE_N_HYLT_SHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HYLT"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.vessige",
+    "code": "SE_N_FALK_VESS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.morup",
+    "code": "SE_N_FALK_MORU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.alfshg",
+    "code": "SE_N_FALK_ALFS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.stafsinge",
+    "code": "SE_N_FALK_STAF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.abild",
+    "code": "SE_N_FALK_ABIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.vinberg",
+    "code": "SE_N_FALK_VINB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.rstad",
+    "code": "SE_N_FALK_RS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.asige",
+    "code": "SE_N_FALK_ASIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.skrea",
+    "code": "SE_N_FALK_SKRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.falkenberg",
+    "code": "SE_N_FALK_FALK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.mrdaklev",
+    "code": "SE_N_FALK_MR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.lvsered",
+    "code": "SE_N_FALK_LV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.fagered",
+    "code": "SE_N_FALK_FAGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.kllsj",
+    "code": "SE_N_FALK_KL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.gunnarp",
+    "code": "SE_N_FALK_GUNN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.ullared",
+    "code": "SE_N_FALK_ULLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.gllared",
+    "code": "SE_N_FALK_GL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.svartr",
+    "code": "SE_N_FALK_SVAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.kinge",
+    "code": "SE_N_FALK_KI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.okome",
+    "code": "SE_N_FALK_OKOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.krogsered",
+    "code": "SE_N_FALK_KROG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.askome",
+    "code": "SE_N_FALK_ASKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.ljungby",
+    "code": "SE_N_FALK_LJUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.slinge",
+    "code": "SE_N_FALK_SL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.falkenberg.eftra",
+    "code": "SE_N_FALK_EFTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_FALK"
+  },
+  {
+    "tenantId": "sweden.hallandsln.laholm.veingetjrby",
+    "code": "SE_N_LAHO_VEIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_LAHO"
+  },
+  {
+    "tenantId": "sweden.hallandsln.laholm.knred",
+    "code": "SE_N_LAHO_KN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_LAHO"
+  },
+  {
+    "tenantId": "sweden.hallandsln.laholm.laholm",
+    "code": "SE_N_LAHO_LAHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_LAHO"
+  },
+  {
+    "tenantId": "sweden.hallandsln.laholm.ysby",
+    "code": "SE_N_LAHO_YSBY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_LAHO"
+  },
+  {
+    "tenantId": "sweden.hallandsln.laholm.rnneslv",
+    "code": "SE_N_LAHO_RN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_LAHO"
+  },
+  {
+    "tenantId": "sweden.hallandsln.laholm.hishult",
+    "code": "SE_N_LAHO_HISH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_LAHO"
+  },
+  {
+    "tenantId": "sweden.hallandsln.laholm.vxtorp",
+    "code": "SE_N_LAHO_VX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_LAHO"
+  },
+  {
+    "tenantId": "sweden.hallandsln.laholm.hasslv",
+    "code": "SE_N_LAHO_HASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_LAHO"
+  },
+  {
+    "tenantId": "sweden.hallandsln.halmstad.slttkra",
+    "code": "SE_N_HALM_SL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HALM"
+  },
+  {
+    "tenantId": "sweden.hallandsln.halmstad.enslv",
+    "code": "SE_N_HALM_ENSL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HALM"
+  },
+  {
+    "tenantId": "sweden.hallandsln.halmstad.getinge",
+    "code": "SE_N_HALM_GETI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HALM"
+  },
+  {
+    "tenantId": "sweden.hallandsln.halmstad.breared",
+    "code": "SE_N_HALM_BREA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HALM"
+  },
+  {
+    "tenantId": "sweden.hallandsln.halmstad.kvibille",
+    "code": "SE_N_HALM_KVIB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HALM"
+  },
+  {
+    "tenantId": "sweden.hallandsln.halmstad.oskarstrm",
+    "code": "SE_N_HALM_OSKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HALM"
+  },
+  {
+    "tenantId": "sweden.hallandsln.halmstad.rvinge",
+    "code": "SE_N_HALM_RV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HALM"
+  },
+  {
+    "tenantId": "sweden.hallandsln.halmstad.steninge",
+    "code": "SE_N_HALM_STEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HALM"
+  },
+  {
+    "tenantId": "sweden.hallandsln.halmstad.holm",
+    "code": "SE_N_HALM_HOLM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HALM"
+  },
+  {
+    "tenantId": "sweden.hallandsln.halmstad.harplinge",
+    "code": "SE_N_HALM_HARP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HALM"
+  },
+  {
+    "tenantId": "sweden.hallandsln.halmstad.vraby",
+    "code": "SE_N_HALM_VR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HALM"
+  },
+  {
+    "tenantId": "sweden.hallandsln.halmstad.vapn",
+    "code": "SE_N_HALM_VAPN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HALM"
+  },
+  {
+    "tenantId": "sweden.hallandsln.halmstad.snstorp",
+    "code": "SE_N_HALM_SN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HALM"
+  },
+  {
+    "tenantId": "sweden.hallandsln.halmstad.halmstadssanktnikolai",
+    "code": "SE_N_HALM_HSN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HALM"
+  },
+  {
+    "tenantId": "sweden.hallandsln.halmstad.sndrum",
+    "code": "SE_N_HALM_SN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HALM"
+  },
+  {
+    "tenantId": "sweden.hallandsln.halmstad.tnnersj",
+    "code": "SE_N_HALM_TN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HALM"
+  },
+  {
+    "tenantId": "sweden.hallandsln.halmstad.halmstadsmartinluther",
+    "code": "SE_N_HALM_HML",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HALM"
+  },
+  {
+    "tenantId": "sweden.hallandsln.halmstad.eldsberga",
+    "code": "SE_N_HALM_ELDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HALM"
+  },
+  {
+    "tenantId": "sweden.hallandsln.halmstad.trnninge",
+    "code": "SE_N_HALM_TR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_N_HALM"
+  }
+]

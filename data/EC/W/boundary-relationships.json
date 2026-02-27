@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "ecuador.galpagos",
+    "code": "EC_W",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "EC"
+  },
+  {
+    "tenantId": "ecuador.galpagos.isabela",
+    "code": "EC_W_ISAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EC_W"
+  },
+  {
+    "tenantId": "ecuador.galpagos.sancristobal",
+    "code": "EC_W_SACR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EC_W"
+  },
+  {
+    "tenantId": "ecuador.galpagos.santacruz",
+    "code": "EC_W_SACR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EC_W"
+  }
+]

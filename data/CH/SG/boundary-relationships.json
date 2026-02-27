@@ -1,0 +1,912 @@
+[
+  {
+    "tenantId": "switzerland.stgallen",
+    "code": "CH_SG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CH"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rheintal",
+    "code": "CH_SG_RHEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_SG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rorschach",
+    "code": "CH_SG_RORS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_SG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.sanktgallen",
+    "code": "CH_SG_SAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_SG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.sarganserland",
+    "code": "CH_SG_SARG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_SG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.seegaster",
+    "code": "CH_SG_SEE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_SG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.toggenburg",
+    "code": "CH_SG_TOGG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_SG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg",
+    "code": "CH_SG_WERD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_SG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.wil",
+    "code": "CH_SG_WIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_SG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.mnchwilen",
+    "code": "CH_SG_MNC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_SG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rheintal.oberrietsg",
+    "code": "CH_SG_RHEI_OBS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rheintal.altsttten",
+    "code": "CH_SG_RHEI_ALTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rheintal.diepoldsau",
+    "code": "CH_SG_RHEI_DIEP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rheintal.rthisg",
+    "code": "CH_SG_RHEI_RS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rheintal.altsttten",
+    "code": "CH_SG_RHEI_ALTS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rheintal.stmargrethen",
+    "code": "CH_SG_RHEI_STMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rheintal.balgach",
+    "code": "CH_SG_RHEI_BALG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rheintal.berneck",
+    "code": "CH_SG_RHEI_BERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rheintal.eichberg",
+    "code": "CH_SG_RHEI_EICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rheintal.ausg",
+    "code": "CH_SG_RHEI_AUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rheintal.rebstein",
+    "code": "CH_SG_RHEI_REBS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rheintal.marbachsg",
+    "code": "CH_SG_RHEI_MAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rheintal.widnau",
+    "code": "CH_SG_RHEI_WIDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rheintal.rheineck",
+    "code": "CH_SG_RHEI_RHEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RHEI"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rorschach.mrschwil",
+    "code": "CH_SG_RORS_MRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RORS"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rorschach.thal",
+    "code": "CH_SG_RORS_THAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RORS"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rorschach.untereggen",
+    "code": "CH_SG_RORS_UNTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RORS"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rorschach.rorschacherberg",
+    "code": "CH_SG_RORS_RORS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RORS"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rorschach.goldach",
+    "code": "CH_SG_RORS_GOLD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RORS"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rorschach.steinach",
+    "code": "CH_SG_RORS_STEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RORS"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rorschach.bergsg",
+    "code": "CH_SG_RORS_BES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RORS"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rorschach.tbach",
+    "code": "CH_SG_RORS_TBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RORS"
+  },
+  {
+    "tenantId": "switzerland.stgallen.rorschach.rorschach",
+    "code": "CH_SG_RORS_RORS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_RORS"
+  },
+  {
+    "tenantId": "switzerland.stgallen.sanktgallen.stgallen",
+    "code": "CH_SG_SAGA_STGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SAGA"
+  },
+  {
+    "tenantId": "switzerland.stgallen.sanktgallen.waldkirch",
+    "code": "CH_SG_SAGA_WALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SAGA"
+  },
+  {
+    "tenantId": "switzerland.stgallen.sanktgallen.gossausg",
+    "code": "CH_SG_SAGA_GOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SAGA"
+  },
+  {
+    "tenantId": "switzerland.stgallen.sanktgallen.gaiserwald",
+    "code": "CH_SG_SAGA_GAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SAGA"
+  },
+  {
+    "tenantId": "switzerland.stgallen.sanktgallen.wittenbach",
+    "code": "CH_SG_SAGA_WITT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SAGA"
+  },
+  {
+    "tenantId": "switzerland.stgallen.sanktgallen.muolen",
+    "code": "CH_SG_SAGA_MUOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SAGA"
+  },
+  {
+    "tenantId": "switzerland.stgallen.sanktgallen.eggersriet",
+    "code": "CH_SG_SAGA_EGGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SAGA"
+  },
+  {
+    "tenantId": "switzerland.stgallen.sanktgallen.hggenschwil",
+    "code": "CH_SG_SAGA_HGG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SAGA"
+  },
+  {
+    "tenantId": "switzerland.stgallen.sanktgallen.andwilsg",
+    "code": "CH_SG_SAGA_ANS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SAGA"
+  },
+  {
+    "tenantId": "switzerland.stgallen.sanktgallen.bergsg",
+    "code": "CH_SG_SAGA_BES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SAGA"
+  },
+  {
+    "tenantId": "switzerland.stgallen.sanktgallen.wittenbach",
+    "code": "CH_SG_SAGA_WITT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SAGA"
+  },
+  {
+    "tenantId": "switzerland.stgallen.sarganserland.mels",
+    "code": "CH_SG_SARG_MELS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SARG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.sarganserland.pffers",
+    "code": "CH_SG_SARG_PFF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SARG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.sarganserland.flums",
+    "code": "CH_SG_SARG_FLUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SARG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.sarganserland.quarten",
+    "code": "CH_SG_SARG_QUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SARG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.sarganserland.walenstadt",
+    "code": "CH_SG_SARG_WALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SARG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.sarganserland.vilterswangs",
+    "code": "CH_SG_SARG_VILT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SARG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.sarganserland.badragaz",
+    "code": "CH_SG_SARG_BARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SARG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.sarganserland.sargans",
+    "code": "CH_SG_SARG_SARG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SARG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.seegaster.eschenbachsg",
+    "code": "CH_SG_SEE_ESS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SEE"
+  },
+  {
+    "tenantId": "switzerland.stgallen.seegaster.amden",
+    "code": "CH_SG_SEE_AMDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SEE"
+  },
+  {
+    "tenantId": "switzerland.stgallen.seegaster.schnis",
+    "code": "CH_SG_SEE_SCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SEE"
+  },
+  {
+    "tenantId": "switzerland.stgallen.seegaster.gommiswald",
+    "code": "CH_SG_SEE_GOMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SEE"
+  },
+  {
+    "tenantId": "switzerland.stgallen.seegaster.rapperswiljona",
+    "code": "CH_SG_SEE_RAPP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SEE"
+  },
+  {
+    "tenantId": "switzerland.stgallen.seegaster.kaltbrunn",
+    "code": "CH_SG_SEE_KALT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SEE"
+  },
+  {
+    "tenantId": "switzerland.stgallen.seegaster.benkensg",
+    "code": "CH_SG_SEE_BES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SEE"
+  },
+  {
+    "tenantId": "switzerland.stgallen.seegaster.uznach",
+    "code": "CH_SG_SEE_UZNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SEE"
+  },
+  {
+    "tenantId": "switzerland.stgallen.seegaster.schmerikon",
+    "code": "CH_SG_SEE_SCHM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SEE"
+  },
+  {
+    "tenantId": "switzerland.stgallen.seegaster.weesen",
+    "code": "CH_SG_SEE_WEES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_SEE"
+  },
+  {
+    "tenantId": "switzerland.stgallen.toggenburg.nesslau",
+    "code": "CH_SG_TOGG_NESS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_TOGG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.toggenburg.wildhausaltstjohann",
+    "code": "CH_SG_TOGG_WSJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_TOGG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.toggenburg.wattwil",
+    "code": "CH_SG_TOGG_WATT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_TOGG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.toggenburg.mosnang",
+    "code": "CH_SG_TOGG_MOSN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_TOGG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.toggenburg.neckertal",
+    "code": "CH_SG_TOGG_NECK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_TOGG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.toggenburg.ebnatkappel",
+    "code": "CH_SG_TOGG_EBNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_TOGG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.toggenburg.kirchbergsg",
+    "code": "CH_SG_TOGG_KIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_TOGG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.toggenburg.btschwilganterschwil",
+    "code": "CH_SG_TOGG_BTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_TOGG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.toggenburg.hemberg",
+    "code": "CH_SG_TOGG_HEMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_TOGG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.toggenburg.ltisburg",
+    "code": "CH_SG_TOGG_LTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_TOGG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.toggenburg.oberhelfenschwil",
+    "code": "CH_SG_TOGG_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_TOGG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.toggenburg.lichtensteig",
+    "code": "CH_SG_TOGG_LICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_TOGG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.toggenburg.degersheim",
+    "code": "CH_SG_TOGG_DEGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_TOGG"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.grabs",
+    "code": "CH_SG_WERD_GRAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.wartau",
+    "code": "CH_SG_WERD_WART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.sennwald",
+    "code": "CH_SG_WERD_SENN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.sevelen",
+    "code": "CH_SG_WERD_SEVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.gams",
+    "code": "CH_SG_WERD_GAMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.buchssg",
+    "code": "CH_SG_WERD_BUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.triesenberg",
+    "code": "CH_SG_WERD_TRIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.schaan",
+    "code": "CH_SG_WERD_SCHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.vaduz",
+    "code": "CH_SG_WERD_VADU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.eschen",
+    "code": "CH_SG_WERD_ESCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.balzers",
+    "code": "CH_SG_WERD_BALZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.schaan",
+    "code": "CH_SG_WERD_SCHA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.mauren",
+    "code": "CH_SG_WERD_MAUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.gamprin",
+    "code": "CH_SG_WERD_GAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.schellenberg",
+    "code": "CH_SG_WERD_SCHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.planken",
+    "code": "CH_SG_WERD_PLAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.planken",
+    "code": "CH_SG_WERD_PLAN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.gamprin",
+    "code": "CH_SG_WERD_GAMP2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.eschen",
+    "code": "CH_SG_WERD_ESCH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.vaduz",
+    "code": "CH_SG_WERD_VADU2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.vaduz",
+    "code": "CH_SG_WERD_VADU3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.planken",
+    "code": "CH_SG_WERD_PLAN3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.vaduz",
+    "code": "CH_SG_WERD_VADU4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.schaan",
+    "code": "CH_SG_WERD_SCHA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.vaduz",
+    "code": "CH_SG_WERD_VADU5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.schaan",
+    "code": "CH_SG_WERD_SCHA4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.vaduz",
+    "code": "CH_SG_WERD_VADU6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.planken",
+    "code": "CH_SG_WERD_PLAN4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.werdenberg.planken",
+    "code": "CH_SG_WERD_PLAN5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WERD"
+  },
+  {
+    "tenantId": "switzerland.stgallen.wil.wilsg",
+    "code": "CH_SG_WIL_WIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WIL"
+  },
+  {
+    "tenantId": "switzerland.stgallen.wil.oberbren",
+    "code": "CH_SG_WIL_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WIL"
+  },
+  {
+    "tenantId": "switzerland.stgallen.wil.niederhelfenschwil",
+    "code": "CH_SG_WIL_NIED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WIL"
+  },
+  {
+    "tenantId": "switzerland.stgallen.wil.niederbren",
+    "code": "CH_SG_WIL_NIED2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WIL"
+  },
+  {
+    "tenantId": "switzerland.stgallen.wil.uzwil",
+    "code": "CH_SG_WIL_UZWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WIL"
+  },
+  {
+    "tenantId": "switzerland.stgallen.wil.oberuzwil",
+    "code": "CH_SG_WIL_OBER2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WIL"
+  },
+  {
+    "tenantId": "switzerland.stgallen.wil.degersheim",
+    "code": "CH_SG_WIL_DEGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WIL"
+  },
+  {
+    "tenantId": "switzerland.stgallen.wil.flawil",
+    "code": "CH_SG_WIL_FLAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WIL"
+  },
+  {
+    "tenantId": "switzerland.stgallen.wil.jonschwil",
+    "code": "CH_SG_WIL_JONS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WIL"
+  },
+  {
+    "tenantId": "switzerland.stgallen.wil.zuzwilsg",
+    "code": "CH_SG_WIL_ZUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_WIL"
+  },
+  {
+    "tenantId": "switzerland.stgallen.mnchwilen.fischingen",
+    "code": "CH_SG_MNC_FISC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_MNC"
+  },
+  {
+    "tenantId": "switzerland.stgallen.mnchwilen.wngi",
+    "code": "CH_SG_MNC_WNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_MNC"
+  },
+  {
+    "tenantId": "switzerland.stgallen.mnchwilen.affeltrangen",
+    "code": "CH_SG_MNC_AFFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_MNC"
+  },
+  {
+    "tenantId": "switzerland.stgallen.mnchwilen.sirnach",
+    "code": "CH_SG_MNC_SIRN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_MNC"
+  },
+  {
+    "tenantId": "switzerland.stgallen.mnchwilen.wuppenau",
+    "code": "CH_SG_MNC_WUPP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_MNC"
+  },
+  {
+    "tenantId": "switzerland.stgallen.mnchwilen.bichelseebalterswil",
+    "code": "CH_SG_MNC_BICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_MNC"
+  },
+  {
+    "tenantId": "switzerland.stgallen.mnchwilen.schnholzerswilen",
+    "code": "CH_SG_MNC_SCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_MNC"
+  },
+  {
+    "tenantId": "switzerland.stgallen.mnchwilen.braunau",
+    "code": "CH_SG_MNC_BRAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_MNC"
+  },
+  {
+    "tenantId": "switzerland.stgallen.mnchwilen.lommis",
+    "code": "CH_SG_MNC_LOMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_MNC"
+  },
+  {
+    "tenantId": "switzerland.stgallen.mnchwilen.mnchwilentg",
+    "code": "CH_SG_MNC_MT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_MNC"
+  },
+  {
+    "tenantId": "switzerland.stgallen.mnchwilen.tobeltgerschen",
+    "code": "CH_SG_MNC_TOBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_MNC"
+  },
+  {
+    "tenantId": "switzerland.stgallen.mnchwilen.eschlikon",
+    "code": "CH_SG_MNC_ESCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_MNC"
+  },
+  {
+    "tenantId": "switzerland.stgallen.mnchwilen.bettwiesen",
+    "code": "CH_SG_MNC_BETT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_MNC"
+  },
+  {
+    "tenantId": "switzerland.stgallen.mnchwilen.wilentg",
+    "code": "CH_SG_MNC_WIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_MNC"
+  },
+  {
+    "tenantId": "switzerland.stgallen.mnchwilen.rickenbachtg",
+    "code": "CH_SG_MNC_RIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_MNC"
+  },
+  {
+    "tenantId": "switzerland.stgallen.mnchwilen.bichelseebalterswil",
+    "code": "CH_SG_MNC_BICH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SG_MNC"
+  }
+]

@@ -1,0 +1,982 @@
+[
+  {
+    "tenantId": "burundi.rutana",
+    "code": "BI_RT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BI"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati",
+    "code": "BI_RT_MUSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BI_RT"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana",
+    "code": "BI_RT_RUTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BI_RT"
+  },
+  {
+    "tenantId": "burundi.rutana.gitanga",
+    "code": "BI_RT_GITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BI_RT"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay",
+    "code": "BI_RT_MPIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BI_RT"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo",
+    "code": "BI_RT_GIHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BI_RT"
+  },
+  {
+    "tenantId": "burundi.rutana.bukemba",
+    "code": "BI_RT_BUKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BI_RT"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.yove",
+    "code": "BI_RT_MUSO_YOVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.munywero",
+    "code": "BI_RT_MUSO_MUNY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.musagara",
+    "code": "BI_RT_MUSO_MUSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.rugunga",
+    "code": "BI_RT_MUSO_RUGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.nyangazi",
+    "code": "BI_RT_MUSO_NYAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.shanga",
+    "code": "BI_RT_MUSO_SHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.mbuza",
+    "code": "BI_RT_MUSO_MBUZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.nyanza",
+    "code": "BI_RT_MUSO_NYAN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.mababwe",
+    "code": "BI_RT_MUSO_MABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.ngoma",
+    "code": "BI_RT_MUSO_NGOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.mungwa",
+    "code": "BI_RT_MUSO_MUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.nyabibuye",
+    "code": "BI_RT_MUSO_NYAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.cero",
+    "code": "BI_RT_MUSO_CERO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.kirera",
+    "code": "BI_RT_MUSO_KIRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.gisasa",
+    "code": "BI_RT_MUSO_GISA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.nyabigozi",
+    "code": "BI_RT_MUSO_NYAB2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.nyabisindu",
+    "code": "BI_RT_MUSO_NYAB3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.makakwe",
+    "code": "BI_RT_MUSO_MAKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.maganaherunyoni",
+    "code": "BI_RT_MUSO_MAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.kamaramagambo",
+    "code": "BI_RT_MUSO_KAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.buhinga",
+    "code": "BI_RT_MUSO_BUHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.maganahegiheta",
+    "code": "BI_RT_MUSO_MAGA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.kagunga",
+    "code": "BI_RT_MUSO_KAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.gatakazi",
+    "code": "BI_RT_MUSO_GATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.musongati.rusunu",
+    "code": "BI_RT_MUSO_RUSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MUSO"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.kivoga",
+    "code": "BI_RT_RUTA_KIVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.gaseri",
+    "code": "BI_RT_RUTA_GASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.ruhemeza",
+    "code": "BI_RT_RUTA_RUHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.maramvya",
+    "code": "BI_RT_RUTA_MARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.mika",
+    "code": "BI_RT_RUTA_MIKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.rongero",
+    "code": "BI_RT_RUTA_RONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.gifunzo",
+    "code": "BI_RT_RUTA_GIFU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.nyanzuki",
+    "code": "BI_RT_RUTA_NYAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.rutana",
+    "code": "BI_RT_RUTA_RUTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.centreurbain",
+    "code": "BI_RT_RUTA_CENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.kayove",
+    "code": "BI_RT_RUTA_KAYO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.nyarubimba",
+    "code": "BI_RT_RUTA_NYAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.gitaramuka",
+    "code": "BI_RT_RUTA_GITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.ramvya",
+    "code": "BI_RT_RUTA_RAMV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.gitaba",
+    "code": "BI_RT_RUTA_GITA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.musenyi",
+    "code": "BI_RT_RUTA_MUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.matutu",
+    "code": "BI_RT_RUTA_MATU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.kinganda",
+    "code": "BI_RT_RUTA_KING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.nyamure",
+    "code": "BI_RT_RUTA_NYAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.mungwa",
+    "code": "BI_RT_RUTA_MUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.bugunga",
+    "code": "BI_RT_RUTA_BUGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.gakobe",
+    "code": "BI_RT_RUTA_GAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.rutana.gasakuza",
+    "code": "BI_RT_RUTA_GASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_RUTA"
+  },
+  {
+    "tenantId": "burundi.rutana.gitanga.kabago",
+    "code": "BI_RT_GITA_KABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GITA"
+  },
+  {
+    "tenantId": "burundi.rutana.gitanga.samahuge",
+    "code": "BI_RT_GITA_SAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GITA"
+  },
+  {
+    "tenantId": "burundi.rutana.gitanga.muyange",
+    "code": "BI_RT_GITA_MUYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GITA"
+  },
+  {
+    "tenantId": "burundi.rutana.gitanga.nyakuguma",
+    "code": "BI_RT_GITA_NYAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GITA"
+  },
+  {
+    "tenantId": "burundi.rutana.gitanga.ngoma",
+    "code": "BI_RT_GITA_NGOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GITA"
+  },
+  {
+    "tenantId": "burundi.rutana.gitanga.cikinga",
+    "code": "BI_RT_GITA_CIKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GITA"
+  },
+  {
+    "tenantId": "burundi.rutana.gitanga.kazeba",
+    "code": "BI_RT_GITA_KAZE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GITA"
+  },
+  {
+    "tenantId": "burundi.rutana.gitanga.kinzanza",
+    "code": "BI_RT_GITA_KINZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GITA"
+  },
+  {
+    "tenantId": "burundi.rutana.gitanga.gisenyi",
+    "code": "BI_RT_GITA_GISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GITA"
+  },
+  {
+    "tenantId": "burundi.rutana.gitanga.cunda",
+    "code": "BI_RT_GITA_CUND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GITA"
+  },
+  {
+    "tenantId": "burundi.rutana.gitanga.gitanga",
+    "code": "BI_RT_GITA_GITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GITA"
+  },
+  {
+    "tenantId": "burundi.rutana.gitanga.nyagisambwe",
+    "code": "BI_RT_GITA_NYAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GITA"
+  },
+  {
+    "tenantId": "burundi.rutana.gitanga.maramvya",
+    "code": "BI_RT_GITA_MARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GITA"
+  },
+  {
+    "tenantId": "burundi.rutana.gitanga.nyabikenke",
+    "code": "BI_RT_GITA_NYAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GITA"
+  },
+  {
+    "tenantId": "burundi.rutana.gitanga.ntuku",
+    "code": "BI_RT_GITA_NTUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GITA"
+  },
+  {
+    "tenantId": "burundi.rutana.gitanga.kiremba",
+    "code": "BI_RT_GITA_KIRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GITA"
+  },
+  {
+    "tenantId": "burundi.rutana.gitanga.museno",
+    "code": "BI_RT_GITA_MUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GITA"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.mpinga",
+    "code": "BI_RT_MPIN_MPIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.nyakazu",
+    "code": "BI_RT_MPIN_NYAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.nyakabanda",
+    "code": "BI_RT_MPIN_NYAK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.gasasa",
+    "code": "BI_RT_MPIN_GASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.munyika",
+    "code": "BI_RT_MPIN_MUNY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.buranga",
+    "code": "BI_RT_MPIN_BURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.kiguhu",
+    "code": "BI_RT_MPIN_KIGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.juragati",
+    "code": "BI_RT_MPIN_JURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.kibanda",
+    "code": "BI_RT_MPIN_KIBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.maganahe",
+    "code": "BI_RT_MPIN_MAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.ngarama",
+    "code": "BI_RT_MPIN_NGAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.musotera",
+    "code": "BI_RT_MPIN_MUSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.bubanga",
+    "code": "BI_RT_MPIN_BUBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.rorero",
+    "code": "BI_RT_MPIN_RORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.gitaba",
+    "code": "BI_RT_MPIN_GITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.kayove",
+    "code": "BI_RT_MPIN_KAYO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.butamya",
+    "code": "BI_RT_MPIN_BUTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.gasenga",
+    "code": "BI_RT_MPIN_GASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.gihera",
+    "code": "BI_RT_MPIN_GIHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.butambara",
+    "code": "BI_RT_MPIN_BUTA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.nyamugongo",
+    "code": "BI_RT_MPIN_NYAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.gihinga",
+    "code": "BI_RT_MPIN_GIHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.muganza",
+    "code": "BI_RT_MPIN_MUGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.mirehe",
+    "code": "BI_RT_MPIN_MIRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.bayumbu",
+    "code": "BI_RT_MPIN_BAYU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.kagoma",
+    "code": "BI_RT_MPIN_KAGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.mugondo",
+    "code": "BI_RT_MPIN_MUGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.ntonzi",
+    "code": "BI_RT_MPIN_NTON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.rasa",
+    "code": "BI_RT_MPIN_RASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.ngara",
+    "code": "BI_RT_MPIN_NGAR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.mpingakay.rutoke",
+    "code": "BI_RT_MPIN_RUTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_MPIN"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.muzye",
+    "code": "BI_RT_GIHA_MUZY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.murehe",
+    "code": "BI_RT_GIHA_MURE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.shembe",
+    "code": "BI_RT_GIHA_SHEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.buyaga",
+    "code": "BI_RT_GIHA_BUYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.nyembuye",
+    "code": "BI_RT_GIHA_NYEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.nkanka",
+    "code": "BI_RT_GIHA_NKAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.gatonga",
+    "code": "BI_RT_GIHA_GATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.kabingo",
+    "code": "BI_RT_GIHA_KABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.mwebeya",
+    "code": "BI_RT_GIHA_MWEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.rubanga",
+    "code": "BI_RT_GIHA_RUBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.shasha",
+    "code": "BI_RT_GIHA_SHAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.kigunda",
+    "code": "BI_RT_GIHA_KIGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.butezi",
+    "code": "BI_RT_GIHA_BUTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.kanyererwe",
+    "code": "BI_RT_GIHA_KANY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.buhogo",
+    "code": "BI_RT_GIHA_BUHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.giharo",
+    "code": "BI_RT_GIHA_GIHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.bayaga",
+    "code": "BI_RT_GIHA_BAYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.musenyi",
+    "code": "BI_RT_GIHA_MUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.bukeno",
+    "code": "BI_RT_GIHA_BUKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.mutwana",
+    "code": "BI_RT_GIHA_MUTW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.nkurye",
+    "code": "BI_RT_GIHA_NKUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.kibimba",
+    "code": "BI_RT_GIHA_KIBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.muremera",
+    "code": "BI_RT_GIHA_MURE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.mugombwa",
+    "code": "BI_RT_GIHA_MUGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.gakungu",
+    "code": "BI_RT_GIHA_GAKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.mura",
+    "code": "BI_RT_GIHA_MURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.gitanga",
+    "code": "BI_RT_GIHA_GITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.bugongonyamateke",
+    "code": "BI_RT_GIHA_BUNY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.murara",
+    "code": "BI_RT_GIHA_MURA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.ngomante",
+    "code": "BI_RT_GIHA_NGOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.giharo.nyabakara",
+    "code": "BI_RT_GIHA_NYAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_GIHA"
+  },
+  {
+    "tenantId": "burundi.rutana.bukemba.butare",
+    "code": "BI_RT_BUKE_BUTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_BUKE"
+  },
+  {
+    "tenantId": "burundi.rutana.bukemba.ruranga",
+    "code": "BI_RT_BUKE_RURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_BUKE"
+  },
+  {
+    "tenantId": "burundi.rutana.bukemba.bugiga",
+    "code": "BI_RT_BUKE_BUGI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_BUKE"
+  },
+  {
+    "tenantId": "burundi.rutana.bukemba.bukemba",
+    "code": "BI_RT_BUKE_BUKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_BUKE"
+  },
+  {
+    "tenantId": "burundi.rutana.bukemba.murama",
+    "code": "BI_RT_BUKE_MURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_BUKE"
+  },
+  {
+    "tenantId": "burundi.rutana.bukemba.gihofi",
+    "code": "BI_RT_BUKE_GIHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BI_RT_BUKE"
+  }
+]

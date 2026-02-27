@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "seychelles.ladiguea",
+    "code": "SC_LDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SC"
+  },
+  {
+    "tenantId": "seychelles.ladiguea.ladigue",
+    "code": "SC_LDA_LADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SC_LDA"
+  },
+  {
+    "tenantId": "seychelles.ladiguea.ladigue.ladigue",
+    "code": "SC_LDA_LADI_LADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SC_LDA_LADI"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "unitedkingdom",
+    "code": "GB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "unitedkingdom.northernireland",
+    "code": "GB_NIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": "GB"
+  },
+  {
+    "tenantId": "unitedkingdom.england",
+    "code": "GB_ENG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": "GB"
+  },
+  {
+    "tenantId": "unitedkingdom.scotland",
+    "code": "GB_SCT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": "GB"
+  },
+  {
+    "tenantId": "unitedkingdom.wales",
+    "code": "GB_WLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": "GB"
+  }
+]

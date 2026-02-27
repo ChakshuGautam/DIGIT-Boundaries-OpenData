@@ -1,0 +1,107 @@
+[
+  {
+    "tenantId": "sierraleone.westernarea",
+    "code": "SL_W",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SL"
+  },
+  {
+    "tenantId": "sierraleone.westernarea.westernarearural",
+    "code": "SL_W_WAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SL_W"
+  },
+  {
+    "tenantId": "sierraleone.westernarea.westernareaurban",
+    "code": "SL_W_WAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SL_W"
+  },
+  {
+    "tenantId": "sierraleone.westernarea.westernarearural.yorkrural",
+    "code": "SL_W_WAR_YORU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SL_W_WAR"
+  },
+  {
+    "tenantId": "sierraleone.westernarea.westernarearural.waterloorural",
+    "code": "SL_W_WAR_WARU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SL_W_WAR"
+  },
+  {
+    "tenantId": "sierraleone.westernarea.westernarearural.mountainrural",
+    "code": "SL_W_WAR_MORU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SL_W_WAR"
+  },
+  {
+    "tenantId": "sierraleone.westernarea.westernarearural.koyarural",
+    "code": "SL_W_WAR_KORU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SL_W_WAR"
+  },
+  {
+    "tenantId": "sierraleone.westernarea.westernareaurban.westiii",
+    "code": "SL_W_WAU_WEII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SL_W_WAU"
+  },
+  {
+    "tenantId": "sierraleone.westernarea.westernareaurban.westii",
+    "code": "SL_W_WAU_WEII2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SL_W_WAU"
+  },
+  {
+    "tenantId": "sierraleone.westernarea.westernareaurban.westi",
+    "code": "SL_W_WAU_WEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SL_W_WAU"
+  },
+  {
+    "tenantId": "sierraleone.westernarea.westernareaurban.eastiii",
+    "code": "SL_W_WAU_EAII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SL_W_WAU"
+  },
+  {
+    "tenantId": "sierraleone.westernarea.westernareaurban.eastii",
+    "code": "SL_W_WAU_EAII2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SL_W_WAU"
+  },
+  {
+    "tenantId": "sierraleone.westernarea.westernareaurban.easti",
+    "code": "SL_W_WAU_EAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SL_W_WAU"
+  },
+  {
+    "tenantId": "sierraleone.westernarea.westernareaurban.centralii",
+    "code": "SL_W_WAU_CEII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SL_W_WAU"
+  },
+  {
+    "tenantId": "sierraleone.westernarea.westernareaurban.centrali",
+    "code": "SL_W_WAU_CEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SL_W_WAU"
+  }
+]

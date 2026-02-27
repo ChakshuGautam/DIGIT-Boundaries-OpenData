@@ -1,0 +1,359 @@
+[
+  {
+    "tenantId": "ctedivoire.lagunes",
+    "code": "CI_LAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CI"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.agnebytiassa",
+    "code": "CI_LAGU_AGNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CI_LAGU"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.grandsponts",
+    "code": "CI_LAGU_GRPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CI_LAGU"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.me",
+    "code": "CI_LAGU_ME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CI_LAGU"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.agnebytiassa.aboud",
+    "code": "CI_LAGU_AGNE_ABOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_AGNE"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.agnebytiassa.agboville",
+    "code": "CI_LAGU_AGNE_AGBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_AGNE"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.agnebytiassa.anangui",
+    "code": "CI_LAGU_AGNE_ANAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_AGNE"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.agnebytiassa.attobrou",
+    "code": "CI_LAGU_AGNE_ATTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_AGNE"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.agnebytiassa.azagui",
+    "code": "CI_LAGU_AGNE_AZAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_AGNE"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.agnebytiassa.cechi",
+    "code": "CI_LAGU_AGNE_CECH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_AGNE"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.agnebytiassa.gbolouville",
+    "code": "CI_LAGU_AGNE_GBOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_AGNE"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.agnebytiassa.gomon",
+    "code": "CI_LAGU_AGNE_GOMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_AGNE"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.agnebytiassa.grandmori",
+    "code": "CI_LAGU_AGNE_GRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_AGNE"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.agnebytiassa.guessigui",
+    "code": "CI_LAGU_AGNE_GUES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_AGNE"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.agnebytiassa.lovigui",
+    "code": "CI_LAGU_AGNE_LOVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_AGNE"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.agnebytiassa.morokro",
+    "code": "CI_LAGU_AGNE_MORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_AGNE"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.agnebytiassa.ndouci",
+    "code": "CI_LAGU_AGNE_NDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_AGNE"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.agnebytiassa.oresskrobou",
+    "code": "CI_LAGU_AGNE_ORES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_AGNE"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.agnebytiassa.pacobo",
+    "code": "CI_LAGU_AGNE_PACO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_AGNE"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.agnebytiassa.rubino",
+    "code": "CI_LAGU_AGNE_RUBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_AGNE"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.agnebytiassa.sikensi",
+    "code": "CI_LAGU_AGNE_SIKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_AGNE"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.agnebytiassa.taabo",
+    "code": "CI_LAGU_AGNE_TAAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_AGNE"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.agnebytiassa.tiassal",
+    "code": "CI_LAGU_AGNE_TIAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_AGNE"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.grandsponts.ahouanou",
+    "code": "CI_LAGU_GRPO_AHOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_GRPO"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.grandsponts.attoutou",
+    "code": "CI_LAGU_GRPO_ATTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_GRPO"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.grandsponts.bacanda",
+    "code": "CI_LAGU_GRPO_BACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_GRPO"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.grandsponts.dabou",
+    "code": "CI_LAGU_GRPO_DABO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_GRPO"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.grandsponts.ebonou",
+    "code": "CI_LAGU_GRPO_EBON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_GRPO"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.grandsponts.grandlahou",
+    "code": "CI_LAGU_GRPO_GRLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_GRPO"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.grandsponts.jacqueville",
+    "code": "CI_LAGU_GRPO_JACQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_GRPO"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.grandsponts.lopou",
+    "code": "CI_LAGU_GRPO_LOPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_GRPO"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.grandsponts.toukouzou",
+    "code": "CI_LAGU_GRPO_TOUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_GRPO"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.grandsponts.toupah",
+    "code": "CI_LAGU_GRPO_TOUP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_GRPO"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.me.aboissocomo",
+    "code": "CI_LAGU_ME_ABOI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_ME"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.me.abongoua",
+    "code": "CI_LAGU_ME_ABON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_ME"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.me.adzop",
+    "code": "CI_LAGU_ME_ADZO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_ME"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.me.affry",
+    "code": "CI_LAGU_ME_AFF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_ME"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.me.agou",
+    "code": "CI_LAGU_ME_AGOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_ME"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.me.akoup",
+    "code": "CI_LAGU_ME_AKOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_ME"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.me.alp",
+    "code": "CI_LAGU_ME_AL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_ME"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.me.allosso",
+    "code": "CI_LAGU_ME_ALLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_ME"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.me.aniassu",
+    "code": "CI_LAGU_ME_ANIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_ME"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.me.annep",
+    "code": "CI_LAGU_ME_ANNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_ME"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.me.assikoi",
+    "code": "CI_LAGU_ME_ASSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_ME"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.me.bcdibrignan",
+    "code": "CI_LAGU_ME_BC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_ME"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.me.bcoufin",
+    "code": "CI_LAGU_ME_BC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_ME"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.me.biby",
+    "code": "CI_LAGU_ME_BI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_ME"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.me.danguira",
+    "code": "CI_LAGU_ME_DANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_ME"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.me.oghlwapo",
+    "code": "CI_LAGU_ME_OGHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_ME"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.me.yakasseattobrou",
+    "code": "CI_LAGU_ME_YAKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_ME"
+  },
+  {
+    "tenantId": "ctedivoire.lagunes.me.yakassm",
+    "code": "CI_LAGU_ME_YAKA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_LAGU_ME"
+  }
+]

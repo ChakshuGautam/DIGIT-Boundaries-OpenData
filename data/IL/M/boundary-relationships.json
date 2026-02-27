@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "israel.centraldistrict",
+    "code": "IL_M",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IL"
+  },
+  {
+    "tenantId": "israel.centraldistrict.rehovot",
+    "code": "IL_M_REHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IL_M"
+  },
+  {
+    "tenantId": "israel.centraldistrict.ramla",
+    "code": "IL_M_RAML",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IL_M"
+  },
+  {
+    "tenantId": "israel.centraldistrict.petahtiqwa",
+    "code": "IL_M_PETI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IL_M"
+  },
+  {
+    "tenantId": "israel.centraldistrict.hasharon",
+    "code": "IL_M_HASH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IL_M"
+  }
+]

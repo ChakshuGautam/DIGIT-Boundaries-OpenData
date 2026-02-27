@@ -1,0 +1,618 @@
+[
+  {
+    "tenantId": "panama.provinciadelossantos",
+    "code": "PA_7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.pedas",
+    "code": "PA_7_PEDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PA_7"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.pocr",
+    "code": "PA_7_POCR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PA_7"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.tonos",
+    "code": "PA_7_TONO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PA_7"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas",
+    "code": "PA_7_LATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PA_7"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.guarar",
+    "code": "PA_7_GUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PA_7"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.macaracas",
+    "code": "PA_7_MACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PA_7"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lossantos",
+    "code": "PA_7_LOSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PA_7"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.pedas.pedas",
+    "code": "PA_7_PEDA_PEDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_PEDA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.pedas.mariab",
+    "code": "PA_7_PEDA_MARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_PEDA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.pedas.purio",
+    "code": "PA_7_PEDA_PURI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_PEDA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.pedas.losasientos",
+    "code": "PA_7_PEDA_LOAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_PEDA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.pedas.oriaarriba",
+    "code": "PA_7_PEDA_ORAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_PEDA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.pocr.lajamina",
+    "code": "PA_7_POCR_LAJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_POCR"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.pocr.pocr",
+    "code": "PA_7_POCR_POCR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_POCR"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.pocr.paraiso",
+    "code": "PA_7_POCR_PARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_POCR"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.pocr.paritilla",
+    "code": "PA_7_POCR_PARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_POCR"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.pocr.elcaafstulo",
+    "code": "PA_7_POCR_ELCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_POCR"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.tonos.elcacao",
+    "code": "PA_7_TONO_ELCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_TONO"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.tonos.tonos",
+    "code": "PA_7_TONO_TONO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_TONO"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.tonos.elbebedero",
+    "code": "PA_7_TONO_ELBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_TONO"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.tonos.flores",
+    "code": "PA_7_TONO_FLOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_TONO"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.tonos.gunico",
+    "code": "PA_7_TONO_GUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_TONO"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.tonos.cambutal",
+    "code": "PA_7_TONO_CAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_TONO"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.tonos.latronosa",
+    "code": "PA_7_TONO_LATR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_TONO"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.tonos.elcortezo",
+    "code": "PA_7_TONO_ELCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_TONO"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.tonos.altosdegera",
+    "code": "PA_7_TONO_ADG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_TONO"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.tonos.isladecaas",
+    "code": "PA_7_TONO_IDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_TONO"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.tonos.caas",
+    "code": "PA_7_TONO_CAA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_TONO"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.lapalma",
+    "code": "PA_7_LATA_LAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.sanjos",
+    "code": "PA_7_LATA_SAJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.santodomingo",
+    "code": "PA_7_LATA_SADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.elmanantial",
+    "code": "PA_7_LATA_ELMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.lastablasabajo",
+    "code": "PA_7_LATA_LTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.nuario",
+    "code": "PA_7_LATA_NUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.bajocorral",
+    "code": "PA_7_LATA_BACO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.lamiel",
+    "code": "PA_7_LATA_LAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.sanmiguel",
+    "code": "PA_7_LATA_SAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.vallerriquito",
+    "code": "PA_7_LATA_VALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.elmuoz",
+    "code": "PA_7_LATA_ELMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.vallerico",
+    "code": "PA_7_LATA_VARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.bayano",
+    "code": "PA_7_LATA_BAYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.lalaja",
+    "code": "PA_7_LATA_LALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.peablanca",
+    "code": "PA_7_LATA_PEBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.elpedregoso",
+    "code": "PA_7_LATA_ELPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.palmira",
+    "code": "PA_7_LATA_PALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.elcarate",
+    "code": "PA_7_LATA_ELCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.elcocal",
+    "code": "PA_7_LATA_ELCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.sesteadero",
+    "code": "PA_7_LATA_SEST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.lastablascab",
+    "code": "PA_7_LATA_LT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.laspalmitas",
+    "code": "PA_7_LATA_LAPA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.latiza",
+    "code": "PA_7_LATA_LATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lastablas.rohondo",
+    "code": "PA_7_LATA_RHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LATA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.guarar.laenea",
+    "code": "PA_7_GUAR_LAEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_GUAR"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.guarar.guarar",
+    "code": "PA_7_GUAR_GUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_GUAR"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.guarar.lapasera",
+    "code": "PA_7_GUAR_LAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_GUAR"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.guarar.elespinal",
+    "code": "PA_7_GUAR_ELES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_GUAR"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.guarar.perales",
+    "code": "PA_7_GUAR_PERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_GUAR"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.guarar.lastrancas",
+    "code": "PA_7_GUAR_LATR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_GUAR"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.guarar.elmacano",
+    "code": "PA_7_GUAR_ELMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_GUAR"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.guarar.elhato",
+    "code": "PA_7_GUAR_ELHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_GUAR"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.guarar.llanoabajo",
+    "code": "PA_7_GUAR_LLAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_GUAR"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.guarar.guarararriba",
+    "code": "PA_7_GUAR_GUAR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_GUAR"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.macaracas.bajosdegera",
+    "code": "PA_7_MACA_BDG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_MACA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.macaracas.llanodepiedra",
+    "code": "PA_7_MACA_LDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_MACA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.macaracas.mogollon",
+    "code": "PA_7_MACA_MOGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_MACA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.macaracas.lamesa",
+    "code": "PA_7_MACA_LAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_MACA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.macaracas.laspalmas",
+    "code": "PA_7_MACA_LAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_MACA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.macaracas.espinoamarillo",
+    "code": "PA_7_MACA_ESAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_MACA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.macaracas.bahahonda",
+    "code": "PA_7_MACA_BAHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_MACA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.macaracas.corozal",
+    "code": "PA_7_MACA_CORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_MACA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.macaracas.elcedro",
+    "code": "PA_7_MACA_ELCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_MACA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.macaracas.macaracascab",
+    "code": "PA_7_MACA_MAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_MACA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.macaracas.chup",
+    "code": "PA_7_MACA_CHUP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_MACA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lossantos.aguabuena",
+    "code": "PA_7_LOSA_AGBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LOSA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lossantos.lascruces",
+    "code": "PA_7_LOSA_LACR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LOSA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lossantos.villalourdes",
+    "code": "PA_7_LOSA_VILO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LOSA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lossantos.lasguabas",
+    "code": "PA_7_LOSA_LAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LOSA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lossantos.elgusimo",
+    "code": "PA_7_LOSA_ELGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LOSA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lossantos.lacolorada",
+    "code": "PA_7_LOSA_LACO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LOSA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lossantos.lavilladelossantos",
+    "code": "PA_7_LOSA_LVDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LOSA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lossantos.llanolargo",
+    "code": "PA_7_LOSA_LLLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LOSA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lossantos.tresquebradas",
+    "code": "PA_7_LOSA_TRQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LOSA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lossantos.laespigadilla",
+    "code": "PA_7_LOSA_LAES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LOSA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lossantos.losolivos",
+    "code": "PA_7_LOSA_LOOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LOSA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lossantos.losangeles",
+    "code": "PA_7_LOSA_LOAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LOSA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lossantos.santaana",
+    "code": "PA_7_LOSA_SAAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LOSA"
+  },
+  {
+    "tenantId": "panama.provinciadelossantos.lossantos.sabanagrande",
+    "code": "PA_7_LOSA_SAGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_7_LOSA"
+  }
+]

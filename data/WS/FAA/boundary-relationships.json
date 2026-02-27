@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "samoa.faasaleleage",
+    "code": "WS_FAA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "WS"
+  },
+  {
+    "tenantId": "samoa.faasaleleage.faasaleleagai",
+    "code": "WS_FAA_FAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "WS_FAA"
+  },
+  {
+    "tenantId": "samoa.faasaleleage.faasaleleagaii",
+    "code": "WS_FAA_FAII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "WS_FAA"
+  },
+  {
+    "tenantId": "samoa.faasaleleage.faasaleleagaiii",
+    "code": "WS_FAA_FAII2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "WS_FAA"
+  },
+  {
+    "tenantId": "samoa.faasaleleage.faasalelelagaiv",
+    "code": "WS_FAA_FAIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "WS_FAA"
+  }
+]

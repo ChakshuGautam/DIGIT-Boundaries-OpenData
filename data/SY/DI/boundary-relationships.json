@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "syrianarabrepublic.damascus",
+    "code": "SY_DI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SY"
+  },
+  {
+    "tenantId": "syrianarabrepublic.damascus.damascus",
+    "code": "SY_DI_DAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SY_DI"
+  },
+  {
+    "tenantId": "syrianarabrepublic.damascus.damascus.damascus",
+    "code": "SY_DI_DAMA_DAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SY_DI_DAMA"
+  }
+]

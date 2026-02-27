@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "saotomeandprincipe",
+    "code": "ST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "saotomeandprincipe.prncipeprovince",
+    "code": "ST_P",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "ST"
+  },
+  {
+    "tenantId": "saotomeandprincipe.sotomprovince",
+    "code": "ST_S",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "ST"
+  }
+]

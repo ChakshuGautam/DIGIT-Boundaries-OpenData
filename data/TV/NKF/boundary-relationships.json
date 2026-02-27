@@ -1,0 +1,58 @@
+[
+  {
+    "tenantId": "tuvalu.nukufetau",
+    "code": "TV_NKF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TV"
+  },
+  {
+    "tenantId": "tuvalu.nukufetau.aulotu",
+    "code": "TV_NKF_AULO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TV_NKF"
+  },
+  {
+    "tenantId": "tuvalu.nukufetau.maneapa",
+    "code": "TV_NKF_MANE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TV_NKF"
+  },
+  {
+    "tenantId": "tuvalu.nukufetau.aulotu.unknown",
+    "code": "TV_NKF_AULO_6601",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NKF_AULO"
+  },
+  {
+    "tenantId": "tuvalu.nukufetau.aulotu.unknown",
+    "code": "TV_NKF_AULO_66012",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NKF_AULO"
+  },
+  {
+    "tenantId": "tuvalu.nukufetau.maneapa.unknown",
+    "code": "TV_NKF_MANE_6602",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NKF_MANE"
+  },
+  {
+    "tenantId": "tuvalu.nukufetau.maneapa.unknown",
+    "code": "TV_NKF_MANE_66022",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NKF_MANE"
+  },
+  {
+    "tenantId": "tuvalu.nukufetau.maneapa.unknown",
+    "code": "TV_NKF_MANE_6601",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NKF_MANE"
+  }
+]

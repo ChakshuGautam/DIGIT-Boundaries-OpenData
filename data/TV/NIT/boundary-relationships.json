@@ -1,0 +1,58 @@
+[
+  {
+    "tenantId": "tuvalu.niutao",
+    "code": "TV_NIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TV"
+  },
+  {
+    "tenantId": "tuvalu.niutao.kulia",
+    "code": "TV_NIT_KULI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TV_NIT"
+  },
+  {
+    "tenantId": "tuvalu.niutao.teava",
+    "code": "TV_NIT_TEAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TV_NIT"
+  },
+  {
+    "tenantId": "tuvalu.niutao.kulia.unknown",
+    "code": "TV_NIT_KULI_3301",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NIT_KULI"
+  },
+  {
+    "tenantId": "tuvalu.niutao.kulia.unknown",
+    "code": "TV_NIT_KULI_33012",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NIT_KULI"
+  },
+  {
+    "tenantId": "tuvalu.niutao.kulia.unknown",
+    "code": "TV_NIT_KULI_33013",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NIT_KULI"
+  },
+  {
+    "tenantId": "tuvalu.niutao.teava.unknown",
+    "code": "TV_NIT_TEAV_3302",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NIT_TEAV"
+  },
+  {
+    "tenantId": "tuvalu.niutao.teava.unknown",
+    "code": "TV_NIT_TEAV_33022",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "TV_NIT_TEAV"
+  }
+]

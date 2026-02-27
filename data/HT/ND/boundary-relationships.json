@@ -1,0 +1,191 @@
+[
+  {
+    "tenantId": "haiti.dpartementdunord",
+    "code": "HT_ND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "HT"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementdaculdunord",
+    "code": "HT_ND_ARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_ND"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementborgne",
+    "code": "HT_ND_ARBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_ND"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementdecaphatien",
+    "code": "HT_ND_ADC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_ND"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementgranderiviredunord",
+    "code": "HT_ND_ARGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_ND"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementlimb",
+    "code": "HT_ND_ARLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_ND"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementplaisance",
+    "code": "HT_ND_ARPL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_ND"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementsaintraphal",
+    "code": "HT_ND_ARSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_ND"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementdaculdunord.aculdunord",
+    "code": "HT_ND_ARD_ADN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_ND_ARD"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementdaculdunord.plainedunord",
+    "code": "HT_ND_ARD_PDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_ND_ARD"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementdaculdunord.milot",
+    "code": "HT_ND_ARD_MILO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_ND_ARD"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementborgne.borgne",
+    "code": "HT_ND_ARBO_BORG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_ND_ARBO"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementborgne.portmargot",
+    "code": "HT_ND_ARBO_POMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_ND_ARBO"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementdecaphatien.caphaitien",
+    "code": "HT_ND_ADC_CAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_ND_ADC"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementdecaphatien.quartiermorin",
+    "code": "HT_ND_ADC_QUMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_ND_ADC"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementdecaphatien.limonade",
+    "code": "HT_ND_ADC_LIMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_ND_ADC"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementgranderiviredunord.granderivieredunord",
+    "code": "HT_ND_ARGR_GRDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_ND_ARGR"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementgranderiviredunord.bahon",
+    "code": "HT_ND_ARGR_BAHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_ND_ARGR"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementlimb.limbe",
+    "code": "HT_ND_ARLI_LIMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_ND_ARLI"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementlimb.baslimbe",
+    "code": "HT_ND_ARLI_BALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_ND_ARLI"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementplaisance.plaisance",
+    "code": "HT_ND_ARPL_PLAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_ND_ARPL"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementplaisance.pilate",
+    "code": "HT_ND_ARPL_PILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_ND_ARPL"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementsaintraphal.saintraphael",
+    "code": "HT_ND_ARSA_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_ND_ARSA"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementsaintraphal.dondon",
+    "code": "HT_ND_ARSA_DOND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_ND_ARSA"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementsaintraphal.ranquitte",
+    "code": "HT_ND_ARSA_RANQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_ND_ARSA"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementsaintraphal.pignon",
+    "code": "HT_ND_ARSA_PIGN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_ND_ARSA"
+  },
+  {
+    "tenantId": "haiti.dpartementdunord.arrondissementsaintraphal.lavictoire",
+    "code": "HT_ND_ARSA_LAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_ND_ARSA"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "tenantId": "serbia.northbanatdistrict",
+    "code": "RS_03",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "RS"
+  },
+  {
+    "tenantId": "serbia.northbanatdistrict.kikindacity",
+    "code": "RS_03_KICI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_03"
+  },
+  {
+    "tenantId": "serbia.northbanatdistrict.kanjizamunicipality",
+    "code": "RS_03_KAMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_03"
+  },
+  {
+    "tenantId": "serbia.northbanatdistrict.sentamunicipality",
+    "code": "RS_03_SEMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_03"
+  },
+  {
+    "tenantId": "serbia.northbanatdistrict.adamunicipality",
+    "code": "RS_03_ADMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_03"
+  },
+  {
+    "tenantId": "serbia.northbanatdistrict.noviknezevacmunicipality",
+    "code": "RS_03_NKM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_03"
+  },
+  {
+    "tenantId": "serbia.northbanatdistrict.cokamunicipality",
+    "code": "RS_03_COMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_03"
+  }
+]

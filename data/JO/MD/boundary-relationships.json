@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "jordan.madaba",
+    "code": "JO_MD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "JO"
+  },
+  {
+    "tenantId": "jordan.madaba.dhiban",
+    "code": "JO_MD_DHIB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JO_MD"
+  },
+  {
+    "tenantId": "jordan.madaba.madaba",
+    "code": "JO_MD_MADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JO_MD"
+  },
+  {
+    "tenantId": "jordan.madaba.umalbasatin",
+    "code": "JO_MD_UMAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "JO_MD"
+  }
+]

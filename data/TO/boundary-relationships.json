@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "tonga",
+    "code": "TO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "tonga.haapai",
+    "code": "TO_02",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TO"
+  },
+  {
+    "tenantId": "tonga.niuas",
+    "code": "TO_03",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TO"
+  },
+  {
+    "tenantId": "tonga.tongatapu",
+    "code": "TO_04",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TO"
+  },
+  {
+    "tenantId": "tonga.vavau",
+    "code": "TO_05",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TO"
+  },
+  {
+    "tenantId": "tonga.eua",
+    "code": "TO_01",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TO"
+  }
+]

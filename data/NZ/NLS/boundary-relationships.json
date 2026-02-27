@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "newzealand.nelsonregion",
+    "code": "NZ_NLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NZ"
+  },
+  {
+    "tenantId": "newzealand.nelsonregion.nelsoncity",
+    "code": "NZ_NLS_NECI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_NLS"
+  },
+  {
+    "tenantId": "newzealand.nelsonregion.nelsoncity.areaoutsideward",
+    "code": "NZ_NLS_NECI_AOW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_NLS_NECI"
+  }
+]

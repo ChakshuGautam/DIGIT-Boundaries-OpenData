@@ -1,0 +1,520 @@
+[
+  {
+    "tenantId": "mozambique.zambzia",
+    "code": "MZ_Q",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MZ"
+  },
+  {
+    "tenantId": "mozambique.zambzia.altomolocue",
+    "code": "MZ_Q_ALMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.chinde",
+    "code": "MZ_Q_CHIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.cidadedequelimane",
+    "code": "MZ_Q_CDQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.derre",
+    "code": "MZ_Q_DERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.gile",
+    "code": "MZ_Q_GILE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.gurue",
+    "code": "MZ_Q_GURU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.ile",
+    "code": "MZ_Q_ILE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.inhassunge",
+    "code": "MZ_Q_INHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.luabo",
+    "code": "MZ_Q_LUAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.lugela",
+    "code": "MZ_Q_LUGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.maganjadacosta",
+    "code": "MZ_Q_MDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.maquival",
+    "code": "MZ_Q_MAQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.milange",
+    "code": "MZ_Q_MILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.mocuba",
+    "code": "MZ_Q_MOCU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.mocubela",
+    "code": "MZ_Q_MOCU2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.molumbo",
+    "code": "MZ_Q_MOLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.mopeia",
+    "code": "MZ_Q_MOPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.morrumbala",
+    "code": "MZ_Q_MORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.mulevala",
+    "code": "MZ_Q_MULE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.namacurra",
+    "code": "MZ_Q_NAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.namarroi",
+    "code": "MZ_Q_NAMA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.nicoadala",
+    "code": "MZ_Q_NICO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.pebane",
+    "code": "MZ_Q_PEBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.mutarara",
+    "code": "MZ_Q_MUTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MZ_Q"
+  },
+  {
+    "tenantId": "mozambique.zambzia.altomolocue.altomolocue",
+    "code": "MZ_Q_ALMO_ALMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_ALMO"
+  },
+  {
+    "tenantId": "mozambique.zambzia.altomolocue.nauela",
+    "code": "MZ_Q_ALMO_NAUE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_ALMO"
+  },
+  {
+    "tenantId": "mozambique.zambzia.chinde.chinde",
+    "code": "MZ_Q_CHIN_CHIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_CHIN"
+  },
+  {
+    "tenantId": "mozambique.zambzia.chinde.micaune",
+    "code": "MZ_Q_CHIN_MICA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_CHIN"
+  },
+  {
+    "tenantId": "mozambique.zambzia.cidadedequelimane.cidadedequelimane",
+    "code": "MZ_Q_CDQ_CDQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_CDQ"
+  },
+  {
+    "tenantId": "mozambique.zambzia.derre.derre",
+    "code": "MZ_Q_DERR_DERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_DERR"
+  },
+  {
+    "tenantId": "mozambique.zambzia.gile.altoligonha",
+    "code": "MZ_Q_GILE_ALLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_GILE"
+  },
+  {
+    "tenantId": "mozambique.zambzia.gile.gile",
+    "code": "MZ_Q_GILE_GILE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_GILE"
+  },
+  {
+    "tenantId": "mozambique.zambzia.gurue.gurue",
+    "code": "MZ_Q_GURU_GURU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_GURU"
+  },
+  {
+    "tenantId": "mozambique.zambzia.gurue.lioma",
+    "code": "MZ_Q_GURU_LIOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_GURU"
+  },
+  {
+    "tenantId": "mozambique.zambzia.gurue.mepuagiua",
+    "code": "MZ_Q_GURU_MEPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_GURU"
+  },
+  {
+    "tenantId": "mozambique.zambzia.ile.ile",
+    "code": "MZ_Q_ILE_ILE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_ILE"
+  },
+  {
+    "tenantId": "mozambique.zambzia.ile.socone",
+    "code": "MZ_Q_ILE_SOCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_ILE"
+  },
+  {
+    "tenantId": "mozambique.zambzia.inhassunge.gonhane",
+    "code": "MZ_Q_INHA_GONH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_INHA"
+  },
+  {
+    "tenantId": "mozambique.zambzia.inhassunge.inhassunge",
+    "code": "MZ_Q_INHA_INHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_INHA"
+  },
+  {
+    "tenantId": "mozambique.zambzia.luabo.luabo",
+    "code": "MZ_Q_LUAB_LUAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_LUAB"
+  },
+  {
+    "tenantId": "mozambique.zambzia.lugela.lugela",
+    "code": "MZ_Q_LUGE_LUGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_LUGE"
+  },
+  {
+    "tenantId": "mozambique.zambzia.lugela.muabanama",
+    "code": "MZ_Q_LUGE_MUAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_LUGE"
+  },
+  {
+    "tenantId": "mozambique.zambzia.lugela.munhamade",
+    "code": "MZ_Q_LUGE_MUNH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_LUGE"
+  },
+  {
+    "tenantId": "mozambique.zambzia.lugela.tacuane",
+    "code": "MZ_Q_LUGE_TACU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_LUGE"
+  },
+  {
+    "tenantId": "mozambique.zambzia.maganjadacosta.maganja",
+    "code": "MZ_Q_MDC_MAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_MDC"
+  },
+  {
+    "tenantId": "mozambique.zambzia.maganjadacosta.nante",
+    "code": "MZ_Q_MDC_NANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_MDC"
+  },
+  {
+    "tenantId": "mozambique.zambzia.maquival.maquival",
+    "code": "MZ_Q_MAQU_MAQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_MAQU"
+  },
+  {
+    "tenantId": "mozambique.zambzia.milange.majaua",
+    "code": "MZ_Q_MILA_MAJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_MILA"
+  },
+  {
+    "tenantId": "mozambique.zambzia.milange.milange",
+    "code": "MZ_Q_MILA_MILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_MILA"
+  },
+  {
+    "tenantId": "mozambique.zambzia.milange.mongue",
+    "code": "MZ_Q_MILA_MONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_MILA"
+  },
+  {
+    "tenantId": "mozambique.zambzia.mocuba.mocuba",
+    "code": "MZ_Q_MOCU_MOCU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_MOCU"
+  },
+  {
+    "tenantId": "mozambique.zambzia.mocuba.mugeba",
+    "code": "MZ_Q_MOCU_MUGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_MOCU"
+  },
+  {
+    "tenantId": "mozambique.zambzia.mocuba.namanjavira",
+    "code": "MZ_Q_MOCU_NAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_MOCU"
+  },
+  {
+    "tenantId": "mozambique.zambzia.mocubela.bajone",
+    "code": "MZ_Q_MOCU2_BAJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_MOCU2"
+  },
+  {
+    "tenantId": "mozambique.zambzia.mocubela.mocubela",
+    "code": "MZ_Q_MOCU2_MOCU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_MOCU2"
+  },
+  {
+    "tenantId": "mozambique.zambzia.molumbo.molumbo",
+    "code": "MZ_Q_MOLU_MOLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_MOLU"
+  },
+  {
+    "tenantId": "mozambique.zambzia.mopeia.campo",
+    "code": "MZ_Q_MOPE_CAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_MOPE"
+  },
+  {
+    "tenantId": "mozambique.zambzia.mopeia.mopeia",
+    "code": "MZ_Q_MOPE_MOPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_MOPE"
+  },
+  {
+    "tenantId": "mozambique.zambzia.morrumbala.chire",
+    "code": "MZ_Q_MORR_CHIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_MORR"
+  },
+  {
+    "tenantId": "mozambique.zambzia.morrumbala.megaza",
+    "code": "MZ_Q_MORR_MEGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_MORR"
+  },
+  {
+    "tenantId": "mozambique.zambzia.morrumbala.morrumbala",
+    "code": "MZ_Q_MORR_MORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_MORR"
+  },
+  {
+    "tenantId": "mozambique.zambzia.mulevala.mulevala",
+    "code": "MZ_Q_MULE_MULE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_MULE"
+  },
+  {
+    "tenantId": "mozambique.zambzia.namacurra.macuze",
+    "code": "MZ_Q_NAMA_MACU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_NAMA"
+  },
+  {
+    "tenantId": "mozambique.zambzia.namacurra.namacurra",
+    "code": "MZ_Q_NAMA_NAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_NAMA"
+  },
+  {
+    "tenantId": "mozambique.zambzia.namarroi.namarroi",
+    "code": "MZ_Q_NAMA2_NAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_NAMA2"
+  },
+  {
+    "tenantId": "mozambique.zambzia.namarroi.regone",
+    "code": "MZ_Q_NAMA2_REGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_NAMA2"
+  },
+  {
+    "tenantId": "mozambique.zambzia.nicoadala.nicoadala",
+    "code": "MZ_Q_NICO_NICO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_NICO"
+  },
+  {
+    "tenantId": "mozambique.zambzia.pebane.mualama",
+    "code": "MZ_Q_PEBA_MUAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_PEBA"
+  },
+  {
+    "tenantId": "mozambique.zambzia.pebane.naburi",
+    "code": "MZ_Q_PEBA_NABU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_PEBA"
+  },
+  {
+    "tenantId": "mozambique.zambzia.pebane.pebane",
+    "code": "MZ_Q_PEBA_PEBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_PEBA"
+  },
+  {
+    "tenantId": "mozambique.zambzia.mutarara.charre",
+    "code": "MZ_Q_MUTA_CHAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_MUTA"
+  },
+  {
+    "tenantId": "mozambique.zambzia.mutarara.inhangoma",
+    "code": "MZ_Q_MUTA_INHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_MUTA"
+  },
+  {
+    "tenantId": "mozambique.zambzia.mutarara.nhamayabue",
+    "code": "MZ_Q_MUTA_NHAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MZ_Q_MUTA"
+  }
+]

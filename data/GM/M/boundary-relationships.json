@@ -1,0 +1,100 @@
+[
+  {
+    "tenantId": "gambia.janjanbureh",
+    "code": "GM_M",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GM"
+  },
+  {
+    "tenantId": "gambia.janjanbureh.janjanbureh",
+    "code": "GM_M_JANJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GM_M"
+  },
+  {
+    "tenantId": "gambia.janjanbureh.lowerfuladuwest",
+    "code": "GM_M_LFW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GM_M"
+  },
+  {
+    "tenantId": "gambia.janjanbureh.niaminadankunku",
+    "code": "GM_M_NIDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GM_M"
+  },
+  {
+    "tenantId": "gambia.janjanbureh.niaminaeast",
+    "code": "GM_M_NIEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GM_M"
+  },
+  {
+    "tenantId": "gambia.janjanbureh.niaminawest",
+    "code": "GM_M_NIWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GM_M"
+  },
+  {
+    "tenantId": "gambia.janjanbureh.janjanbureh.maccarthy",
+    "code": "GM_M_JANJ_MACC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_M_JANJ"
+  },
+  {
+    "tenantId": "gambia.janjanbureh.lowerfuladuwest.brikamaba",
+    "code": "GM_M_LFW_BRIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_M_LFW"
+  },
+  {
+    "tenantId": "gambia.janjanbureh.lowerfuladuwest.fulabantang",
+    "code": "GM_M_LFW_FULA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_M_LFW"
+  },
+  {
+    "tenantId": "gambia.janjanbureh.lowerfuladuwest.kerewan",
+    "code": "GM_M_LFW_KERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_M_LFW"
+  },
+  {
+    "tenantId": "gambia.janjanbureh.niaminadankunku.dankunku",
+    "code": "GM_M_NIDA_DANK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_M_NIDA"
+  },
+  {
+    "tenantId": "gambia.janjanbureh.niaminaeast.jarreng",
+    "code": "GM_M_NIEA_JARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_M_NIEA"
+  },
+  {
+    "tenantId": "gambia.janjanbureh.niaminaeast.kudang",
+    "code": "GM_M_NIEA_KUDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_M_NIEA"
+  },
+  {
+    "tenantId": "gambia.janjanbureh.niaminawest.katamina",
+    "code": "GM_M_NIWE_KATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GM_M_NIWE"
+  }
+]

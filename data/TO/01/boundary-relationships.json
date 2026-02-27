@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "tonga.eua",
+    "code": "TO_01",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TO"
+  },
+  {
+    "tenantId": "tonga.eua.euaprope",
+    "code": "TO_01_EPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TO_01"
+  },
+  {
+    "tenantId": "tonga.eua.euafoou",
+    "code": "TO_01_EFO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TO_01"
+  }
+]

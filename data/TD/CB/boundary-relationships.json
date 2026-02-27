@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "chad.charibaguirmi",
+    "code": "TD_CB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TD"
+  },
+  {
+    "tenantId": "chad.charibaguirmi.baguirmi",
+    "code": "TD_CB_BAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_CB"
+  },
+  {
+    "tenantId": "chad.charibaguirmi.chari",
+    "code": "TD_CB_CHAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_CB"
+  },
+  {
+    "tenantId": "chad.charibaguirmi.lougchari",
+    "code": "TD_CB_LOUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_CB"
+  }
+]

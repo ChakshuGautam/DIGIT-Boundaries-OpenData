@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "taiwan.hsinchu",
+    "code": "TW_HSZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TW"
+  },
+  {
+    "tenantId": "taiwan.hsinchu.unknown",
+    "code": "TW_HSZ_UNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TW_HSZ"
+  },
+  {
+    "tenantId": "taiwan.hsinchu.unknown",
+    "code": "TW_HSZ_UNK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TW_HSZ"
+  },
+  {
+    "tenantId": "taiwan.hsinchu.xiangshandistrict",
+    "code": "TW_HSZ_XIDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TW_HSZ"
+  }
+]

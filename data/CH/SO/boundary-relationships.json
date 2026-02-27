@@ -1,0 +1,751 @@
+[
+  {
+    "tenantId": "switzerland.solothurn",
+    "code": "CH_SO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CH"
+  },
+  {
+    "tenantId": "switzerland.solothurn.bucheggberg",
+    "code": "CH_SO_BUCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_SO"
+  },
+  {
+    "tenantId": "switzerland.solothurn.gu",
+    "code": "CH_SO_GU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_SO"
+  },
+  {
+    "tenantId": "switzerland.solothurn.gsgen",
+    "code": "CH_SO_GSG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_SO"
+  },
+  {
+    "tenantId": "switzerland.solothurn.lebern",
+    "code": "CH_SO_LEBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_SO"
+  },
+  {
+    "tenantId": "switzerland.solothurn.olten",
+    "code": "CH_SO_OLTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_SO"
+  },
+  {
+    "tenantId": "switzerland.solothurn.solothurn",
+    "code": "CH_SO_SOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_SO"
+  },
+  {
+    "tenantId": "switzerland.solothurn.thal",
+    "code": "CH_SO_THAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_SO"
+  },
+  {
+    "tenantId": "switzerland.solothurn.thierstein",
+    "code": "CH_SO_THIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_SO"
+  },
+  {
+    "tenantId": "switzerland.solothurn.wasseramt",
+    "code": "CH_SO_WASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_SO"
+  },
+  {
+    "tenantId": "switzerland.solothurn.bucheggberg.buchegg",
+    "code": "CH_SO_BUCH_BUCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_BUCH"
+  },
+  {
+    "tenantId": "switzerland.solothurn.bucheggberg.messen",
+    "code": "CH_SO_BUCH_MESS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_BUCH"
+  },
+  {
+    "tenantId": "switzerland.solothurn.bucheggberg.lsslingennennigkofen",
+    "code": "CH_SO_BUCH_LSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_BUCH"
+  },
+  {
+    "tenantId": "switzerland.solothurn.bucheggberg.schnottwil",
+    "code": "CH_SO_BUCH_SCHN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_BUCH"
+  },
+  {
+    "tenantId": "switzerland.solothurn.bucheggberg.lterkofenichertswil",
+    "code": "CH_SO_BUCH_LTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_BUCH"
+  },
+  {
+    "tenantId": "switzerland.solothurn.bucheggberg.biezwil",
+    "code": "CH_SO_BUCH_BIEZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_BUCH"
+  },
+  {
+    "tenantId": "switzerland.solothurn.bucheggberg.lterswilgchliwil",
+    "code": "CH_SO_BUCH_LTE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_BUCH"
+  },
+  {
+    "tenantId": "switzerland.solothurn.bucheggberg.unterramsern",
+    "code": "CH_SO_BUCH_UNTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_BUCH"
+  },
+  {
+    "tenantId": "switzerland.solothurn.gu.oensingen",
+    "code": "CH_SO_GU_OENS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_GU"
+  },
+  {
+    "tenantId": "switzerland.solothurn.gu.oberbuchsiten",
+    "code": "CH_SO_GU_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_GU"
+  },
+  {
+    "tenantId": "switzerland.solothurn.gu.kestenholz",
+    "code": "CH_SO_GU_KEST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_GU"
+  },
+  {
+    "tenantId": "switzerland.solothurn.gu.neuendorf",
+    "code": "CH_SO_GU_NEUE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_GU"
+  },
+  {
+    "tenantId": "switzerland.solothurn.gu.egerkingen",
+    "code": "CH_SO_GU_EGER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_GU"
+  },
+  {
+    "tenantId": "switzerland.solothurn.gu.wolfwil",
+    "code": "CH_SO_GU_WOLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_GU"
+  },
+  {
+    "tenantId": "switzerland.solothurn.gu.hrkingen",
+    "code": "CH_SO_GU_HRK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_GU"
+  },
+  {
+    "tenantId": "switzerland.solothurn.gu.niederbuchsiten",
+    "code": "CH_SO_GU_NIED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_GU"
+  },
+  {
+    "tenantId": "switzerland.solothurn.gsgen.lostorf",
+    "code": "CH_SO_GSG_LOST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_GSG"
+  },
+  {
+    "tenantId": "switzerland.solothurn.gsgen.erlinsbachag",
+    "code": "CH_SO_GSG_ERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_GSG"
+  },
+  {
+    "tenantId": "switzerland.solothurn.gsgen.erlinsbachso",
+    "code": "CH_SO_GSG_ERS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_GSG"
+  },
+  {
+    "tenantId": "switzerland.solothurn.gsgen.kienberg",
+    "code": "CH_SO_GSG_KIEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_GSG"
+  },
+  {
+    "tenantId": "switzerland.solothurn.gsgen.stsslingen",
+    "code": "CH_SO_GSG_STS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_GSG"
+  },
+  {
+    "tenantId": "switzerland.solothurn.gsgen.trimbach",
+    "code": "CH_SO_GSG_TRIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_GSG"
+  },
+  {
+    "tenantId": "switzerland.solothurn.gsgen.hauensteinifenthal",
+    "code": "CH_SO_GSG_HAUE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_GSG"
+  },
+  {
+    "tenantId": "switzerland.solothurn.gsgen.wisenso",
+    "code": "CH_SO_GSG_WIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_GSG"
+  },
+  {
+    "tenantId": "switzerland.solothurn.gsgen.niedergsgen",
+    "code": "CH_SO_GSG_NIED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_GSG"
+  },
+  {
+    "tenantId": "switzerland.solothurn.gsgen.obergsgen",
+    "code": "CH_SO_GSG_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_GSG"
+  },
+  {
+    "tenantId": "switzerland.solothurn.lebern.grenchen",
+    "code": "CH_SO_LEBE_GREN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_LEBE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.lebern.selzach",
+    "code": "CH_SO_LEBE_SELZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_LEBE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.lebern.bettlach",
+    "code": "CH_SO_LEBE_BETT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_LEBE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.lebern.oberdorfso",
+    "code": "CH_SO_LEBE_OBS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_LEBE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.lebern.rttenen",
+    "code": "CH_SO_LEBE_RTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_LEBE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.lebern.riedholz",
+    "code": "CH_SO_LEBE_RIED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_LEBE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.lebern.lommiswil",
+    "code": "CH_SO_LEBE_LOMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_LEBE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.lebern.balmbeignsberg",
+    "code": "CH_SO_LEBE_BBG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_LEBE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.lebern.bellach",
+    "code": "CH_SO_LEBE_BELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_LEBE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.lebern.gnsberg",
+    "code": "CH_SO_LEBE_GNS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_LEBE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.lebern.flumenthal",
+    "code": "CH_SO_LEBE_FLUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_LEBE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.lebern.feldbrunnenstniklaus",
+    "code": "CH_SO_LEBE_FENI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_LEBE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.lebern.langendorf",
+    "code": "CH_SO_LEBE_LANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_LEBE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.lebern.hubersdorf",
+    "code": "CH_SO_LEBE_HUBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_LEBE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.lebern.kammersrohr",
+    "code": "CH_SO_LEBE_KAMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_LEBE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.olten.hgendorf",
+    "code": "CH_SO_OLTE_HGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_OLTE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.olten.olten",
+    "code": "CH_SO_OLTE_OLTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_OLTE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.olten.wangenbeiolten",
+    "code": "CH_SO_OLTE_WBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_OLTE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.olten.dulliken",
+    "code": "CH_SO_OLTE_DULL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_OLTE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.olten.gretzenbach",
+    "code": "CH_SO_OLTE_GRET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_OLTE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.olten.dniken",
+    "code": "CH_SO_OLTE_DNI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_OLTE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.olten.kappelso",
+    "code": "CH_SO_OLTE_KAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_OLTE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.olten.fulenbach",
+    "code": "CH_SO_OLTE_FULE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_OLTE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.olten.walterswilso",
+    "code": "CH_SO_OLTE_WAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_OLTE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.olten.winznau",
+    "code": "CH_SO_OLTE_WINZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_OLTE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.olten.gunzgen",
+    "code": "CH_SO_OLTE_GUNZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_OLTE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.olten.schnenwerd",
+    "code": "CH_SO_OLTE_SCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_OLTE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.olten.rickenbachso",
+    "code": "CH_SO_OLTE_RIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_OLTE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.olten.boningen",
+    "code": "CH_SO_OLTE_BONI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_OLTE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.olten.starrkirchwil",
+    "code": "CH_SO_OLTE_STAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_OLTE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.olten.eppenbergwschnau",
+    "code": "CH_SO_OLTE_EPPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_OLTE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.solothurn.solothurn",
+    "code": "CH_SO_SOLO_SOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_SOLO"
+  },
+  {
+    "tenantId": "switzerland.solothurn.thal.mmliswilramiswil",
+    "code": "CH_SO_THAL_MML",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_THAL"
+  },
+  {
+    "tenantId": "switzerland.solothurn.thal.welschenrohrgnsbrunnen",
+    "code": "CH_SO_THAL_WELS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_THAL"
+  },
+  {
+    "tenantId": "switzerland.solothurn.thal.herbetswil",
+    "code": "CH_SO_THAL_HERB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_THAL"
+  },
+  {
+    "tenantId": "switzerland.solothurn.thal.balsthal",
+    "code": "CH_SO_THAL_BALS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_THAL"
+  },
+  {
+    "tenantId": "switzerland.solothurn.thal.laupersdorf",
+    "code": "CH_SO_THAL_LAUP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_THAL"
+  },
+  {
+    "tenantId": "switzerland.solothurn.thal.aedermannsdorf",
+    "code": "CH_SO_THAL_AEDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_THAL"
+  },
+  {
+    "tenantId": "switzerland.solothurn.thal.matzendorf",
+    "code": "CH_SO_THAL_MATZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_THAL"
+  },
+  {
+    "tenantId": "switzerland.solothurn.thal.holderbankso",
+    "code": "CH_SO_THAL_HOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_THAL"
+  },
+  {
+    "tenantId": "switzerland.solothurn.thierstein.beinwilso",
+    "code": "CH_SO_THIE_BES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_THIE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.thierstein.kleinltzel",
+    "code": "CH_SO_THIE_KLEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_THIE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.thierstein.brschwil",
+    "code": "CH_SO_THIE_BRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_THIE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.thierstein.nunningen",
+    "code": "CH_SO_THIE_NUNN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_THIE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.thierstein.bsserach",
+    "code": "CH_SO_THIE_BSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_THIE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.thierstein.erschwil",
+    "code": "CH_SO_THIE_ERSC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_THIE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.thierstein.breitenbach",
+    "code": "CH_SO_THIE_BREI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_THIE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.thierstein.meltingen",
+    "code": "CH_SO_THIE_MELT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_THIE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.thierstein.zullwil",
+    "code": "CH_SO_THIE_ZULL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_THIE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.thierstein.grindel",
+    "code": "CH_SO_THIE_GRIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_THIE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.thierstein.fehren",
+    "code": "CH_SO_THIE_FEHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_THIE"
+  },
+  {
+    "tenantId": "switzerland.solothurn.wasseramt.biberist",
+    "code": "CH_SO_WASS_BIBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_WASS"
+  },
+  {
+    "tenantId": "switzerland.solothurn.wasseramt.deitingen",
+    "code": "CH_SO_WASS_DEIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_WASS"
+  },
+  {
+    "tenantId": "switzerland.solothurn.wasseramt.subingen",
+    "code": "CH_SO_WASS_SUBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_WASS"
+  },
+  {
+    "tenantId": "switzerland.solothurn.wasseramt.derendingen",
+    "code": "CH_SO_WASS_DERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_WASS"
+  },
+  {
+    "tenantId": "switzerland.solothurn.wasseramt.zuchwil",
+    "code": "CH_SO_WASS_ZUCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_WASS"
+  },
+  {
+    "tenantId": "switzerland.solothurn.wasseramt.dreihfe",
+    "code": "CH_SO_WASS_DRH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_WASS"
+  },
+  {
+    "tenantId": "switzerland.solothurn.wasseramt.luterbach",
+    "code": "CH_SO_WASS_LUTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_WASS"
+  },
+  {
+    "tenantId": "switzerland.solothurn.wasseramt.lohnammannsegg",
+    "code": "CH_SO_WASS_LOHN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_WASS"
+  },
+  {
+    "tenantId": "switzerland.solothurn.wasseramt.aeschiso",
+    "code": "CH_SO_WASS_AES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_WASS"
+  },
+  {
+    "tenantId": "switzerland.solothurn.wasseramt.etziken",
+    "code": "CH_SO_WASS_ETZI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_WASS"
+  },
+  {
+    "tenantId": "switzerland.solothurn.wasseramt.recherswil",
+    "code": "CH_SO_WASS_RECH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_WASS"
+  },
+  {
+    "tenantId": "switzerland.solothurn.wasseramt.horriwil",
+    "code": "CH_SO_WASS_HORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_WASS"
+  },
+  {
+    "tenantId": "switzerland.solothurn.wasseramt.oekingen",
+    "code": "CH_SO_WASS_OEKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_WASS"
+  },
+  {
+    "tenantId": "switzerland.solothurn.wasseramt.bolken",
+    "code": "CH_SO_WASS_BOLK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_WASS"
+  },
+  {
+    "tenantId": "switzerland.solothurn.wasseramt.gerlafingen",
+    "code": "CH_SO_WASS_GERL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_WASS"
+  },
+  {
+    "tenantId": "switzerland.solothurn.wasseramt.halten",
+    "code": "CH_SO_WASS_HALT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_WASS"
+  },
+  {
+    "tenantId": "switzerland.solothurn.wasseramt.aeschiso",
+    "code": "CH_SO_WASS_AES2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_WASS"
+  },
+  {
+    "tenantId": "switzerland.solothurn.wasseramt.obergerlafingen",
+    "code": "CH_SO_WASS_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_WASS"
+  },
+  {
+    "tenantId": "switzerland.solothurn.wasseramt.kriegstetten",
+    "code": "CH_SO_WASS_KRIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_WASS"
+  },
+  {
+    "tenantId": "switzerland.solothurn.wasseramt.hniken",
+    "code": "CH_SO_WASS_HNI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_SO_WASS"
+  }
+]

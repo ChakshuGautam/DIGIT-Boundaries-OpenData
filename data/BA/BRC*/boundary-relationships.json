@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "bosniaandherzegovina.brkodistrict",
+    "code": "BA_BRC*",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BA"
+  },
+  {
+    "tenantId": "bosniaandherzegovina.brkodistrict.brckodistrict",
+    "code": "BA_BRC*_BRDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BA_BRC*"
+  },
+  {
+    "tenantId": "bosniaandherzegovina.brkodistrict.brckodistrict.brckodistrict",
+    "code": "BA_BRC*_BRDI_BRDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BA_BRC*_BRDI"
+  }
+]

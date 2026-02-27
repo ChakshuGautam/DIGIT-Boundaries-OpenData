@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "oman.alwusta",
+    "code": "OM_ALWU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "OM"
+  },
+  {
+    "tenantId": "oman.alwusta.wilayatadduqm",
+    "code": "OM_ALWU_WAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "OM_ALWU"
+  },
+  {
+    "tenantId": "oman.alwusta.wilayataljazir",
+    "code": "OM_ALWU_WAJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "OM_ALWU"
+  },
+  {
+    "tenantId": "oman.alwusta.wilayathayma",
+    "code": "OM_ALWU_WIHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "OM_ALWU"
+  }
+]

@@ -1,0 +1,765 @@
+[
+  {
+    "tenantId": "switzerland.basellandschaft",
+    "code": "CH_BL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CH"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.arlesheim",
+    "code": "CH_BL_ARLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_BL"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.laufen",
+    "code": "CH_BL_LAUF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_BL"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.liestal",
+    "code": "CH_BL_LIES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_BL"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach",
+    "code": "CH_BL_SISS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_BL"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.waldenburg",
+    "code": "CH_BL_WALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_BL"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.dorneck",
+    "code": "CH_BL_DORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_BL"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.arlesheim.muttenz",
+    "code": "CH_BL_ARLE_MUTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_ARLE"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.arlesheim.allschwil",
+    "code": "CH_BL_ARLE_ALLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_ARLE"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.arlesheim.oberwilbl",
+    "code": "CH_BL_ARLE_OBB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_ARLE"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.arlesheim.therwil",
+    "code": "CH_BL_ARLE_THER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_ARLE"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.arlesheim.aeschbl",
+    "code": "CH_BL_ARLE_AEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_ARLE"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.arlesheim.mnchenstein",
+    "code": "CH_BL_ARLE_MNC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_ARLE"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.arlesheim.reinachbl",
+    "code": "CH_BL_ARLE_REB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_ARLE"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.arlesheim.arlesheim",
+    "code": "CH_BL_ARLE_ARLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_ARLE"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.arlesheim.ettingen",
+    "code": "CH_BL_ARLE_ETTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_ARLE"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.arlesheim.pfeffingen",
+    "code": "CH_BL_ARLE_PFEF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_ARLE"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.arlesheim.binningen",
+    "code": "CH_BL_ARLE_BINN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_ARLE"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.arlesheim.bielbenken",
+    "code": "CH_BL_ARLE_BIEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_ARLE"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.arlesheim.bottmingen",
+    "code": "CH_BL_ARLE_BOTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_ARLE"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.arlesheim.birsfelden",
+    "code": "CH_BL_ARLE_BIRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_ARLE"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.arlesheim.schnenbuch",
+    "code": "CH_BL_ARLE_SCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_ARLE"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.laufen.liesberg",
+    "code": "CH_BL_LAUF_LIES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LAUF"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.laufen.laufen",
+    "code": "CH_BL_LAUF_LAUF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LAUF"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.laufen.rschenz",
+    "code": "CH_BL_LAUF_RSC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LAUF"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.laufen.brislach",
+    "code": "CH_BL_LAUF_BRIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LAUF"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.laufen.blauen",
+    "code": "CH_BL_LAUF_BLAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LAUF"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.laufen.dittingen",
+    "code": "CH_BL_LAUF_DITT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LAUF"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.laufen.roggenburg",
+    "code": "CH_BL_LAUF_ROGG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LAUF"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.laufen.himmelried",
+    "code": "CH_BL_LAUF_HIMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LAUF"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.laufen.duggingen",
+    "code": "CH_BL_LAUF_DUGG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LAUF"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.laufen.wahlen",
+    "code": "CH_BL_LAUF_WAHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LAUF"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.laufen.zwingen",
+    "code": "CH_BL_LAUF_ZWIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LAUF"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.laufen.nenzlingen",
+    "code": "CH_BL_LAUF_NENZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LAUF"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.laufen.grellingen",
+    "code": "CH_BL_LAUF_GREL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LAUF"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.laufen.burgimleimental",
+    "code": "CH_BL_LAUF_BIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LAUF"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.liestal.liestal",
+    "code": "CH_BL_LIES_LIES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LIES"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.liestal.bubendorf",
+    "code": "CH_BL_LIES_BUBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LIES"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.liestal.pratteln",
+    "code": "CH_BL_LIES_PRAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LIES"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.liestal.arisdorf",
+    "code": "CH_BL_LIES_ARIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LIES"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.liestal.ziefen",
+    "code": "CH_BL_LIES_ZIEF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LIES"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.liestal.lausen",
+    "code": "CH_BL_LIES_LAUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LIES"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.liestal.fllinsdorf",
+    "code": "CH_BL_LIES_FLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LIES"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.liestal.frenkendorf",
+    "code": "CH_BL_LIES_FREN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LIES"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.liestal.olsberg",
+    "code": "CH_BL_LIES_OLSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LIES"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.liestal.seltisberg",
+    "code": "CH_BL_LIES_SELT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LIES"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.liestal.lupsingen",
+    "code": "CH_BL_LIES_LUPS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LIES"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.liestal.ramlinsburg",
+    "code": "CH_BL_LIES_RAML",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LIES"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.liestal.augst",
+    "code": "CH_BL_LIES_AUGS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LIES"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.liestal.giebenach",
+    "code": "CH_BL_LIES_GIEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_LIES"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.rothenfluh",
+    "code": "CH_BL_SISS_ROTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.gelterkinden",
+    "code": "CH_BL_SISS_GELT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.sissach",
+    "code": "CH_BL_SISS_SISS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.buus",
+    "code": "CH_BL_SISS_BUUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.lufelfingen",
+    "code": "CH_BL_SISS_LUF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.zeglingen",
+    "code": "CH_BL_SISS_ZEGL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.oltingen",
+    "code": "CH_BL_SISS_OLTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.wintersingen",
+    "code": "CH_BL_SISS_WINT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.ormalingen",
+    "code": "CH_BL_SISS_ORMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.zunzgen",
+    "code": "CH_BL_SISS_ZUNZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.wenslingen",
+    "code": "CH_BL_SISS_WENS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.maisprach",
+    "code": "CH_BL_SISS_MAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.rnenberg",
+    "code": "CH_BL_SISS_RNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.tenniken",
+    "code": "CH_BL_SISS_TENN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.hfelfingen",
+    "code": "CH_BL_SISS_HFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.anwil",
+    "code": "CH_BL_SISS_ANWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.hemmiken",
+    "code": "CH_BL_SISS_HEMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.wittinsburg",
+    "code": "CH_BL_SISS_WITT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.itingen",
+    "code": "CH_BL_SISS_ITIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.rickenbachbl",
+    "code": "CH_BL_SISS_RIB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.tecknau",
+    "code": "CH_BL_SISS_TECK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.bckten",
+    "code": "CH_BL_SISS_BCK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.rmlingen",
+    "code": "CH_BL_SISS_RML",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.thrnen",
+    "code": "CH_BL_SISS_THR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.buckten",
+    "code": "CH_BL_SISS_BUCK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.nusshof",
+    "code": "CH_BL_SISS_NUSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.hersberg",
+    "code": "CH_BL_SISS_HERS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.kilchbergbl",
+    "code": "CH_BL_SISS_KIB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.knerkinden",
+    "code": "CH_BL_SISS_KNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.diepflingen",
+    "code": "CH_BL_SISS_DIEP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.olsberg",
+    "code": "CH_BL_SISS_OLSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.hersberg",
+    "code": "CH_BL_SISS_HERS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.sissach.olsberg",
+    "code": "CH_BL_SISS_OLSB2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_SISS"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.waldenburg.langenbruck",
+    "code": "CH_BL_WALD_LANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_WALD"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.waldenburg.eptingen",
+    "code": "CH_BL_WALD_EPTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_WALD"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.waldenburg.diegten",
+    "code": "CH_BL_WALD_DIEG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_WALD"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.waldenburg.reigoldswil",
+    "code": "CH_BL_WALD_REIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_WALD"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.waldenburg.waldenburg",
+    "code": "CH_BL_WALD_WALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_WALD"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.waldenburg.bretzwil",
+    "code": "CH_BL_WALD_BRET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_WALD"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.waldenburg.lauwil",
+    "code": "CH_BL_WALD_LAUW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_WALD"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.waldenburg.bennwil",
+    "code": "CH_BL_WALD_BENN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_WALD"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.waldenburg.oberdorfbl",
+    "code": "CH_BL_WALD_OBB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_WALD"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.waldenburg.hlstein",
+    "code": "CH_BL_WALD_HLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_WALD"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.waldenburg.niederdorf",
+    "code": "CH_BL_WALD_NIED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_WALD"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.waldenburg.lampenberg",
+    "code": "CH_BL_WALD_LAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_WALD"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.waldenburg.titterten",
+    "code": "CH_BL_WALD_TITT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_WALD"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.waldenburg.arboldswil",
+    "code": "CH_BL_WALD_ARBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_WALD"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.waldenburg.liedertswil",
+    "code": "CH_BL_WALD_LIED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_WALD"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.dorneck.seewen",
+    "code": "CH_BL_DORN_SEEW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_DORN"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.dorneck.metzerlenmariastein",
+    "code": "CH_BL_DORN_METZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_DORN"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.dorneck.hochwald",
+    "code": "CH_BL_DORN_HOCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_DORN"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.dorneck.hofstettenflh",
+    "code": "CH_BL_DORN_HOFS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_DORN"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.dorneck.nuglarstpantaleon",
+    "code": "CH_BL_DORN_NUPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_DORN"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.dorneck.brenso",
+    "code": "CH_BL_DORN_BS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_DORN"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.dorneck.gempen",
+    "code": "CH_BL_DORN_GEMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_DORN"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.dorneck.dornach",
+    "code": "CH_BL_DORN_DORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_DORN"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.dorneck.rodersdorf",
+    "code": "CH_BL_DORN_RODE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_DORN"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.dorneck.witterswil",
+    "code": "CH_BL_DORN_WITT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_DORN"
+  },
+  {
+    "tenantId": "switzerland.basellandschaft.dorneck.bttwil",
+    "code": "CH_BL_DORN_BTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_BL_DORN"
+  }
+]

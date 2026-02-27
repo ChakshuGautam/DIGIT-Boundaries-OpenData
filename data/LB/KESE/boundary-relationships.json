@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "lebanon.keserwanjbeil",
+    "code": "LB_KESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "LB"
+  },
+  {
+    "tenantId": "lebanon.keserwanjbeil.kesrouan",
+    "code": "LB_KESE_KESR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LB_KESE"
+  },
+  {
+    "tenantId": "lebanon.keserwanjbeil.jbail",
+    "code": "LB_KESE_JBAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LB_KESE"
+  }
+]

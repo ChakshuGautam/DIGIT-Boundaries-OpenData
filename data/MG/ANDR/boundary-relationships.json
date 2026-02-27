@@ -1,0 +1,394 @@
+[
+  {
+    "tenantId": "madagascar.androy",
+    "code": "MG_ANDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MG"
+  },
+  {
+    "tenantId": "madagascar.androy.beloha",
+    "code": "MG_ANDR_BELO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_ANDR"
+  },
+  {
+    "tenantId": "madagascar.androy.tsihombe",
+    "code": "MG_ANDR_TSIH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_ANDR"
+  },
+  {
+    "tenantId": "madagascar.androy.ambovombeandroy",
+    "code": "MG_ANDR_AMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_ANDR"
+  },
+  {
+    "tenantId": "madagascar.androy.bekily",
+    "code": "MG_ANDR_BEKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_ANDR"
+  },
+  {
+    "tenantId": "madagascar.androy.beloha.beloha",
+    "code": "MG_ANDR_BELO_BELO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BELO"
+  },
+  {
+    "tenantId": "madagascar.androy.beloha.tranovaho",
+    "code": "MG_ANDR_BELO_TRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BELO"
+  },
+  {
+    "tenantId": "madagascar.androy.beloha.kopoky",
+    "code": "MG_ANDR_BELO_KOPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BELO"
+  },
+  {
+    "tenantId": "madagascar.androy.beloha.marolinta",
+    "code": "MG_ANDR_BELO_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BELO"
+  },
+  {
+    "tenantId": "madagascar.androy.beloha.tranoroa",
+    "code": "MG_ANDR_BELO_TRAN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BELO"
+  },
+  {
+    "tenantId": "madagascar.androy.beloha.behabobo",
+    "code": "MG_ANDR_BELO_BEHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BELO"
+  },
+  {
+    "tenantId": "madagascar.androy.tsihombe.tsihombe",
+    "code": "MG_ANDR_TSIH_TSIH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_TSIH"
+  },
+  {
+    "tenantId": "madagascar.androy.tsihombe.nikoly",
+    "code": "MG_ANDR_TSIH_NIKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_TSIH"
+  },
+  {
+    "tenantId": "madagascar.androy.tsihombe.betantyfauxcap",
+    "code": "MG_ANDR_TSIH_BC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_TSIH"
+  },
+  {
+    "tenantId": "madagascar.androy.tsihombe.anjampaly",
+    "code": "MG_ANDR_TSIH_ANJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_TSIH"
+  },
+  {
+    "tenantId": "madagascar.androy.tsihombe.marovato",
+    "code": "MG_ANDR_TSIH_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_TSIH"
+  },
+  {
+    "tenantId": "madagascar.androy.tsihombe.antaritarika",
+    "code": "MG_ANDR_TSIH_ANTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_TSIH"
+  },
+  {
+    "tenantId": "madagascar.androy.tsihombe.imongy",
+    "code": "MG_ANDR_TSIH_IMON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_TSIH"
+  },
+  {
+    "tenantId": "madagascar.androy.ambovombeandroy.ambovombe",
+    "code": "MG_ANDR_AMBO_AMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_AMBO"
+  },
+  {
+    "tenantId": "madagascar.androy.ambovombeandroy.tsimananada",
+    "code": "MG_ANDR_AMBO_TSIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_AMBO"
+  },
+  {
+    "tenantId": "madagascar.androy.ambovombeandroy.erada",
+    "code": "MG_ANDR_AMBO_ERAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_AMBO"
+  },
+  {
+    "tenantId": "madagascar.androy.ambovombeandroy.anjekyankilikira",
+    "code": "MG_ANDR_AMBO_ANAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_AMBO"
+  },
+  {
+    "tenantId": "madagascar.androy.ambovombeandroy.ambanisarika",
+    "code": "MG_ANDR_AMBO_AMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_AMBO"
+  },
+  {
+    "tenantId": "madagascar.androy.ambovombeandroy.analamary",
+    "code": "MG_ANDR_AMBO_ANAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_AMBO"
+  },
+  {
+    "tenantId": "madagascar.androy.ambovombeandroy.ambohimalaza",
+    "code": "MG_ANDR_AMBO_AMBO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_AMBO"
+  },
+  {
+    "tenantId": "madagascar.androy.ambovombeandroy.ambonaivo",
+    "code": "MG_ANDR_AMBO_AMBO3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_AMBO"
+  },
+  {
+    "tenantId": "madagascar.androy.ambovombeandroy.maroalomainty",
+    "code": "MG_ANDR_AMBO_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_AMBO"
+  },
+  {
+    "tenantId": "madagascar.androy.ambovombeandroy.maroalopoty",
+    "code": "MG_ANDR_AMBO_MARO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_AMBO"
+  },
+  {
+    "tenantId": "madagascar.androy.ambovombeandroy.ambondro",
+    "code": "MG_ANDR_AMBO_AMBO4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_AMBO"
+  },
+  {
+    "tenantId": "madagascar.androy.ambovombeandroy.ambazoa",
+    "code": "MG_ANDR_AMBO_AMBA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_AMBO"
+  },
+  {
+    "tenantId": "madagascar.androy.ambovombeandroy.sihanamaro",
+    "code": "MG_ANDR_AMBO_SIHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_AMBO"
+  },
+  {
+    "tenantId": "madagascar.androy.ambovombeandroy.marovatobefeno",
+    "code": "MG_ANDR_AMBO_MABE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_AMBO"
+  },
+  {
+    "tenantId": "madagascar.androy.ambovombeandroy.antanimoraatsimo",
+    "code": "MG_ANDR_AMBO_ANAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_AMBO"
+  },
+  {
+    "tenantId": "madagascar.androy.ambovombeandroy.andalatanosy",
+    "code": "MG_ANDR_AMBO_ANDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_AMBO"
+  },
+  {
+    "tenantId": "madagascar.androy.ambovombeandroy.ampamata",
+    "code": "MG_ANDR_AMBO_AMPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_AMBO"
+  },
+  {
+    "tenantId": "madagascar.androy.ambovombeandroy.jafaro",
+    "code": "MG_ANDR_AMBO_JAFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_AMBO"
+  },
+  {
+    "tenantId": "madagascar.androy.ambovombeandroy.imanombo",
+    "code": "MG_ANDR_AMBO_IMAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_AMBO"
+  },
+  {
+    "tenantId": "madagascar.androy.bekily.morafenobekily",
+    "code": "MG_ANDR_BEKI_MOBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BEKI"
+  },
+  {
+    "tenantId": "madagascar.androy.bekily.ankaranabonord",
+    "code": "MG_ANDR_BEKI_ANNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BEKI"
+  },
+  {
+    "tenantId": "madagascar.androy.bekily.besakoa",
+    "code": "MG_ANDR_BEKI_BESA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BEKI"
+  },
+  {
+    "tenantId": "madagascar.androy.bekily.anjanord",
+    "code": "MG_ANDR_BEKI_ANNO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BEKI"
+  },
+  {
+    "tenantId": "madagascar.androy.bekily.antsakoamaro",
+    "code": "MG_ANDR_BEKI_ANTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BEKI"
+  },
+  {
+    "tenantId": "madagascar.androy.bekily.ambatosola",
+    "code": "MG_ANDR_BEKI_AMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BEKI"
+  },
+  {
+    "tenantId": "madagascar.androy.bekily.tsirandrany",
+    "code": "MG_ANDR_BEKI_TSIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BEKI"
+  },
+  {
+    "tenantId": "madagascar.androy.bekily.tsikolaky",
+    "code": "MG_ANDR_BEKI_TSIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BEKI"
+  },
+  {
+    "tenantId": "madagascar.androy.bekily.manakompy",
+    "code": "MG_ANDR_BEKI_MANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BEKI"
+  },
+  {
+    "tenantId": "madagascar.androy.bekily.ambahita",
+    "code": "MG_ANDR_BEKI_AMBA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BEKI"
+  },
+  {
+    "tenantId": "madagascar.androy.bekily.maroviro",
+    "code": "MG_ANDR_BEKI_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BEKI"
+  },
+  {
+    "tenantId": "madagascar.androy.bekily.belindomahasoa",
+    "code": "MG_ANDR_BEKI_BEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BEKI"
+  },
+  {
+    "tenantId": "madagascar.androy.bekily.beteza",
+    "code": "MG_ANDR_BEKI_BETE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BEKI"
+  },
+  {
+    "tenantId": "madagascar.androy.bekily.tanandava",
+    "code": "MG_ANDR_BEKI_TANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BEKI"
+  },
+  {
+    "tenantId": "madagascar.androy.bekily.bekitro",
+    "code": "MG_ANDR_BEKI_BEKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BEKI"
+  },
+  {
+    "tenantId": "madagascar.androy.bekily.beraketa",
+    "code": "MG_ANDR_BEKI_BERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BEKI"
+  },
+  {
+    "tenantId": "madagascar.androy.bekily.vohimanga",
+    "code": "MG_ANDR_BEKI_VOHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BEKI"
+  },
+  {
+    "tenantId": "madagascar.androy.bekily.bevitiky",
+    "code": "MG_ANDR_BEKI_BEVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BEKI"
+  },
+  {
+    "tenantId": "madagascar.androy.bekily.anivoranomitsinjo",
+    "code": "MG_ANDR_BEKI_ANMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ANDR_BEKI"
+  }
+]

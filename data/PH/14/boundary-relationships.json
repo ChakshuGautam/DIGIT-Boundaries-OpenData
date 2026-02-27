@@ -1,0 +1,919 @@
+[
+  {
+    "tenantId": "philippines.armm",
+    "code": "PH_14",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "PH"
+  },
+  {
+    "tenantId": "philippines.armm.basilan",
+    "code": "PH_14_BASI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_14"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur",
+    "code": "PH_14_LDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_14"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao",
+    "code": "PH_14_MAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_14"
+  },
+  {
+    "tenantId": "philippines.armm.sulu",
+    "code": "PH_14_SULU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_14"
+  },
+  {
+    "tenantId": "philippines.armm.tawitawi",
+    "code": "PH_14_TAWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "PH_14"
+  },
+  {
+    "tenantId": "philippines.armm.basilan.albarka",
+    "code": "PH_14_BASI_ALB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_BASI"
+  },
+  {
+    "tenantId": "philippines.armm.basilan.cityoflamitan",
+    "code": "PH_14_BASI_COL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_BASI"
+  },
+  {
+    "tenantId": "philippines.armm.basilan.lantawan",
+    "code": "PH_14_BASI_LANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_BASI"
+  },
+  {
+    "tenantId": "philippines.armm.basilan.sumisip",
+    "code": "PH_14_BASI_SUMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_BASI"
+  },
+  {
+    "tenantId": "philippines.armm.basilan.tipotipo",
+    "code": "PH_14_BASI_TIPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_BASI"
+  },
+  {
+    "tenantId": "philippines.armm.basilan.ungkayapukan",
+    "code": "PH_14_BASI_UNPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_BASI"
+  },
+  {
+    "tenantId": "philippines.armm.basilan.maluso",
+    "code": "PH_14_BASI_MALU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_BASI"
+  },
+  {
+    "tenantId": "philippines.armm.basilan.tabuanlasa",
+    "code": "PH_14_BASI_TABU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_BASI"
+  },
+  {
+    "tenantId": "philippines.armm.basilan.tongkil",
+    "code": "PH_14_BASI_TONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_BASI"
+  },
+  {
+    "tenantId": "philippines.armm.basilan.tuburan",
+    "code": "PH_14_BASI_TUBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_BASI"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.bacolodkalawi",
+    "code": "PH_14_LDS_BACO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.balabagan",
+    "code": "PH_14_LDS_BALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.balindong",
+    "code": "PH_14_LDS_BALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.bayang",
+    "code": "PH_14_LDS_BAYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.binidayan",
+    "code": "PH_14_LDS_BINI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.buadiposobuntong",
+    "code": "PH_14_LDS_BUAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.bubong",
+    "code": "PH_14_LDS_BUBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.bumbaran",
+    "code": "PH_14_LDS_BUMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.butig",
+    "code": "PH_14_LDS_BUTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.calanogas",
+    "code": "PH_14_LDS_CALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.ditsaanramain",
+    "code": "PH_14_LDS_DITS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.ganassi",
+    "code": "PH_14_LDS_GANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.kapai",
+    "code": "PH_14_LDS_KAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.kapatagan",
+    "code": "PH_14_LDS_KAPA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.lumbabayabao",
+    "code": "PH_14_LDS_LUMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.lumbacaunayan",
+    "code": "PH_14_LDS_LUMB2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.lumbatan",
+    "code": "PH_14_LDS_LUMB3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.lumbayanague",
+    "code": "PH_14_LDS_LUMB4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.madalum",
+    "code": "PH_14_LDS_MADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.madamba",
+    "code": "PH_14_LDS_MADA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.maguing",
+    "code": "PH_14_LDS_MAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.malabang",
+    "code": "PH_14_LDS_MALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.marantao",
+    "code": "PH_14_LDS_MARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.marawicity",
+    "code": "PH_14_LDS_MACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.marogong",
+    "code": "PH_14_LDS_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.masiu",
+    "code": "PH_14_LDS_MASI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.mulondo",
+    "code": "PH_14_LDS_MULO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.pagayawan",
+    "code": "PH_14_LDS_PAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.piagapo",
+    "code": "PH_14_LDS_PIAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.poonabayabao",
+    "code": "PH_14_LDS_POBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.pualas",
+    "code": "PH_14_LDS_PUAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.saguiaran",
+    "code": "PH_14_LDS_SAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.sultandumalondong",
+    "code": "PH_14_LDS_SUDU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.tagoloanii",
+    "code": "PH_14_LDS_TAII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.tamparan",
+    "code": "PH_14_LDS_TAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.taraka",
+    "code": "PH_14_LDS_TARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.tubaran",
+    "code": "PH_14_LDS_TUBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.tugaya",
+    "code": "PH_14_LDS_TUGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.wao",
+    "code": "PH_14_LDS_WAO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.lanaodelsur.picong",
+    "code": "PH_14_LDS_PICO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_LDS"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.ampatuan",
+    "code": "PH_14_MAGU_AMPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.bagumbayan",
+    "code": "PH_14_MAGU_BAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.barira",
+    "code": "PH_14_MAGU_BARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.buldon",
+    "code": "PH_14_MAGU_BULD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.buluan",
+    "code": "PH_14_MAGU_BULU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.cityoftacurong",
+    "code": "PH_14_MAGU_COT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.columbio",
+    "code": "PH_14_MAGU_COLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.datuabdullahsangki",
+    "code": "PH_14_MAGU_DAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.datuanggalmidtimbang",
+    "code": "PH_14_MAGU_DAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.datublahtsinsuat",
+    "code": "PH_14_MAGU_DBTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.datuhofferampatuan",
+    "code": "PH_14_MAGU_DHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.datuodinsinsuat",
+    "code": "PH_14_MAGU_DOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.datupaglas",
+    "code": "PH_14_MAGU_DAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.datupiang",
+    "code": "PH_14_MAGU_DAPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.datusalibo",
+    "code": "PH_14_MAGU_DASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.datusaudiampatuan",
+    "code": "PH_14_MAGU_DASA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.datuunsay",
+    "code": "PH_14_MAGU_DAUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.esperanza",
+    "code": "PH_14_MAGU_ESPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.genskpendatun",
+    "code": "PH_14_MAGU_GSP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.guindulungan",
+    "code": "PH_14_MAGU_GUIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.isulan",
+    "code": "PH_14_MAGU_ISUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.kabuntalan",
+    "code": "PH_14_MAGU_KABU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.kalamansig",
+    "code": "PH_14_MAGU_KALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.lambayong",
+    "code": "PH_14_MAGU_LAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.lebak",
+    "code": "PH_14_MAGU_LEBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.lutayan",
+    "code": "PH_14_MAGU_LUTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.mamasapano",
+    "code": "PH_14_MAGU_MAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.mangudadatu",
+    "code": "PH_14_MAGU_MANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.matanog",
+    "code": "PH_14_MAGU_MATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.northernkabuntalan",
+    "code": "PH_14_MAGU_NOKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.pagagawan",
+    "code": "PH_14_MAGU_PAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.pagalungan",
+    "code": "PH_14_MAGU_PAGA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.paglat",
+    "code": "PH_14_MAGU_PAGL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.palimbang",
+    "code": "PH_14_MAGU_PALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.pandag",
+    "code": "PH_14_MAGU_PAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.presidentquirino",
+    "code": "PH_14_MAGU_PRQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.rajahbuayan",
+    "code": "PH_14_MAGU_RABU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.senninoyaquino",
+    "code": "PH_14_MAGU_SNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.shariffaguak",
+    "code": "PH_14_MAGU_SHAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.shariffsaydonamustapha",
+    "code": "PH_14_MAGU_SSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.southupi",
+    "code": "PH_14_MAGU_SOUP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.sultanmastura",
+    "code": "PH_14_MAGU_SUMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.sultansabarongis",
+    "code": "PH_14_MAGU_SSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.talayan",
+    "code": "PH_14_MAGU_TALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.talitay",
+    "code": "PH_14_MAGU_TALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.maguindanao.upi",
+    "code": "PH_14_MAGU_UPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_MAGU"
+  },
+  {
+    "tenantId": "philippines.armm.sulu.indanan",
+    "code": "PH_14_SULU_INDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_SULU"
+  },
+  {
+    "tenantId": "philippines.armm.sulu.jolo",
+    "code": "PH_14_SULU_JOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_SULU"
+  },
+  {
+    "tenantId": "philippines.armm.sulu.kalingalancaluang",
+    "code": "PH_14_SULU_KACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_SULU"
+  },
+  {
+    "tenantId": "philippines.armm.sulu.lugus",
+    "code": "PH_14_SULU_LUGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_SULU"
+  },
+  {
+    "tenantId": "philippines.armm.sulu.luuk",
+    "code": "PH_14_SULU_LUUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_SULU"
+  },
+  {
+    "tenantId": "philippines.armm.sulu.oldpanamao",
+    "code": "PH_14_SULU_OLPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_SULU"
+  },
+  {
+    "tenantId": "philippines.armm.sulu.omar",
+    "code": "PH_14_SULU_OMAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_SULU"
+  },
+  {
+    "tenantId": "philippines.armm.sulu.parang",
+    "code": "PH_14_SULU_PARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_SULU"
+  },
+  {
+    "tenantId": "philippines.armm.sulu.pata",
+    "code": "PH_14_SULU_PATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_SULU"
+  },
+  {
+    "tenantId": "philippines.armm.sulu.patikul",
+    "code": "PH_14_SULU_PATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_SULU"
+  },
+  {
+    "tenantId": "philippines.armm.sulu.siasi",
+    "code": "PH_14_SULU_SIAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_SULU"
+  },
+  {
+    "tenantId": "philippines.armm.sulu.hadjipanglimatahil",
+    "code": "PH_14_SULU_HPT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_SULU"
+  },
+  {
+    "tenantId": "philippines.armm.sulu.maimbung",
+    "code": "PH_14_SULU_MAIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_SULU"
+  },
+  {
+    "tenantId": "philippines.armm.sulu.pandami",
+    "code": "PH_14_SULU_PAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_SULU"
+  },
+  {
+    "tenantId": "philippines.armm.sulu.panglimaestino",
+    "code": "PH_14_SULU_PAES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_SULU"
+  },
+  {
+    "tenantId": "philippines.armm.sulu.pangutaran",
+    "code": "PH_14_SULU_PANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_SULU"
+  },
+  {
+    "tenantId": "philippines.armm.sulu.talipao",
+    "code": "PH_14_SULU_TALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_SULU"
+  },
+  {
+    "tenantId": "philippines.armm.sulu.tapul",
+    "code": "PH_14_SULU_TAPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_SULU"
+  },
+  {
+    "tenantId": "philippines.armm.tawitawi.mapun",
+    "code": "PH_14_TAWI_MAPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_TAWI"
+  },
+  {
+    "tenantId": "philippines.armm.tawitawi.simunul",
+    "code": "PH_14_TAWI_SIMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_TAWI"
+  },
+  {
+    "tenantId": "philippines.armm.tawitawi.sitangkai",
+    "code": "PH_14_TAWI_SITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_TAWI"
+  },
+  {
+    "tenantId": "philippines.armm.tawitawi.tandubas",
+    "code": "PH_14_TAWI_TAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_TAWI"
+  },
+  {
+    "tenantId": "philippines.armm.tawitawi.bongao",
+    "code": "PH_14_TAWI_BONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_TAWI"
+  },
+  {
+    "tenantId": "philippines.armm.tawitawi.languyan",
+    "code": "PH_14_TAWI_LANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_TAWI"
+  },
+  {
+    "tenantId": "philippines.armm.tawitawi.panglimasugala",
+    "code": "PH_14_TAWI_PASU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_TAWI"
+  },
+  {
+    "tenantId": "philippines.armm.tawitawi.sapasapa",
+    "code": "PH_14_TAWI_SAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_TAWI"
+  },
+  {
+    "tenantId": "philippines.armm.tawitawi.sibutu",
+    "code": "PH_14_TAWI_SIBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_TAWI"
+  },
+  {
+    "tenantId": "philippines.armm.tawitawi.southubian",
+    "code": "PH_14_TAWI_SOUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_TAWI"
+  },
+  {
+    "tenantId": "philippines.armm.tawitawi.turtleislands",
+    "code": "PH_14_TAWI_TUIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "PH_14_TAWI"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "chad.mandoul",
+    "code": "TD_MA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TD"
+  },
+  {
+    "tenantId": "chad.mandoul.mandouloriental",
+    "code": "TD_MA_MAOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_MA"
+  },
+  {
+    "tenantId": "chad.mandoul.barhsara",
+    "code": "TD_MA_BARH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_MA"
+  },
+  {
+    "tenantId": "chad.mandoul.mandouloccidental",
+    "code": "TD_MA_MAOC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_MA"
+  }
+]

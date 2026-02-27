@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "peru.lambayeque",
+    "code": "PE_LAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PE"
+  },
+  {
+    "tenantId": "peru.lambayeque.chiclayo",
+    "code": "PE_LAM_CHIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_LAM"
+  },
+  {
+    "tenantId": "peru.lambayeque.ferreafe",
+    "code": "PE_LAM_FERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_LAM"
+  },
+  {
+    "tenantId": "peru.lambayeque.lambayeque",
+    "code": "PE_LAM_LAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_LAM"
+  }
+]

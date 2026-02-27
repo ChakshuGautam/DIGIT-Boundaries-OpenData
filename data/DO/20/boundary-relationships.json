@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "dominicanrepublic.saman",
+    "code": "DO_20",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "DO"
+  },
+  {
+    "tenantId": "dominicanrepublic.saman.lasterrenas",
+    "code": "DO_20_LATE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DO_20"
+  },
+  {
+    "tenantId": "dominicanrepublic.saman.santabrbaradesaman",
+    "code": "DO_20_SBDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DO_20"
+  },
+  {
+    "tenantId": "dominicanrepublic.saman.snchez",
+    "code": "DO_20_SNC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DO_20"
+  }
+]

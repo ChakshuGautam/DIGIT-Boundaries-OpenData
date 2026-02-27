@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "seychelles.grandanse",
+    "code": "SC_GRAN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SC"
+  },
+  {
+    "tenantId": "seychelles.grandanse.westmahe",
+    "code": "SC_GRAN2_WEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SC_GRAN2"
+  },
+  {
+    "tenantId": "seychelles.grandanse.westmahe.anseboileau",
+    "code": "SC_GRAN2_WEMA_ANBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SC_GRAN2_WEMA"
+  },
+  {
+    "tenantId": "seychelles.grandanse.westmahe.baielazare",
+    "code": "SC_GRAN2_WEMA_BALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SC_GRAN2_WEMA"
+  },
+  {
+    "tenantId": "seychelles.grandanse.westmahe.grandansemahe",
+    "code": "SC_GRAN2_WEMA_GAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SC_GRAN2_WEMA"
+  },
+  {
+    "tenantId": "seychelles.grandanse.westmahe.portglaud",
+    "code": "SC_GRAN2_WEMA_POGL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SC_GRAN2_WEMA"
+  }
+]

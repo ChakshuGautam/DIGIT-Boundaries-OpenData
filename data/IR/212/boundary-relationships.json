@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "iranislamicrepublicof.mazandaran",
+    "code": "IR_212",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IR"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.mazandaran.bandaregaz",
+    "code": "IR_212_BAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IR_212"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.mazandaran.bandaregaz.unknown",
+    "code": "IR_212_BAND_UNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_212_BAND"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.mazandaran.bandaregaz.unknown",
+    "code": "IR_212_BAND_UNK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_212_BAND"
+  },
+  {
+    "tenantId": "iranislamicrepublicof.mazandaran.bandaregaz.unknown",
+    "code": "IR_212_BAND_UNK3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "IR_212_BAND"
+  }
+]

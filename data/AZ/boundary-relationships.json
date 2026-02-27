@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "azerbaijan",
+    "code": "AZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "azerbaijan.nakhchivanautonomousrepublic",
+    "code": "AZ_NAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "AZ"
+  },
+  {
+    "tenantId": "azerbaijan.contiguousazerbaijan",
+    "code": "AZ_COAZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "AZ"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "tenantId": "cambodia.kep",
+    "code": "KH_23",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "KH"
+  },
+  {
+    "tenantId": "cambodia.kep.damnakchangaeur",
+    "code": "KH_23_DACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KH_23"
+  },
+  {
+    "tenantId": "cambodia.kep.kaeb",
+    "code": "KH_23_KAEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "KH_23"
+  },
+  {
+    "tenantId": "cambodia.kep.damnakchangaeur.pongtuek",
+    "code": "KH_23_DACH_POTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_23_DACH"
+  },
+  {
+    "tenantId": "cambodia.kep.damnakchangaeur.angkaol",
+    "code": "KH_23_DACH_ANGK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_23_DACH"
+  },
+  {
+    "tenantId": "cambodia.kep.kaeb.oukrasar",
+    "code": "KH_23_KAEB_OUKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_23_KAEB"
+  },
+  {
+    "tenantId": "cambodia.kep.kaeb.preythum",
+    "code": "KH_23_KAEB_PRTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_23_KAEB"
+  },
+  {
+    "tenantId": "cambodia.kep.kaeb.kaeb",
+    "code": "KH_23_KAEB_KAEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "KH_23_KAEB"
+  }
+]

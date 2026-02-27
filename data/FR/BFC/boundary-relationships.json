@@ -1,0 +1,233 @@
+[
+  {
+    "tenantId": "france.bourgognefranchecomt",
+    "code": "FR_BFC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "FR"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.ctedor",
+    "code": "FR_BFC_CTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_BFC"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.doubs",
+    "code": "FR_BFC_DOUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_BFC"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.jura",
+    "code": "FR_BFC_JURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_BFC"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.nivre",
+    "code": "FR_BFC_NIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_BFC"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.hautesane",
+    "code": "FR_BFC_HAUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_BFC"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.saneetloire",
+    "code": "FR_BFC_SAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_BFC"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.yonne",
+    "code": "FR_BFC_YONN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_BFC"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.territoiredebelfort",
+    "code": "FR_BFC_TDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_BFC"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.ctedor.beaune",
+    "code": "FR_BFC_CTE_BEAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_CTE"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.ctedor.dijon",
+    "code": "FR_BFC_CTE_DIJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_CTE"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.ctedor.montbard",
+    "code": "FR_BFC_CTE_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_CTE"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.doubs.besanon",
+    "code": "FR_BFC_DOUB_BESA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_DOUB"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.doubs.montbliard",
+    "code": "FR_BFC_DOUB_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_DOUB"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.doubs.pontarlier",
+    "code": "FR_BFC_DOUB_PONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_DOUB"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.jura.dole",
+    "code": "FR_BFC_JURA_DOLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_JURA"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.jura.lonslesaunier",
+    "code": "FR_BFC_JURA_LONS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_JURA"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.jura.saintclaude",
+    "code": "FR_BFC_JURA_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_JURA"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.nivre.chteauchinonville",
+    "code": "FR_BFC_NIV_CHV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_NIV"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.nivre.clamecy",
+    "code": "FR_BFC_NIV_CLAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_NIV"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.nivre.nevers",
+    "code": "FR_BFC_NIV_NEVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_NIV"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.nivre.cosnecourssurloire",
+    "code": "FR_BFC_NIV_COSN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_NIV"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.hautesane.lure",
+    "code": "FR_BFC_HAUT_LURE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_HAUT"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.hautesane.vesoul",
+    "code": "FR_BFC_HAUT_VESO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_HAUT"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.saneetloire.autun",
+    "code": "FR_BFC_SAN_AUTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_SAN"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.saneetloire.chalonsursane",
+    "code": "FR_BFC_SAN_CHAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_SAN"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.saneetloire.charolles",
+    "code": "FR_BFC_SAN_CHAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_SAN"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.saneetloire.louhans",
+    "code": "FR_BFC_SAN_LOUH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_SAN"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.saneetloire.mcon",
+    "code": "FR_BFC_SAN_MCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_SAN"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.yonne.auxerre",
+    "code": "FR_BFC_YONN_AUXE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_YONN"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.yonne.avallon",
+    "code": "FR_BFC_YONN_AVAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_YONN"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.yonne.sens",
+    "code": "FR_BFC_YONN_SENS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_YONN"
+  },
+  {
+    "tenantId": "france.bourgognefranchecomt.territoiredebelfort.belfort",
+    "code": "FR_BFC_TDB_BELF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_BFC_TDB"
+  }
+]

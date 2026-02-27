@@ -1,0 +1,933 @@
+[
+  {
+    "tenantId": "vanuatu.tafea",
+    "code": "VU_TAE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "VU"
+  },
+  {
+    "tenantId": "vanuatu.tafea.aneityum",
+    "code": "VU_TAE_ANEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_TAE"
+  },
+  {
+    "tenantId": "vanuatu.tafea.aniwa",
+    "code": "VU_TAE_ANIW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_TAE"
+  },
+  {
+    "tenantId": "vanuatu.tafea.futuna",
+    "code": "VU_TAE_FUTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_TAE"
+  },
+  {
+    "tenantId": "vanuatu.tafea.middlebushtanna",
+    "code": "VU_TAE_MBT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_TAE"
+  },
+  {
+    "tenantId": "vanuatu.tafea.northerromango",
+    "code": "VU_TAE_NOER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_TAE"
+  },
+  {
+    "tenantId": "vanuatu.tafea.northtanna",
+    "code": "VU_TAE_NOTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_TAE"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southerromango",
+    "code": "VU_TAE_SOER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_TAE"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southtanna",
+    "code": "VU_TAE_SOTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_TAE"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southwesttanna",
+    "code": "VU_TAE_SWT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_TAE"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna",
+    "code": "VU_TAE_WETA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_TAE"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands",
+    "code": "VU_TAE_WHIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "VU_TAE"
+  },
+  {
+    "tenantId": "vanuatu.tafea.aneityum.unknown",
+    "code": "VU_TAE_ANEI_115",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_ANEI"
+  },
+  {
+    "tenantId": "vanuatu.tafea.aneityum.unknown",
+    "code": "VU_TAE_ANEI_114",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_ANEI"
+  },
+  {
+    "tenantId": "vanuatu.tafea.aniwa.unknown",
+    "code": "VU_TAE_ANIW_131",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_ANIW"
+  },
+  {
+    "tenantId": "vanuatu.tafea.futuna.unknown",
+    "code": "VU_TAE_FUTU_116",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_FUTU"
+  },
+  {
+    "tenantId": "vanuatu.tafea.middlebushtanna.unknown",
+    "code": "VU_TAE_MBT_102",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_MBT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.middlebushtanna.unknown",
+    "code": "VU_TAE_MBT_103",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_MBT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.middlebushtanna.unknown",
+    "code": "VU_TAE_MBT_100",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_MBT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.middlebushtanna.unknown",
+    "code": "VU_TAE_MBT_101",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_MBT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.middlebushtanna.unknown",
+    "code": "VU_TAE_MBT_99",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_MBT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.middlebushtanna.unknown",
+    "code": "VU_TAE_MBT_98",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_MBT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.middlebushtanna.unknown",
+    "code": "VU_TAE_MBT_24",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_MBT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.middlebushtanna.unknown",
+    "code": "VU_TAE_MBT_25",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_MBT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.middlebushtanna.unknown",
+    "code": "VU_TAE_MBT_26",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_MBT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.middlebushtanna.unknown",
+    "code": "VU_TAE_MBT_27",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_MBT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.middlebushtanna.unknown",
+    "code": "VU_TAE_MBT_23",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_MBT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.middlebushtanna.unknown",
+    "code": "VU_TAE_MBT_28",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_MBT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.middlebushtanna.unknown",
+    "code": "VU_TAE_MBT_83",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_MBT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.middlebushtanna.unknown",
+    "code": "VU_TAE_MBT_120",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_MBT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.middlebushtanna.unknown",
+    "code": "VU_TAE_MBT_121",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_MBT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.middlebushtanna.unknown",
+    "code": "VU_TAE_MBT_117",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_MBT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.middlebushtanna.unknown",
+    "code": "VU_TAE_MBT_119",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_MBT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.middlebushtanna.unknown",
+    "code": "VU_TAE_MBT_118",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_MBT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.northerromango.unknown",
+    "code": "VU_TAE_NOER_104",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_NOER"
+  },
+  {
+    "tenantId": "vanuatu.tafea.northerromango.unknown",
+    "code": "VU_TAE_NOER_105",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_NOER"
+  },
+  {
+    "tenantId": "vanuatu.tafea.northerromango.unknown",
+    "code": "VU_TAE_NOER_110",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_NOER"
+  },
+  {
+    "tenantId": "vanuatu.tafea.northtanna.unknown",
+    "code": "VU_TAE_NOTA_91",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_NOTA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.northtanna.unknown",
+    "code": "VU_TAE_NOTA_93",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_NOTA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.northtanna.unknown",
+    "code": "VU_TAE_NOTA_92",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_NOTA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.northtanna.unknown",
+    "code": "VU_TAE_NOTA_95",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_NOTA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.northtanna.unknown",
+    "code": "VU_TAE_NOTA_94",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_NOTA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.northtanna.unknown",
+    "code": "VU_TAE_NOTA_97",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_NOTA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.northtanna.unknown",
+    "code": "VU_TAE_NOTA_96",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_NOTA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.northtanna.unknown",
+    "code": "VU_TAE_NOTA_77",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_NOTA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.northtanna.unknown",
+    "code": "VU_TAE_NOTA_76",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_NOTA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.northtanna.unknown",
+    "code": "VU_TAE_NOTA_75",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_NOTA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.northtanna.unknown",
+    "code": "VU_TAE_NOTA_79",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_NOTA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.northtanna.unknown",
+    "code": "VU_TAE_NOTA_78",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_NOTA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.northtanna.unknown",
+    "code": "VU_TAE_NOTA_50",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_NOTA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.northtanna.unknown",
+    "code": "VU_TAE_NOTA_80",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_NOTA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.northtanna.unknown",
+    "code": "VU_TAE_NOTA_49",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_NOTA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southerromango.unknown",
+    "code": "VU_TAE_SOER_108",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SOER"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southerromango.unknown",
+    "code": "VU_TAE_SOER_109",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SOER"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southerromango.unknown",
+    "code": "VU_TAE_SOER_106",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SOER"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southerromango.unknown",
+    "code": "VU_TAE_SOER_107",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SOER"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southtanna.unknown",
+    "code": "VU_TAE_SOTA_36",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SOTA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southtanna.unknown",
+    "code": "VU_TAE_SOTA_90",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SOTA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southtanna.unknown",
+    "code": "VU_TAE_SOTA_88",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SOTA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southtanna.unknown",
+    "code": "VU_TAE_SOTA_89",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SOTA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southwesttanna.unknown",
+    "code": "VU_TAE_SWT_33",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SWT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southwesttanna.unknown",
+    "code": "VU_TAE_SWT_32",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SWT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southwesttanna.unknown",
+    "code": "VU_TAE_SWT_31",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SWT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southwesttanna.unknown",
+    "code": "VU_TAE_SWT_30",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SWT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southwesttanna.unknown",
+    "code": "VU_TAE_SWT_35",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SWT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southwesttanna.unknown",
+    "code": "VU_TAE_SWT_34",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SWT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southwesttanna.unknown",
+    "code": "VU_TAE_SWT_29",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SWT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southwesttanna.unknown",
+    "code": "VU_TAE_SWT_62",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SWT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southwesttanna.unknown",
+    "code": "VU_TAE_SWT_60",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SWT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southwesttanna.unknown",
+    "code": "VU_TAE_SWT_61",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SWT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southwesttanna.unknown",
+    "code": "VU_TAE_SWT_59",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SWT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southwesttanna.unknown",
+    "code": "VU_TAE_SWT_58",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SWT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southwesttanna.unknown",
+    "code": "VU_TAE_SWT_55",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SWT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southwesttanna.unknown",
+    "code": "VU_TAE_SWT_54",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SWT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southwesttanna.unknown",
+    "code": "VU_TAE_SWT_57",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SWT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southwesttanna.unknown",
+    "code": "VU_TAE_SWT_56",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SWT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southwesttanna.unknown",
+    "code": "VU_TAE_SWT_53",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SWT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.southwesttanna.unknown",
+    "code": "VU_TAE_SWT_52",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_SWT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_129",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_20",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_21",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_22",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_11",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_10",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_13",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_12",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_15",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_14",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_17",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_16",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_19",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_18",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_122",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_123",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_124",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_125",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_126",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_127",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_128",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_9",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.westtanna.unknown",
+    "code": "VU_TAE_WETA_51",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WETA"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_39",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_38",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_37",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_130",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_82",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_81",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_86",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_87",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_84",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_85",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_74",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_72",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_68",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_63",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_64",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_65",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_66",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_67",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_69",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_48",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_46",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_47",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_44",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_45",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_42",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_43",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_40",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_41",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  },
+  {
+    "tenantId": "vanuatu.tafea.whitesands.unknown",
+    "code": "VU_TAE_WHIT_71",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "VU_TAE_WHIT"
+  }
+]

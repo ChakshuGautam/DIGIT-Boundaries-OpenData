@@ -1,0 +1,219 @@
+[
+  {
+    "tenantId": "finland.uusimaa",
+    "code": "FI_18",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "FI"
+  },
+  {
+    "tenantId": "finland.uusimaa.raseborgsekonomiskaregion",
+    "code": "FI_18_RER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_18"
+  },
+  {
+    "tenantId": "finland.uusimaa.porvoonseutukunta",
+    "code": "FI_18_POSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_18"
+  },
+  {
+    "tenantId": "finland.uusimaa.loviisanseutukunta",
+    "code": "FI_18_LOSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_18"
+  },
+  {
+    "tenantId": "finland.uusimaa.helsinkisubregion",
+    "code": "FI_18_HESU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_18"
+  },
+  {
+    "tenantId": "finland.uusimaa.raseborgsekonomiskaregion.raseborg",
+    "code": "FI_18_RER_RASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_RER"
+  },
+  {
+    "tenantId": "finland.uusimaa.raseborgsekonomiskaregion.hanko",
+    "code": "FI_18_RER_HANK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_RER"
+  },
+  {
+    "tenantId": "finland.uusimaa.raseborgsekonomiskaregion.ing",
+    "code": "FI_18_RER_ING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_RER"
+  },
+  {
+    "tenantId": "finland.uusimaa.porvoonseutukunta.myrskyl",
+    "code": "FI_18_POSE_MYRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_POSE"
+  },
+  {
+    "tenantId": "finland.uusimaa.porvoonseutukunta.pukkila",
+    "code": "FI_18_POSE_PUKK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_POSE"
+  },
+  {
+    "tenantId": "finland.uusimaa.porvoonseutukunta.askola",
+    "code": "FI_18_POSE_ASKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_POSE"
+  },
+  {
+    "tenantId": "finland.uusimaa.porvoonseutukunta.porvoo",
+    "code": "FI_18_POSE_PORV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_POSE"
+  },
+  {
+    "tenantId": "finland.uusimaa.porvoonseutukunta.sipoo",
+    "code": "FI_18_POSE_SIPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_POSE"
+  },
+  {
+    "tenantId": "finland.uusimaa.loviisanseutukunta.lapinjrvi",
+    "code": "FI_18_LOSE_LAPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_LOSE"
+  },
+  {
+    "tenantId": "finland.uusimaa.loviisanseutukunta.loviisa",
+    "code": "FI_18_LOSE_LOVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_LOSE"
+  },
+  {
+    "tenantId": "finland.uusimaa.helsinkisubregion.mntsl",
+    "code": "FI_18_HESU_MNT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_HESU"
+  },
+  {
+    "tenantId": "finland.uusimaa.helsinkisubregion.tuusula",
+    "code": "FI_18_HESU_TUUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_HESU"
+  },
+  {
+    "tenantId": "finland.uusimaa.helsinkisubregion.kerava",
+    "code": "FI_18_HESU_KERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_HESU"
+  },
+  {
+    "tenantId": "finland.uusimaa.helsinkisubregion.hyvink",
+    "code": "FI_18_HESU_HYVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_HESU"
+  },
+  {
+    "tenantId": "finland.uusimaa.helsinkisubregion.jrvenp",
+    "code": "FI_18_HESU_JRV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_HESU"
+  },
+  {
+    "tenantId": "finland.uusimaa.helsinkisubregion.karkkila",
+    "code": "FI_18_HESU_KARK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_HESU"
+  },
+  {
+    "tenantId": "finland.uusimaa.helsinkisubregion.kirkkonummi",
+    "code": "FI_18_HESU_KIRK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_HESU"
+  },
+  {
+    "tenantId": "finland.uusimaa.helsinkisubregion.nurmijrvi",
+    "code": "FI_18_HESU_NURM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_HESU"
+  },
+  {
+    "tenantId": "finland.uusimaa.helsinkisubregion.pornainen",
+    "code": "FI_18_HESU_PORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_HESU"
+  },
+  {
+    "tenantId": "finland.uusimaa.helsinkisubregion.vihti",
+    "code": "FI_18_HESU_VIHT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_HESU"
+  },
+  {
+    "tenantId": "finland.uusimaa.helsinkisubregion.helsinki",
+    "code": "FI_18_HESU_HELS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_HESU"
+  },
+  {
+    "tenantId": "finland.uusimaa.helsinkisubregion.vantaa",
+    "code": "FI_18_HESU_VANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_HESU"
+  },
+  {
+    "tenantId": "finland.uusimaa.helsinkisubregion.lohja",
+    "code": "FI_18_HESU_LOHJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_HESU"
+  },
+  {
+    "tenantId": "finland.uusimaa.helsinkisubregion.espoo",
+    "code": "FI_18_HESU_ESPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_HESU"
+  },
+  {
+    "tenantId": "finland.uusimaa.helsinkisubregion.siuntio",
+    "code": "FI_18_HESU_SIUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_HESU"
+  },
+  {
+    "tenantId": "finland.uusimaa.helsinkisubregion.kauniainen",
+    "code": "FI_18_HESU_KAUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_18_HESU"
+  }
+]

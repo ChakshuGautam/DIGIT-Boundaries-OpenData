@@ -1,0 +1,583 @@
+[
+  {
+    "tenantId": "hungary.komromesztergom",
+    "code": "HU_KE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "HU"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom",
+    "code": "HU_KE_ESZT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HU_KE"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.kisbr",
+    "code": "HU_KE_KISB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HU_KE"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.komrom",
+    "code": "HU_KE_KOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HU_KE"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.oroszlny",
+    "code": "HU_KE_OROS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HU_KE"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.tata",
+    "code": "HU_KE_TATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HU_KE"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.tatabnya",
+    "code": "HU_KE_TATA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HU_KE"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.piliscskv",
+    "code": "HU_KE_ESZT_PILI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.tokod",
+    "code": "HU_KE_ESZT_TOKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.s",
+    "code": "HU_KE_ESZT_S",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.mogyorksbynya",
+    "code": "HU_KE_ESZT_MOGY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.pilismarrt",
+    "code": "HU_KE_ESZT_PILI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.annavlgy",
+    "code": "HU_KE_ESZT_ANNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.epl",
+    "code": "HU_KE_ESZT_EPL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.l",
+    "code": "HU_KE_ESZT_L",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.nagysrp",
+    "code": "HU_KE_ESZT_NAGY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.esztergom",
+    "code": "HU_KE_ESZT_ESZT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.ny",
+    "code": "HU_KE_ESZT_NY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.lenyvar",
+    "code": "HU_KE_ESZT_LEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.tokodaltsro",
+    "code": "HU_KE_ESZT_TOKO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.nyergestjfalu",
+    "code": "HU_KE_ESZT_NYER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.bajna",
+    "code": "HU_KE_ESZT_BAJN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.csolnok",
+    "code": "HU_KE_ESZT_CSOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.kesztolc",
+    "code": "HU_KE_ESZT_KESZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.d",
+    "code": "HU_KE_ESZT_D",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.dorog",
+    "code": "HU_KE_ESZT_DORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.m",
+    "code": "HU_KE_ESZT_M",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.d",
+    "code": "HU_KE_ESZT_D2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.bajit",
+    "code": "HU_KE_ESZT_BAJI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.t",
+    "code": "HU_KE_ESZT_T",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.esztergom.s",
+    "code": "HU_KE_ESZT_S2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_ESZT"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.kisbr.kerskteleki",
+    "code": "HU_KE_KISB_KERS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KISB"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.kisbr.csp",
+    "code": "HU_KE_KISB_CSP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KISB"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.kisbr.t",
+    "code": "HU_KE_KISB_T",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KISB"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.kisbr.v",
+    "code": "HU_KE_KISB_V",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KISB"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.kisbr.kisber",
+    "code": "HU_KE_KISB_KISB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KISB"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.kisbr.b",
+    "code": "HU_KE_KISB_B",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KISB"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.kisbr.csszyr",
+    "code": "HU_KE_KISB_CSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KISB"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.kisbr.csteszzr",
+    "code": "HU_KE_KISB_CSTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KISB"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.kisbr.bakonybenk",
+    "code": "HU_KE_KISB_BAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KISB"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.kisbr.ete",
+    "code": "HU_KE_KISB_ETE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KISB"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.kisbr.aka",
+    "code": "HU_KE_KISB_AKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KISB"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.kisbr.s",
+    "code": "HU_KE_KISB_S",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KISB"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.kisbr.bakonyszombathely",
+    "code": "HU_KE_KISB_BAKO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KISB"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.kisbr.csatka",
+    "code": "HU_KE_KISB_CSAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KISB"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.kisbr.r",
+    "code": "HU_KE_KISB_R",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KISB"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.kisbr.bakonysarktny",
+    "code": "HU_KE_KISB_BAKO3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KISB"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.kisbr.szdr",
+    "code": "HU_KE_KISB_SZDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KISB"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.komrom.csm",
+    "code": "HU_KE_KOM_CSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KOM"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.komrom.bana",
+    "code": "HU_KE_KOM_BANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KOM"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.komrom.komarom",
+    "code": "HU_KE_KOM_KOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KOM"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.komrom.nagyigmrnd",
+    "code": "HU_KE_KOM_NAGY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KOM"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.komrom.cs",
+    "code": "HU_KE_KOM_CS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KOM"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.komrom.b",
+    "code": "HU_KE_KOM_B",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KOM"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.komrom.kisigmrnd",
+    "code": "HU_KE_KOM_KISI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KOM"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.komrom.mocsa",
+    "code": "HU_KE_KOM_MOCS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KOM"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.komrom.almlsfdzito",
+    "code": "HU_KE_KOM_ALML",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_KOM"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.oroszlny.k",
+    "code": "HU_KE_OROS_K",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_OROS"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.oroszlny.oroszlony",
+    "code": "HU_KE_OROS_OROS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_OROS"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.oroszlny.szkszend",
+    "code": "HU_KE_OROS_SZK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_OROS"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.oroszlny.kecsknd",
+    "code": "HU_KE_OROS_KECS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_OROS"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.oroszlny.bokod",
+    "code": "HU_KE_OROS_BOKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_OROS"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.oroszlny.dad",
+    "code": "HU_KE_OROS_DAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_OROS"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.tata.kocs",
+    "code": "HU_KE_TATA_KOCS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_TATA"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.tata.baj",
+    "code": "HU_KE_TATA_BAJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_TATA"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.tata.neszmrly",
+    "code": "HU_KE_TATA_NESZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_TATA"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.tata.v",
+    "code": "HU_KE_TATA_V",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_TATA"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.tata.szomed",
+    "code": "HU_KE_TATA_SZOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_TATA"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.tata.tata",
+    "code": "HU_KE_TATA_TATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_TATA"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.tata.dunaalm",
+    "code": "HU_KE_TATA_DUNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_TATA"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.tata.dunaszentmikles",
+    "code": "HU_KE_TATA_DUNA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_TATA"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.tata.naszgly",
+    "code": "HU_KE_TATA_NASZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_TATA"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.tata.tardos",
+    "code": "HU_KE_TATA_TARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_TATA"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.tatabnya.szrliget",
+    "code": "HU_KE_TATA2_SZR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_TATA2"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.tatabnya.k",
+    "code": "HU_KE_TATA2_K",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_TATA2"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.tatabnya.h",
+    "code": "HU_KE_TATA2_H",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_TATA2"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.tatabnya.tatabrnya",
+    "code": "HU_KE_TATA2_TATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_TATA2"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.tatabnya.szomor",
+    "code": "HU_KE_TATA2_SZOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_TATA2"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.tatabnya.v",
+    "code": "HU_KE_TATA2_V",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_TATA2"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.tatabnya.v",
+    "code": "HU_KE_TATA2_V2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_TATA2"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.tatabnya.tarjnn",
+    "code": "HU_KE_TATA2_TARJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_TATA2"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.tatabnya.v",
+    "code": "HU_KE_TATA2_V3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_TATA2"
+  },
+  {
+    "tenantId": "hungary.komromesztergom.tatabnya.gyermely",
+    "code": "HU_KE_TATA2_GYER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HU_KE_TATA2"
+  }
+]

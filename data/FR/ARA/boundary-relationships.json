@@ -1,0 +1,366 @@
+[
+  {
+    "tenantId": "france.auvergnerhnealpes",
+    "code": "FR_ARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "FR"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.ain",
+    "code": "FR_ARA_AIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_ARA"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.allier",
+    "code": "FR_ARA_ALLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_ARA"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.ardche",
+    "code": "FR_ARA_ARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_ARA"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.cantal",
+    "code": "FR_ARA_CANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_ARA"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.drme",
+    "code": "FR_ARA_DRM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_ARA"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.isre",
+    "code": "FR_ARA_ISR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_ARA"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.loire",
+    "code": "FR_ARA_LOIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_ARA"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.hauteloire",
+    "code": "FR_ARA_HAUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_ARA"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.puydedme",
+    "code": "FR_ARA_PUY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_ARA"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.rhne",
+    "code": "FR_ARA_RHN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_ARA"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.savoie",
+    "code": "FR_ARA_SAVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_ARA"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.hautesavoie",
+    "code": "FR_ARA_HAUT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_ARA"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.ain.belley",
+    "code": "FR_ARA_AIN_BELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_AIN"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.ain.bourgenbresse",
+    "code": "FR_ARA_AIN_BOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_AIN"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.ain.gex",
+    "code": "FR_ARA_AIN_GEX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_AIN"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.ain.nantua",
+    "code": "FR_ARA_AIN_NANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_AIN"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.allier.montluon",
+    "code": "FR_ARA_ALLI_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_ALLI"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.allier.moulins",
+    "code": "FR_ARA_ALLI_MOUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_ALLI"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.allier.vichy",
+    "code": "FR_ARA_ALLI_VICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_ALLI"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.ardche.largentire",
+    "code": "FR_ARA_ARD_LARG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_ARD"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.ardche.privas",
+    "code": "FR_ARA_ARD_PRIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_ARD"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.ardche.tournonsurrhne",
+    "code": "FR_ARA_ARD_TOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_ARD"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.cantal.aurillac",
+    "code": "FR_ARA_CANT_AURI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_CANT"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.cantal.mauriac",
+    "code": "FR_ARA_CANT_MAUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_CANT"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.cantal.saintflour",
+    "code": "FR_ARA_CANT_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_CANT"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.drme.die",
+    "code": "FR_ARA_DRM_DIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_DRM"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.drme.nyons",
+    "code": "FR_ARA_DRM_NYON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_DRM"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.drme.valence",
+    "code": "FR_ARA_DRM_VALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_DRM"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.isre.grenoble",
+    "code": "FR_ARA_ISR_GREN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_ISR"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.isre.latourdupin",
+    "code": "FR_ARA_ISR_LATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_ISR"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.isre.vienne",
+    "code": "FR_ARA_ISR_VIEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_ISR"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.loire.montbrison",
+    "code": "FR_ARA_LOIR_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_LOIR"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.loire.roanne",
+    "code": "FR_ARA_LOIR_ROAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_LOIR"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.loire.sainttienne",
+    "code": "FR_ARA_LOIR_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_LOIR"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.hauteloire.brioude",
+    "code": "FR_ARA_HAUT_BRIO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_HAUT"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.hauteloire.lepuyenvelay",
+    "code": "FR_ARA_HAUT_LEPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_HAUT"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.hauteloire.yssingeaux",
+    "code": "FR_ARA_HAUT_YSSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_HAUT"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.puydedme.ambert",
+    "code": "FR_ARA_PUY_AMBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_PUY"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.puydedme.clermontferrand",
+    "code": "FR_ARA_PUY_CLER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_PUY"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.puydedme.issoire",
+    "code": "FR_ARA_PUY_ISSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_PUY"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.puydedme.riom",
+    "code": "FR_ARA_PUY_RIOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_PUY"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.puydedme.thiers",
+    "code": "FR_ARA_PUY_THIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_PUY"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.rhne.lyon",
+    "code": "FR_ARA_RHN_LYON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_RHN"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.rhne.villefranchesursane",
+    "code": "FR_ARA_RHN_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_RHN"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.savoie.albertville",
+    "code": "FR_ARA_SAVO_ALBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_SAVO"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.savoie.chambry",
+    "code": "FR_ARA_SAVO_CHAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_SAVO"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.savoie.saintjeandemaurienne",
+    "code": "FR_ARA_SAVO_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_SAVO"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.hautesavoie.annecy",
+    "code": "FR_ARA_HAUT2_ANNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_HAUT2"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.hautesavoie.bonneville",
+    "code": "FR_ARA_HAUT2_BONN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_HAUT2"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.hautesavoie.saintjulienengenevois",
+    "code": "FR_ARA_HAUT2_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_HAUT2"
+  },
+  {
+    "tenantId": "france.auvergnerhnealpes.hautesavoie.thononlesbains",
+    "code": "FR_ARA_HAUT2_THON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_ARA_HAUT2"
+  }
+]

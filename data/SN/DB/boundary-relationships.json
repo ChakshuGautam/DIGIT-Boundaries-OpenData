@@ -1,0 +1,86 @@
+[
+  {
+    "tenantId": "senegal.diourbel",
+    "code": "SN_DB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SN"
+  },
+  {
+    "tenantId": "senegal.diourbel.bambey",
+    "code": "SN_DB_BAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SN_DB"
+  },
+  {
+    "tenantId": "senegal.diourbel.diourbel",
+    "code": "SN_DB_DIOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SN_DB"
+  },
+  {
+    "tenantId": "senegal.diourbel.mbacke",
+    "code": "SN_DB_MBAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SN_DB"
+  },
+  {
+    "tenantId": "senegal.diourbel.bambey.babagarage",
+    "code": "SN_DB_BAMB_BAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_DB_BAMB"
+  },
+  {
+    "tenantId": "senegal.diourbel.bambey.lambaye",
+    "code": "SN_DB_BAMB_LAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_DB_BAMB"
+  },
+  {
+    "tenantId": "senegal.diourbel.bambey.ngoye",
+    "code": "SN_DB_BAMB_NGOY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_DB_BAMB"
+  },
+  {
+    "tenantId": "senegal.diourbel.diourbel.ndindy",
+    "code": "SN_DB_DIOU_NDIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_DB_DIOU"
+  },
+  {
+    "tenantId": "senegal.diourbel.diourbel.ndoulo",
+    "code": "SN_DB_DIOU_NDOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_DB_DIOU"
+  },
+  {
+    "tenantId": "senegal.diourbel.mbacke.kael",
+    "code": "SN_DB_MBAC_KAEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_DB_MBAC"
+  },
+  {
+    "tenantId": "senegal.diourbel.mbacke.ndame",
+    "code": "SN_DB_MBAC_NDAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_DB_MBAC"
+  },
+  {
+    "tenantId": "senegal.diourbel.mbacke.taif",
+    "code": "SN_DB_MBAC_TAIF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SN_DB_MBAC"
+  }
+]

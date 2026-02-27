@@ -1,0 +1,814 @@
+[
+  {
+    "tenantId": "madagascar.sofia",
+    "code": "MG_SOFI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MG"
+  },
+  {
+    "tenantId": "madagascar.sofia.portbergeborizinyvaovao",
+    "code": "MG_SOFI_POB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_SOFI"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara",
+    "code": "MG_SOFI_MAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_SOFI"
+  },
+  {
+    "tenantId": "madagascar.sofia.analalava",
+    "code": "MG_SOFI_ANAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_SOFI"
+  },
+  {
+    "tenantId": "madagascar.sofia.befandriananord",
+    "code": "MG_SOFI_BENO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_SOFI"
+  },
+  {
+    "tenantId": "madagascar.sofia.antsohihy",
+    "code": "MG_SOFI_ANTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_SOFI"
+  },
+  {
+    "tenantId": "madagascar.sofia.bealanana",
+    "code": "MG_SOFI_BEAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_SOFI"
+  },
+  {
+    "tenantId": "madagascar.sofia.mampikony",
+    "code": "MG_SOFI_MAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_SOFI"
+  },
+  {
+    "tenantId": "madagascar.sofia.portbergeborizinyvaovao.andranomeva",
+    "code": "MG_SOFI_POB_ANDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_POB"
+  },
+  {
+    "tenantId": "madagascar.sofia.portbergeborizinyvaovao.amparihy",
+    "code": "MG_SOFI_POB_AMPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_POB"
+  },
+  {
+    "tenantId": "madagascar.sofia.portbergeborizinyvaovao.leanja",
+    "code": "MG_SOFI_POB_LEAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_POB"
+  },
+  {
+    "tenantId": "madagascar.sofia.portbergeborizinyvaovao.marovato",
+    "code": "MG_SOFI_POB_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_POB"
+  },
+  {
+    "tenantId": "madagascar.sofia.portbergeborizinyvaovao.ambodimahabibo",
+    "code": "MG_SOFI_POB_AMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_POB"
+  },
+  {
+    "tenantId": "madagascar.sofia.portbergeborizinyvaovao.ambodivongo",
+    "code": "MG_SOFI_POB_AMBO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_POB"
+  },
+  {
+    "tenantId": "madagascar.sofia.portbergeborizinyvaovao.mahajambausine",
+    "code": "MG_SOFI_POB_MAUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_POB"
+  },
+  {
+    "tenantId": "madagascar.sofia.portbergeborizinyvaovao.portberge",
+    "code": "MG_SOFI_POB_POBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_POB"
+  },
+  {
+    "tenantId": "madagascar.sofia.portbergeborizinyvaovao.ambanjabe",
+    "code": "MG_SOFI_POB_AMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_POB"
+  },
+  {
+    "tenantId": "madagascar.sofia.portbergeborizinyvaovao.tsaratananai",
+    "code": "MG_SOFI_POB_TSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_POB"
+  },
+  {
+    "tenantId": "madagascar.sofia.portbergeborizinyvaovao.tsarahasina",
+    "code": "MG_SOFI_POB_TSAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_POB"
+  },
+  {
+    "tenantId": "madagascar.sofia.portbergeborizinyvaovao.tsiningia",
+    "code": "MG_SOFI_POB_TSIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_POB"
+  },
+  {
+    "tenantId": "madagascar.sofia.portbergeborizinyvaovao.ambodisakoana",
+    "code": "MG_SOFI_POB_AMBO3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_POB"
+  },
+  {
+    "tenantId": "madagascar.sofia.portbergeborizinyvaovao.tsinjomitondraka",
+    "code": "MG_SOFI_POB_TSIN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_POB"
+  },
+  {
+    "tenantId": "madagascar.sofia.portbergeborizinyvaovao.maevaranohely",
+    "code": "MG_SOFI_POB_MAEV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_POB"
+  },
+  {
+    "tenantId": "madagascar.sofia.portbergeborizinyvaovao.portbergeii",
+    "code": "MG_SOFI_POB_PBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_POB"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.mandritsara",
+    "code": "MG_SOFI_MAND_MAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.antanandava",
+    "code": "MG_SOFI_MAND_ANTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.antsoha",
+    "code": "MG_SOFI_MAND_ANTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.tsaratanana",
+    "code": "MG_SOFI_MAND_TSAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.kalandy",
+    "code": "MG_SOFI_MAND_KALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.antsirabecentre",
+    "code": "MG_SOFI_MAND_ANCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.antsiatsiaka",
+    "code": "MG_SOFI_MAND_ANTS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.amboaboa",
+    "code": "MG_SOFI_MAND_AMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.manampaneva",
+    "code": "MG_SOFI_MAND_MANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.ambarikorano",
+    "code": "MG_SOFI_MAND_AMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.andratamarina",
+    "code": "MG_SOFI_MAND_ANDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.ambaripaika",
+    "code": "MG_SOFI_MAND_AMBA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.ambodiamontanakianga",
+    "code": "MG_SOFI_MAND_AMKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.ambalakirajy",
+    "code": "MG_SOFI_MAND_AMBA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.tsarajomoka",
+    "code": "MG_SOFI_MAND_TSAR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.antsatramidola",
+    "code": "MG_SOFI_MAND_ANTS3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.ankiakabefonoko",
+    "code": "MG_SOFI_MAND_ANKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.marotandrano",
+    "code": "MG_SOFI_MAND_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.ambilombe",
+    "code": "MG_SOFI_MAND_AMBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.andohajango",
+    "code": "MG_SOFI_MAND_ANDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.anjiabe",
+    "code": "MG_SOFI_MAND_ANJI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.ambohisoa",
+    "code": "MG_SOFI_MAND_AMBO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.ampatakamaroreny",
+    "code": "MG_SOFI_MAND_AMPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.ankiabesalohy",
+    "code": "MG_SOFI_MAND_ANKI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.pontsofia",
+    "code": "MG_SOFI_MAND_POSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.ambodiadabo",
+    "code": "MG_SOFI_MAND_AMBO3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.amborondolo",
+    "code": "MG_SOFI_MAND_AMBO4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.mandritsara.antanambaonamberina",
+    "code": "MG_SOFI_MAND_ANTA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAND"
+  },
+  {
+    "tenantId": "madagascar.sofia.analalava.analalava",
+    "code": "MG_SOFI_ANAL_ANAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.analalava.ambarijebysud",
+    "code": "MG_SOFI_ANAL_AMSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.analalava.ambolobozo",
+    "code": "MG_SOFI_ANAL_AMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.analalava.befotakanord",
+    "code": "MG_SOFI_ANAL_BENO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.analalava.ambaliha",
+    "code": "MG_SOFI_ANAL_AMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.analalava.maromandia",
+    "code": "MG_SOFI_ANAL_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.analalava.marovatolena",
+    "code": "MG_SOFI_ANAL_MARO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.analalava.andribavontsona",
+    "code": "MG_SOFI_ANAL_ANDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.analalava.angoakasud",
+    "code": "MG_SOFI_ANAL_ANSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.analalava.marovantaza",
+    "code": "MG_SOFI_ANAL_MARO3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.analalava.ankaramy",
+    "code": "MG_SOFI_ANAL_ANKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.analalava.antonibe",
+    "code": "MG_SOFI_ANAL_ANTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.analalava.mahadrodroka",
+    "code": "MG_SOFI_ANAL_MAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.befandriananord.befandriananord",
+    "code": "MG_SOFI_BENO_BENO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BENO"
+  },
+  {
+    "tenantId": "madagascar.sofia.befandriananord.morafeno",
+    "code": "MG_SOFI_BENO_MORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BENO"
+  },
+  {
+    "tenantId": "madagascar.sofia.befandriananord.ambodimotsosud",
+    "code": "MG_SOFI_BENO_AMSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BENO"
+  },
+  {
+    "tenantId": "madagascar.sofia.befandriananord.tsiamalao",
+    "code": "MG_SOFI_BENO_TSIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BENO"
+  },
+  {
+    "tenantId": "madagascar.sofia.befandriananord.maroamalona",
+    "code": "MG_SOFI_BENO_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BENO"
+  },
+  {
+    "tenantId": "madagascar.sofia.befandriananord.tsarahonenana",
+    "code": "MG_SOFI_BENO_TSAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BENO"
+  },
+  {
+    "tenantId": "madagascar.sofia.befandriananord.antsakanalabe",
+    "code": "MG_SOFI_BENO_ANTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BENO"
+  },
+  {
+    "tenantId": "madagascar.sofia.befandriananord.ambararata",
+    "code": "MG_SOFI_BENO_AMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BENO"
+  },
+  {
+    "tenantId": "madagascar.sofia.befandriananord.ambolidibeest",
+    "code": "MG_SOFI_BENO_AMES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BENO"
+  },
+  {
+    "tenantId": "madagascar.sofia.befandriananord.ankarongana",
+    "code": "MG_SOFI_BENO_ANKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BENO"
+  },
+  {
+    "tenantId": "madagascar.sofia.befandriananord.antsakabary",
+    "code": "MG_SOFI_BENO_ANTS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BENO"
+  },
+  {
+    "tenantId": "madagascar.sofia.befandriananord.matsondakana",
+    "code": "MG_SOFI_BENO_MATS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BENO"
+  },
+  {
+    "tenantId": "madagascar.sofia.antsohihy.antsohihy",
+    "code": "MG_SOFI_ANTS_ANTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANTS"
+  },
+  {
+    "tenantId": "madagascar.sofia.antsohihy.ankerika",
+    "code": "MG_SOFI_ANTS_ANKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANTS"
+  },
+  {
+    "tenantId": "madagascar.sofia.antsohihy.ampandriankilandy",
+    "code": "MG_SOFI_ANTS_AMPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANTS"
+  },
+  {
+    "tenantId": "madagascar.sofia.antsohihy.anjalazala",
+    "code": "MG_SOFI_ANTS_ANJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANTS"
+  },
+  {
+    "tenantId": "madagascar.sofia.antsohihy.anahidrano",
+    "code": "MG_SOFI_ANTS_ANAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANTS"
+  },
+  {
+    "tenantId": "madagascar.sofia.antsohihy.ambodimandresy",
+    "code": "MG_SOFI_ANTS_AMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANTS"
+  },
+  {
+    "tenantId": "madagascar.sofia.antsohihy.anjiamangirana",
+    "code": "MG_SOFI_ANTS_ANJI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANTS"
+  },
+  {
+    "tenantId": "madagascar.sofia.antsohihy.ambodimanary",
+    "code": "MG_SOFI_ANTS_AMBO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANTS"
+  },
+  {
+    "tenantId": "madagascar.sofia.antsohihy.antsahabe",
+    "code": "MG_SOFI_ANTS_ANTS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANTS"
+  },
+  {
+    "tenantId": "madagascar.sofia.antsohihy.ambodimadiro",
+    "code": "MG_SOFI_ANTS_AMBO3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANTS"
+  },
+  {
+    "tenantId": "madagascar.sofia.antsohihy.andreba",
+    "code": "MG_SOFI_ANTS_ANDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANTS"
+  },
+  {
+    "tenantId": "madagascar.sofia.antsohihy.maroala",
+    "code": "MG_SOFI_ANTS_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_ANTS"
+  },
+  {
+    "tenantId": "madagascar.sofia.bealanana.bealanana",
+    "code": "MG_SOFI_BEAL_BEAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BEAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.bealanana.beandrarezona",
+    "code": "MG_SOFI_BEAL_BEAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BEAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.bealanana.antananivohaut",
+    "code": "MG_SOFI_BEAL_ANHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BEAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.bealanana.antsamaka",
+    "code": "MG_SOFI_BEAL_ANTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BEAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.bealanana.ambatosia",
+    "code": "MG_SOFI_BEAL_AMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BEAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.bealanana.ambodiampana",
+    "code": "MG_SOFI_BEAL_AMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BEAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.bealanana.ambatorihaest",
+    "code": "MG_SOFI_BEAL_AMES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BEAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.bealanana.ambovonomby",
+    "code": "MG_SOFI_BEAL_AMBO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BEAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.bealanana.analila",
+    "code": "MG_SOFI_BEAL_ANAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BEAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.bealanana.anjozoromadosy",
+    "code": "MG_SOFI_BEAL_ANJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BEAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.bealanana.mangindrano",
+    "code": "MG_SOFI_BEAL_MANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BEAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.bealanana.ambararatabenord",
+    "code": "MG_SOFI_BEAL_AMNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BEAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.bealanana.ambodisikidy",
+    "code": "MG_SOFI_BEAL_AMBO3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BEAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.bealanana.ambararatasofia",
+    "code": "MG_SOFI_BEAL_AMSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BEAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.bealanana.marotolana",
+    "code": "MG_SOFI_BEAL_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BEAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.bealanana.ambodiadabom",
+    "code": "MG_SOFI_BEAL_AMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BEAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.bealanana.ankazotokana",
+    "code": "MG_SOFI_BEAL_ANKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_BEAL"
+  },
+  {
+    "tenantId": "madagascar.sofia.mampikony.mampikonyi",
+    "code": "MG_SOFI_MAMP_MAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAMP"
+  },
+  {
+    "tenantId": "madagascar.sofia.mampikony.mampikonyii",
+    "code": "MG_SOFI_MAMP_MAII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAMP"
+  },
+  {
+    "tenantId": "madagascar.sofia.mampikony.ambohitoaka",
+    "code": "MG_SOFI_MAMP_AMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAMP"
+  },
+  {
+    "tenantId": "madagascar.sofia.mampikony.ankiririky",
+    "code": "MG_SOFI_MAMP_ANKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAMP"
+  },
+  {
+    "tenantId": "madagascar.sofia.mampikony.bekoratsaka",
+    "code": "MG_SOFI_MAMP_BEKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAMP"
+  },
+  {
+    "tenantId": "madagascar.sofia.mampikony.malakialina",
+    "code": "MG_SOFI_MAMP_MALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAMP"
+  },
+  {
+    "tenantId": "madagascar.sofia.mampikony.betaramahamay",
+    "code": "MG_SOFI_MAMP_BETA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAMP"
+  },
+  {
+    "tenantId": "madagascar.sofia.mampikony.komajia",
+    "code": "MG_SOFI_MAMP_KOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAMP"
+  },
+  {
+    "tenantId": "madagascar.sofia.mampikony.ampasimatera",
+    "code": "MG_SOFI_MAMP_AMPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAMP"
+  },
+  {
+    "tenantId": "madagascar.sofia.mampikony.ambodihazoambo",
+    "code": "MG_SOFI_MAMP_AMBO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SOFI_MAMP"
+  }
+]

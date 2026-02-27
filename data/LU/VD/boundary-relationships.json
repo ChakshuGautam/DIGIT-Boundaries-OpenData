@@ -1,0 +1,51 @@
+[
+  {
+    "tenantId": "luxembourg.cantonvianden",
+    "code": "LU_VD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "LU"
+  },
+  {
+    "tenantId": "luxembourg.cantonvianden.tandel",
+    "code": "LU_VD_TAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LU_VD"
+  },
+  {
+    "tenantId": "luxembourg.cantonvianden.vianden",
+    "code": "LU_VD_VIAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LU_VD"
+  },
+  {
+    "tenantId": "luxembourg.cantonvianden.putscheid",
+    "code": "LU_VD_PUTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LU_VD"
+  },
+  {
+    "tenantId": "luxembourg.cantonvianden.tandel.tandel",
+    "code": "LU_VD_TAND_TAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LU_VD_TAND"
+  },
+  {
+    "tenantId": "luxembourg.cantonvianden.vianden.vianden",
+    "code": "LU_VD_VIAN_VIAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LU_VD_VIAN"
+  },
+  {
+    "tenantId": "luxembourg.cantonvianden.putscheid.putscheid",
+    "code": "LU_VD_PUTS_PUTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LU_VD_PUTS"
+  }
+]

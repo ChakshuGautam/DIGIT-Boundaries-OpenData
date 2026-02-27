@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "malawi",
+    "code": "MW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "malawi.centralregion",
+    "code": "MW_C",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MW"
+  },
+  {
+    "tenantId": "malawi.southernregion",
+    "code": "MW_S",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MW"
+  },
+  {
+    "tenantId": "malawi.northernregion",
+    "code": "MW_N",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MW"
+  }
+]

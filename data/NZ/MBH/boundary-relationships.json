@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "newzealand.marlboroughregion",
+    "code": "NZ_MBH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NZ"
+  },
+  {
+    "tenantId": "newzealand.marlboroughregion.marlboroughdistrict",
+    "code": "NZ_MBH_MADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_MBH"
+  },
+  {
+    "tenantId": "newzealand.marlboroughregion.marlboroughdistrict.marlboroughsoundsward",
+    "code": "NZ_MBH_MADI_MSW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_MBH_MADI"
+  },
+  {
+    "tenantId": "newzealand.marlboroughregion.marlboroughdistrict.wairauawatereward",
+    "code": "NZ_MBH_MADI_WAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_MBH_MADI"
+  },
+  {
+    "tenantId": "newzealand.marlboroughregion.marlboroughdistrict.blenheimward",
+    "code": "NZ_MBH_MADI_BLWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_MBH_MADI"
+  }
+]

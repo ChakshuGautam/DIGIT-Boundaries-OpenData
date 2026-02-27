@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "newzealand.chathamislandsterritory",
+    "code": "NZ_CIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NZ"
+  },
+  {
+    "tenantId": "newzealand.chathamislandsterritory.chathamislandsterritory",
+    "code": "NZ_CIT_CIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_CIT"
+  },
+  {
+    "tenantId": "newzealand.chathamislandsterritory.chathamislandsterritory.areaoutsideward",
+    "code": "NZ_CIT_CIT_AOW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CIT_CIT"
+  }
+]

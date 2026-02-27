@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "latvia.varaknunovads",
+    "code": "LV_102",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "LV"
+  },
+  {
+    "tenantId": "latvia.varaknunovads.murmastienespag",
+    "code": "LV_102_MUPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LV_102"
+  },
+  {
+    "tenantId": "latvia.varaknunovads.varaknupag",
+    "code": "LV_102_VAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LV_102"
+  },
+  {
+    "tenantId": "latvia.varaknunovads.varakni",
+    "code": "LV_102_VARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LV_102"
+  }
+]

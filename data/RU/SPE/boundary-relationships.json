@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "russianfederation.saintpetersburg",
+    "code": "RU_SPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "RU"
+  },
+  {
+    "tenantId": "russianfederation.saintpetersburg.korotkadistrict",
+    "code": "RU_SPE_KODI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RU_SPE"
+  },
+  {
+    "tenantId": "russianfederation.saintpetersburg.sortavaladistrict",
+    "code": "RU_SPE_SODI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RU_SPE"
+  }
+]

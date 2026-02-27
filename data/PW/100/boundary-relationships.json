@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "palau.kayangel",
+    "code": "PW_100",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PW"
+  },
+  {
+    "tenantId": "palau.kayangel.dimes",
+    "code": "PW_100_DIME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PW_100"
+  },
+  {
+    "tenantId": "palau.kayangel.dilong",
+    "code": "PW_100_DILO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PW_100"
+  }
+]

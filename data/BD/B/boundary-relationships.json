@@ -1,0 +1,856 @@
+[
+  {
+    "tenantId": "bangladesh.chittagong",
+    "code": "BD_B",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Division",
+    "parent": "BD"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.bandarban",
+    "code": "BD_B_BAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BD_B"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.brahamanbaria",
+    "code": "BD_B_BRAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BD_B"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chandpur",
+    "code": "BD_B_CHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BD_B"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong",
+    "code": "BD_B_CHIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BD_B"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.comilla",
+    "code": "BD_B_COMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BD_B"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.coxsbazar",
+    "code": "BD_B_COBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BD_B"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.feni",
+    "code": "BD_B_FENI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BD_B"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.khagrachhari",
+    "code": "BD_B_KHAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BD_B"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.lakshmipur",
+    "code": "BD_B_LAKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BD_B"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.noakhali",
+    "code": "BD_B_NOAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BD_B"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.rangamati",
+    "code": "BD_B_RANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BD_B"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.bandarban.alikadam",
+    "code": "BD_B_BAND_ALIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_BAND"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.bandarban.bandarbansadar",
+    "code": "BD_B_BAND_BASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_BAND"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.bandarban.lama",
+    "code": "BD_B_BAND_LAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_BAND"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.bandarban.rowangchhari",
+    "code": "BD_B_BAND_ROWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_BAND"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.bandarban.ruma",
+    "code": "BD_B_BAND_RUMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_BAND"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.bandarban.thanchi",
+    "code": "BD_B_BAND_THAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_BAND"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.brahamanbaria.akhaura",
+    "code": "BD_B_BRAH_AKHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_BRAH"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.brahamanbaria.ashuganj",
+    "code": "BD_B_BRAH_ASHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_BRAH"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.brahamanbaria.banchharampur",
+    "code": "BD_B_BRAH_BANC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_BRAH"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.brahamanbaria.bijoynagar",
+    "code": "BD_B_BRAH_BIJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_BRAH"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.brahamanbaria.brahmanbariasadar",
+    "code": "BD_B_BRAH_BRSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_BRAH"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.brahamanbaria.kasba",
+    "code": "BD_B_BRAH_KASB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_BRAH"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.brahamanbaria.nabinagar",
+    "code": "BD_B_BRAH_NABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_BRAH"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.brahamanbaria.nasirnagar",
+    "code": "BD_B_BRAH_NASI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_BRAH"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.brahamanbaria.sarail",
+    "code": "BD_B_BRAH_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_BRAH"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chandpur.chandpursadar",
+    "code": "BD_B_CHAN_CHSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHAN"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chandpur.faridganj",
+    "code": "BD_B_CHAN_FARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHAN"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chandpur.hajiganj",
+    "code": "BD_B_CHAN_HAJI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHAN"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chandpur.kachua",
+    "code": "BD_B_CHAN_KACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHAN"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chandpur.matlabdakshin",
+    "code": "BD_B_CHAN_MADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHAN"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chandpur.matlabuttar",
+    "code": "BD_B_CHAN_MAUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHAN"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chandpur.shahrasti",
+    "code": "BD_B_CHAN_SHAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHAN"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chandpur.haimchar",
+    "code": "BD_B_CHAN_HACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHAN"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.anowara",
+    "code": "BD_B_CHIT_ANOW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.bakalia",
+    "code": "BD_B_CHIT_BAKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.banshkhali",
+    "code": "BD_B_CHIT_BANS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.bayejidbostami",
+    "code": "BD_B_CHIT_BABO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.boalkhali",
+    "code": "BD_B_CHIT_BOAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.chandanaish",
+    "code": "BD_B_CHIT_CHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.chandgaon",
+    "code": "BD_B_CHIT_CHAN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.chittagongport",
+    "code": "BD_B_CHIT_CHPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.doublemooring",
+    "code": "BD_B_CHIT_DOMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.fatikchhari",
+    "code": "BD_B_CHIT_FATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.halishahar",
+    "code": "BD_B_CHIT_HALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.hathazari",
+    "code": "BD_B_CHIT_HATH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.khulshi",
+    "code": "BD_B_CHIT_KHUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.kotwali",
+    "code": "BD_B_CHIT_KOTW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.lohagara",
+    "code": "BD_B_CHIT_LOHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.mirsharai",
+    "code": "BD_B_CHIT_MIRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.pahartali",
+    "code": "BD_B_CHIT_PAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.panchlaish",
+    "code": "BD_B_CHIT_PANC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.patenga",
+    "code": "BD_B_CHIT_PATE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.patiya",
+    "code": "BD_B_CHIT_PATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.rangunia",
+    "code": "BD_B_CHIT_RANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.raozan",
+    "code": "BD_B_CHIT_RAOZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.satkania",
+    "code": "BD_B_CHIT_SATK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.chittagong.sitakunda",
+    "code": "BD_B_CHIT_SITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_CHIT"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.comilla.barura",
+    "code": "BD_B_COMI_BARU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COMI"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.comilla.brahmanpara",
+    "code": "BD_B_COMI_BRPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COMI"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.comilla.burichang",
+    "code": "BD_B_COMI_BURI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COMI"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.comilla.chandina",
+    "code": "BD_B_COMI_CHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COMI"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.comilla.chauddagram",
+    "code": "BD_B_COMI_CHAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COMI"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.comilla.comillaadarshasadar",
+    "code": "BD_B_COMI_CAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COMI"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.comilla.comillasadardakshin",
+    "code": "BD_B_COMI_CSD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COMI"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.comilla.daudkandi",
+    "code": "BD_B_COMI_DAUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COMI"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.comilla.debidwar",
+    "code": "BD_B_COMI_DEBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COMI"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.comilla.homna",
+    "code": "BD_B_COMI_HOMN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COMI"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.comilla.laksam",
+    "code": "BD_B_COMI_LAKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COMI"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.comilla.manoharganj",
+    "code": "BD_B_COMI_MANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COMI"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.comilla.meghna",
+    "code": "BD_B_COMI_MEGH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COMI"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.comilla.muradnagar",
+    "code": "BD_B_COMI_MURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COMI"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.comilla.nangalkot",
+    "code": "BD_B_COMI_NANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COMI"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.comilla.titas",
+    "code": "BD_B_COMI_TITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COMI"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.coxsbazar.chakaria",
+    "code": "BD_B_COBA_CHAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COBA"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.coxsbazar.coxsbazarsadar",
+    "code": "BD_B_COBA_CBS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COBA"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.coxsbazar.kutubdia",
+    "code": "BD_B_COBA_KUTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COBA"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.coxsbazar.maheshkhali",
+    "code": "BD_B_COBA_MAHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COBA"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.coxsbazar.naikhongchhari",
+    "code": "BD_B_COBA_NAIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COBA"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.coxsbazar.pekua",
+    "code": "BD_B_COBA_PEKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COBA"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.coxsbazar.ramu",
+    "code": "BD_B_COBA_RAMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COBA"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.coxsbazar.teknaf",
+    "code": "BD_B_COBA_TEKN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COBA"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.coxsbazar.ukhia",
+    "code": "BD_B_COBA_UKHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_COBA"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.feni.chhagalnaiya",
+    "code": "BD_B_FENI_CHHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_FENI"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.feni.daganbhuiyan",
+    "code": "BD_B_FENI_DAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_FENI"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.feni.fenisadar",
+    "code": "BD_B_FENI_FESA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_FENI"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.feni.fulgazi",
+    "code": "BD_B_FENI_FULG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_FENI"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.feni.parshuram",
+    "code": "BD_B_FENI_PARS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_FENI"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.feni.sonagazi",
+    "code": "BD_B_FENI_SONA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_FENI"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.khagrachhari.dighinala",
+    "code": "BD_B_KHAG_DIGH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_KHAG"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.khagrachhari.khagrachharisadar",
+    "code": "BD_B_KHAG_KHSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_KHAG"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.khagrachhari.lakshmichhari",
+    "code": "BD_B_KHAG_LAKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_KHAG"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.khagrachhari.mahalchhari",
+    "code": "BD_B_KHAG_MAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_KHAG"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.khagrachhari.manikchhari",
+    "code": "BD_B_KHAG_MANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_KHAG"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.khagrachhari.panchhari",
+    "code": "BD_B_KHAG_PANC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_KHAG"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.khagrachhari.ramgarh",
+    "code": "BD_B_KHAG_RAMG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_KHAG"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.khagrachhari.matiranga",
+    "code": "BD_B_KHAG_MATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_KHAG"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.lakshmipur.kamalnagar",
+    "code": "BD_B_LAKS_KAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_LAKS"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.lakshmipur.lakshmipursadar",
+    "code": "BD_B_LAKS_LASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_LAKS"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.lakshmipur.ramganj",
+    "code": "BD_B_LAKS_RAMG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_LAKS"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.lakshmipur.ramgati",
+    "code": "BD_B_LAKS_RAMG2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_LAKS"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.lakshmipur.roypur",
+    "code": "BD_B_LAKS_ROYP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_LAKS"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.noakhali.begumganj",
+    "code": "BD_B_NOAK_BEGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_NOAK"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.noakhali.chatkhil",
+    "code": "BD_B_NOAK_CHAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_NOAK"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.noakhali.companiganj",
+    "code": "BD_B_NOAK_COMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_NOAK"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.noakhali.kabirhat",
+    "code": "BD_B_NOAK_KABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_NOAK"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.noakhali.noakhalisadarsudharam",
+    "code": "BD_B_NOAK_NS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_NOAK"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.noakhali.senbagh",
+    "code": "BD_B_NOAK_SENB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_NOAK"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.noakhali.sonaimuri",
+    "code": "BD_B_NOAK_SONA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_NOAK"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.noakhali.subarnachar",
+    "code": "BD_B_NOAK_SUBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_NOAK"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.noakhali.sandwip",
+    "code": "BD_B_NOAK_SAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_NOAK"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.rangamati.baghaichhari",
+    "code": "BD_B_RANG_BACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_RANG"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.rangamati.barkal",
+    "code": "BD_B_RANG_BARK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_RANG"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.rangamati.belaichhari",
+    "code": "BD_B_RANG_BECH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_RANG"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.rangamati.juraichhari",
+    "code": "BD_B_RANG_JUCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_RANG"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.rangamati.kaptai",
+    "code": "BD_B_RANG_KAPT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_RANG"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.rangamati.kawkhalibetbunia",
+    "code": "BD_B_RANG_KAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_RANG"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.rangamati.langadu",
+    "code": "BD_B_RANG_LANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_RANG"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.rangamati.naniarchar",
+    "code": "BD_B_RANG_NANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_RANG"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.rangamati.rajasthali",
+    "code": "BD_B_RANG_RAJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_RANG"
+  },
+  {
+    "tenantId": "bangladesh.chittagong.rangamati.rangamatisadar",
+    "code": "BD_B_RANG_RASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Upazila",
+    "parent": "BD_B_RANG"
+  }
+]

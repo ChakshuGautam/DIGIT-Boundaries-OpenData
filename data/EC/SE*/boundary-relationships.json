@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "ecuador.santaelena",
+    "code": "EC_SE*",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "EC"
+  },
+  {
+    "tenantId": "ecuador.santaelena.lalibertad",
+    "code": "EC_SE*_LALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EC_SE*"
+  },
+  {
+    "tenantId": "ecuador.santaelena.salinas",
+    "code": "EC_SE*_SALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EC_SE*"
+  },
+  {
+    "tenantId": "ecuador.santaelena.santaelena",
+    "code": "EC_SE*_SAEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "EC_SE*"
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "tenantId": "madagascar.itasy",
+    "code": "MG_ITAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MG"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo",
+    "code": "MG_ITAS_ARIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_ITAS"
+  },
+  {
+    "tenantId": "madagascar.itasy.miarinarivo",
+    "code": "MG_ITAS_MIAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_ITAS"
+  },
+  {
+    "tenantId": "madagascar.itasy.soavinandriana",
+    "code": "MG_ITAS_SOAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_ITAS"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo.arivonimamoi",
+    "code": "MG_ITAS_ARIV_ARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_ARIV"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo.arivonimamoii",
+    "code": "MG_ITAS_ARIV_ARII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_ARIV"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo.ambohitrambo",
+    "code": "MG_ITAS_ARIV_AMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_ARIV"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo.ampahimanga",
+    "code": "MG_ITAS_ARIV_AMPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_ARIV"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo.amboanana",
+    "code": "MG_ITAS_ARIV_AMBO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_ARIV"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo.morafeno",
+    "code": "MG_ITAS_ARIV_MORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_ARIV"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo.imerintsiatosika",
+    "code": "MG_ITAS_ARIV_IMER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_ARIV"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo.morarano",
+    "code": "MG_ITAS_ARIV_MORA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_ARIV"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo.ambatomirahavavy",
+    "code": "MG_ITAS_ARIV_AMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_ARIV"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo.ambatomanga",
+    "code": "MG_ITAS_ARIV_AMBA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_ARIV"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo.manalalondo",
+    "code": "MG_ITAS_ARIV_MANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_ARIV"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo.antenimbe",
+    "code": "MG_ITAS_ARIV_ANTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_ARIV"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo.alakamisikely",
+    "code": "MG_ITAS_ARIV_ALAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_ARIV"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo.mahatsinjoest",
+    "code": "MG_ITAS_ARIV_MAES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_ARIV"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo.marofangady",
+    "code": "MG_ITAS_ARIV_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_ARIV"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo.rambolamasoandroandranomiely",
+    "code": "MG_ITAS_ARIV_RAAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_ARIV"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo.ambohimandry",
+    "code": "MG_ITAS_ARIV_AMBO3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_ARIV"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo.antambolo",
+    "code": "MG_ITAS_ARIV_ANTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_ARIV"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo.ambohimasina",
+    "code": "MG_ITAS_ARIV_AMBO4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_ARIV"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo.ambohipandrano",
+    "code": "MG_ITAS_ARIV_AMBO5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_ARIV"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo.miandrandra",
+    "code": "MG_ITAS_ARIV_MIAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_ARIV"
+  },
+  {
+    "tenantId": "madagascar.itasy.arivonimamo.miantsoarivo",
+    "code": "MG_ITAS_ARIV_MIAN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_ARIV"
+  },
+  {
+    "tenantId": "madagascar.itasy.miarinarivo.miarinarivoi",
+    "code": "MG_ITAS_MIAR_MII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_MIAR"
+  },
+  {
+    "tenantId": "madagascar.itasy.miarinarivo.miarinarivoii",
+    "code": "MG_ITAS_MIAR_MIII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_MIAR"
+  },
+  {
+    "tenantId": "madagascar.itasy.miarinarivo.ambatomanjaka",
+    "code": "MG_ITAS_MIAR_AMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_MIAR"
+  },
+  {
+    "tenantId": "madagascar.itasy.miarinarivo.manazary",
+    "code": "MG_ITAS_MIAR_MANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_MIAR"
+  },
+  {
+    "tenantId": "madagascar.itasy.miarinarivo.antobyest",
+    "code": "MG_ITAS_MIAR_ANES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_MIAR"
+  },
+  {
+    "tenantId": "madagascar.itasy.miarinarivo.soamahamanina",
+    "code": "MG_ITAS_MIAR_SOAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_MIAR"
+  },
+  {
+    "tenantId": "madagascar.itasy.miarinarivo.analavory",
+    "code": "MG_ITAS_MIAR_ANAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_MIAR"
+  },
+  {
+    "tenantId": "madagascar.itasy.miarinarivo.alatsinainikely",
+    "code": "MG_ITAS_MIAR_ALAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_MIAR"
+  },
+  {
+    "tenantId": "madagascar.itasy.miarinarivo.mandiavato",
+    "code": "MG_ITAS_MIAR_MAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_MIAR"
+  },
+  {
+    "tenantId": "madagascar.itasy.miarinarivo.anosibeifanja",
+    "code": "MG_ITAS_MIAR_ANIF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_MIAR"
+  },
+  {
+    "tenantId": "madagascar.itasy.miarinarivo.sarobaratraifanja",
+    "code": "MG_ITAS_MIAR_SAIF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_MIAR"
+  },
+  {
+    "tenantId": "madagascar.itasy.miarinarivo.zomabealoka",
+    "code": "MG_ITAS_MIAR_ZOBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_MIAR"
+  },
+  {
+    "tenantId": "madagascar.itasy.miarinarivo.soavimbazaha",
+    "code": "MG_ITAS_MIAR_SOAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_MIAR"
+  },
+  {
+    "tenantId": "madagascar.itasy.miarinarivo.andolofotsy",
+    "code": "MG_ITAS_MIAR_ANDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_MIAR"
+  },
+  {
+    "tenantId": "madagascar.itasy.soavinandriana.soavinandriana",
+    "code": "MG_ITAS_SOAV_SOAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_SOAV"
+  },
+  {
+    "tenantId": "madagascar.itasy.soavinandriana.dondona",
+    "code": "MG_ITAS_SOAV_DOND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_SOAV"
+  },
+  {
+    "tenantId": "madagascar.itasy.soavinandriana.ampary",
+    "code": "MG_ITAS_SOAV_AMPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_SOAV"
+  },
+  {
+    "tenantId": "madagascar.itasy.soavinandriana.mananasy",
+    "code": "MG_ITAS_SOAV_MANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_SOAV"
+  },
+  {
+    "tenantId": "madagascar.itasy.soavinandriana.masindray",
+    "code": "MG_ITAS_SOAV_MASI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_SOAV"
+  },
+  {
+    "tenantId": "madagascar.itasy.soavinandriana.amparibohitra",
+    "code": "MG_ITAS_SOAV_AMPA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_SOAV"
+  },
+  {
+    "tenantId": "madagascar.itasy.soavinandriana.ampefy",
+    "code": "MG_ITAS_SOAV_AMPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_SOAV"
+  },
+  {
+    "tenantId": "madagascar.itasy.soavinandriana.antanetibe",
+    "code": "MG_ITAS_SOAV_ANTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_SOAV"
+  },
+  {
+    "tenantId": "madagascar.itasy.soavinandriana.amparaky",
+    "code": "MG_ITAS_SOAV_AMPA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_SOAV"
+  },
+  {
+    "tenantId": "madagascar.itasy.soavinandriana.amberomanga",
+    "code": "MG_ITAS_SOAV_AMBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_SOAV"
+  },
+  {
+    "tenantId": "madagascar.itasy.soavinandriana.ankaranana",
+    "code": "MG_ITAS_SOAV_ANKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_SOAV"
+  },
+  {
+    "tenantId": "madagascar.itasy.soavinandriana.mahavelona",
+    "code": "MG_ITAS_SOAV_MAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_SOAV"
+  },
+  {
+    "tenantId": "madagascar.itasy.soavinandriana.ankisabe",
+    "code": "MG_ITAS_SOAV_ANKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_SOAV"
+  },
+  {
+    "tenantId": "madagascar.itasy.soavinandriana.ambatoasanacentre",
+    "code": "MG_ITAS_SOAV_AMCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_SOAV"
+  },
+  {
+    "tenantId": "madagascar.itasy.soavinandriana.tamponala",
+    "code": "MG_ITAS_SOAV_TAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ITAS_SOAV"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "belgium",
+    "code": "BE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "belgium.brusselshoofdstedelijk",
+    "code": "BE_BRHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BE"
+  },
+  {
+    "tenantId": "belgium.vlaamsgewest",
+    "code": "BE_VLGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BE"
+  },
+  {
+    "tenantId": "belgium.wallonnegewest",
+    "code": "BE_WAGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BE"
+  }
+]

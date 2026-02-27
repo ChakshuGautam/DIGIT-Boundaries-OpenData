@@ -1,0 +1,4412 @@
+[
+  {
+    "tenantId": "czechia.jihoeskkraj",
+    "code": "CZ_31",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CZ"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice",
+    "code": "CZ_31_EBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CZ_31"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek",
+    "code": "CZ_31_PSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CZ_31"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice",
+    "code": "CZ_31_PRAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CZ_31"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice",
+    "code": "CZ_31_STRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CZ_31"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov",
+    "code": "CZ_31_EKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CZ_31"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec",
+    "code": "CZ_31_JIHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CZ_31"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor",
+    "code": "CZ_31_TBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CZ_31"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.plan",
+    "code": "CZ_31_EBU_PLAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.kvtkovice",
+    "code": "CZ_31_EBU_KV0T",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.zzbor",
+    "code": "CZ_31_EBU_ZZBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.ctepnovice",
+    "code": "CZ_31_EBU_CTEP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.czr",
+    "code": "CZ_31_EBU_CZR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.zliv",
+    "code": "CZ_31_EBU_ZLIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.petrkov",
+    "code": "CZ_31_EBU_PETR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.hradce",
+    "code": "CZ_31_EBU_HRAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.zahj",
+    "code": "CZ_31_EBU_ZAH3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.vlkov",
+    "code": "CZ_31_EBU_VLKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.hornkneeklady",
+    "code": "CZ_31_EBU_HOKN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.hartmanice",
+    "code": "CZ_31_EBU_HART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.chrtany",
+    "code": "CZ_31_EBU_CHR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.jzlovice",
+    "code": "CZ_31_EBU_JZLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.olenice",
+    "code": "CZ_31_EBU_OLE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.radoovice",
+    "code": "CZ_31_EBU_RADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.temeln",
+    "code": "CZ_31_EBU_TEME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.vzemyslice",
+    "code": "CZ_31_EBU_VZEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.vceln",
+    "code": "CZ_31_EBU_VCEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.vrbce",
+    "code": "CZ_31_EBU_VR0B",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.cimutice",
+    "code": "CZ_31_EBU_CIMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.sedlec",
+    "code": "CZ_31_EBU_SEDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.slavce",
+    "code": "CZ_31_EBU_SLAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.svatjannadmalce",
+    "code": "CZ_31_EBU_SJNM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.cevetn",
+    "code": "CZ_31_EBU_CEVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.strkovice",
+    "code": "CZ_31_EBU_STR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.strov",
+    "code": "CZ_31_EBU_STR32",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.trhovsviny",
+    "code": "CZ_31_EBU_TRSV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.tznnadvltavou",
+    "code": "CZ_31_EBU_TNV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.olenk",
+    "code": "CZ_31_EBU_OLE32",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.roudn",
+    "code": "CZ_31_EBU_ROUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.rudolfov",
+    "code": "CZ_31_EBU_RUDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.rzmov",
+    "code": "CZ_31_EBU_RZMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.starhodejovice",
+    "code": "CZ_31_EBU_STHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.srubec",
+    "code": "CZ_31_EBU_SRUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.libn",
+    "code": "CZ_31_EBU_LIB3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.lip",
+    "code": "CZ_31_EBU_LIP3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.liov",
+    "code": "CZ_31_EBU_LI0O",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.litvnovice",
+    "code": "CZ_31_EBU_LITV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.locenice",
+    "code": "CZ_31_EBU_LOCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.mladoovice",
+    "code": "CZ_31_EBU_MLAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.nedabyle",
+    "code": "CZ_31_EBU_NEDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.novhrady",
+    "code": "CZ_31_EBU_NOHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.hlincovhora",
+    "code": "CZ_31_EBU_HLHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.modrhurka",
+    "code": "CZ_31_EBU_MOHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.czkrajice",
+    "code": "CZ_31_EBU_CZ0K",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.herman",
+    "code": "CZ_31_EBU_HERM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.cabovresky",
+    "code": "CZ_31_EBU_CABO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.cenkovubechyne",
+    "code": "CZ_31_EBU_CUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.zzvraty",
+    "code": "CZ_31_EBU_ZZVR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.drac",
+    "code": "CZ_31_EBU_DRA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.braniov",
+    "code": "CZ_31_EBU_BRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.novves",
+    "code": "CZ_31_EBU_NOVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.hvozdec",
+    "code": "CZ_31_EBU_HVOZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.vitn",
+    "code": "CZ_31_EBU_VIT3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.komarice",
+    "code": "CZ_31_EBU_KOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.vidov",
+    "code": "CZ_31_EBU_VIDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.borovnice",
+    "code": "CZ_31_EBU_BORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.doubravice",
+    "code": "CZ_31_EBU_DOUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.vrto",
+    "code": "CZ_31_EBU_VR0T",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.dubicn",
+    "code": "CZ_31_EBU_DUBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.brehov",
+    "code": "CZ_31_EBU_BREH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.hlavatce",
+    "code": "CZ_31_EBU_HLAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.mokrlom",
+    "code": "CZ_31_EBU_MOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.adamov",
+    "code": "CZ_31_EBU_ADAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.libnc",
+    "code": "CZ_31_EBU_LIBN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.ostrolovsk",
+    "code": "CZ_31_EBU_OSTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.dobrvodauceskechbudejovic",
+    "code": "CZ_31_EBU_DVUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.cakov",
+    "code": "CZ_31_EBU_CAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.hosty",
+    "code": "CZ_31_EBU_HOST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.nzkr",
+    "code": "CZ_31_EBU_NZKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.plav",
+    "code": "CZ_31_EBU_PLAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.csiln",
+    "code": "CZ_31_EBU_CSIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.hury",
+    "code": "CZ_31_EBU_HURY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.jivno",
+    "code": "CZ_31_EBU_JIVN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.zvkov",
+    "code": "CZ_31_EBU_ZV0K",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.habr",
+    "code": "CZ_31_EBU_HABR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.neplachov",
+    "code": "CZ_31_EBU_NEPL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.boilec",
+    "code": "CZ_31_EBU_BO0I",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.hornstropnice",
+    "code": "CZ_31_EBU_HOST2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.homole",
+    "code": "CZ_31_EBU_HOMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.hluboknadvltavou",
+    "code": "CZ_31_EBU_HNV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.dynn",
+    "code": "CZ_31_EBU_DYN3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.dubn",
+    "code": "CZ_31_EBU_DUBN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.drten",
+    "code": "CZ_31_EBU_DR0T",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.doudleby",
+    "code": "CZ_31_EBU_DOUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.dolnbukovsko",
+    "code": "CZ_31_EBU_DOBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.kamennjezd",
+    "code": "CZ_31_EBU_KA4J",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.ledenice",
+    "code": "CZ_31_EBU_LEDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.jankov",
+    "code": "CZ_31_EBU_JANK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.hrdejovice",
+    "code": "CZ_31_EBU_HRDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.hranice",
+    "code": "CZ_31_EBU_HRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.hosn",
+    "code": "CZ_31_EBU_HOS3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.borovnadvltavou",
+    "code": "CZ_31_EBU_BNV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.borovany",
+    "code": "CZ_31_EBU_BORO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.chotcany",
+    "code": "CZ_31_EBU_CHOT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.drahoteice",
+    "code": "CZ_31_EBU_DRAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.mazelov",
+    "code": "CZ_31_EBU_MAZE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.pitn",
+    "code": "CZ_31_EBU_PI0T",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.kamenn",
+    "code": "CZ_31_EBU_KAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.cejkovice",
+    "code": "CZ_31_EBU_CEJK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.dzvcice",
+    "code": "CZ_31_EBU_DZVC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.dobice",
+    "code": "CZ_31_EBU_DOB3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.becice",
+    "code": "CZ_31_EBU_BECI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.borek",
+    "code": "CZ_31_EBU_BORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.ceskbudejovice",
+    "code": "CZ_31_EBU_CEBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.dasn",
+    "code": "CZ_31_EBU_DASN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.mydlovary",
+    "code": "CZ_31_EBU_MYDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.nemcice",
+    "code": "CZ_31_EBU_NEMC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskbudjovice.zzl",
+    "code": "CZ_31_EBU_ZZL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EBU"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.predotice",
+    "code": "CZ_31_PSE_PRED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.okrouhl",
+    "code": "CZ_31_PSE_OKRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.czov",
+    "code": "CZ_31_PSE_CZ0O",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.vr",
+    "code": "CZ_31_PSE_VR03",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.zhor",
+    "code": "CZ_31_PSE_ZHOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.paseky",
+    "code": "CZ_31_PSE_PASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.cdr",
+    "code": "CZ_31_PSE_CD0R",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.nerestce",
+    "code": "CZ_31_PSE_NERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.kestrany",
+    "code": "CZ_31_PSE_KEST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.dobev",
+    "code": "CZ_31_PSE_DOBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.skly",
+    "code": "CZ_31_PSE_SK0L",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.ostrovec",
+    "code": "CZ_31_PSE_OSTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.minice",
+    "code": "CZ_31_PSE_MINI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.boudy",
+    "code": "CZ_31_PSE_BOUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.preborov",
+    "code": "CZ_31_PSE_PREB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.probulov",
+    "code": "CZ_31_PSE_PROB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.jickovice",
+    "code": "CZ_31_PSE_JICK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.rakovice",
+    "code": "CZ_31_PSE_RAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.zbeicky",
+    "code": "CZ_31_PSE_ZBE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.veselcko",
+    "code": "CZ_31_PSE_VESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.tzln",
+    "code": "CZ_31_PSE_TZL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.kol",
+    "code": "CZ_31_PSE_KO0L",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.horosedly",
+    "code": "CZ_31_PSE_HORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.zbeltov",
+    "code": "CZ_31_PSE_ZBEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.zzhor",
+    "code": "CZ_31_PSE_ZZHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.oslov",
+    "code": "CZ_31_PSE_OSLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.orlknadvltavou",
+    "code": "CZ_31_PSE_ONV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.sepekov",
+    "code": "CZ_31_PSE_SEPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.mysln",
+    "code": "CZ_31_PSE_MYSL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.nevezice",
+    "code": "CZ_31_PSE_NEVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.mirovice",
+    "code": "CZ_31_PSE_MIRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.miovice",
+    "code": "CZ_31_PSE_MI0O",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.podoli",
+    "code": "CZ_31_PSE_POI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.chyky",
+    "code": "CZ_31_PSE_CHY3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.hrejkovice",
+    "code": "CZ_31_PSE_HREJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.putim",
+    "code": "CZ_31_PSE_PUTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.raice",
+    "code": "CZ_31_PSE_RA0I",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.protivn",
+    "code": "CZ_31_PSE_PROT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.pretenice",
+    "code": "CZ_31_PSE_PRE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.slabcice",
+    "code": "CZ_31_PSE_SLAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.smetanovalhota",
+    "code": "CZ_31_PSE_SMLH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.herman",
+    "code": "CZ_31_PSE_HERM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.hrazany",
+    "code": "CZ_31_PSE_HRAZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.kucer",
+    "code": "CZ_31_PSE_KUCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.lety",
+    "code": "CZ_31_PSE_LETY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.jetetice",
+    "code": "CZ_31_PSE_JETE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.drhovle",
+    "code": "CZ_31_PSE_DRHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.kovrov",
+    "code": "CZ_31_PSE_KOV3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.krlovalhota",
+    "code": "CZ_31_PSE_KRLH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.olen",
+    "code": "CZ_31_PSE_OLE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.krenovice",
+    "code": "CZ_31_PSE_KREN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.milevsko",
+    "code": "CZ_31_PSE_MILE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.mirotice",
+    "code": "CZ_31_PSE_MIRO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.kluky",
+    "code": "CZ_31_PSE_KLUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.kostelecnadvltavou",
+    "code": "CZ_31_PSE_KNV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.varvaov",
+    "code": "CZ_31_PSE_VARV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.kvetov",
+    "code": "CZ_31_PSE_KVET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.osek",
+    "code": "CZ_31_PSE_OSEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.zvkovskpodhrads",
+    "code": "CZ_31_PSE_ZVPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.temevr",
+    "code": "CZ_31_PSE_TEME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.vojnkov",
+    "code": "CZ_31_PSE_VOJN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.vlastec",
+    "code": "CZ_31_PSE_VLAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.vlksice",
+    "code": "CZ_31_PSE_VLKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.vrcovice",
+    "code": "CZ_31_PSE_VRCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.dolnnovosedly",
+    "code": "CZ_31_PSE_DONO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.borovany",
+    "code": "CZ_31_PSE_BORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.stehlovice",
+    "code": "CZ_31_PSE_STEH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.krianov",
+    "code": "CZ_31_PSE_KRI3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.cimelice",
+    "code": "CZ_31_PSE_CIME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.branice",
+    "code": "CZ_31_PSE_BRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.cerhonice",
+    "code": "CZ_31_PSE_CERH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.bernartice",
+    "code": "CZ_31_PSE_BERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.boetice",
+    "code": "CZ_31_PSE_BO0E",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.pzsek",
+    "code": "CZ_31_PSE_PZSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.psek.albrechticenadvltavou",
+    "code": "CZ_31_PSE_ANV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PSE"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.zzbrd",
+    "code": "CZ_31_PRAC_ZZBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.luice",
+    "code": "CZ_31_PRAC_LU0I",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.vrbice",
+    "code": "CZ_31_PRAC_VRBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.dub",
+    "code": "CZ_31_PRAC_DUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.hracholusky",
+    "code": "CZ_31_PRAC_HRAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.malovice",
+    "code": "CZ_31_PRAC_MALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.pecnov",
+    "code": "CZ_31_PRAC_PECN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.borovlada",
+    "code": "CZ_31_PRAC_BOLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.kti",
+    "code": "CZ_31_PRAC_KTI3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.chroboly",
+    "code": "CZ_31_PRAC_CHRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.chlumany",
+    "code": "CZ_31_PRAC_CHLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.husinec",
+    "code": "CZ_31_PRAC_HUSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.czrovn",
+    "code": "CZ_31_PRAC_CZRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.laite",
+    "code": "CZ_31_PRAC_LA0I",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.kvilda",
+    "code": "CZ_31_PRAC_KVIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.buanovice",
+    "code": "CZ_31_PRAC_BU0A",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.boice",
+    "code": "CZ_31_PRAC_BO0I",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.bohumilice",
+    "code": "CZ_31_PRAC_BOHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.prachatice",
+    "code": "CZ_31_PRAC_PRAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.hornvltavice",
+    "code": "CZ_31_PRAC_HOVL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.ckyne",
+    "code": "CZ_31_PRAC_CKYN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.mahou",
+    "code": "CZ_31_PRAC_MAHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.olovice",
+    "code": "CZ_31_PRAC_OL0O",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.buk",
+    "code": "CZ_31_PRAC_BUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.chvalovice",
+    "code": "CZ_31_PRAC_CHVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.cjezdec",
+    "code": "CZ_31_PRAC_CJEZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.bohunice",
+    "code": "CZ_31_PRAC_BOHU2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.kratun",
+    "code": "CZ_31_PRAC_KRAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.lipovice",
+    "code": "CZ_31_PRAC_LIPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.drslavice",
+    "code": "CZ_31_PRAC_DRSL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.dvory",
+    "code": "CZ_31_PRAC_DVOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.cernovice",
+    "code": "CZ_31_PRAC_CERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.babice",
+    "code": "CZ_31_PRAC_BABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.nicov",
+    "code": "CZ_31_PRAC_NICO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.vitejovice",
+    "code": "CZ_31_PRAC_VITE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.vimperk",
+    "code": "CZ_31_PRAC_VIMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.volary",
+    "code": "CZ_31_PRAC_VOLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.vlachovobreze",
+    "code": "CZ_31_PRAC_VLBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.zzlezly",
+    "code": "CZ_31_PRAC_ZZLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.zzblat",
+    "code": "CZ_31_PRAC_ZZBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.novhute",
+    "code": "CZ_31_PRAC_NOHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.celnava",
+    "code": "CZ_31_PRAC_CELN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.lcovice",
+    "code": "CZ_31_PRAC_LCOV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.budkov",
+    "code": "CZ_31_PRAC_BUDK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.kubovahut",
+    "code": "CZ_31_PRAC_KUHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.kritanov",
+    "code": "CZ_31_PRAC_KRI3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.vacov",
+    "code": "CZ_31_PRAC_VACO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.tvrzice",
+    "code": "CZ_31_PRAC_TVRZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.radhostice",
+    "code": "CZ_31_PRAC_RADH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.stachy",
+    "code": "CZ_31_PRAC_STAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.nebahovy",
+    "code": "CZ_31_PRAC_NEBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.micovice",
+    "code": "CZ_31_PRAC_MICO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.zbytiny",
+    "code": "CZ_31_PRAC_ZBYT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.zdkov",
+    "code": "CZ_31_PRAC_ZD0K",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.novpec",
+    "code": "CZ_31_PRAC_NOPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.netolice",
+    "code": "CZ_31_PRAC_NETO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.svatmar",
+    "code": "CZ_31_PRAC_SVMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.strunkovicenadblanice",
+    "code": "CZ_31_PRAC_SNB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.strn",
+    "code": "CZ_31_PRAC_STR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.stoec",
+    "code": "CZ_31_PRAC_STO3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.lhenice",
+    "code": "CZ_31_PRAC_LHEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.lenora",
+    "code": "CZ_31_PRAC_LENO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.teovice",
+    "code": "CZ_31_PRAC_TE0O",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.prachatice.cumavskhotice",
+    "code": "CZ_31_PRAC_CUHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_PRAC"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.krtyhradec",
+    "code": "CZ_31_STRA_KRTY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.brez",
+    "code": "CZ_31_STRA_BREZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.zahorcice",
+    "code": "CZ_31_STRA_ZAHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.novosedly",
+    "code": "CZ_31_STRA_NOVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.litochovice",
+    "code": "CZ_31_STRA_LITO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.radoovice",
+    "code": "CZ_31_STRA_RADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.sedlice",
+    "code": "CZ_31_STRA_SEDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.hzjek",
+    "code": "CZ_31_STRA_HZJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.zzbor",
+    "code": "CZ_31_STRA_ZZBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.skly",
+    "code": "CZ_31_STRA_SK0L",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.hajany",
+    "code": "CZ_31_STRA_HAJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.pracejovice",
+    "code": "CZ_31_STRA_PRAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.lnre",
+    "code": "CZ_31_STRA_LN0R",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.libejovice",
+    "code": "CZ_31_STRA_LIBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.kraselov",
+    "code": "CZ_31_STRA_KRAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.katovice",
+    "code": "CZ_31_STRA_KATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.kadov",
+    "code": "CZ_31_STRA_KADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.vodnany",
+    "code": "CZ_31_STRA_VODN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.volenice",
+    "code": "CZ_31_STRA_VOLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.paracov",
+    "code": "CZ_31_STRA_PARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.osek",
+    "code": "CZ_31_STRA_OSEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.nihoovice",
+    "code": "CZ_31_STRA_NIHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.mytice",
+    "code": "CZ_31_STRA_MY0T",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.milonovice",
+    "code": "CZ_31_STRA_MILO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.mecichov",
+    "code": "CZ_31_STRA_MECI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.malenice",
+    "code": "CZ_31_STRA_MALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.clehle",
+    "code": "CZ_31_STRA_CLEH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.treovice",
+    "code": "CZ_31_STRA_TRE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.mnichov",
+    "code": "CZ_31_STRA_MNIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.nebrehovice",
+    "code": "CZ_31_STRA_NEBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.hlupn",
+    "code": "CZ_31_STRA_HLUP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.lom",
+    "code": "CZ_31_STRA_LOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.kralovice",
+    "code": "CZ_31_STRA_KRA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.velkturn",
+    "code": "CZ_31_STRA_VETU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.nemetice",
+    "code": "CZ_31_STRA_NEME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.kocelovice",
+    "code": "CZ_31_STRA_KOCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.tchorovice",
+    "code": "CZ_31_STRA_TCHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.prednzborovice",
+    "code": "CZ_31_STRA_PRZB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.strunkovicenadvolynkou",
+    "code": "CZ_31_STRA_SNV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.nemcice",
+    "code": "CZ_31_STRA_NEMC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.krajncko",
+    "code": "CZ_31_STRA_KRAJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.stoice",
+    "code": "CZ_31_STRA_STO3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.kvskovice",
+    "code": "CZ_31_STRA_KV0S",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.slank",
+    "code": "CZ_31_STRA_SLAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.buzice",
+    "code": "CZ_31_STRA_BUZI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.mekynec",
+    "code": "CZ_31_STRA_MEKY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.hornosn",
+    "code": "CZ_31_STRA_HORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.truskovice",
+    "code": "CZ_31_STRA_TRUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.vacovice",
+    "code": "CZ_31_STRA_VACO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.chlum",
+    "code": "CZ_31_STRA_CHLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.mackov",
+    "code": "CZ_31_STRA_MACK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.radejovice",
+    "code": "CZ_31_STRA_RADE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.prechovice",
+    "code": "CZ_31_STRA_PREC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.milejovice",
+    "code": "CZ_31_STRA_MILE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.laany",
+    "code": "CZ_31_STRA_LA0A",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.budyne",
+    "code": "CZ_31_STRA_BUDY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.drachkov",
+    "code": "CZ_31_STRA_DRAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.novves",
+    "code": "CZ_31_STRA_NOVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.mutenice",
+    "code": "CZ_31_STRA_MUTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.drouetice",
+    "code": "CZ_31_STRA_DROU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.kladruby",
+    "code": "CZ_31_STRA_KLAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.kurimany",
+    "code": "CZ_31_STRA_KURI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.cnice",
+    "code": "CZ_31_STRA_CNIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.bezdedovice",
+    "code": "CZ_31_STRA_BEZD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.pivkovice",
+    "code": "CZ_31_STRA_PIVK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.lanky",
+    "code": "CZ_31_STRA_LA03",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.volyne",
+    "code": "CZ_31_STRA_VOLY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.ceprovice",
+    "code": "CZ_31_STRA_CEPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.cestice",
+    "code": "CZ_31_STRA_CEST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.dren",
+    "code": "CZ_31_STRA_DRE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.hoslovice",
+    "code": "CZ_31_STRA_HOSL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.drahonice",
+    "code": "CZ_31_STRA_DRAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.drov",
+    "code": "CZ_31_STRA_DR03",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.chrtovice",
+    "code": "CZ_31_STRA_CHR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.jinn",
+    "code": "CZ_31_STRA_JIN3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.cehnice",
+    "code": "CZ_31_STRA_CEHN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.cejetice",
+    "code": "CZ_31_STRA_CEJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.bzlsko",
+    "code": "CZ_31_STRA_BZLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.blatn",
+    "code": "CZ_31_STRA_BLAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.czcenice",
+    "code": "CZ_31_STRA_CZCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.doubravice",
+    "code": "CZ_31_STRA_DOUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.krejnice",
+    "code": "CZ_31_STRA_KREJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.niovice",
+    "code": "CZ_31_STRA_NI0O",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.hornporc",
+    "code": "CZ_31_STRA_HOPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.uzenicky",
+    "code": "CZ_31_STRA_UZEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.bavorov",
+    "code": "CZ_31_STRA_BAVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.belcice",
+    "code": "CZ_31_STRA_BELC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.ctechovice",
+    "code": "CZ_31_STRA_CTEC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.kalenice",
+    "code": "CZ_31_STRA_KALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.rovn",
+    "code": "CZ_31_STRA_ROVN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.zvotoky",
+    "code": "CZ_31_STRA_ZVOT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.chelcice",
+    "code": "CZ_31_STRA_CHEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.hotice",
+    "code": "CZ_31_STRA_HO0T",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.chobot",
+    "code": "CZ_31_STRA_CHOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.pohorovice",
+    "code": "CZ_31_STRA_POHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.libetice",
+    "code": "CZ_31_STRA_LIBE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.repice",
+    "code": "CZ_31_STRA_REPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.straice",
+    "code": "CZ_31_STRA_STRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.strelskhotice",
+    "code": "CZ_31_STRA_STHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.skocice",
+    "code": "CZ_31_STRA_SKOC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.sousedovice",
+    "code": "CZ_31_STRA_SOUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.trebohostice",
+    "code": "CZ_31_STRA_TREB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.uzenice",
+    "code": "CZ_31_STRA_UZEN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.ckvoretice",
+    "code": "CZ_31_STRA_CKVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.cteken",
+    "code": "CZ_31_STRA_CTEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.predmr",
+    "code": "CZ_31_STRA_PRED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.predslavice",
+    "code": "CZ_31_STRA_PRED2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.strakonice",
+    "code": "CZ_31_STRA_STRA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.bratronice",
+    "code": "CZ_31_STRA_BRAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.pretovice",
+    "code": "CZ_31_STRA_PRE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.strakonice.radomyl",
+    "code": "CZ_31_STRA_RADO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_STRA"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.maln",
+    "code": "CZ_31_EKR_MAL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.kzjov",
+    "code": "CZ_31_EKR_KZJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.pohorskves",
+    "code": "CZ_31_EKR_POVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.bujanov",
+    "code": "CZ_31_EKR_BUJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.zvkov",
+    "code": "CZ_31_EKR_ZV0K",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.srnn",
+    "code": "CZ_31_EKR_SRN3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.novves",
+    "code": "CZ_31_EKR_NOVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.chlumec",
+    "code": "CZ_31_EKR_CHLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.romitlna",
+    "code": "CZ_31_EKR_RONA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.sobenov",
+    "code": "CZ_31_EKR_SOBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.zlatkoruna",
+    "code": "CZ_31_EKR_ZLKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.zubcice",
+    "code": "CZ_31_EKR_ZUBC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.svetlk",
+    "code": "CZ_31_EKR_SVET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.velen",
+    "code": "CZ_31_EKR_VELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.strte",
+    "code": "CZ_31_EKR_STR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.mojn",
+    "code": "CZ_31_EKR_MOJN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.vetrn",
+    "code": "CZ_31_EKR_VETR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.vybrod",
+    "code": "CZ_31_EKR_VYBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.beneovnadcernou",
+    "code": "CZ_31_EKR_BNC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.besednice",
+    "code": "CZ_31_EKR_BESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.veovatplne",
+    "code": "CZ_31_EKR_VEPL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.ceskkrumlov",
+    "code": "CZ_31_EKR_CEKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.bohdalovice",
+    "code": "CZ_31_EKR_BOHD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.frymburk",
+    "code": "CZ_31_EKR_FRYM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.holubov",
+    "code": "CZ_31_EKR_HOLU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.dolndvorite",
+    "code": "CZ_31_EKR_DODV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.dolntrebon",
+    "code": "CZ_31_EKR_DOTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.cernvpoumavn",
+    "code": "CZ_31_EKR_CVP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.boletice",
+    "code": "CZ_31_EKR_BOLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.brloh",
+    "code": "CZ_31_EKR_BRLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.hornplan",
+    "code": "CZ_31_EKR_HOPL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.horndvorite",
+    "code": "CZ_31_EKR_HODV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.horicenaumave",
+    "code": "CZ_31_EKR_HN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.chvaliny",
+    "code": "CZ_31_EKR_CHVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.kaplice",
+    "code": "CZ_31_EKR_KAPL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.kreme",
+    "code": "CZ_31_EKR_KREM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.lipnonadvltavou",
+    "code": "CZ_31_EKR_LNV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.loucovice",
+    "code": "CZ_31_EKR_LOUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.malonty",
+    "code": "CZ_31_EKR_MALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.mirkovice",
+    "code": "CZ_31_EKR_MIRK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.netrebice",
+    "code": "CZ_31_EKR_NETR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.omlenice",
+    "code": "CZ_31_EKR_OMLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.prednvton",
+    "code": "CZ_31_EKR_PRV5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.prdol",
+    "code": "CZ_31_EKR_PR0D",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.romberknadvltavou",
+    "code": "CZ_31_EKR_RNV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.prsecn",
+    "code": "CZ_31_EKR_PR0S",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.eskkrumlov.polnnaumave",
+    "code": "CZ_31_EKR_PN1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_EKR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.cdr",
+    "code": "CZ_31_JIHR_CD0R",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.smrov",
+    "code": "CZ_31_JIHR_SMR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.dunajovice",
+    "code": "CZ_31_JIHR_DUNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.hrachovite",
+    "code": "CZ_31_JIHR_HRAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.velkratmrov",
+    "code": "CZ_31_JIHR_VERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.dolndr",
+    "code": "CZ_31_JIHR_DO5D",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.vydr",
+    "code": "CZ_31_JIHR_VYDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.frahel",
+    "code": "CZ_31_JIHR_FRAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.ponedrka",
+    "code": "CZ_31_JIHR_PONE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.ponedra",
+    "code": "CZ_31_JIHR_PONE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.bznovice",
+    "code": "CZ_31_JIHR_BZNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.novolen",
+    "code": "CZ_31_JIHR_NOOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.boretn",
+    "code": "CZ_31_JIHR_BORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.jilem",
+    "code": "CZ_31_JIHR_JILE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.hornnemcice",
+    "code": "CZ_31_JIHR_HONE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.halmky",
+    "code": "CZ_31_JIHR_HAL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.jaroovnadneesrkou",
+    "code": "CZ_31_JIHR_JNN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.chlumutrebone",
+    "code": "CZ_31_JIHR_CUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.hermanec",
+    "code": "CZ_31_JIHR_HERM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.hatn",
+    "code": "CZ_31_JIHR_HAT3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.ceskrudolec",
+    "code": "CZ_31_JIHR_CERU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.ceskvelenice",
+    "code": "CZ_31_JIHR_CEVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.hrice",
+    "code": "CZ_31_JIHR_HR03",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.hosprz",
+    "code": "CZ_31_JIHR_HOSP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.detn",
+    "code": "CZ_31_JIHR_DE0T",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.den",
+    "code": "CZ_31_JIHR_DE0N",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.cizkrajov",
+    "code": "CZ_31_JIHR_CIZK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.budkovice",
+    "code": "CZ_31_JIHR_BUD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.hamr",
+    "code": "CZ_31_JIHR_HAMR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.dobrohot",
+    "code": "CZ_31_JIHR_DOBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.dacice",
+    "code": "CZ_31_JIHR_DACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.czmer",
+    "code": "CZ_31_JIHR_CZME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.okrouhlradoun",
+    "code": "CZ_31_JIHR_OKRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.dolnpena",
+    "code": "CZ_31_JIHR_DOPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.polte",
+    "code": "CZ_31_JIHR_POL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.cupanovice",
+    "code": "CZ_31_JIHR_CUPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.prbraz",
+    "code": "CZ_31_JIHR_PR0B",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.pzstina",
+    "code": "CZ_31_JIHR_PZST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.bednrec",
+    "code": "CZ_31_JIHR_BEDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.kaclehy",
+    "code": "CZ_31_JIHR_KACL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.trebetice",
+    "code": "CZ_31_JIHR_TREB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.hornslatina",
+    "code": "CZ_31_JIHR_HOSL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.blaejov",
+    "code": "CZ_31_JIHR_BLA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.clunek",
+    "code": "CZ_31_JIHR_CLUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.zahrdky",
+    "code": "CZ_31_JIHR_ZAHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.drunce",
+    "code": "CZ_31_JIHR_DRUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.stankov",
+    "code": "CZ_31_JIHR_STAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.novvesnadlurnick",
+    "code": "CZ_31_JIHR_NVNL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.svetce",
+    "code": "CZ_31_JIHR_SVET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.rosicka",
+    "code": "CZ_31_JIHR_ROSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.vzcemil",
+    "code": "CZ_31_JIHR_VZCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.hornskrchov",
+    "code": "CZ_31_JIHR_HOSK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.bednrecek",
+    "code": "CZ_31_JIHR_BEDN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.strnadne",
+    "code": "CZ_31_JIHR_SNN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.starmestopodlandutejnem",
+    "code": "CZ_31_JIHR_SMPL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.strbrec",
+    "code": "CZ_31_JIHR_STR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.strmilov",
+    "code": "CZ_31_JIHR_STRM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.suchdolnadlu",
+    "code": "CZ_31_JIHR_SNL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.studen",
+    "code": "CZ_31_JIHR_STUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.volfrov",
+    "code": "CZ_31_JIHR_VOLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.trebon",
+    "code": "CZ_31_JIHR_TREB2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.vlcetnec",
+    "code": "CZ_31_JIHR_VLCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.hornmezircko",
+    "code": "CZ_31_JIHR_HOME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.domann",
+    "code": "CZ_31_JIHR_DOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.kamennmalkov",
+    "code": "CZ_31_JIHR_KAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.hadravovarosicka",
+    "code": "CZ_31_JIHR_HARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.klec",
+    "code": "CZ_31_JIHR_KLEC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.novbystrice",
+    "code": "CZ_31_JIHR_NOBY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.novvcelnice",
+    "code": "CZ_31_JIHR_NOVC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.kardaovarecice",
+    "code": "CZ_31_JIHR_KARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.kunak",
+    "code": "CZ_31_JIHR_KUN3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.hornradoun",
+    "code": "CZ_31_JIHR_HORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.hornpena",
+    "code": "CZ_31_JIHR_HOPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.lomnicenadluenicr",
+    "code": "CZ_31_JIHR_LNL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.majdalena",
+    "code": "CZ_31_JIHR_MAJD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.slavonice",
+    "code": "CZ_31_JIHR_SLAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.starhobz",
+    "code": "CZ_31_JIHR_STHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.novosedlynadnet",
+    "code": "CZ_31_JIHR_NNN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.pzsecn",
+    "code": "CZ_31_JIHR_PZSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.lzsenice",
+    "code": "CZ_31_JIHR_LZSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.lodhrov",
+    "code": "CZ_31_JIHR_LODH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.rapach",
+    "code": "CZ_31_JIHR_RAP3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.rodvnov",
+    "code": "CZ_31_JIHR_RODV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.popeln",
+    "code": "CZ_31_JIHR_POPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.pluhuvdr",
+    "code": "CZ_31_JIHR_PL4D",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.zzhor",
+    "code": "CZ_31_JIHR_ZZHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.pec",
+    "code": "CZ_31_JIHR_PEC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.donov",
+    "code": "CZ_31_JIHR_DONO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.plee",
+    "code": "CZ_31_JIHR_PLE3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.zzblat",
+    "code": "CZ_31_JIHR_ZZBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.plavsko",
+    "code": "CZ_31_JIHR_PLAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.brezina",
+    "code": "CZ_31_JIHR_BREZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.ratibor",
+    "code": "CZ_31_JIHR_RATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.rosec",
+    "code": "CZ_31_JIHR_ROSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.strovice",
+    "code": "CZ_31_JIHR_STR32",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.vinov",
+    "code": "CZ_31_JIHR_VI0N",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.cjezdec",
+    "code": "CZ_31_JIHR_CJEZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.jindrichuvhradec",
+    "code": "CZ_31_JIHR_JIHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.budec",
+    "code": "CZ_31_JIHR_BUDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.kostelnradoun",
+    "code": "CZ_31_JIHR_KORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.cervenhrdek",
+    "code": "CZ_31_JIHR_CEHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.dvorynadlu",
+    "code": "CZ_31_JIHR_DNL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.cep",
+    "code": "CZ_31_JIHR_CEP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.kostelnvydr",
+    "code": "CZ_31_JIHR_KOVY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.lunice",
+    "code": "CZ_31_JIHR_LU0N",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.jindichvhradec.dzvckopy",
+    "code": "CZ_31_JIHR_DZKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_JIHR"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.koice",
+    "code": "CZ_31_TBO_KO0I",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.rataje",
+    "code": "CZ_31_TBO_RATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.radkov",
+    "code": "CZ_31_TBO_RADK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.oldrichov",
+    "code": "CZ_31_TBO_OLDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.prehorov",
+    "code": "CZ_31_TBO_PREH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.roudn",
+    "code": "CZ_31_TBO_ROUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.mezn",
+    "code": "CZ_31_TBO_MEZN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.slapy",
+    "code": "CZ_31_TBO_SLAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.klenovice",
+    "code": "CZ_31_TBO_KLEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.skalice",
+    "code": "CZ_31_TBO_SKAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.borotn",
+    "code": "CZ_31_TBO_BORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.celec",
+    "code": "CZ_31_TBO_CELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.vodice",
+    "code": "CZ_31_TBO_VODI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.val",
+    "code": "CZ_31_TBO_VAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.vesce",
+    "code": "CZ_31_TBO_VESC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.dolnhrachovice",
+    "code": "CZ_31_TBO_DOHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.vlkov",
+    "code": "CZ_31_TBO_VLKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.vlastibor",
+    "code": "CZ_31_TBO_VLAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.maice",
+    "code": "CZ_31_TBO_MA0I",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.hodonice",
+    "code": "CZ_31_TBO_HODO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.krtoice",
+    "code": "CZ_31_TBO_KR0T",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.skrchovumal",
+    "code": "CZ_31_TBO_SUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.krtov",
+    "code": "CZ_31_TBO_KRTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.chrbonn",
+    "code": "CZ_31_TBO_CHRB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.kon",
+    "code": "CZ_31_TBO_KO03",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.jedlany",
+    "code": "CZ_31_TBO_JEDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.belec",
+    "code": "CZ_31_TBO_BELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.hlasivo",
+    "code": "CZ_31_TBO_HLAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.nasavrky",
+    "code": "CZ_31_TBO_NASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.zhorutbora",
+    "code": "CZ_31_TBO_ZUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.pohnnec",
+    "code": "CZ_31_TBO_POHN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.rodn",
+    "code": "CZ_31_TBO_RODN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.remcov",
+    "code": "CZ_31_TBO_REM3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.zverotice",
+    "code": "CZ_31_TBO_ZVER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.veselnadluknicr",
+    "code": "CZ_31_TBO_VNL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.vilice",
+    "code": "CZ_31_TBO_VILI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.sudomericeut",
+    "code": "CZ_31_TBO_SUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.sviny",
+    "code": "CZ_31_TBO_SVIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.stdlec",
+    "code": "CZ_31_TBO_ST0D",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.sudomericeubechyne",
+    "code": "CZ_31_TBO_SUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.rzpec",
+    "code": "CZ_31_TBO_RZPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.cstraice",
+    "code": "CZ_31_TBO_CSTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.tucapy",
+    "code": "CZ_31_TBO_TUCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.cebrov",
+    "code": "CZ_31_TBO_CEB3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.zlukov",
+    "code": "CZ_31_TBO_ZLUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.komrov",
+    "code": "CZ_31_TBO_KOM3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.sedleckousobeslave",
+    "code": "CZ_31_TBO_SUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.czov",
+    "code": "CZ_31_TBO_CZ0O",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.zadnstrte",
+    "code": "CZ_31_TBO_ZAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.zzhor",
+    "code": "CZ_31_TBO_ZZHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.slapsko",
+    "code": "CZ_31_TBO_SLAP2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.hodetn",
+    "code": "CZ_31_TBO_HODE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.mezirc",
+    "code": "CZ_31_TBO_MEZI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.radimoviceut",
+    "code": "CZ_31_TBO_RUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.drhovice",
+    "code": "CZ_31_TBO_DRHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.balkovalhota",
+    "code": "CZ_31_TBO_BALH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.drahov",
+    "code": "CZ_31_TBO_DRAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.cernovice",
+    "code": "CZ_31_TBO_CERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.svrabov",
+    "code": "CZ_31_TBO_SVRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.trebejice",
+    "code": "CZ_31_TBO_TREB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.lom",
+    "code": "CZ_31_TBO_LOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.libejice",
+    "code": "CZ_31_TBO_LIBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.dlouhlhota",
+    "code": "CZ_31_TBO_DLLH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.hakovcovalhota",
+    "code": "CZ_31_TBO_HALH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.zhorumladvokice",
+    "code": "CZ_31_TBO_ZUMV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.novvesumladivovice",
+    "code": "CZ_31_TBO_NVUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.vlceves",
+    "code": "CZ_31_TBO_VLCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.borkovice",
+    "code": "CZ_31_TBO_BORK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.bechyne",
+    "code": "CZ_31_TBO_BECH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.tzbor",
+    "code": "CZ_31_TBO_TZBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.turovec",
+    "code": "CZ_31_TBO_TURO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.budislav",
+    "code": "CZ_31_TBO_BUDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.breznice",
+    "code": "CZ_31_TBO_BREZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.bradcov",
+    "code": "CZ_31_TBO_BRAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.drchov",
+    "code": "CZ_31_TBO_DR0C",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.dolnhorice",
+    "code": "CZ_31_TBO_DOHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.dobroniceubechyne",
+    "code": "CZ_31_TBO_DUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.dzrn",
+    "code": "CZ_31_TBO_DZRN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.becice",
+    "code": "CZ_31_TBO_BECI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.psrov",
+    "code": "CZ_31_TBO_PS0R",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.draicky",
+    "code": "CZ_31_TBO_DRA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.draice",
+    "code": "CZ_31_TBO_DRA32",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.katov",
+    "code": "CZ_31_TBO_KATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.nadejkov",
+    "code": "CZ_31_TBO_NADE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.pojbuky",
+    "code": "CZ_31_TBO_POJB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.pohnn",
+    "code": "CZ_31_TBO_POHN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.radimoviceueelce",
+    "code": "CZ_31_TBO_RUE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.radetice",
+    "code": "CZ_31_TBO_RADE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.sezimovost",
+    "code": "CZ_31_TBO_SE0S",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.repec",
+    "code": "CZ_31_TBO_REPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.ratiborskhory",
+    "code": "CZ_31_TBO_RAHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.sobeslav",
+    "code": "CZ_31_TBO_SOBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.smilovyhory",
+    "code": "CZ_31_TBO_SMHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.skopytce",
+    "code": "CZ_31_TBO_SKOP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.nemyl",
+    "code": "CZ_31_TBO_NEMY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.myslkovice",
+    "code": "CZ_31_TBO_MYSL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.jistebnice",
+    "code": "CZ_31_TBO_JIST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.chnov",
+    "code": "CZ_31_TBO_CH0N",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.malice",
+    "code": "CZ_31_TBO_MAL3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.chotemice",
+    "code": "CZ_31_TBO_CHOT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.hlavatce",
+    "code": "CZ_31_TBO_HLAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.radenn",
+    "code": "CZ_31_TBO_RADE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.novvesuchnova",
+    "code": "CZ_31_TBO_NVUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.plannadlu",
+    "code": "CZ_31_TBO_PNL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.oparany",
+    "code": "CZ_31_TBO_OPAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.mlny",
+    "code": "CZ_31_TBO_ML0N",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.mladvoice",
+    "code": "CZ_31_TBO_MLVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.chotoviny",
+    "code": "CZ_31_TBO_CHOT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  },
+  {
+    "tenantId": "czechia.jihoeskkraj.tbor.choustnk",
+    "code": "CZ_31_TBO_CHOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CZ_31_TBO"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "ireland",
+    "code": "IE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "ireland.ulster",
+    "code": "IE_U",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IE"
+  },
+  {
+    "tenantId": "ireland.leinster",
+    "code": "IE_L",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IE"
+  },
+  {
+    "tenantId": "ireland.munster",
+    "code": "IE_M",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IE"
+  },
+  {
+    "tenantId": "ireland.connacht",
+    "code": "IE_C",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IE"
+  }
+]

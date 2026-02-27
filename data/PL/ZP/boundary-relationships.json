@@ -1,0 +1,954 @@
+[
+  {
+    "tenantId": "poland.westpomeranianvoivodeship",
+    "code": "PL_ZP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PL"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatkamieski",
+    "code": "PL_ZP_POKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_ZP"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatchoszczeski",
+    "code": "PL_ZP_POCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_ZP"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatdrawski",
+    "code": "PL_ZP_PODR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_ZP"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatkoszaliski",
+    "code": "PL_ZP_POKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_ZP"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.koszalin",
+    "code": "PL_ZP_KOSZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_ZP"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatpyrzycki",
+    "code": "PL_ZP_POPY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_ZP"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatwaecki",
+    "code": "PL_ZP_POWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_ZP"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatwidwiski",
+    "code": "PL_ZP_POW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_ZP"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatpolicki",
+    "code": "PL_ZP_POPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_ZP"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatbiaogardzki",
+    "code": "PL_ZP_POBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_ZP"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgoleniowski",
+    "code": "PL_ZP_POGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_ZP"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatobeski",
+    "code": "PL_ZP_POO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_ZP"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatsawieski",
+    "code": "PL_ZP_POS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_ZP"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatstargardzki",
+    "code": "PL_ZP_POST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_ZP"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatszczecinecki",
+    "code": "PL_ZP_POSZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_ZP"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.winoujcie",
+    "code": "PL_ZP_WIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_ZP"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatmyliborski",
+    "code": "PL_ZP_POMY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_ZP"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.szczecin",
+    "code": "PL_ZP_SZCZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_ZP"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgryficki",
+    "code": "PL_ZP_POGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_ZP"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgryfiski",
+    "code": "PL_ZP_POGR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_ZP"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.colbergcounty",
+    "code": "PL_ZP_COCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_ZP"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatkamieski.gminawolin",
+    "code": "PL_ZP_POKA_GMWO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POKA"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatkamieski.gminakamiepomorski",
+    "code": "PL_ZP_POKA_GKP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POKA"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatkamieski.gminamidzyzdroje",
+    "code": "PL_ZP_POKA_GMMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POKA"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatkamieski.gminagolczewo",
+    "code": "PL_ZP_POKA_GMGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POKA"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatkamieski.gminadziwnw",
+    "code": "PL_ZP_POKA_GMDZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POKA"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatkamieski.gminawierzno",
+    "code": "PL_ZP_POKA_GMW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POKA"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatchoszczeski.gminabierzwnik",
+    "code": "PL_ZP_POCH_GMBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POCH"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatchoszczeski.gminakrzcin",
+    "code": "PL_ZP_POCH_GMKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POCH"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatchoszczeski.gminapeczyce",
+    "code": "PL_ZP_POCH_GMPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POCH"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatchoszczeski.gminarecz",
+    "code": "PL_ZP_POCH_GMRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POCH"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatchoszczeski.gminadrawno",
+    "code": "PL_ZP_POCH_GMDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POCH"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatchoszczeski.gminachoszczno",
+    "code": "PL_ZP_POCH_GMCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POCH"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatdrawski.gminaczaplinek",
+    "code": "PL_ZP_PODR_GMCZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_PODR"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatdrawski.gminaostrowice",
+    "code": "PL_ZP_PODR_GMOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_PODR"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatdrawski.gminadrawskopomorskie",
+    "code": "PL_ZP_PODR_GDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_PODR"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatdrawski.gminakaliszpomorski",
+    "code": "PL_ZP_PODR_GKP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_PODR"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatdrawski.gminawierzchowo",
+    "code": "PL_ZP_PODR_GMWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_PODR"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatdrawski.gminazocieniec",
+    "code": "PL_ZP_PODR_GMZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_PODR"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatkoszaliski.gminasianw",
+    "code": "PL_ZP_POKO_GMSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POKO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatkoszaliski.gminamielno",
+    "code": "PL_ZP_POKO_GMMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POKO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatkoszaliski.gminabdzino",
+    "code": "PL_ZP_POKO_GMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POKO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatkoszaliski.gminamanowo",
+    "code": "PL_ZP_POKO_GMMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POKO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatkoszaliski.gminabiesiekierz",
+    "code": "PL_ZP_POKO_GMBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POKO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatkoszaliski.gminawieszyno",
+    "code": "PL_ZP_POKO_GMW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POKO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatkoszaliski.gminabobolice",
+    "code": "PL_ZP_POKO_GMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POKO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatkoszaliski.gminapolanw",
+    "code": "PL_ZP_POKO_GMPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POKO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.koszalin.koszalin",
+    "code": "PL_ZP_KOSZ_KOSZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_KOSZ"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatpyrzycki.gminabielice",
+    "code": "PL_ZP_POPY_GMBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POPY"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatpyrzycki.gminakozielice",
+    "code": "PL_ZP_POPY_GMKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POPY"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatpyrzycki.gminaprzelewice",
+    "code": "PL_ZP_POPY_GMPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POPY"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatpyrzycki.gminapyrzyce",
+    "code": "PL_ZP_POPY_GMPY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POPY"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatpyrzycki.gminawarnice",
+    "code": "PL_ZP_POPY_GMWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POPY"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatpyrzycki.gminalipiany",
+    "code": "PL_ZP_POPY_GMLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POPY"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatwaecki.wacz",
+    "code": "PL_ZP_POWA_WAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POWA"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatwaecki.gminaczopa",
+    "code": "PL_ZP_POWA_GMCZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POWA"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatwaecki.gminamirosawiec",
+    "code": "PL_ZP_POWA_GMMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POWA"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatwaecki.gminatuczno",
+    "code": "PL_ZP_POWA_GMTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POWA"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatwaecki.gminawacz",
+    "code": "PL_ZP_POWA_GMWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POWA"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatwidwiski.gminawidwin",
+    "code": "PL_ZP_POW_GMW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POW"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatwidwiski.gminapoczynzdrj",
+    "code": "PL_ZP_POW_GMPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POW"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatwidwiski.gminabrzeno",
+    "code": "PL_ZP_POW_GMBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POW"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatwidwiski.gminarbino",
+    "code": "PL_ZP_POW_GMR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POW"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatwidwiski.gminasawoborze",
+    "code": "PL_ZP_POW_GMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POW"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatwidwiski.widwin",
+    "code": "PL_ZP_POW_WID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POW"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatpolicki.gminapolice",
+    "code": "PL_ZP_POPO_GMPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POPO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatpolicki.gminakobaskowo",
+    "code": "PL_ZP_POPO_GMKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POPO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatpolicki.gminanowewarpno",
+    "code": "PL_ZP_POPO_GNW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POPO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatpolicki.gminadobraszczeciska",
+    "code": "PL_ZP_POPO_GD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POPO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatbiaogardzki.gminakarlino",
+    "code": "PL_ZP_POBI_GMKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POBI"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatbiaogardzki.biaogard",
+    "code": "PL_ZP_POBI_BIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POBI"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatbiaogardzki.gminatychowo",
+    "code": "PL_ZP_POBI_GMTY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POBI"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatbiaogardzki.gminabiaogard",
+    "code": "PL_ZP_POBI_GMBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POBI"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgoleniowski.gminanowogard",
+    "code": "PL_ZP_POGO_GMNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POGO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgoleniowski.gminaosina",
+    "code": "PL_ZP_POGO_GMOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POGO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgoleniowski.gminaprzybiernw",
+    "code": "PL_ZP_POGO_GMPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POGO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgoleniowski.gminastepnica",
+    "code": "PL_ZP_POGO_GMST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POGO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgoleniowski.gminagoleniw",
+    "code": "PL_ZP_POGO_GMGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POGO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgoleniowski.gminamaszewo",
+    "code": "PL_ZP_POGO_GMMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POGO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatobeski.gminaobez",
+    "code": "PL_ZP_POO_GMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatobeski.gminadobra",
+    "code": "PL_ZP_POO_GMDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatobeski.gminaresko",
+    "code": "PL_ZP_POO_GMRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatobeski.gminaradowomae",
+    "code": "PL_ZP_POO_GRM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatobeski.gminawgorzyno",
+    "code": "PL_ZP_POO_GMW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatsawieski.gminasawno",
+    "code": "PL_ZP_POS_GMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POS"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatsawieski.gminamalechowo",
+    "code": "PL_ZP_POS_GMMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POS"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatsawieski.darowo",
+    "code": "PL_ZP_POS_DAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POS"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatsawieski.sawno",
+    "code": "PL_ZP_POS_SAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POS"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatsawieski.gminadarowo",
+    "code": "PL_ZP_POS_GMDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POS"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatsawieski.gminapostomino",
+    "code": "PL_ZP_POS_GMPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POS"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatstargardzki.gminadolice",
+    "code": "PL_ZP_POST_GMDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POST"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatstargardzki.stargard",
+    "code": "PL_ZP_POST_STAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POST"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatstargardzki.gminadobrzany",
+    "code": "PL_ZP_POST_GMDO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POST"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatstargardzki.gminaisko",
+    "code": "PL_ZP_POST_GMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POST"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatstargardzki.gminamarianowo",
+    "code": "PL_ZP_POST_GMMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POST"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatstargardzki.gminastaradbrowa",
+    "code": "PL_ZP_POST_GSD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POST"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatstargardzki.gminachociwel",
+    "code": "PL_ZP_POST_GMCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POST"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatstargardzki.gminasucha",
+    "code": "PL_ZP_POST_GMSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POST"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatstargardzki.gminastargard",
+    "code": "PL_ZP_POST_GMST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POST"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatstargardzki.gminakobylanka",
+    "code": "PL_ZP_POST_GMKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POST"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatszczecinecki.szczecinek",
+    "code": "PL_ZP_POSZ_SZCZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POSZ"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatszczecinecki.gminaszczecinek",
+    "code": "PL_ZP_POSZ_GMSZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POSZ"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatszczecinecki.gminabarwice",
+    "code": "PL_ZP_POSZ_GMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POSZ"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatszczecinecki.gminagrzmica",
+    "code": "PL_ZP_POSZ_GMGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POSZ"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatszczecinecki.gminabiaybr",
+    "code": "PL_ZP_POSZ_GBB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POSZ"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatszczecinecki.gminabornesulinowo",
+    "code": "PL_ZP_POSZ_GBS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POSZ"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.winoujcie.winoujcie",
+    "code": "PL_ZP_WIN_WIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_WIN"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatmyliborski.gminamylibrz",
+    "code": "PL_ZP_POMY_GMMY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POMY"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatmyliborski.gminadbno",
+    "code": "PL_ZP_POMY_GMD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POMY"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatmyliborski.gminaboleszkowice",
+    "code": "PL_ZP_POMY_GMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POMY"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatmyliborski.gminabarlinek",
+    "code": "PL_ZP_POMY_GMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POMY"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatmyliborski.gminanowogrdekpomorski",
+    "code": "PL_ZP_POMY_GNP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POMY"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.szczecin.szczecin",
+    "code": "PL_ZP_SZCZ_SZCZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_SZCZ"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgryficki.gminabrojce",
+    "code": "PL_ZP_POGR_GMBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POGR"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgryficki.gminagryfice",
+    "code": "PL_ZP_POGR_GMGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POGR"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgryficki.gminakarnice",
+    "code": "PL_ZP_POGR_GMKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POGR"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgryficki.gminarewal",
+    "code": "PL_ZP_POGR_GMRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POGR"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgryficki.gminatrzebiatw",
+    "code": "PL_ZP_POGR_GMTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POGR"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgryficki.gminapoty",
+    "code": "PL_ZP_POGR_GMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POGR"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgryfiski.gminatrzciskozdrj",
+    "code": "PL_ZP_POGR2_GMTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POGR2"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgryfiski.gminachojna",
+    "code": "PL_ZP_POGR2_GMCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POGR2"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgryfiski.gminastareczarnowo",
+    "code": "PL_ZP_POGR2_GSC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POGR2"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgryfiski.gminacedynia",
+    "code": "PL_ZP_POGR2_GMCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POGR2"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgryfiski.gminamieszkowice",
+    "code": "PL_ZP_POGR2_GMMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POGR2"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgryfiski.gminamory",
+    "code": "PL_ZP_POGR2_GMMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POGR2"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgryfiski.gminagryfino",
+    "code": "PL_ZP_POGR2_GMGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POGR2"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgryfiski.gminabanie",
+    "code": "PL_ZP_POGR2_GMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POGR2"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.powiatgryfiski.gminawiduchowa",
+    "code": "PL_ZP_POGR2_GMWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_POGR2"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.colbergcounty.koobrzegmunicipality",
+    "code": "PL_ZP_COCO_KOMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_COCO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.colbergcounty.gminadygowo",
+    "code": "PL_ZP_COCO_GMDY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_COCO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.colbergcounty.gminagocino",
+    "code": "PL_ZP_COCO_GMGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_COCO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.colbergcounty.gminaryma",
+    "code": "PL_ZP_COCO_GMRY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_COCO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.colbergcounty.gminasiemyl",
+    "code": "PL_ZP_COCO_GMSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_COCO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.colbergcounty.gminaustroniemorskie",
+    "code": "PL_ZP_COCO_GUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_COCO"
+  },
+  {
+    "tenantId": "poland.westpomeranianvoivodeship.colbergcounty.koobrzeg",
+    "code": "PL_ZP_COCO_KOO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_ZP_COCO"
+  }
+]

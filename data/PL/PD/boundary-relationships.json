@@ -1,0 +1,954 @@
+[
+  {
+    "tenantId": "poland.podlaskievoivodeship",
+    "code": "PL_PD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PL"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsiemiatycki",
+    "code": "PL_PD_POSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_PD"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsejneski",
+    "code": "PL_PD_POSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_PD"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiataugustowski",
+    "code": "PL_PD_POAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_PD"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.suwaki",
+    "code": "PL_PD_SUWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_PD"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbiaostocki",
+    "code": "PL_PD_POBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_PD"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbielski",
+    "code": "PL_PD_POBI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_PD"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatomyski",
+    "code": "PL_PD_POO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_PD"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.oma",
+    "code": "PL_PD_OM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_PD"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatmoniecki",
+    "code": "PL_PD_POMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_PD"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsoklski",
+    "code": "PL_PD_POSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_PD"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatkolneski",
+    "code": "PL_PD_POKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_PD"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatgrajewski",
+    "code": "PL_PD_POGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_PD"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsuwalski",
+    "code": "PL_PD_POSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_PD"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatwysokomazowiecki",
+    "code": "PL_PD_POWY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_PD"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatzambrowski",
+    "code": "PL_PD_POZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_PD"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiathajnowski",
+    "code": "PL_PD_POHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_PD"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.biaystok",
+    "code": "PL_PD_BIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PL_PD"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsiemiatycki.gminamielnik",
+    "code": "PL_PD_POSI_GMMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsiemiatycki.gminadrohiczyn",
+    "code": "PL_PD_POSI_GMDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsiemiatycki.gminasiemiatycze",
+    "code": "PL_PD_POSI_GMSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsiemiatycki.siemiatycze",
+    "code": "PL_PD_POSI_SIEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsiemiatycki.gminaperlejewo",
+    "code": "PL_PD_POSI_GMPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsiemiatycki.gminanurzecstacja",
+    "code": "PL_PD_POSI_GMNU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsiemiatycki.gminagrodzisk",
+    "code": "PL_PD_POSI_GMGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsiemiatycki.gminadziadkowice",
+    "code": "PL_PD_POSI_GMDZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsiemiatycki.gminamilejczyce",
+    "code": "PL_PD_POSI_GMMI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsejneski.gminagiby",
+    "code": "PL_PD_POSE_GMGI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSE"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsejneski.gminasejny",
+    "code": "PL_PD_POSE_GMSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSE"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsejneski.sejny",
+    "code": "PL_PD_POSE_SEJN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSE"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsejneski.gminapusk",
+    "code": "PL_PD_POSE_GMPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSE"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsejneski.gminakrasnopol",
+    "code": "PL_PD_POSE_GMKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSE"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiataugustowski.gminaaugustw",
+    "code": "PL_PD_POAU_GMAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POAU"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiataugustowski.gminanowinka",
+    "code": "PL_PD_POAU_GMNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POAU"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiataugustowski.gminasztabin",
+    "code": "PL_PD_POAU_GMSZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POAU"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiataugustowski.gminalipsk",
+    "code": "PL_PD_POAU_GMLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POAU"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiataugustowski.augustw",
+    "code": "PL_PD_POAU_AUGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POAU"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiataugustowski.gminabargwkocielny",
+    "code": "PL_PD_POAU_GBK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POAU"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiataugustowski.gminapaska",
+    "code": "PL_PD_POAU_GMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POAU"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.suwaki.suwaki",
+    "code": "PL_PD_SUWA_SUWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_SUWA"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbiaostocki.gminagrdek",
+    "code": "PL_PD_POBI_GMGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbiaostocki.gminaapy",
+    "code": "PL_PD_POBI_GMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbiaostocki.gminapowitne",
+    "code": "PL_PD_POBI_GMPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbiaostocki.gminatykocin",
+    "code": "PL_PD_POBI_GMTY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbiaostocki.gminazabudw",
+    "code": "PL_PD_POBI_GMZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbiaostocki.gminasura",
+    "code": "PL_PD_POBI_GMSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbiaostocki.gminamichaowo",
+    "code": "PL_PD_POBI_GMMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbiaostocki.gminaczarnabiaostocka",
+    "code": "PL_PD_POBI_GCB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbiaostocki.gminachoroszcz",
+    "code": "PL_PD_POBI_GMCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbiaostocki.gminazawady",
+    "code": "PL_PD_POBI_GMZA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbiaostocki.gminadobrzyniewodue",
+    "code": "PL_PD_POBI_GDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbiaostocki.gminajuchnowieckocielny",
+    "code": "PL_PD_POBI_GJK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbiaostocki.gminawasilkw",
+    "code": "PL_PD_POBI_GMWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbiaostocki.gminaturokocielna",
+    "code": "PL_PD_POBI_GTK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbiaostocki.gminasupral",
+    "code": "PL_PD_POBI_GMSU2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbielski.gminabrask",
+    "code": "PL_PD_POBI2_GMBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI2"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbielski.gminabielskpodlaski",
+    "code": "PL_PD_POBI2_GBP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI2"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbielski.gminarudka",
+    "code": "PL_PD_POBI2_GMRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI2"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbielski.bielskpodlaski",
+    "code": "PL_PD_POBI2_BIPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI2"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbielski.brask",
+    "code": "PL_PD_POBI2_BRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI2"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbielski.gminaboki",
+    "code": "PL_PD_POBI2_GMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI2"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbielski.gminaorla",
+    "code": "PL_PD_POBI2_GMOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI2"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatbielski.gminawyszki",
+    "code": "PL_PD_POBI2_GMWY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POBI2"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatomyski.gminajedwabne",
+    "code": "PL_PD_POO_GMJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatomyski.gminazbjna",
+    "code": "PL_PD_POO_GMZB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatomyski.gminamiastkowo",
+    "code": "PL_PD_POO_GMMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatomyski.gminawizna",
+    "code": "PL_PD_POO_GMWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatomyski.gminanowogrd",
+    "code": "PL_PD_POO_GMNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatomyski.gminaoma",
+    "code": "PL_PD_POO_GMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatomyski.gminaniadowo",
+    "code": "PL_PD_POO_GMN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatomyski.gminaprzytuy",
+    "code": "PL_PD_POO_GMPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatomyski.gminapitnica",
+    "code": "PL_PD_POO_GMPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.oma.oma",
+    "code": "PL_PD_OM_OM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_OM"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatmoniecki.gminakrypno",
+    "code": "PL_PD_POMO_GMKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POMO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatmoniecki.gminaknyszyn",
+    "code": "PL_PD_POMO_GMKN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POMO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatmoniecki.gminagonidz",
+    "code": "PL_PD_POMO_GMGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POMO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatmoniecki.gminamoki",
+    "code": "PL_PD_POMO_GMMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POMO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatmoniecki.gminatrzcianne",
+    "code": "PL_PD_POMO_GMTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POMO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatmoniecki.gminajawiy",
+    "code": "PL_PD_POMO_GMJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POMO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatmoniecki.gminajasionwka",
+    "code": "PL_PD_POMO_GMJA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POMO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsoklski.gminadbrowabiaostocka",
+    "code": "PL_PD_POSO_GDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsoklski.gminanowydwr",
+    "code": "PL_PD_POSO_GND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsoklski.gminasokka",
+    "code": "PL_PD_POSO_GMSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsoklski.gminasuchowola",
+    "code": "PL_PD_POSO_GMSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsoklski.gminasidra",
+    "code": "PL_PD_POSO_GMSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsoklski.gminakorycin",
+    "code": "PL_PD_POSO_GMKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsoklski.gminaszudziaowo",
+    "code": "PL_PD_POSO_GMSZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsoklski.gminajanw",
+    "code": "PL_PD_POSO_GMJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsoklski.gminakunica",
+    "code": "PL_PD_POSO_GMKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsoklski.gminakrynki",
+    "code": "PL_PD_POSO_GMKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatkolneski.gminagrabowo",
+    "code": "PL_PD_POKO_GMGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POKO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatkolneski.gminamaypock",
+    "code": "PL_PD_POKO_GMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POKO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatkolneski.gminaturol",
+    "code": "PL_PD_POKO_GMTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POKO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatkolneski.gminakolno",
+    "code": "PL_PD_POKO_GMKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POKO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatkolneski.kolno",
+    "code": "PL_PD_POKO_KOLN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POKO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatkolneski.gminastawiski",
+    "code": "PL_PD_POKO_GMST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POKO"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatgrajewski.gminarajgrd",
+    "code": "PL_PD_POGR_GMRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POGR"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatgrajewski.gminaradziw",
+    "code": "PL_PD_POGR_GMRA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POGR"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatgrajewski.grajewo",
+    "code": "PL_PD_POGR_GRAJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POGR"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatgrajewski.gminagrajewo",
+    "code": "PL_PD_POGR_GMGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POGR"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatgrajewski.gminawsosz",
+    "code": "PL_PD_POGR_GMW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POGR"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatgrajewski.gminaszczuczyn",
+    "code": "PL_PD_POGR_GMSZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POGR"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsuwalski.gminaraczki",
+    "code": "PL_PD_POSU_GMRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSU"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsuwalski.gminafilipw",
+    "code": "PL_PD_POSU_GMFI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSU"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsuwalski.gminabakaarzewo",
+    "code": "PL_PD_POSU_GMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSU"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsuwalski.gminaszypliszki",
+    "code": "PL_PD_POSU_GMSZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSU"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsuwalski.gminaprzerol",
+    "code": "PL_PD_POSU_GMPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSU"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsuwalski.gminarutkatartak",
+    "code": "PL_PD_POSU_GMRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSU"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsuwalski.gminasuwaki",
+    "code": "PL_PD_POSU_GMSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSU"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsuwalski.gminajeleniewo",
+    "code": "PL_PD_POSU_GMJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSU"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatsuwalski.gminawiajny",
+    "code": "PL_PD_POSU_GMWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POSU"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatwysokomazowiecki.gminawysokiemazowieckie",
+    "code": "PL_PD_POWY_GWM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POWY"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatwysokomazowiecki.gminaklukowo",
+    "code": "PL_PD_POWY_GMKL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POWY"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatwysokomazowiecki.gminanowepiekuty",
+    "code": "PL_PD_POWY_GNP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POWY"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatwysokomazowiecki.gminakobylinborzymy",
+    "code": "PL_PD_POWY_GMKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POWY"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatwysokomazowiecki.gminaciechanowiec",
+    "code": "PL_PD_POWY_GMCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POWY"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatwysokomazowiecki.gminaszepietowo",
+    "code": "PL_PD_POWY_GMSZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POWY"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatwysokomazowiecki.gminaczyew",
+    "code": "PL_PD_POWY_GMCZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POWY"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatwysokomazowiecki.gminasokoy",
+    "code": "PL_PD_POWY_GMSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POWY"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatwysokomazowiecki.wysokiemazowieckie",
+    "code": "PL_PD_POWY_WYMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POWY"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatwysokomazowiecki.gminakuleszekocielne",
+    "code": "PL_PD_POWY_GKK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POWY"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatzambrowski.gminarutki",
+    "code": "PL_PD_POZA_GMRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POZA"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatzambrowski.gminaszumowo",
+    "code": "PL_PD_POZA_GMSZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POZA"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatzambrowski.gminakoakikocielne",
+    "code": "PL_PD_POZA_GKK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POZA"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatzambrowski.gminazambrw",
+    "code": "PL_PD_POZA_GMZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POZA"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiatzambrowski.zambrw",
+    "code": "PL_PD_POZA_ZAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POZA"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiathajnowski.gminakleszczele",
+    "code": "PL_PD_POHA_GMKL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POHA"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiathajnowski.gminahajnwka",
+    "code": "PL_PD_POHA_GMHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POHA"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiathajnowski.gminanarewka",
+    "code": "PL_PD_POHA_GMNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POHA"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiathajnowski.gminanarew",
+    "code": "PL_PD_POHA_GMNA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POHA"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiathajnowski.gminabiaowiea",
+    "code": "PL_PD_POHA_GMBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POHA"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiathajnowski.gminaczeremcha",
+    "code": "PL_PD_POHA_GMCZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POHA"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiathajnowski.gminaczye",
+    "code": "PL_PD_POHA_GMCZ2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POHA"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiathajnowski.gminadubiczecerkiewne",
+    "code": "PL_PD_POHA_GDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POHA"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.powiathajnowski.hajnwka",
+    "code": "PL_PD_POHA_HAJN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_POHA"
+  },
+  {
+    "tenantId": "poland.podlaskievoivodeship.biaystok.biaystok",
+    "code": "PL_PD_BIA_BIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PL_PD_BIA"
+  }
+]

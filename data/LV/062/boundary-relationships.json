@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "latvia.mrupesnovads",
+    "code": "LV_062",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "LV"
+  },
+  {
+    "tenantId": "latvia.mrupesnovads.salaspag",
+    "code": "LV_062_SAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LV_062"
+  },
+  {
+    "tenantId": "latvia.mrupesnovads.mrupespag",
+    "code": "LV_062_MPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LV_062"
+  },
+  {
+    "tenantId": "latvia.mrupesnovads.babtespag",
+    "code": "LV_062_BAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LV_062"
+  }
+]

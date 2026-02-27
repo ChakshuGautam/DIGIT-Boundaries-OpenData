@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "samoa.satupaitea",
+    "code": "WS_SATU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "WS"
+  },
+  {
+    "tenantId": "samoa.satupaitea.salega",
+    "code": "WS_SATU_SALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "WS_SATU"
+  },
+  {
+    "tenantId": "samoa.satupaitea.satuipaitea",
+    "code": "WS_SATU_SATU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "WS_SATU"
+  }
+]

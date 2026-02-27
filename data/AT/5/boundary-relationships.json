@@ -1,0 +1,884 @@
+[
+  {
+    "tenantId": "austria.salzburg",
+    "code": "AT_5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "AT"
+  },
+  {
+    "tenantId": "austria.salzburg.hallein",
+    "code": "AT_5_HALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_5"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung",
+    "code": "AT_5_SALZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_5"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgstadt",
+    "code": "AT_5_SALZ2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_5"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau",
+    "code": "AT_5_SJIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_5"
+  },
+  {
+    "tenantId": "austria.salzburg.tamsweg",
+    "code": "AT_5_TAMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_5"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee",
+    "code": "AT_5_ZAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_5"
+  },
+  {
+    "tenantId": "austria.salzburg.hallein.abtenau",
+    "code": "AT_5_HALL_ABTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_HALL"
+  },
+  {
+    "tenantId": "austria.salzburg.hallein.adnet",
+    "code": "AT_5_HALL_ADNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_HALL"
+  },
+  {
+    "tenantId": "austria.salzburg.hallein.annaberglungtz",
+    "code": "AT_5_HALL_ANNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_HALL"
+  },
+  {
+    "tenantId": "austria.salzburg.hallein.badvigaun",
+    "code": "AT_5_HALL_BAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_HALL"
+  },
+  {
+    "tenantId": "austria.salzburg.hallein.gollingandersalzach",
+    "code": "AT_5_HALL_GADS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_HALL"
+  },
+  {
+    "tenantId": "austria.salzburg.hallein.hallein",
+    "code": "AT_5_HALL_HALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_HALL"
+  },
+  {
+    "tenantId": "austria.salzburg.hallein.krispl",
+    "code": "AT_5_HALL_KRIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_HALL"
+  },
+  {
+    "tenantId": "austria.salzburg.hallein.kuchl",
+    "code": "AT_5_HALL_KUCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_HALL"
+  },
+  {
+    "tenantId": "austria.salzburg.hallein.oberalm",
+    "code": "AT_5_HALL_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_HALL"
+  },
+  {
+    "tenantId": "austria.salzburg.hallein.puchbeihallein",
+    "code": "AT_5_HALL_PBH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_HALL"
+  },
+  {
+    "tenantId": "austria.salzburg.hallein.rubachampagschtt",
+    "code": "AT_5_HALL_RAPG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_HALL"
+  },
+  {
+    "tenantId": "austria.salzburg.hallein.sanktkoloman",
+    "code": "AT_5_HALL_SAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_HALL"
+  },
+  {
+    "tenantId": "austria.salzburg.hallein.scheffauamtennengebirge",
+    "code": "AT_5_HALL_SAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_HALL"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.anif",
+    "code": "AT_5_SALZ_ANIF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.anthering",
+    "code": "AT_5_SALZ_ANTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.bergheim",
+    "code": "AT_5_SALZ_BERG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.berndorfbeisalzburg",
+    "code": "AT_5_SALZ_BBS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.brmoos",
+    "code": "AT_5_SALZ_BRM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.dorfbeuern",
+    "code": "AT_5_SALZ_DORF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.ebenau",
+    "code": "AT_5_SALZ_EBEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.elixhausen",
+    "code": "AT_5_SALZ_ELIX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.elsbethen",
+    "code": "AT_5_SALZ_ELSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.eugendorf",
+    "code": "AT_5_SALZ_EUGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.faistenau",
+    "code": "AT_5_SALZ_FAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.fuschlamsee",
+    "code": "AT_5_SALZ_FAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.gming",
+    "code": "AT_5_SALZ_GMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.grdig",
+    "code": "AT_5_SALZ_GRD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.grogmain",
+    "code": "AT_5_SALZ_GROSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.hallwang",
+    "code": "AT_5_SALZ_HALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.henndorfamwallersee",
+    "code": "AT_5_SALZ_HAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.hintersee",
+    "code": "AT_5_SALZ_HINT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.hofbeisalzburg",
+    "code": "AT_5_SALZ_HBS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.koppl",
+    "code": "AT_5_SALZ_KOPP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.kstendorf",
+    "code": "AT_5_SALZ_KST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.lamprechtshausen",
+    "code": "AT_5_SALZ_LAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.mattsee",
+    "code": "AT_5_SALZ_MATT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.neumarktamwallersee",
+    "code": "AT_5_SALZ_NAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.nudorfamhaunsberg",
+    "code": "AT_5_SALZ_NAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.oberndorfbeisalzburg",
+    "code": "AT_5_SALZ_OBS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.obertrumamsee",
+    "code": "AT_5_SALZ_OAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.plainfeld",
+    "code": "AT_5_SALZ_PLAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.sanktgeorgenbeisalzburg",
+    "code": "AT_5_SALZ_SGBS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.sanktgilgen",
+    "code": "AT_5_SALZ_SAGI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.schleedorf",
+    "code": "AT_5_SALZ_SCHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.seeham",
+    "code": "AT_5_SALZ_SEEH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.seekirchenamwallersee",
+    "code": "AT_5_SALZ_SAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.strawalchen",
+    "code": "AT_5_SALZ_STRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.strobl",
+    "code": "AT_5_SALZ_STRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.thalgau",
+    "code": "AT_5_SALZ_THAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgumgebung.walssiezenheim",
+    "code": "AT_5_SALZ_WALS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ"
+  },
+  {
+    "tenantId": "austria.salzburg.salzburgstadt.salzburg",
+    "code": "AT_5_SALZ2_SALZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SALZ2"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.altenmarktimpongau",
+    "code": "AT_5_SJIP_AIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.badgastein",
+    "code": "AT_5_SJIP_BAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.badhofgastein",
+    "code": "AT_5_SJIP_BAHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.bischofshofen",
+    "code": "AT_5_SJIP_BISC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.dorfgastein",
+    "code": "AT_5_SJIP_DORF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.ebenimpongau",
+    "code": "AT_5_SJIP_EIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.filzmoos",
+    "code": "AT_5_SJIP_FILZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.flachau",
+    "code": "AT_5_SJIP_FLAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.forstau",
+    "code": "AT_5_SJIP_FORS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.goldegg",
+    "code": "AT_5_SJIP_GOLD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.groarl",
+    "code": "AT_5_SJIP_GROSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.httau",
+    "code": "AT_5_SJIP_HTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.httschlag",
+    "code": "AT_5_SJIP_HTT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.kleinarl",
+    "code": "AT_5_SJIP_KLEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.mhlbachamhochknig",
+    "code": "AT_5_SJIP_MAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.pfarrwerfen",
+    "code": "AT_5_SJIP_PFAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.radstadt",
+    "code": "AT_5_SJIP_RADS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.sanktjohannimpongau",
+    "code": "AT_5_SJIP_SJIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.sanktmartinamtennengebirge",
+    "code": "AT_5_SJIP_SMAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.sanktveitimpongau",
+    "code": "AT_5_SJIP_SVIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.schwarzachimpongau",
+    "code": "AT_5_SJIP_SIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.untertauern",
+    "code": "AT_5_SJIP_UNTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.wagrain",
+    "code": "AT_5_SJIP_WAGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.werfen",
+    "code": "AT_5_SJIP_WERF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.sanktjohannimpongau.werfenweng",
+    "code": "AT_5_SJIP_WERF2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_SJIP"
+  },
+  {
+    "tenantId": "austria.salzburg.tamsweg.griach",
+    "code": "AT_5_TAMS_GRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_TAMS"
+  },
+  {
+    "tenantId": "austria.salzburg.tamsweg.lessach",
+    "code": "AT_5_TAMS_LESS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_TAMS"
+  },
+  {
+    "tenantId": "austria.salzburg.tamsweg.mariapfarr",
+    "code": "AT_5_TAMS_MARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_TAMS"
+  },
+  {
+    "tenantId": "austria.salzburg.tamsweg.mauterndorf",
+    "code": "AT_5_TAMS_MAUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_TAMS"
+  },
+  {
+    "tenantId": "austria.salzburg.tamsweg.muhr",
+    "code": "AT_5_TAMS_MUHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_TAMS"
+  },
+  {
+    "tenantId": "austria.salzburg.tamsweg.ramingstein",
+    "code": "AT_5_TAMS_RAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_TAMS"
+  },
+  {
+    "tenantId": "austria.salzburg.tamsweg.sanktandrimlungau",
+    "code": "AT_5_TAMS_SAIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_TAMS"
+  },
+  {
+    "tenantId": "austria.salzburg.tamsweg.sanktmargarethenimlungau",
+    "code": "AT_5_TAMS_SMIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_TAMS"
+  },
+  {
+    "tenantId": "austria.salzburg.tamsweg.sanktmichaelimlungau",
+    "code": "AT_5_TAMS_SMIL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_TAMS"
+  },
+  {
+    "tenantId": "austria.salzburg.tamsweg.tamsweg",
+    "code": "AT_5_TAMS_TAMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_TAMS"
+  },
+  {
+    "tenantId": "austria.salzburg.tamsweg.thomatal",
+    "code": "AT_5_TAMS_THOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_TAMS"
+  },
+  {
+    "tenantId": "austria.salzburg.tamsweg.tweng",
+    "code": "AT_5_TAMS_TWEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_TAMS"
+  },
+  {
+    "tenantId": "austria.salzburg.tamsweg.unternberg",
+    "code": "AT_5_TAMS_UNTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_TAMS"
+  },
+  {
+    "tenantId": "austria.salzburg.tamsweg.weipriach",
+    "code": "AT_5_TAMS_WEISS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_TAMS"
+  },
+  {
+    "tenantId": "austria.salzburg.tamsweg.zederhaus",
+    "code": "AT_5_TAMS_ZEDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_TAMS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.brambergamwildkogel",
+    "code": "AT_5_ZAS_BAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.bruckandergroglocknerstra",
+    "code": "AT_5_ZAS_BADG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.dientenamhochknig",
+    "code": "AT_5_ZAS_DAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.fuschandergroglocknerstra",
+    "code": "AT_5_ZAS_FADG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.hollersbachimpinzgau",
+    "code": "AT_5_ZAS_HIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.kaprun",
+    "code": "AT_5_ZAS_KAPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.krimml",
+    "code": "AT_5_ZAS_KRIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.lend",
+    "code": "AT_5_ZAS_LEND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.leogang",
+    "code": "AT_5_ZAS_LEOG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.lofer",
+    "code": "AT_5_ZAS_LOFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.maishofen",
+    "code": "AT_5_ZAS_MAIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.mariaalmamsteinernenmeer",
+    "code": "AT_5_ZAS_MAAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.mittersill",
+    "code": "AT_5_ZAS_MITT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.neukirchenamgrovenediger",
+    "code": "AT_5_ZAS_NAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.niedernsill",
+    "code": "AT_5_ZAS_NIED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.piesendorf",
+    "code": "AT_5_ZAS_PIES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.rauris",
+    "code": "AT_5_ZAS_RAUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.saalbachhinterglemm",
+    "code": "AT_5_ZAS_SAAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.saalfeldenamsteinernenmeer",
+    "code": "AT_5_ZAS_SASM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.sanktmartinbeilofer",
+    "code": "AT_5_ZAS_SMBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.stuhlfelden",
+    "code": "AT_5_ZAS_STUH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.taxenbach",
+    "code": "AT_5_ZAS_TAXE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.unken",
+    "code": "AT_5_ZAS_UNKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.uttendorf",
+    "code": "AT_5_ZAS_UTTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.viehhofen",
+    "code": "AT_5_ZAS_VIEH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.waldimpinzgau",
+    "code": "AT_5_ZAS_WIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.weibachbeilofer",
+    "code": "AT_5_ZAS_WBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  },
+  {
+    "tenantId": "austria.salzburg.zellamsee.zellamsee",
+    "code": "AT_5_ZAS_ZAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_5_ZAS"
+  }
+]

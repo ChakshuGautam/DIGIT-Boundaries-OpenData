@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "nicaragua.granada",
+    "code": "NI_GR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NI"
+  },
+  {
+    "tenantId": "nicaragua.granada.diriomomunicipio",
+    "code": "NI_GR_DIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NI_GR"
+  },
+  {
+    "tenantId": "nicaragua.granada.dirimunicipio",
+    "code": "NI_GR_DIM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NI_GR"
+  },
+  {
+    "tenantId": "nicaragua.granada.nandaimemunicipio",
+    "code": "NI_GR_NAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NI_GR"
+  },
+  {
+    "tenantId": "nicaragua.granada.granadamunicipio",
+    "code": "NI_GR_GRM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NI_GR"
+  }
+]

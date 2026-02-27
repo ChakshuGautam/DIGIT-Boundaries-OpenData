@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "algeria.tindouf",
+    "code": "DZ_37",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "DZ"
+  },
+  {
+    "tenantId": "algeria.tindouf.tindouf",
+    "code": "DZ_37_TIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DZ_37"
+  },
+  {
+    "tenantId": "algeria.tindouf.tindouf.zaouietkounta",
+    "code": "DZ_37_TIND_ZAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "DZ_37_TIND"
+  },
+  {
+    "tenantId": "algeria.tindouf.tindouf.sali",
+    "code": "DZ_37_TIND_SALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "DZ_37_TIND"
+  },
+  {
+    "tenantId": "algeria.tindouf.tindouf.tinduf",
+    "code": "DZ_37_TIND_TIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "DZ_37_TIND"
+  },
+  {
+    "tenantId": "algeria.tindouf.tindouf.oumelassel",
+    "code": "DZ_37_TIND_OEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "DZ_37_TIND"
+  }
+]

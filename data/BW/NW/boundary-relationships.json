@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "botswana.northwestdistrict",
+    "code": "BW_NW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BW"
+  },
+  {
+    "tenantId": "botswana.northwestdistrict.ngamilandwest",
+    "code": "BW_NW_NGWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BW_NW"
+  },
+  {
+    "tenantId": "botswana.northwestdistrict.ngamilandeast",
+    "code": "BW_NW_NGEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BW_NW"
+  }
+]

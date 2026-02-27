@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "israel.southerndistrict",
+    "code": "IL_D",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IL"
+  },
+  {
+    "tenantId": "israel.southerndistrict.beersheva",
+    "code": "IL_D_BESH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IL_D"
+  },
+  {
+    "tenantId": "israel.southerndistrict.ashqelon",
+    "code": "IL_D_ASHQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "IL_D"
+  }
+]

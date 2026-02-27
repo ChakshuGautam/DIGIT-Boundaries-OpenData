@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "guineabissau.tombali",
+    "code": "GW_TO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GW"
+  },
+  {
+    "tenantId": "guineabissau.tombali.setordebedanda",
+    "code": "GW_TO_SDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GW_TO"
+  },
+  {
+    "tenantId": "guineabissau.tombali.setordecacine",
+    "code": "GW_TO_SDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GW_TO"
+  },
+  {
+    "tenantId": "guineabissau.tombali.setordecatie",
+    "code": "GW_TO_SDC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GW_TO"
+  }
+]

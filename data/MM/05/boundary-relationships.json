@@ -1,0 +1,100 @@
+[
+  {
+    "tenantId": "myanmar.tanitharyi",
+    "code": "MM_05",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MM"
+  },
+  {
+    "tenantId": "myanmar.tanitharyi.dawei",
+    "code": "MM_05_DAWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MM_05"
+  },
+  {
+    "tenantId": "myanmar.tanitharyi.kawthoung",
+    "code": "MM_05_KAWT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MM_05"
+  },
+  {
+    "tenantId": "myanmar.tanitharyi.myeik",
+    "code": "MM_05_MYEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MM_05"
+  },
+  {
+    "tenantId": "myanmar.tanitharyi.dawei.launglon",
+    "code": "MM_05_DAWE_LAUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_05_DAWE"
+  },
+  {
+    "tenantId": "myanmar.tanitharyi.dawei.dawei",
+    "code": "MM_05_DAWE_DAWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_05_DAWE"
+  },
+  {
+    "tenantId": "myanmar.tanitharyi.dawei.yebyu",
+    "code": "MM_05_DAWE_YEBY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_05_DAWE"
+  },
+  {
+    "tenantId": "myanmar.tanitharyi.dawei.thayetchaung",
+    "code": "MM_05_DAWE_THAY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_05_DAWE"
+  },
+  {
+    "tenantId": "myanmar.tanitharyi.kawthoung.kawthoung",
+    "code": "MM_05_KAWT_KAWT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_05_KAWT"
+  },
+  {
+    "tenantId": "myanmar.tanitharyi.kawthoung.bokpyin",
+    "code": "MM_05_KAWT_BOKP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_05_KAWT"
+  },
+  {
+    "tenantId": "myanmar.tanitharyi.myeik.myeik",
+    "code": "MM_05_MYEI_MYEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_05_MYEI"
+  },
+  {
+    "tenantId": "myanmar.tanitharyi.myeik.tanintharyi",
+    "code": "MM_05_MYEI_TANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_05_MYEI"
+  },
+  {
+    "tenantId": "myanmar.tanitharyi.myeik.kyunsu",
+    "code": "MM_05_MYEI_KYUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_05_MYEI"
+  },
+  {
+    "tenantId": "myanmar.tanitharyi.myeik.palaw",
+    "code": "MM_05_MYEI_PALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MM_05_MYEI"
+  }
+]

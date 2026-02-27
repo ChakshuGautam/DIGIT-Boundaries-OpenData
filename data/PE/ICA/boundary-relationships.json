@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "peru.ica",
+    "code": "PE_ICA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PE"
+  },
+  {
+    "tenantId": "peru.ica.chincha",
+    "code": "PE_ICA_CHIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_ICA"
+  },
+  {
+    "tenantId": "peru.ica.ica",
+    "code": "PE_ICA_ICA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_ICA"
+  },
+  {
+    "tenantId": "peru.ica.nasca",
+    "code": "PE_ICA_NASC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_ICA"
+  },
+  {
+    "tenantId": "peru.ica.palpa",
+    "code": "PE_ICA_PALP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_ICA"
+  },
+  {
+    "tenantId": "peru.ica.pisco",
+    "code": "PE_ICA_PISC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_ICA"
+  }
+]

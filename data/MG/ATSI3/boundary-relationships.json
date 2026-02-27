@@ -1,0 +1,807 @@
+[
+  {
+    "tenantId": "madagascar.atsimoatsinanana",
+    "code": "MG_ATSI3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vohipeno",
+    "code": "MG_ATSI3_VOHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_ATSI3"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana",
+    "code": "MG_ATSI3_FARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_ATSI3"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano",
+    "code": "MG_ATSI3_VANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_ATSI3"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.midongyatsimo",
+    "code": "MG_ATSI3_MIDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_ATSI3"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vondrozo",
+    "code": "MG_ATSI3_VOND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_ATSI3"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.befotaka",
+    "code": "MG_ATSI3_BEFO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_ATSI3"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vohipeno.vohipeno",
+    "code": "MG_ATSI3_VOHI_VOHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOHI"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vohipeno.vohitrindry",
+    "code": "MG_ATSI3_VOHI_VOHI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOHI"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vohipeno.vohindava",
+    "code": "MG_ATSI3_VOHI_VOHI3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOHI"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vohipeno.ivato",
+    "code": "MG_ATSI3_VOHI_IVAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOHI"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vohipeno.savana",
+    "code": "MG_ATSI3_VOHI_SAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOHI"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vohipeno.anoloka",
+    "code": "MG_ATSI3_VOHI_ANOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOHI"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vohipeno.mahabo",
+    "code": "MG_ATSI3_VOHI_MAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOHI"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vohipeno.ankarimbary",
+    "code": "MG_ATSI3_VOHI_ANKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOHI"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vohipeno.lanivo",
+    "code": "MG_ATSI3_VOHI_LANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOHI"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vohipeno.nato",
+    "code": "MG_ATSI3_VOHI_NATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOHI"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vohipeno.mahasoabe",
+    "code": "MG_ATSI3_VOHI_MAHA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOHI"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vohipeno.onjatsy",
+    "code": "MG_ATSI3_VOHI_ONJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOHI"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vohipeno.vohilany",
+    "code": "MG_ATSI3_VOHI_VOHI4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOHI"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vohipeno.andemaka",
+    "code": "MG_ATSI3_VOHI_ANDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOHI"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vohipeno.ifatsy",
+    "code": "MG_ATSI3_VOHI_IFAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOHI"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vohipeno.antananabo",
+    "code": "MG_ATSI3_VOHI_ANTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOHI"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vohipeno.ilakatra",
+    "code": "MG_ATSI3_VOHI_ILAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOHI"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vohipeno.sahalava",
+    "code": "MG_ATSI3_VOHI_SAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOHI"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vohipeno.mahazoarivo",
+    "code": "MG_ATSI3_VOHI_MAHA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOHI"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.farafangana",
+    "code": "MG_ATSI3_FARA_FARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.vohimasy",
+    "code": "MG_ATSI3_FARA_VOHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.anosivelo",
+    "code": "MG_ATSI3_FARA_ANOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.anosytsararafa",
+    "code": "MG_ATSI3_FARA_ANTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.vohitromby",
+    "code": "MG_ATSI3_FARA_VOHI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.ivandrika",
+    "code": "MG_ATSI3_FARA_IVAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.manambotraatsimo",
+    "code": "MG_ATSI3_FARA_MAAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.mahavelo",
+    "code": "MG_ATSI3_FARA_MAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.mahafasacentre",
+    "code": "MG_ATSI3_FARA_MACE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.amporoforo",
+    "code": "MG_ATSI3_FARA_AMPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.iabohazo",
+    "code": "MG_ATSI3_FARA_IABO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.tangainony",
+    "code": "MG_ATSI3_FARA_TANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.beretrabevoay",
+    "code": "MG_ATSI3_FARA_BEBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.ambohigogo",
+    "code": "MG_ATSI3_FARA_AMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.maheriraty",
+    "code": "MG_ATSI3_FARA_MAHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.mahabomananivo",
+    "code": "MG_ATSI3_FARA_MAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.ambohimandroso",
+    "code": "MG_ATSI3_FARA_AMBO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.ankaranamiraihina",
+    "code": "MG_ATSI3_FARA_ANMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.evato",
+    "code": "MG_ATSI3_FARA_EVAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.etrotrokaatsimo",
+    "code": "MG_ATSI3_FARA_ETAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.ambalavatonord",
+    "code": "MG_ATSI3_FARA_AMNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.efatsy",
+    "code": "MG_ATSI3_FARA_EFAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.tovona",
+    "code": "MG_ATSI3_FARA_TOVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.ambalatany",
+    "code": "MG_ATSI3_FARA_AMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.namohoraiaborano",
+    "code": "MG_ATSI3_FARA_NAIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.sahamadio",
+    "code": "MG_ATSI3_FARA_SAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.fenoarivo",
+    "code": "MG_ATSI3_FARA_FENO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.antseranambe",
+    "code": "MG_ATSI3_FARA_ANTS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.ihorombe",
+    "code": "MG_ATSI3_FARA_IHOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.ambalavatoantevato",
+    "code": "MG_ATSI3_FARA_AMAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.vohilengo",
+    "code": "MG_ATSI3_FARA_VOHI3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.farafangana.marovandrika",
+    "code": "MG_ATSI3_FARA_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_FARA"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.vangaindrano",
+    "code": "MG_ATSI3_VANG_VANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.ampasimalemy",
+    "code": "MG_ATSI3_VANG_AMPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.tsianofana",
+    "code": "MG_ATSI3_VANG_TSIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.bekaraoky",
+    "code": "MG_ATSI3_VANG_BEKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.tsiately",
+    "code": "MG_ATSI3_VANG_TSIA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.soamanova",
+    "code": "MG_ATSI3_VANG_SOAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.lopary",
+    "code": "MG_ATSI3_VANG_LOPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.bema",
+    "code": "MG_ATSI3_VANG_BEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.vohitrambo",
+    "code": "MG_ATSI3_VANG_VOHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.anilobe",
+    "code": "MG_ATSI3_VANG_ANIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.lohafary",
+    "code": "MG_ATSI3_VANG_LOHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.ampataka",
+    "code": "MG_ATSI3_VANG_AMPA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.matanga",
+    "code": "MG_ATSI3_VANG_MATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.masianaka",
+    "code": "MG_ATSI3_VANG_MASI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.vohipaho",
+    "code": "MG_ATSI3_VANG_VOHI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.marokibo",
+    "code": "MG_ATSI3_VANG_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.ranomena",
+    "code": "MG_ATSI3_VANG_RANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.ambongo",
+    "code": "MG_ATSI3_VANG_AMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.ambatolava",
+    "code": "MG_ATSI3_VANG_AMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.iara",
+    "code": "MG_ATSI3_VANG_IARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.bevata",
+    "code": "MG_ATSI3_VANG_BEVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.karimbary",
+    "code": "MG_ATSI3_VANG_KARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.manambondro",
+    "code": "MG_ATSI3_VANG_MANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.fenoambany",
+    "code": "MG_ATSI3_VANG_FENO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.isahara",
+    "code": "MG_ATSI3_VANG_ISAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.vohimalaza",
+    "code": "MG_ATSI3_VANG_VOHI3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.vatanato",
+    "code": "MG_ATSI3_VANG_VATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.amparihyest",
+    "code": "MG_ATSI3_VANG_AMES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vangaindrano.sandravinany",
+    "code": "MG_ATSI3_VANG_SAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VANG"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.midongyatsimo.nosifeno",
+    "code": "MG_ATSI3_MIDO_NOSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_MIDO"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.midongyatsimo.ankazovelo",
+    "code": "MG_ATSI3_MIDO_ANKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_MIDO"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.midongyatsimo.andranolalina",
+    "code": "MG_ATSI3_MIDO_ANDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_MIDO"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.midongyatsimo.maliorano",
+    "code": "MG_ATSI3_MIDO_MALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_MIDO"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.midongyatsimo.ivondro",
+    "code": "MG_ATSI3_MIDO_IVON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_MIDO"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.midongyatsimo.soakibany",
+    "code": "MG_ATSI3_MIDO_SOAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_MIDO"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vondrozo.vondrozo",
+    "code": "MG_ATSI3_VOND_VOND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOND"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vondrozo.manambidala",
+    "code": "MG_ATSI3_VOND_MANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOND"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vondrozo.anandravy",
+    "code": "MG_ATSI3_VOND_ANAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOND"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vondrozo.mahatsinjo",
+    "code": "MG_ATSI3_VOND_MAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOND"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vondrozo.mahazoarivo",
+    "code": "MG_ATSI3_VOND_MAHA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOND"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vondrozo.iamonta",
+    "code": "MG_ATSI3_VOND_IAMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOND"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vondrozo.vohimary",
+    "code": "MG_ATSI3_VOND_VOHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOND"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vondrozo.antokonala",
+    "code": "MG_ATSI3_VOND_ANTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOND"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vondrozo.ambohimana",
+    "code": "MG_ATSI3_VOND_AMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOND"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vondrozo.karianga",
+    "code": "MG_ATSI3_VOND_KARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOND"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vondrozo.manato",
+    "code": "MG_ATSI3_VOND_MANA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOND"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vondrozo.ivato",
+    "code": "MG_ATSI3_VOND_IVAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOND"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vondrozo.mahavelo",
+    "code": "MG_ATSI3_VOND_MAHA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOND"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vondrozo.andakana",
+    "code": "MG_ATSI3_VOND_ANDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOND"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vondrozo.moroteza",
+    "code": "MG_ATSI3_VOND_MORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOND"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.vondrozo.vohiboreka",
+    "code": "MG_ATSI3_VOND_VOHI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_VOND"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.befotaka.antondabe",
+    "code": "MG_ATSI3_BEFO_ANTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_BEFO"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.befotaka.marovitsikasud",
+    "code": "MG_ATSI3_BEFO_MASU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_BEFO"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.befotaka.antaninarenina",
+    "code": "MG_ATSI3_BEFO_ANTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_BEFO"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.befotaka.befotakasud",
+    "code": "MG_ATSI3_BEFO_BESU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_BEFO"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.befotaka.beharena",
+    "code": "MG_ATSI3_BEFO_BEHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_BEFO"
+  },
+  {
+    "tenantId": "madagascar.atsimoatsinanana.befotaka.bekofafasud",
+    "code": "MG_ATSI3_BEFO_BESU2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_ATSI3_BEFO"
+  }
+]

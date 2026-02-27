@@ -1,0 +1,72 @@
+[
+  {
+    "tenantId": "finland.kymenlaakso",
+    "code": "FI_09",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "FI"
+  },
+  {
+    "tenantId": "finland.kymenlaakso.kouvolanseutukunta",
+    "code": "FI_09_KOSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_09"
+  },
+  {
+    "tenantId": "finland.kymenlaakso.kotkanhaminanseutukunta",
+    "code": "FI_09_KOSE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_09"
+  },
+  {
+    "tenantId": "finland.kymenlaakso.kouvolanseutukunta.iitti",
+    "code": "FI_09_KOSE_IITT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_09_KOSE"
+  },
+  {
+    "tenantId": "finland.kymenlaakso.kouvolanseutukunta.kouvola",
+    "code": "FI_09_KOSE_KOUV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_09_KOSE"
+  },
+  {
+    "tenantId": "finland.kymenlaakso.kotkanhaminanseutukunta.miehikkl",
+    "code": "FI_09_KOSE2_MIEH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_09_KOSE2"
+  },
+  {
+    "tenantId": "finland.kymenlaakso.kotkanhaminanseutukunta.virolahti",
+    "code": "FI_09_KOSE2_VIRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_09_KOSE2"
+  },
+  {
+    "tenantId": "finland.kymenlaakso.kotkanhaminanseutukunta.pyht",
+    "code": "FI_09_KOSE2_PYHT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_09_KOSE2"
+  },
+  {
+    "tenantId": "finland.kymenlaakso.kotkanhaminanseutukunta.kotka",
+    "code": "FI_09_KOSE2_KOTK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_09_KOSE2"
+  },
+  {
+    "tenantId": "finland.kymenlaakso.kotkanhaminanseutukunta.hamina",
+    "code": "FI_09_KOSE2_HAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_09_KOSE2"
+  }
+]

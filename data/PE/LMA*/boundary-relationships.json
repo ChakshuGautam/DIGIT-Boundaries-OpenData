@@ -1,0 +1,16 @@
+[
+  {
+    "tenantId": "peru.municipalidadmetropolitanadelima",
+    "code": "PE_LMA*",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PE"
+  },
+  {
+    "tenantId": "peru.municipalidadmetropolitanadelima.lima",
+    "code": "PE_LMA*_LIMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PE_LMA*"
+  }
+]

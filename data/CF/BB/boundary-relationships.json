@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "centralafricanrepublic.baminguibangoran",
+    "code": "CF_BB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CF"
+  },
+  {
+    "tenantId": "centralafricanrepublic.baminguibangoran.ndl",
+    "code": "CF_BB_NDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CF_BB"
+  },
+  {
+    "tenantId": "centralafricanrepublic.baminguibangoran.bamingui",
+    "code": "CF_BB_BAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CF_BB"
+  },
+  {
+    "tenantId": "centralafricanrepublic.baminguibangoran.ndl.darelkouti",
+    "code": "CF_BB_NDL_DEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CF_BB_NDL"
+  },
+  {
+    "tenantId": "centralafricanrepublic.baminguibangoran.ndl.mbolopata",
+    "code": "CF_BB_NDL_MBOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CF_BB_NDL"
+  },
+  {
+    "tenantId": "centralafricanrepublic.baminguibangoran.bamingui.vassako",
+    "code": "CF_BB_BAMI_VASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CF_BB_BAMI"
+  }
+]

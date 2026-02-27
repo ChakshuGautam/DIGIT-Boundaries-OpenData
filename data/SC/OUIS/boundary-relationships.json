@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "seychelles.outerisla",
+    "code": "SC_OUIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SC"
+  },
+  {
+    "tenantId": "seychelles.outerisla.otherislands",
+    "code": "SC_OUIS_OTIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SC_OUIS"
+  },
+  {
+    "tenantId": "seychelles.outerisla.otherislands.otherislands",
+    "code": "SC_OUIS_OTIS_OTIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SC_OUIS_OTIS"
+  }
+]

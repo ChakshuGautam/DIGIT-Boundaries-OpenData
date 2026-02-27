@@ -1,0 +1,51 @@
+[
+  {
+    "tenantId": "eritrea",
+    "code": "ER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "eritrea.ansebaregion",
+    "code": "ER_AN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "ER"
+  },
+  {
+    "tenantId": "eritrea.gashbarkaregion",
+    "code": "ER_GB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "ER"
+  },
+  {
+    "tenantId": "eritrea.debubregion",
+    "code": "ER_DU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "ER"
+  },
+  {
+    "tenantId": "eritrea.maekelregion",
+    "code": "ER_MA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "ER"
+  },
+  {
+    "tenantId": "eritrea.northenredsearegion",
+    "code": "ER_SK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "ER"
+  },
+  {
+    "tenantId": "eritrea.southernredsearegion",
+    "code": "ER_DK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "ER"
+  }
+]

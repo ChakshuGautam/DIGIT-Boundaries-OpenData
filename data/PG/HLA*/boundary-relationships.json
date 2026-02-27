@@ -1,0 +1,114 @@
+[
+  {
+    "tenantId": "papuanewguinea.helaprovince",
+    "code": "PG_HLA*",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PG"
+  },
+  {
+    "tenantId": "papuanewguinea.helaprovince.komomagarimadistrict",
+    "code": "PG_HLA*_KODI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PG_HLA*"
+  },
+  {
+    "tenantId": "papuanewguinea.helaprovince.korobakopiagodistrict",
+    "code": "PG_HLA*_KODI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PG_HLA*"
+  },
+  {
+    "tenantId": "papuanewguinea.helaprovince.tariporidistrict",
+    "code": "PG_HLA*_TADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PG_HLA*"
+  },
+  {
+    "tenantId": "papuanewguinea.helaprovince.komomagarimadistrict.huliaruralllg",
+    "code": "PG_HLA*_KODI_HRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_HLA*_KODI"
+  },
+  {
+    "tenantId": "papuanewguinea.helaprovince.komomagarimadistrict.komoruralllg",
+    "code": "PG_HLA*_KODI_KRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_HLA*_KODI"
+  },
+  {
+    "tenantId": "papuanewguinea.helaprovince.komomagarimadistrict.lowerwagellg",
+    "code": "PG_HLA*_KODI_LWL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_HLA*_KODI"
+  },
+  {
+    "tenantId": "papuanewguinea.helaprovince.komomagarimadistrict.upperwagellg",
+    "code": "PG_HLA*_KODI_UWL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_HLA*_KODI"
+  },
+  {
+    "tenantId": "papuanewguinea.helaprovince.korobakopiagodistrict.awiporiruralllg",
+    "code": "PG_HLA*_KODI2_ARL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_HLA*_KODI2"
+  },
+  {
+    "tenantId": "papuanewguinea.helaprovince.korobakopiagodistrict.lakekopiagoruralllg",
+    "code": "PG_HLA*_KODI2_LKRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_HLA*_KODI2"
+  },
+  {
+    "tenantId": "papuanewguinea.helaprovince.korobakopiagodistrict.northkorobaruralllg",
+    "code": "PG_HLA*_KODI2_NKRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_HLA*_KODI2"
+  },
+  {
+    "tenantId": "papuanewguinea.helaprovince.korobakopiagodistrict.southkorobaruralllg",
+    "code": "PG_HLA*_KODI2_SKRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_HLA*_KODI2"
+  },
+  {
+    "tenantId": "papuanewguinea.helaprovince.tariporidistrict.hayapugaruralllg",
+    "code": "PG_HLA*_TADI_HRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_HLA*_TADI"
+  },
+  {
+    "tenantId": "papuanewguinea.helaprovince.tariporidistrict.tagaliruralllg",
+    "code": "PG_HLA*_TADI_TRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_HLA*_TADI"
+  },
+  {
+    "tenantId": "papuanewguinea.helaprovince.tariporidistrict.tariurbanllg",
+    "code": "PG_HLA*_TADI_TUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_HLA*_TADI"
+  },
+  {
+    "tenantId": "papuanewguinea.helaprovince.tariporidistrict.tebiruralllg",
+    "code": "PG_HLA*_TADI_TRL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PG_HLA*_TADI"
+  }
+]

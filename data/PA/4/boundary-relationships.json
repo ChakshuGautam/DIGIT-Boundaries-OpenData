@@ -1,0 +1,863 @@
+[
+  {
+    "tenantId": "panama.provinciadechiriqu",
+    "code": "PA_4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.renacimiento",
+    "code": "PA_4_RENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PA_4"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.sanflix",
+    "code": "PA_4_SAF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PA_4"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.bar",
+    "code": "PA_4_BAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PA_4"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.alanje",
+    "code": "PA_4_ALAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PA_4"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.boquern",
+    "code": "PA_4_BOQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PA_4"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.boquete",
+    "code": "PA_4_BOQU2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PA_4"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.bugaba",
+    "code": "PA_4_BUGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PA_4"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.gualaca",
+    "code": "PA_4_GUAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PA_4"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.tol",
+    "code": "PA_4_TOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PA_4"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.sanlorenzo",
+    "code": "PA_4_SALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PA_4"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.remedios",
+    "code": "PA_4_REME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PA_4"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.dolega",
+    "code": "PA_4_DOLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PA_4"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.mna",
+    "code": "PA_4_MNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PA_4"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.david",
+    "code": "PA_4_DAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PA_4"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.renacimiento.montelirio",
+    "code": "PA_4_RENA_MOLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_RENA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.renacimiento.plazacaisn",
+    "code": "PA_4_RENA_PLCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_RENA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.renacimiento.roserenocab",
+    "code": "PA_4_RENA_RS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_RENA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.renacimiento.caasgordas",
+    "code": "PA_4_RENA_CAGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_RENA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.renacimiento.dominical",
+    "code": "PA_4_RENA_DOMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_RENA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.renacimiento.bren",
+    "code": "PA_4_RENA_BRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_RENA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.renacimiento.santaclara",
+    "code": "PA_4_RENA_SACL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_RENA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.renacimiento.santacruz",
+    "code": "PA_4_RENA_SACR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_RENA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.sanflix.laslajascab",
+    "code": "PA_4_SAF_LL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_SAF"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.sanflix.juay",
+    "code": "PA_4_SAF_JUAY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_SAF"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.sanflix.lajasadentro",
+    "code": "PA_4_SAF_LAAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_SAF"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.sanflix.sanfelix",
+    "code": "PA_4_SAF_SAFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_SAF"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.sanflix.santacruz",
+    "code": "PA_4_SAF_SACR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_SAF"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.bar.puertoarmuelles",
+    "code": "PA_4_BAR_PUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BAR"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.bar.limones",
+    "code": "PA_4_BAR_LIMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BAR"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.bar.baco",
+    "code": "PA_4_BAR_BACO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BAR"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.bar.rodolfoaguilardelgado",
+    "code": "PA_4_BAR_RAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BAR"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.alanje.dival",
+    "code": "PA_4_ALAN_DIVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_ALAN"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.alanje.santotoms",
+    "code": "PA_4_ALAN_SATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_ALAN"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.alanje.eltejar",
+    "code": "PA_4_ALAN_ELTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_ALAN"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.alanje.palogrande",
+    "code": "PA_4_ALAN_PAGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_ALAN"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.alanje.quervalo",
+    "code": "PA_4_ALAN_QUER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_ALAN"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.alanje.guarumal",
+    "code": "PA_4_ALAN_GUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_ALAN"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.alanje.nuevomxico",
+    "code": "PA_4_ALAN_NUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_ALAN"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.alanje.alanje",
+    "code": "PA_4_ALAN_ALAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_ALAN"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.alanje.cantagallo",
+    "code": "PA_4_ALAN_CAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_ALAN"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.boquern.boquerncab",
+    "code": "PA_4_BOQU_BOC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BOQU"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.boquern.guabal",
+    "code": "PA_4_BOQU_GUAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BOQU"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.boquern.cordillera",
+    "code": "PA_4_BOQU_CORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BOQU"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.boquern.guayabal",
+    "code": "PA_4_BOQU_GUAY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BOQU"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.boquern.pedregal",
+    "code": "PA_4_BOQU_PEDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BOQU"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.boquern.tijeras",
+    "code": "PA_4_BOQU_TIJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BOQU"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.boquern.bgala",
+    "code": "PA_4_BOQU_BGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BOQU"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.boquern.paraso",
+    "code": "PA_4_BOQU_PARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BOQU"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.boquete.palmira",
+    "code": "PA_4_BOQU2_PALM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BOQU2"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.boquete.losnaranjos",
+    "code": "PA_4_BOQU2_LONA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BOQU2"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.boquete.bajoboquetecab",
+    "code": "PA_4_BOQU2_BB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BOQU2"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.boquete.jaramillo",
+    "code": "PA_4_BOQU2_JARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BOQU2"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.boquete.caldera",
+    "code": "PA_4_BOQU2_CALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BOQU2"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.boquete.altoboquete",
+    "code": "PA_4_BOQU2_ALBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BOQU2"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.bugaba.laestrella",
+    "code": "PA_4_BUGA_LAES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BUGA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.bugaba.santodomingo",
+    "code": "PA_4_BUGA_SADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BUGA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.bugaba.santamarta",
+    "code": "PA_4_BUGA_SAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BUGA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.bugaba.aserrodegarich",
+    "code": "PA_4_BUGA_ADG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BUGA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.bugaba.gmez",
+    "code": "PA_4_BUGA_GME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BUGA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.bugaba.volcn",
+    "code": "PA_4_BUGA_VOLC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BUGA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.bugaba.laconcepcincab",
+    "code": "PA_4_BUGA_LC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BUGA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.bugaba.sortov",
+    "code": "PA_4_BUGA_SORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BUGA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.bugaba.santarosa",
+    "code": "PA_4_BUGA_SARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BUGA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.bugaba.sanandrs",
+    "code": "PA_4_BUGA_SAAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BUGA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.bugaba.progreso",
+    "code": "PA_4_BUGA_PROG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BUGA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.bugaba.bugaba",
+    "code": "PA_4_BUGA_BUGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BUGA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.bugaba.elbongo",
+    "code": "PA_4_BUGA_ELBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BUGA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.bugaba.cerropunta",
+    "code": "PA_4_BUGA_CEPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_BUGA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.gualaca.gualacacab",
+    "code": "PA_4_GUAL_GUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_GUAL"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.gualaca.hornito",
+    "code": "PA_4_GUAL_HORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_GUAL"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.gualaca.losangeles",
+    "code": "PA_4_GUAL_LOAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_GUAL"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.gualaca.pajadesombrero",
+    "code": "PA_4_GUAL_PDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_GUAL"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.gualaca.rincn",
+    "code": "PA_4_GUAL_RINC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_GUAL"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.tol.quebradadepiedra",
+    "code": "PA_4_TOL_QDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_TOL"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.tol.lajasdetol",
+    "code": "PA_4_TOL_LDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_TOL"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.tol.bellavista",
+    "code": "PA_4_TOL_BEVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_TOL"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.tol.cerroviejo",
+    "code": "PA_4_TOL_CEVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_TOL"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.tol.justofidelpalacios",
+    "code": "PA_4_TOL_JFP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_TOL"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.tol.elcristo",
+    "code": "PA_4_TOL_ELCR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_TOL"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.tol.veladero",
+    "code": "PA_4_TOL_VELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_TOL"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.tol.tolcab",
+    "code": "PA_4_TOL_TOC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_TOL"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.tol.nibra",
+    "code": "PA_4_TOL_NIBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_TOL"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.tol.bakama",
+    "code": "PA_4_TOL_BAKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_TOL"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.sanlorenzo.horconcitoscab",
+    "code": "PA_4_SALO_HOC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_SALO"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.sanlorenzo.bocadelmonte",
+    "code": "PA_4_SALO_BDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_SALO"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.sanlorenzo.sanjuan",
+    "code": "PA_4_SALO_SAJU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_SALO"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.sanlorenzo.bocachica",
+    "code": "PA_4_SALO_BOCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_SALO"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.sanlorenzo.sanlorenzo",
+    "code": "PA_4_SALO_SALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_SALO"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.remedios.remedioscab",
+    "code": "PA_4_REME_REC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_REME"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.remedios.elnancito",
+    "code": "PA_4_REME_ELNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_REME"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.remedios.elporvenir",
+    "code": "PA_4_REME_ELPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_REME"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.remedios.santaluca",
+    "code": "PA_4_REME_SALU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_REME"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.remedios.elpuerto",
+    "code": "PA_4_REME_ELPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_REME"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.dolega.dolega",
+    "code": "PA_4_DOLE_DOLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_DOLE"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.dolega.dosros",
+    "code": "PA_4_DOLE_DOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_DOLE"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.dolega.losanastacios",
+    "code": "PA_4_DOLE_LOAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_DOLE"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.dolega.potrerillos",
+    "code": "PA_4_DOLE_POTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_DOLE"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.dolega.potrerillosabajo",
+    "code": "PA_4_DOLE_POAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_DOLE"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.dolega.tinajas",
+    "code": "PA_4_DOLE_TINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_DOLE"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.dolega.rovira",
+    "code": "PA_4_DOLE_ROVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_DOLE"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.dolega.losalgarrobos",
+    "code": "PA_4_DOLE_LOAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_DOLE"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.mna.potrerodecaa",
+    "code": "PA_4_MNA_PDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_MNA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.mna.kra",
+    "code": "PA_4_MNA_KRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_MNA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.mna.sitioprado",
+    "code": "PA_4_MNA_SIPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_MNA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.mna.altocaballero",
+    "code": "PA_4_MNA_ALCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_MNA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.mna.chichicacab",
+    "code": "PA_4_MNA_CHC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_MNA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.mna.cerrocaa",
+    "code": "PA_4_MNA_CECA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_MNA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.mna.cerropuerco",
+    "code": "PA_4_MNA_CEPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_MNA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.mna.maraca",
+    "code": "PA_4_MNA_MARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_MNA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.mna.mani",
+    "code": "PA_4_MNA_MAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_MNA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.mna.peablanca",
+    "code": "PA_4_MNA_PEBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_MNA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.mna.roka",
+    "code": "PA_4_MNA_ROKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_MNA"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.david.chiriqu",
+    "code": "PA_4_DAVI_CHIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_DAVI"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.david.pedregal",
+    "code": "PA_4_DAVI_PEDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_DAVI"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.david.sanpablonuevo",
+    "code": "PA_4_DAVI_SPN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_DAVI"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.david.guac",
+    "code": "PA_4_DAVI_GUAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_DAVI"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.david.laslomas",
+    "code": "PA_4_DAVI_LALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_DAVI"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.david.bijagual",
+    "code": "PA_4_DAVI_BIJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_DAVI"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.david.cochea",
+    "code": "PA_4_DAVI_COCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_DAVI"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.david.davidcab",
+    "code": "PA_4_DAVI_DAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_DAVI"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.david.sanpabloviejo",
+    "code": "PA_4_DAVI_SPV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_DAVI"
+  },
+  {
+    "tenantId": "panama.provinciadechiriqu.david.sancarlos",
+    "code": "PA_4_DAVI_SACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PA_4_DAVI"
+  }
+]

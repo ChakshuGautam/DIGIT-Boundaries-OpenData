@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "greece.agionoros",
+    "code": "GR_MA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GR"
+  },
+  {
+    "tenantId": "greece.agionoros.agionoros",
+    "code": "GR_MA_AGOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GR_MA"
+  },
+  {
+    "tenantId": "greece.agionoros.agionoros.mountanthos",
+    "code": "GR_MA_AGOR_MOAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MA_AGOR"
+  },
+  {
+    "tenantId": "greece.agionoros.agionoros.lemnos",
+    "code": "GR_MA_AGOR_LEMN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "GR_MA_AGOR"
+  }
+]

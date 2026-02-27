@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "congo.sangha",
+    "code": "CG_13",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CG"
+  },
+  {
+    "tenantId": "congo.sangha.bokosongho",
+    "code": "CG_13_BOKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CG_13"
+  },
+  {
+    "tenantId": "congo.sangha.mayama",
+    "code": "CG_13_MAYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CG_13"
+  },
+  {
+    "tenantId": "congo.sangha.mindouli",
+    "code": "CG_13_MIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CG_13"
+  }
+]

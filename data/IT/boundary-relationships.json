@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "italy",
+    "code": "IT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "italy.nordovest",
+    "code": "IT_NORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IT"
+  },
+  {
+    "tenantId": "italy.nordest",
+    "code": "IT_NORD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IT"
+  },
+  {
+    "tenantId": "italy.centro",
+    "code": "IT_CENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IT"
+  },
+  {
+    "tenantId": "italy.sud",
+    "code": "IT_SUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IT"
+  },
+  {
+    "tenantId": "italy.isole",
+    "code": "IT_ISOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "IT"
+  }
+]

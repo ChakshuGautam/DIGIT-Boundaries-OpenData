@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "chad.tandjil",
+    "code": "TD_TA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TD"
+  },
+  {
+    "tenantId": "chad.tandjil.tandjilest",
+    "code": "TD_TA_TAES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_TA"
+  },
+  {
+    "tenantId": "chad.tandjil.tandjileouest",
+    "code": "TD_TA_TAOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_TA"
+  },
+  {
+    "tenantId": "chad.tandjil.tandjilcentre",
+    "code": "TD_TA_TACE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_TA"
+  }
+]

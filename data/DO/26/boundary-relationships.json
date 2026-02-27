@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "dominicanrepublic.santiagorodrguez",
+    "code": "DO_26",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "DO"
+  },
+  {
+    "tenantId": "dominicanrepublic.santiagorodrguez.losalmcigos",
+    "code": "DO_26_LOAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DO_26"
+  },
+  {
+    "tenantId": "dominicanrepublic.santiagorodrguez.moncin",
+    "code": "DO_26_MONC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DO_26"
+  },
+  {
+    "tenantId": "dominicanrepublic.santiagorodrguez.sanignaciodesabaneta",
+    "code": "DO_26_SIDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DO_26"
+  }
+]

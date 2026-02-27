@@ -1,0 +1,884 @@
+[
+  {
+    "tenantId": "colombia.antioquia",
+    "code": "CO_ANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CO"
+  },
+  {
+    "tenantId": "colombia.antioquia.sanrafael",
+    "code": "CO_ANT_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.sanroque",
+    "code": "CO_ANT_SARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.sanvicente",
+    "code": "CO_ANT_SAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.santabrbara",
+    "code": "CO_ANT_SAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.santuario",
+    "code": "CO_ANT_SANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.segovia",
+    "code": "CO_ANT_SEGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.sonsn",
+    "code": "CO_ANT_SONS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.sopetrn",
+    "code": "CO_ANT_SOPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.tmesis",
+    "code": "CO_ANT_TME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.taraz",
+    "code": "CO_ANT_TARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.tarso",
+    "code": "CO_ANT_TARS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.titirib",
+    "code": "CO_ANT_TITI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.uramita",
+    "code": "CO_ANT_URAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.valdivia",
+    "code": "CO_ANT_VALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.valparaso",
+    "code": "CO_ANT_VALP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.vegach",
+    "code": "CO_ANT_VEGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.venecia",
+    "code": "CO_ANT_VENE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.yali",
+    "code": "CO_ANT_YALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.yarumal",
+    "code": "CO_ANT_YARU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.yolomb",
+    "code": "CO_ANT_YOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.zaragoza",
+    "code": "CO_ANT_ZARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.abejorral",
+    "code": "CO_ANT_ABEJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.abriaqu",
+    "code": "CO_ANT_ABRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.alejandra",
+    "code": "CO_ANT_ALEJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.amag",
+    "code": "CO_ANT_AMAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.andes",
+    "code": "CO_ANT_ANDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.angelpolis",
+    "code": "CO_ANT_ANGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.angostura",
+    "code": "CO_ANT_ANGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.anor",
+    "code": "CO_ANT_ANOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.anz",
+    "code": "CO_ANT_ANZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.argelia",
+    "code": "CO_ANT_ARGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.armenia",
+    "code": "CO_ANT_ARME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.betania",
+    "code": "CO_ANT_BETA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.betulia",
+    "code": "CO_ANT_BETU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.ciudadbolvar",
+    "code": "CO_ANT_CIBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.briceo",
+    "code": "CO_ANT_BRIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.buritic",
+    "code": "CO_ANT_BURI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.cceres",
+    "code": "CO_ANT_CCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.caicedo",
+    "code": "CO_ANT_CAIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.campamento",
+    "code": "CO_ANT_CAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.caracol",
+    "code": "CO_ANT_CARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.caramanta",
+    "code": "CO_ANT_CARA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.elcarmendeviboral",
+    "code": "CO_ANT_ECDV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.carolina",
+    "code": "CO_ANT_CARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.chigorod",
+    "code": "CO_ANT_CHIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.cisneros",
+    "code": "CO_ANT_CISN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.cocorn",
+    "code": "CO_ANT_COCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.concepcin",
+    "code": "CO_ANT_CONC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.concordia",
+    "code": "CO_ANT_CONC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.donmatas",
+    "code": "CO_ANT_DOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.elbagre",
+    "code": "CO_ANT_ELBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.entrerrios",
+    "code": "CO_ANT_ENTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.fredonia",
+    "code": "CO_ANT_FRED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.frontino",
+    "code": "CO_ANT_FRON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.giraldo",
+    "code": "CO_ANT_GIRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.granada",
+    "code": "CO_ANT_GRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.guarne",
+    "code": "CO_ANT_GUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.guatap",
+    "code": "CO_ANT_GUAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.heliconia",
+    "code": "CO_ANT_HELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.hispania",
+    "code": "CO_ANT_HISP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.ituango",
+    "code": "CO_ANT_ITUA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.jeric",
+    "code": "CO_ANT_JERI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.lapintada",
+    "code": "CO_ANT_LAPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.launin",
+    "code": "CO_ANT_LAUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.maceo",
+    "code": "CO_ANT_MACE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.marinilla",
+    "code": "CO_ANT_MARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.montebello",
+    "code": "CO_ANT_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.nario",
+    "code": "CO_ANT_NARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.nech",
+    "code": "CO_ANT_NECH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.olaya",
+    "code": "CO_ANT_OLAY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.peol",
+    "code": "CO_ANT_PEO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.peque",
+    "code": "CO_ANT_PEQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.pueblorrico",
+    "code": "CO_ANT_PUEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.puertoberro",
+    "code": "CO_ANT_PUBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.puertonare",
+    "code": "CO_ANT_PUNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.puertotriunfo",
+    "code": "CO_ANT_PUTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.remedios",
+    "code": "CO_ANT_REME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.retiro",
+    "code": "CO_ANT_RETI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.sabanalarga",
+    "code": "CO_ANT_SABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.salgar",
+    "code": "CO_ANT_SALG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.sanandrs",
+    "code": "CO_ANT_SAAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.sancarlos",
+    "code": "CO_ANT_SACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.sanfrancisco",
+    "code": "CO_ANT_SAFR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.sanjosdelamontaa",
+    "code": "CO_ANT_SJDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.sanjuandeurab",
+    "code": "CO_ANT_SJDU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.sanluis",
+    "code": "CO_ANT_SALU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.sanpedro",
+    "code": "CO_ANT_SAPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.sanpedrodeuraba",
+    "code": "CO_ANT_SPDU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.envigado",
+    "code": "CO_ANT_ENVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.itag",
+    "code": "CO_ANT_ITAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.jardn",
+    "code": "CO_ANT_JARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.laceja",
+    "code": "CO_ANT_LACE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.caldas",
+    "code": "CO_ANT_CALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.sanjernimo",
+    "code": "CO_ANT_SAJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.barbosa",
+    "code": "CO_ANT_BARB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.santodomingo",
+    "code": "CO_ANT_SADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.urrao",
+    "code": "CO_ANT_URRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.santafedeantioquia",
+    "code": "CO_ANT_SFDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.belmira",
+    "code": "CO_ANT_BELM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.liborina",
+    "code": "CO_ANT_LIBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.vigiadelfuerte",
+    "code": "CO_ANT_VDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.gmezplata",
+    "code": "CO_ANT_GPL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.santarosadeosos",
+    "code": "CO_ANT_SRDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.guadalupe",
+    "code": "CO_ANT_GUAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.caasgordas",
+    "code": "CO_ANT_CAA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.murind",
+    "code": "CO_ANT_MURI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.toledo",
+    "code": "CO_ANT_TOLE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.dabeiba",
+    "code": "CO_ANT_DABE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.amalfi",
+    "code": "CO_ANT_AMAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.yondcasabe",
+    "code": "CO_ANT_YOC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.mutat",
+    "code": "CO_ANT_MUTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.carepa",
+    "code": "CO_ANT_CARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.apartad",
+    "code": "CO_ANT_APAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.caucasia",
+    "code": "CO_ANT_CAUC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.turbo",
+    "code": "CO_ANT_TURB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.necocl",
+    "code": "CO_ANT_NECO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.arboletes",
+    "code": "CO_ANT_ARBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.rionegro",
+    "code": "CO_ANT_RION",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.medelln",
+    "code": "CO_ANT_MEDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.ebjico",
+    "code": "CO_ANT_EBJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.copacabana",
+    "code": "CO_ANT_COPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.bello",
+    "code": "CO_ANT_BELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.girardota",
+    "code": "CO_ANT_GIRA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.sabaneta",
+    "code": "CO_ANT_SABA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  },
+  {
+    "tenantId": "colombia.antioquia.laestrella",
+    "code": "CO_ANT_LAES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_ANT"
+  }
+]

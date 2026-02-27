@@ -1,0 +1,107 @@
+[
+  {
+    "tenantId": "chile.regindemagallanesyantrticachilena",
+    "code": "CL_RDMY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CL"
+  },
+  {
+    "tenantId": "chile.regindemagallanesyantrticachilena.provinciademagallanes",
+    "code": "CL_RDMY_PDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CL_RDMY"
+  },
+  {
+    "tenantId": "chile.regindemagallanesyantrticachilena.provinciadelaantrticachilena",
+    "code": "CL_RDMY_PDLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CL_RDMY"
+  },
+  {
+    "tenantId": "chile.regindemagallanesyantrticachilena.provinciadetierradelfuego",
+    "code": "CL_RDMY_PDTD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CL_RDMY"
+  },
+  {
+    "tenantId": "chile.regindemagallanesyantrticachilena.provinciadeltimaesperanza",
+    "code": "CL_RDMY_PDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CL_RDMY"
+  },
+  {
+    "tenantId": "chile.regindemagallanesyantrticachilena.provinciademagallanes.lagunablanca",
+    "code": "CL_RDMY_PDM_LABL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDMY_PDM"
+  },
+  {
+    "tenantId": "chile.regindemagallanesyantrticachilena.provinciademagallanes.roverde",
+    "code": "CL_RDMY_PDM_RVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDMY_PDM"
+  },
+  {
+    "tenantId": "chile.regindemagallanesyantrticachilena.provinciademagallanes.puntaarenas",
+    "code": "CL_RDMY_PDM_PUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDMY_PDM"
+  },
+  {
+    "tenantId": "chile.regindemagallanesyantrticachilena.provinciadelaantrticachilena.cabodehornos",
+    "code": "CL_RDMY_PDLA_CDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDMY_PDLA"
+  },
+  {
+    "tenantId": "chile.regindemagallanesyantrticachilena.provinciadetierradelfuego.primavera",
+    "code": "CL_RDMY_PDTD_PRIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDMY_PDTD"
+  },
+  {
+    "tenantId": "chile.regindemagallanesyantrticachilena.provinciadetierradelfuego.porvenir",
+    "code": "CL_RDMY_PDTD_PORV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDMY_PDTD"
+  },
+  {
+    "tenantId": "chile.regindemagallanesyantrticachilena.provinciadetierradelfuego.timaukel",
+    "code": "CL_RDMY_PDTD_TIMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDMY_PDTD"
+  },
+  {
+    "tenantId": "chile.regindemagallanesyantrticachilena.provinciadetierradelfuego.sangregorio",
+    "code": "CL_RDMY_PDTD_SAGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDMY_PDTD"
+  },
+  {
+    "tenantId": "chile.regindemagallanesyantrticachilena.provinciadeltimaesperanza.torresdelpaine",
+    "code": "CL_RDMY_PDE_TDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDMY_PDE"
+  },
+  {
+    "tenantId": "chile.regindemagallanesyantrticachilena.provinciadeltimaesperanza.natales",
+    "code": "CL_RDMY_PDE_NATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDMY_PDE"
+  }
+]

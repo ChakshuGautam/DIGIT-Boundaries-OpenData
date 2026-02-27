@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "chad.lac",
+    "code": "TD_LC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TD"
+  },
+  {
+    "tenantId": "chad.lac.mamdi",
+    "code": "TD_LC_MAMD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_LC"
+  },
+  {
+    "tenantId": "chad.lac.wayi",
+    "code": "TD_LC_WAYI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_LC"
+  },
+  {
+    "tenantId": "chad.lac.fouli",
+    "code": "TD_LC_FOUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_LC"
+  },
+  {
+    "tenantId": "chad.lac.kaya",
+    "code": "TD_LC_KAYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_LC"
+  }
+]

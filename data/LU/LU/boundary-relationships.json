@@ -1,0 +1,163 @@
+[
+  {
+    "tenantId": "luxembourg.cantonluxembourg",
+    "code": "LU_LU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "LU"
+  },
+  {
+    "tenantId": "luxembourg.cantonluxembourg.luxembourg",
+    "code": "LU_LU_LUXE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LU_LU"
+  },
+  {
+    "tenantId": "luxembourg.cantonluxembourg.strassen",
+    "code": "LU_LU_STRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LU_LU"
+  },
+  {
+    "tenantId": "luxembourg.cantonluxembourg.bertrange",
+    "code": "LU_LU_BERT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LU_LU"
+  },
+  {
+    "tenantId": "luxembourg.cantonluxembourg.hesperange",
+    "code": "LU_LU_HESP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LU_LU"
+  },
+  {
+    "tenantId": "luxembourg.cantonluxembourg.weilerlatour",
+    "code": "LU_LU_WEIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LU_LU"
+  },
+  {
+    "tenantId": "luxembourg.cantonluxembourg.sandweiler",
+    "code": "LU_LU_SAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LU_LU"
+  },
+  {
+    "tenantId": "luxembourg.cantonluxembourg.contern",
+    "code": "LU_LU_CONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LU_LU"
+  },
+  {
+    "tenantId": "luxembourg.cantonluxembourg.schuttrange",
+    "code": "LU_LU_SCHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LU_LU"
+  },
+  {
+    "tenantId": "luxembourg.cantonluxembourg.niederanven",
+    "code": "LU_LU_NIED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LU_LU"
+  },
+  {
+    "tenantId": "luxembourg.cantonluxembourg.steinsel",
+    "code": "LU_LU_STEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LU_LU"
+  },
+  {
+    "tenantId": "luxembourg.cantonluxembourg.walferdange",
+    "code": "LU_LU_WALF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LU_LU"
+  },
+  {
+    "tenantId": "luxembourg.cantonluxembourg.luxembourg.luxembourg",
+    "code": "LU_LU_LUXE_LUXE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LU_LU_LUXE"
+  },
+  {
+    "tenantId": "luxembourg.cantonluxembourg.strassen.strassen",
+    "code": "LU_LU_STRA_STRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LU_LU_STRA"
+  },
+  {
+    "tenantId": "luxembourg.cantonluxembourg.bertrange.bertrange",
+    "code": "LU_LU_BERT_BERT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LU_LU_BERT"
+  },
+  {
+    "tenantId": "luxembourg.cantonluxembourg.hesperange.hesperange",
+    "code": "LU_LU_HESP_HESP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LU_LU_HESP"
+  },
+  {
+    "tenantId": "luxembourg.cantonluxembourg.weilerlatour.weilerlatour",
+    "code": "LU_LU_WEIL_WEIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LU_LU_WEIL"
+  },
+  {
+    "tenantId": "luxembourg.cantonluxembourg.sandweiler.sandweiler",
+    "code": "LU_LU_SAND_SAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LU_LU_SAND"
+  },
+  {
+    "tenantId": "luxembourg.cantonluxembourg.contern.contern",
+    "code": "LU_LU_CONT_CONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LU_LU_CONT"
+  },
+  {
+    "tenantId": "luxembourg.cantonluxembourg.schuttrange.schuttrange",
+    "code": "LU_LU_SCHU_SCHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LU_LU_SCHU"
+  },
+  {
+    "tenantId": "luxembourg.cantonluxembourg.niederanven.niederanven",
+    "code": "LU_LU_NIED_NIED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LU_LU_NIED"
+  },
+  {
+    "tenantId": "luxembourg.cantonluxembourg.steinsel.steinsel",
+    "code": "LU_LU_STEI_STEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LU_LU_STEI"
+  },
+  {
+    "tenantId": "luxembourg.cantonluxembourg.walferdange.walferdange",
+    "code": "LU_LU_WALF_WALF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LU_LU_WALF"
+  }
+]

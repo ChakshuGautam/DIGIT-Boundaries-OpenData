@@ -1,0 +1,51 @@
+[
+  {
+    "tenantId": "newzealand.tasmanregion",
+    "code": "NZ_TAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NZ"
+  },
+  {
+    "tenantId": "newzealand.tasmanregion.tasmandistrict",
+    "code": "NZ_TAS_TADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_TAS"
+  },
+  {
+    "tenantId": "newzealand.tasmanregion.tasmandistrict.lakesmurchisonward",
+    "code": "NZ_TAS_TADI_LAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_TAS_TADI"
+  },
+  {
+    "tenantId": "newzealand.tasmanregion.tasmandistrict.mouterewaimeaward",
+    "code": "NZ_TAS_TADI_MOWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_TAS_TADI"
+  },
+  {
+    "tenantId": "newzealand.tasmanregion.tasmandistrict.richmondward",
+    "code": "NZ_TAS_TADI_RIWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_TAS_TADI"
+  },
+  {
+    "tenantId": "newzealand.tasmanregion.tasmandistrict.goldenbayward",
+    "code": "NZ_TAS_TADI_GBW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_TAS_TADI"
+  },
+  {
+    "tenantId": "newzealand.tasmanregion.tasmandistrict.motuekaward",
+    "code": "NZ_TAS_TADI_MOWA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_TAS_TADI"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "tenantId": "france.centrevaldeloire",
+    "code": "FR_CVL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "FR"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.cher",
+    "code": "FR_CVL_CHER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_CVL"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.eureetloir",
+    "code": "FR_CVL_EURE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_CVL"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.indre",
+    "code": "FR_CVL_INDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_CVL"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.indreetloire",
+    "code": "FR_CVL_INDR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_CVL"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.loiretcher",
+    "code": "FR_CVL_LOIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_CVL"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.loiret",
+    "code": "FR_CVL_LOIR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_CVL"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.cher.bourges",
+    "code": "FR_CVL_CHER_BOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_CVL_CHER"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.cher.saintamandmontrond",
+    "code": "FR_CVL_CHER_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_CVL_CHER"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.cher.vierzon",
+    "code": "FR_CVL_CHER_VIER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_CVL_CHER"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.eureetloir.chartres",
+    "code": "FR_CVL_EURE_CHAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_CVL_EURE"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.eureetloir.chteaudun",
+    "code": "FR_CVL_EURE_CHT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_CVL_EURE"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.eureetloir.dreux",
+    "code": "FR_CVL_EURE_DREU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_CVL_EURE"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.eureetloir.nogentlerotrou",
+    "code": "FR_CVL_EURE_NOGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_CVL_EURE"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.indre.leblanc",
+    "code": "FR_CVL_INDR_LEBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_CVL_INDR"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.indre.chteauroux",
+    "code": "FR_CVL_INDR_CHT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_CVL_INDR"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.indre.lachtre",
+    "code": "FR_CVL_INDR_LACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_CVL_INDR"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.indre.issoudun",
+    "code": "FR_CVL_INDR_ISSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_CVL_INDR"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.indreetloire.chinon",
+    "code": "FR_CVL_INDR2_CHIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_CVL_INDR2"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.indreetloire.tours",
+    "code": "FR_CVL_INDR2_TOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_CVL_INDR2"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.indreetloire.loches",
+    "code": "FR_CVL_INDR2_LOCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_CVL_INDR2"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.loiretcher.blois",
+    "code": "FR_CVL_LOIR_BLOI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_CVL_LOIR"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.loiretcher.vendme",
+    "code": "FR_CVL_LOIR_VEND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_CVL_LOIR"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.loiretcher.romorantinlanthenay",
+    "code": "FR_CVL_LOIR_ROMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_CVL_LOIR"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.loiret.montargis",
+    "code": "FR_CVL_LOIR2_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_CVL_LOIR2"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.loiret.orlans",
+    "code": "FR_CVL_LOIR2_ORL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_CVL_LOIR2"
+  },
+  {
+    "tenantId": "france.centrevaldeloire.loiret.pithiviers",
+    "code": "FR_CVL_LOIR2_PITH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_CVL_LOIR2"
+  }
+]

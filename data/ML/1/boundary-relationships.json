@@ -1,0 +1,961 @@
+[
+  {
+    "tenantId": "mali.kayes",
+    "code": "ML_1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "ML"
+  },
+  {
+    "tenantId": "mali.kayes.bafoulabe",
+    "code": "ML_1_BAFO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ML_1"
+  },
+  {
+    "tenantId": "mali.kayes.diema",
+    "code": "ML_1_DIEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ML_1"
+  },
+  {
+    "tenantId": "mali.kayes.kayes",
+    "code": "ML_1_KAYE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ML_1"
+  },
+  {
+    "tenantId": "mali.kayes.kenieba",
+    "code": "ML_1_KENI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ML_1"
+  },
+  {
+    "tenantId": "mali.kayes.kita",
+    "code": "ML_1_KITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ML_1"
+  },
+  {
+    "tenantId": "mali.kayes.nioro",
+    "code": "ML_1_NIOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ML_1"
+  },
+  {
+    "tenantId": "mali.kayes.yelimane",
+    "code": "ML_1_YELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "ML_1"
+  },
+  {
+    "tenantId": "mali.kayes.bafoulabe.tomora",
+    "code": "ML_1_BAFO_TOMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_BAFO"
+  },
+  {
+    "tenantId": "mali.kayes.bafoulabe.sidibela",
+    "code": "ML_1_BAFO_SIDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_BAFO"
+  },
+  {
+    "tenantId": "mali.kayes.bafoulabe.niambia",
+    "code": "ML_1_BAFO_NIAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_BAFO"
+  },
+  {
+    "tenantId": "mali.kayes.bafoulabe.kontela",
+    "code": "ML_1_BAFO_KONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_BAFO"
+  },
+  {
+    "tenantId": "mali.kayes.bafoulabe.diallan",
+    "code": "ML_1_BAFO_DIAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_BAFO"
+  },
+  {
+    "tenantId": "mali.kayes.bafoulabe.diakon",
+    "code": "ML_1_BAFO_DIAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_BAFO"
+  },
+  {
+    "tenantId": "mali.kayes.bafoulabe.bafoulabe",
+    "code": "ML_1_BAFO_BAFO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_BAFO"
+  },
+  {
+    "tenantId": "mali.kayes.bafoulabe.gounfan",
+    "code": "ML_1_BAFO_GOUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_BAFO"
+  },
+  {
+    "tenantId": "mali.kayes.bafoulabe.koundian",
+    "code": "ML_1_BAFO_KOUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_BAFO"
+  },
+  {
+    "tenantId": "mali.kayes.bafoulabe.mahina",
+    "code": "ML_1_BAFO_MAHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_BAFO"
+  },
+  {
+    "tenantId": "mali.kayes.bafoulabe.diokeli",
+    "code": "ML_1_BAFO_DIOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_BAFO"
+  },
+  {
+    "tenantId": "mali.kayes.bafoulabe.bamafele",
+    "code": "ML_1_BAFO_BAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_BAFO"
+  },
+  {
+    "tenantId": "mali.kayes.bafoulabe.oualia",
+    "code": "ML_1_BAFO_OUAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_BAFO"
+  },
+  {
+    "tenantId": "mali.kayes.diema.madigasacko",
+    "code": "ML_1_DIEM_MASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_DIEM"
+  },
+  {
+    "tenantId": "mali.kayes.diema.lakamane",
+    "code": "ML_1_DIEM_LAKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_DIEM"
+  },
+  {
+    "tenantId": "mali.kayes.diema.dieoura",
+    "code": "ML_1_DIEM_DIEO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_DIEM"
+  },
+  {
+    "tenantId": "mali.kayes.diema.diema",
+    "code": "ML_1_DIEM_DIEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_DIEM"
+  },
+  {
+    "tenantId": "mali.kayes.diema.diangountecamara",
+    "code": "ML_1_DIEM_DICA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_DIEM"
+  },
+  {
+    "tenantId": "mali.kayes.diema.bema",
+    "code": "ML_1_DIEM_BEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_DIEM"
+  },
+  {
+    "tenantId": "mali.kayes.diema.fatao",
+    "code": "ML_1_DIEM_FATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_DIEM"
+  },
+  {
+    "tenantId": "mali.kayes.diema.sansankide",
+    "code": "ML_1_DIEM_SANS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_DIEM"
+  },
+  {
+    "tenantId": "mali.kayes.diema.guedebine",
+    "code": "ML_1_DIEM_GUED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_DIEM"
+  },
+  {
+    "tenantId": "mali.kayes.diema.groumera",
+    "code": "ML_1_DIEM_GROU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_DIEM"
+  },
+  {
+    "tenantId": "mali.kayes.diema.gomitradougou",
+    "code": "ML_1_DIEM_GOMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_DIEM"
+  },
+  {
+    "tenantId": "mali.kayes.diema.fassoudebe",
+    "code": "ML_1_DIEM_FADE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_DIEM"
+  },
+  {
+    "tenantId": "mali.kayes.diema.lambidou",
+    "code": "ML_1_DIEM_LAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_DIEM"
+  },
+  {
+    "tenantId": "mali.kayes.diema.dioumarakoussata",
+    "code": "ML_1_DIEM_DIKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_DIEM"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.fegui",
+    "code": "ML_1_KAYE_FEGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.kayescommune",
+    "code": "ML_1_KAYE_KACO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.tafacirga",
+    "code": "ML_1_KAYE_TAFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.serodiamanou",
+    "code": "ML_1_KAYE_SEDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.segala",
+    "code": "ML_1_KAYE_SEGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.sahel",
+    "code": "ML_1_KAYE_SAHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.sadiola",
+    "code": "ML_1_KAYE_SADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.logo",
+    "code": "ML_1_KAYE_LOGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.koussane",
+    "code": "ML_1_KAYE_KOUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.hawadembaya",
+    "code": "ML_1_KAYE_HADE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.faleme",
+    "code": "ML_1_KAYE_FALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.djelebou",
+    "code": "ML_1_KAYE_DJEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.diamou",
+    "code": "ML_1_KAYE_DIAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.colimbine",
+    "code": "ML_1_KAYE_COLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.goumera",
+    "code": "ML_1_KAYE_GOUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.konsiga",
+    "code": "ML_1_KAYE_KONS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.koniakary",
+    "code": "ML_1_KAYE_KONI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.marintoumania",
+    "code": "ML_1_KAYE_MARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.marenadiombougou",
+    "code": "ML_1_KAYE_MADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.khouloum",
+    "code": "ML_1_KAYE_KHOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.karakoro",
+    "code": "ML_1_KAYE_KARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.gorygopela",
+    "code": "ML_1_KAYE_GOGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.sony",
+    "code": "ML_1_KAYE_SONY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.kemenetambo",
+    "code": "ML_1_KAYE_KETA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.guidimakankerikaff",
+    "code": "ML_1_KAYE_GKK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.somankidy",
+    "code": "ML_1_KAYE_SOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.samediomboma",
+    "code": "ML_1_KAYE_SADI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.bangassi",
+    "code": "ML_1_KAYE_BANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kayes.libertedembaya",
+    "code": "ML_1_KAYE_LIDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KAYE"
+  },
+  {
+    "tenantId": "mali.kayes.kenieba.sitakily",
+    "code": "ML_1_KENI_SITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KENI"
+  },
+  {
+    "tenantId": "mali.kayes.kenieba.sagalo",
+    "code": "ML_1_KENI_SAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KENI"
+  },
+  {
+    "tenantId": "mali.kayes.kenieba.guenegore",
+    "code": "ML_1_KENI_GUEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KENI"
+  },
+  {
+    "tenantId": "mali.kayes.kenieba.baye",
+    "code": "ML_1_KENI_BAYE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KENI"
+  },
+  {
+    "tenantId": "mali.kayes.kenieba.dombia",
+    "code": "ML_1_KENI_DOMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KENI"
+  },
+  {
+    "tenantId": "mali.kayes.kenieba.kassama",
+    "code": "ML_1_KENI_KASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KENI"
+  },
+  {
+    "tenantId": "mali.kayes.kenieba.kenieba",
+    "code": "ML_1_KENI_KENI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KENI"
+  },
+  {
+    "tenantId": "mali.kayes.kenieba.falea",
+    "code": "ML_1_KENI_FALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KENI"
+  },
+  {
+    "tenantId": "mali.kayes.kenieba.dabia",
+    "code": "ML_1_KENI_DABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KENI"
+  },
+  {
+    "tenantId": "mali.kayes.kenieba.faraba",
+    "code": "ML_1_KENI_FARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KENI"
+  },
+  {
+    "tenantId": "mali.kayes.kenieba.kouroukoto",
+    "code": "ML_1_KENI_KOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KENI"
+  },
+  {
+    "tenantId": "mali.kayes.kenieba.dialafara",
+    "code": "ML_1_KENI_DIAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KENI"
+  },
+  {
+    "tenantId": "mali.kayes.kita.kitacommune",
+    "code": "ML_1_KITA_KICO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.niantanso",
+    "code": "ML_1_KITA_NIAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.makano",
+    "code": "ML_1_KITA_MAKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.gadougou",
+    "code": "ML_1_KITA_GA1",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.djougoun",
+    "code": "ML_1_KITA_DJOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.bougarybaya",
+    "code": "ML_1_KITA_BOUG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.badia",
+    "code": "ML_1_KITA_BADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.kotouba",
+    "code": "ML_1_KITA_KOTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.kassaro",
+    "code": "ML_1_KITA_KASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.souransantomoto",
+    "code": "ML_1_KITA_SOTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.sefetonord",
+    "code": "ML_1_KITA_SENO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.kitanord",
+    "code": "ML_1_KITA_KINO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.dindanko",
+    "code": "ML_1_KITA_DIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.madina",
+    "code": "ML_1_KITA_MADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.guemoukouraba",
+    "code": "ML_1_KITA_GUEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.dianguirde",
+    "code": "ML_1_KITA_DIAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.kobri",
+    "code": "ML_1_KITA_KOBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.kokofata",
+    "code": "ML_1_KITA_KOKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.koulou",
+    "code": "ML_1_KITA_KOUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.djidian",
+    "code": "ML_1_KITA_DJID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.sebekoro",
+    "code": "ML_1_KITA_SEBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.gadougou",
+    "code": "ML_1_KITA_GA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.benkadifounia",
+    "code": "ML_1_KITA_BEFO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.senko",
+    "code": "ML_1_KITA_SENK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.sirakoro",
+    "code": "ML_1_KITA_SIRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.tambaga",
+    "code": "ML_1_KITA_TAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.toukoto",
+    "code": "ML_1_KITA_TOUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.sefetoouest",
+    "code": "ML_1_KITA_SEOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.kourounikoto",
+    "code": "ML_1_KITA_KOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.saboula",
+    "code": "ML_1_KITA_SABO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.namalaguimba",
+    "code": "ML_1_KITA_NAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.bendougouba",
+    "code": "ML_1_KITA_BEND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.boudofo",
+    "code": "ML_1_KITA_BOUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.kita.kitaouest",
+    "code": "ML_1_KITA_KIOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_KITA"
+  },
+  {
+    "tenantId": "mali.kayes.nioro.niorocommune",
+    "code": "ML_1_NIOR_NICO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_NIOR"
+  },
+  {
+    "tenantId": "mali.kayes.nioro.yerere",
+    "code": "ML_1_NIOR_YERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_NIOR"
+  },
+  {
+    "tenantId": "mali.kayes.nioro.simbi",
+    "code": "ML_1_NIOR_SIMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_NIOR"
+  },
+  {
+    "tenantId": "mali.kayes.nioro.sandare",
+    "code": "ML_1_NIOR_SAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_NIOR"
+  },
+  {
+    "tenantId": "mali.kayes.nioro.korerakore",
+    "code": "ML_1_NIOR_KOKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_NIOR"
+  },
+  {
+    "tenantId": "mali.kayes.nioro.guetema",
+    "code": "ML_1_NIOR_GUET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_NIOR"
+  },
+  {
+    "tenantId": "mali.kayes.nioro.gavinane",
+    "code": "ML_1_NIOR_GAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_NIOR"
+  },
+  {
+    "tenantId": "mali.kayes.nioro.diarra",
+    "code": "ML_1_NIOR_DIAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_NIOR"
+  },
+  {
+    "tenantId": "mali.kayes.nioro.diabigue",
+    "code": "ML_1_NIOR_DIAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_NIOR"
+  },
+  {
+    "tenantId": "mali.kayes.nioro.banierekore",
+    "code": "ML_1_NIOR_BAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_NIOR"
+  },
+  {
+    "tenantId": "mali.kayes.nioro.youri",
+    "code": "ML_1_NIOR_YOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_NIOR"
+  },
+  {
+    "tenantId": "mali.kayes.nioro.troungoumbe",
+    "code": "ML_1_NIOR_TROU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_NIOR"
+  },
+  {
+    "tenantId": "mali.kayes.nioro.niorotougouneranga",
+    "code": "ML_1_NIOR_NTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_NIOR"
+  },
+  {
+    "tenantId": "mali.kayes.nioro.kadiabakadiel",
+    "code": "ML_1_NIOR_KAKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_NIOR"
+  },
+  {
+    "tenantId": "mali.kayes.nioro.diayecoura",
+    "code": "ML_1_NIOR_DICO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_NIOR"
+  },
+  {
+    "tenantId": "mali.kayes.nioro.gogui",
+    "code": "ML_1_NIOR_GOGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_NIOR"
+  },
+  {
+    "tenantId": "mali.kayes.yelimane.toya",
+    "code": "ML_1_YELI_TOYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_YELI"
+  },
+  {
+    "tenantId": "mali.kayes.yelimane.tringa",
+    "code": "ML_1_YELI_TRIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_YELI"
+  },
+  {
+    "tenantId": "mali.kayes.yelimane.kremis",
+    "code": "ML_1_YELI_KREM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_YELI"
+  },
+  {
+    "tenantId": "mali.kayes.yelimane.kiranekaniaga",
+    "code": "ML_1_YELI_KIKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_YELI"
+  },
+  {
+    "tenantId": "mali.kayes.yelimane.guidime",
+    "code": "ML_1_YELI_GUID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_YELI"
+  },
+  {
+    "tenantId": "mali.kayes.yelimane.fanga",
+    "code": "ML_1_YELI_FANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_YELI"
+  },
+  {
+    "tenantId": "mali.kayes.yelimane.diafounougory",
+    "code": "ML_1_YELI_DIGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_YELI"
+  },
+  {
+    "tenantId": "mali.kayes.yelimane.soumpou",
+    "code": "ML_1_YELI_SOUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_YELI"
+  },
+  {
+    "tenantId": "mali.kayes.yelimane.marekaffo",
+    "code": "ML_1_YELI_MARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_YELI"
+  },
+  {
+    "tenantId": "mali.kayes.yelimane.gory",
+    "code": "ML_1_YELI_GORY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_YELI"
+  },
+  {
+    "tenantId": "mali.kayes.yelimane.diafounoudiongaga",
+    "code": "ML_1_YELI_DIDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "ML_1_YELI"
+  }
+]

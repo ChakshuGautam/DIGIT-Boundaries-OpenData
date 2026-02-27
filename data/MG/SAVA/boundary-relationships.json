@@ -1,0 +1,597 @@
+[
+  {
+    "tenantId": "madagascar.sava",
+    "code": "MG_SAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MG"
+  },
+  {
+    "tenantId": "madagascar.sava.antalaha",
+    "code": "MG_SAVA_ANTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_SAVA"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava",
+    "code": "MG_SAVA_SAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_SAVA"
+  },
+  {
+    "tenantId": "madagascar.sava.andapa",
+    "code": "MG_SAVA_ANDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_SAVA"
+  },
+  {
+    "tenantId": "madagascar.sava.vohemar",
+    "code": "MG_SAVA_VOHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_SAVA"
+  },
+  {
+    "tenantId": "madagascar.sava.antalaha.ambanizana",
+    "code": "MG_SAVA_ANTA_AMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANTA"
+  },
+  {
+    "tenantId": "madagascar.sava.antalaha.antalahaambonivohitra",
+    "code": "MG_SAVA_ANTA_ANAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANTA"
+  },
+  {
+    "tenantId": "madagascar.sava.antalaha.ampahana",
+    "code": "MG_SAVA_ANTA_AMPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANTA"
+  },
+  {
+    "tenantId": "madagascar.sava.antalaha.ampohibe",
+    "code": "MG_SAVA_ANTA_AMPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANTA"
+  },
+  {
+    "tenantId": "madagascar.sava.antalaha.antombana",
+    "code": "MG_SAVA_ANTA_ANTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANTA"
+  },
+  {
+    "tenantId": "madagascar.sava.antalaha.antsahanoro",
+    "code": "MG_SAVA_ANTA_ANTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANTA"
+  },
+  {
+    "tenantId": "madagascar.sava.antalaha.antananambo",
+    "code": "MG_SAVA_ANTA_ANTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANTA"
+  },
+  {
+    "tenantId": "madagascar.sava.antalaha.marofinaritra",
+    "code": "MG_SAVA_ANTA_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANTA"
+  },
+  {
+    "tenantId": "madagascar.sava.antalaha.sarahandrano",
+    "code": "MG_SAVA_ANTA_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANTA"
+  },
+  {
+    "tenantId": "madagascar.sava.antalaha.andampy",
+    "code": "MG_SAVA_ANTA_ANDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANTA"
+  },
+  {
+    "tenantId": "madagascar.sava.antalaha.ambalabe",
+    "code": "MG_SAVA_ANTA_AMBA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANTA"
+  },
+  {
+    "tenantId": "madagascar.sava.antalaha.ambinanifaho",
+    "code": "MG_SAVA_ANTA_AMBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANTA"
+  },
+  {
+    "tenantId": "madagascar.sava.antalaha.ambohitralanana",
+    "code": "MG_SAVA_ANTA_AMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANTA"
+  },
+  {
+    "tenantId": "madagascar.sava.antalaha.lanjarivo",
+    "code": "MG_SAVA_ANTA_LANJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANTA"
+  },
+  {
+    "tenantId": "madagascar.sava.antalaha.antsambalahy",
+    "code": "MG_SAVA_ANTA_ANTS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANTA"
+  },
+  {
+    "tenantId": "madagascar.sava.antalaha.ampanavoana",
+    "code": "MG_SAVA_ANTA_AMPA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANTA"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.sambavacu",
+    "code": "MG_SAVA_SAMB_SACU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.ambohimalaza",
+    "code": "MG_SAVA_SAMB_AMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.farahalana",
+    "code": "MG_SAVA_SAMB_FARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.nosiarina",
+    "code": "MG_SAVA_SAMB_NOSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.ambodivoara",
+    "code": "MG_SAVA_SAMB_AMBO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.anjinjaomby",
+    "code": "MG_SAVA_SAMB_ANJI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.morafeno",
+    "code": "MG_SAVA_SAMB_MORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.analamaho",
+    "code": "MG_SAVA_SAMB_ANAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.ambohimitsinjo",
+    "code": "MG_SAVA_SAMB_AMBO3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.anjangoveratra",
+    "code": "MG_SAVA_SAMB_ANJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.andratamarina",
+    "code": "MG_SAVA_SAMB_ANDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.marogaona",
+    "code": "MG_SAVA_SAMB_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.marojala",
+    "code": "MG_SAVA_SAMB_MARO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.antsambaharo",
+    "code": "MG_SAVA_SAMB_ANTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.andrahanjo",
+    "code": "MG_SAVA_SAMB_ANDR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.bemanevika",
+    "code": "MG_SAVA_SAMB_BEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.amboangibe",
+    "code": "MG_SAVA_SAMB_AMBO4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.andrembona",
+    "code": "MG_SAVA_SAMB_ANDR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.antindra",
+    "code": "MG_SAVA_SAMB_ANTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.ambodiampana",
+    "code": "MG_SAVA_SAMB_AMBO5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.maroambihy",
+    "code": "MG_SAVA_SAMB_MARO3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.ambatoafo",
+    "code": "MG_SAVA_SAMB_AMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.anjialava",
+    "code": "MG_SAVA_SAMB_ANJI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.tanambaodaoud",
+    "code": "MG_SAVA_SAMB_TADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.antsahavaribe",
+    "code": "MG_SAVA_SAMB_ANTS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.sambava.bevonotra",
+    "code": "MG_SAVA_SAMB_BEVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_SAMB"
+  },
+  {
+    "tenantId": "madagascar.sava.andapa.ambalaromba",
+    "code": "MG_SAVA_ANDA_AMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANDA"
+  },
+  {
+    "tenantId": "madagascar.sava.andapa.andapa",
+    "code": "MG_SAVA_ANDA_ANDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANDA"
+  },
+  {
+    "tenantId": "madagascar.sava.andapa.tanandava",
+    "code": "MG_SAVA_ANDA_TANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANDA"
+  },
+  {
+    "tenantId": "madagascar.sava.andapa.ankiakabenord",
+    "code": "MG_SAVA_ANDA_ANNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANDA"
+  },
+  {
+    "tenantId": "madagascar.sava.andapa.belaokamarovato",
+    "code": "MG_SAVA_ANDA_BEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANDA"
+  },
+  {
+    "tenantId": "madagascar.sava.andapa.ambodimangai",
+    "code": "MG_SAVA_ANDA_AMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANDA"
+  },
+  {
+    "tenantId": "madagascar.sava.andapa.marovato",
+    "code": "MG_SAVA_ANDA_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANDA"
+  },
+  {
+    "tenantId": "madagascar.sava.andapa.andrakata",
+    "code": "MG_SAVA_ANDA_ANDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANDA"
+  },
+  {
+    "tenantId": "madagascar.sava.andapa.bealampona",
+    "code": "MG_SAVA_ANDA_BEAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANDA"
+  },
+  {
+    "tenantId": "madagascar.sava.andapa.matsohely",
+    "code": "MG_SAVA_ANDA_MATS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANDA"
+  },
+  {
+    "tenantId": "madagascar.sava.andapa.andranomena",
+    "code": "MG_SAVA_ANDA_ANDR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANDA"
+  },
+  {
+    "tenantId": "madagascar.sava.andapa.ambalamanasyii",
+    "code": "MG_SAVA_ANDA_AMII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANDA"
+  },
+  {
+    "tenantId": "madagascar.sava.andapa.ambodiangezoka",
+    "code": "MG_SAVA_ANDA_AMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANDA"
+  },
+  {
+    "tenantId": "madagascar.sava.andapa.betsakotsakoandranotsara",
+    "code": "MG_SAVA_ANDA_BEAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANDA"
+  },
+  {
+    "tenantId": "madagascar.sava.andapa.belaokalokoho",
+    "code": "MG_SAVA_ANDA_BELO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANDA"
+  },
+  {
+    "tenantId": "madagascar.sava.andapa.anoviara",
+    "code": "MG_SAVA_ANDA_ANOV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANDA"
+  },
+  {
+    "tenantId": "madagascar.sava.andapa.doany",
+    "code": "MG_SAVA_ANDA_DOAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANDA"
+  },
+  {
+    "tenantId": "madagascar.sava.andapa.anjialavabe",
+    "code": "MG_SAVA_ANDA_ANJI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANDA"
+  },
+  {
+    "tenantId": "madagascar.sava.andapa.antsahamena",
+    "code": "MG_SAVA_ANDA_ANTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_ANDA"
+  },
+  {
+    "tenantId": "madagascar.sava.vohemar.vohemar",
+    "code": "MG_SAVA_VOHE_VOHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_VOHE"
+  },
+  {
+    "tenantId": "madagascar.sava.vohemar.ampondra",
+    "code": "MG_SAVA_VOHE_AMPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_VOHE"
+  },
+  {
+    "tenantId": "madagascar.sava.vohemar.fanambana",
+    "code": "MG_SAVA_VOHE_FANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_VOHE"
+  },
+  {
+    "tenantId": "madagascar.sava.vohemar.milanoa",
+    "code": "MG_SAVA_VOHE_MILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_VOHE"
+  },
+  {
+    "tenantId": "madagascar.sava.vohemar.bobakindro",
+    "code": "MG_SAVA_VOHE_BOBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_VOHE"
+  },
+  {
+    "tenantId": "madagascar.sava.vohemar.daraina",
+    "code": "MG_SAVA_VOHE_DARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_VOHE"
+  },
+  {
+    "tenantId": "madagascar.sava.vohemar.ambalasatrana",
+    "code": "MG_SAVA_VOHE_AMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_VOHE"
+  },
+  {
+    "tenantId": "madagascar.sava.vohemar.tsarabaria",
+    "code": "MG_SAVA_VOHE_TSAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_VOHE"
+  },
+  {
+    "tenantId": "madagascar.sava.vohemar.nosibe",
+    "code": "MG_SAVA_VOHE_NOSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_VOHE"
+  },
+  {
+    "tenantId": "madagascar.sava.vohemar.andravory",
+    "code": "MG_SAVA_VOHE_ANDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_VOHE"
+  },
+  {
+    "tenantId": "madagascar.sava.vohemar.andrafainkona",
+    "code": "MG_SAVA_VOHE_ANDR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_VOHE"
+  },
+  {
+    "tenantId": "madagascar.sava.vohemar.ampanefena",
+    "code": "MG_SAVA_VOHE_AMPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_VOHE"
+  },
+  {
+    "tenantId": "madagascar.sava.vohemar.ambodisambalahy",
+    "code": "MG_SAVA_VOHE_AMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_VOHE"
+  },
+  {
+    "tenantId": "madagascar.sava.vohemar.ambinaninandravory",
+    "code": "MG_SAVA_VOHE_AMBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_VOHE"
+  },
+  {
+    "tenantId": "madagascar.sava.vohemar.amboriala",
+    "code": "MG_SAVA_VOHE_AMBO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_VOHE"
+  },
+  {
+    "tenantId": "madagascar.sava.vohemar.maromokotraloky",
+    "code": "MG_SAVA_VOHE_MALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_VOHE"
+  },
+  {
+    "tenantId": "madagascar.sava.vohemar.antsirabenord",
+    "code": "MG_SAVA_VOHE_ANNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_VOHE"
+  },
+  {
+    "tenantId": "madagascar.sava.vohemar.ampisikinana",
+    "code": "MG_SAVA_VOHE_AMPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_VOHE"
+  },
+  {
+    "tenantId": "madagascar.sava.vohemar.belambo",
+    "code": "MG_SAVA_VOHE_BELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_SAVA_VOHE"
+  }
+]

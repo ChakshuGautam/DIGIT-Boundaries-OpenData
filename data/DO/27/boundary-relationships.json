@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "dominicanrepublic.valverde",
+    "code": "DO_27",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "DO"
+  },
+  {
+    "tenantId": "dominicanrepublic.valverde.esperanza",
+    "code": "DO_27_ESPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DO_27"
+  },
+  {
+    "tenantId": "dominicanrepublic.valverde.lagunasalada",
+    "code": "DO_27_LASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DO_27"
+  },
+  {
+    "tenantId": "dominicanrepublic.valverde.mao",
+    "code": "DO_27_MAO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DO_27"
+  }
+]

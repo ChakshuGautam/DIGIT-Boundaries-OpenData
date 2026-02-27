@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "denmark",
+    "code": "DK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "denmark.nordjylland",
+    "code": "DK_81",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "DK"
+  },
+  {
+    "tenantId": "denmark.midtjylland",
+    "code": "DK_82",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "DK"
+  },
+  {
+    "tenantId": "denmark.sjlland",
+    "code": "DK_85",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "DK"
+  },
+  {
+    "tenantId": "denmark.hovedstaden",
+    "code": "DK_84",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "DK"
+  },
+  {
+    "tenantId": "denmark.syddanmark",
+    "code": "DK_83",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "DK"
+  }
+]

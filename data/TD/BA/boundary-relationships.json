@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "chad.batha",
+    "code": "TD_BA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TD"
+  },
+  {
+    "tenantId": "chad.batha.bathaouest",
+    "code": "TD_BA_BAOU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_BA"
+  },
+  {
+    "tenantId": "chad.batha.bathaest",
+    "code": "TD_BA_BAES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_BA"
+  },
+  {
+    "tenantId": "chad.batha.fitri",
+    "code": "TD_BA_FITR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_BA"
+  }
+]

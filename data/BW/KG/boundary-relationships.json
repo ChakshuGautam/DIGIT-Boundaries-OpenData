@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "botswana.kgalagadidistrict",
+    "code": "BW_KG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BW"
+  },
+  {
+    "tenantId": "botswana.kgalagadidistrict.hukunsti",
+    "code": "BW_KG_HUKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BW_KG"
+  },
+  {
+    "tenantId": "botswana.kgalagadidistrict.gemsbok",
+    "code": "BW_KG_GEMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BW_KG"
+  },
+  {
+    "tenantId": "botswana.kgalagadidistrict.tshabong",
+    "code": "BW_KG_TSHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BW_KG"
+  }
+]

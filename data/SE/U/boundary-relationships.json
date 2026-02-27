@@ -1,0 +1,499 @@
+[
+  {
+    "tenantId": "sweden.vstmanlandsln",
+    "code": "SE_U",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SE"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.norberg",
+    "code": "SE_U_NORB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_U"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.fagersta",
+    "code": "SE_U_FAGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_U"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.sala",
+    "code": "SE_U_SALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_U"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.skinnskatteberg",
+    "code": "SE_U_SKIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_U"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.surahammar",
+    "code": "SE_U_SURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_U"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters",
+    "code": "SE_U_VST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_U"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.hallstahammar",
+    "code": "SE_U_HALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_U"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.kping",
+    "code": "SE_U_KPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_U"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.arboga",
+    "code": "SE_U_ARBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_U"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.kungsr",
+    "code": "SE_U_KUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "SE_U"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.norberg.avesta",
+    "code": "SE_U_NORB_AVES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_NORB"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.norberg.karbenning",
+    "code": "SE_U_NORB_KARB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_NORB"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.fagersta.norberg",
+    "code": "SE_U_FAGE_NORB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_FAGE"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.fagersta.vstanfors",
+    "code": "SE_U_FAGE_VS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_FAGE"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.fagersta.vstervla",
+    "code": "SE_U_FAGE_VS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_FAGE"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.sala.flckebo",
+    "code": "SE_U_SALA_FL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_SALA"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.sala.trna",
+    "code": "SE_U_SALA_TR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_SALA"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.sala.kumla",
+    "code": "SE_U_SALA_KUML",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_SALA"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.sala.mklinta",
+    "code": "SE_U_SALA_MK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_SALA"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.sala.vsterfrnebo",
+    "code": "SE_U_SALA_VS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_SALA"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.sala.sala",
+    "code": "SE_U_SALA_SALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_SALA"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.sala.norrby",
+    "code": "SE_U_SALA_NORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_SALA"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.sala.kila",
+    "code": "SE_U_SALA_KILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_SALA"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.skinnskatteberg.gunnilbo",
+    "code": "SE_U_SKIN_GUNN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_SKIN"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.skinnskatteberg.skinnskatteberg",
+    "code": "SE_U_SKIN_SKIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_SKIN"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.skinnskatteberg.hed",
+    "code": "SE_U_SKIN_HED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_SKIN"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.surahammar.ramns",
+    "code": "SE_U_SURA_RAMN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_SURA"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.surahammar.sura",
+    "code": "SE_U_SURA_SURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_SURA"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.haraker",
+    "code": "SE_U_VST_HARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.romfartuna",
+    "code": "SE_U_VST_ROMF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.sevalla",
+    "code": "SE_U_VST_SEVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.skultuna",
+    "code": "SE_U_VST_SKUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.tillberga",
+    "code": "SE_U_VST_TILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.tortuna",
+    "code": "SE_U_VST_TORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.bred",
+    "code": "SE_U_VST_BRED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.bjrksta",
+    "code": "SE_U_VST_BJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.hubbo",
+    "code": "SE_U_VST_HUBB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.lillhrad",
+    "code": "SE_U_VST_LILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.nsta",
+    "code": "SE_U_VST_NS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.skerike",
+    "code": "SE_U_VST_SKER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.badelunda",
+    "code": "SE_U_VST_BADE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.dingtuna",
+    "code": "SE_U_VST_DING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.gideonsberg",
+    "code": "SE_U_VST_GIDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.kungsra",
+    "code": "SE_U_VST_KUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.irsta",
+    "code": "SE_U_VST_IRST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.vstersdomkyrkodistrikt",
+    "code": "SE_U_VST_VDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.lundby",
+    "code": "SE_U_VST_LUND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.viksng",
+    "code": "SE_U_VST_VIKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.krrbo",
+    "code": "SE_U_VST_KR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.ngs",
+    "code": "SE_U_VST_NG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.barkar",
+    "code": "SE_U_VST_BARK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.vsters.rytterne",
+    "code": "SE_U_VST_RYTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_VST"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.hallstahammar.hallstahammar",
+    "code": "SE_U_HALL_HALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_HALL"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.hallstahammar.berg",
+    "code": "SE_U_HALL_BERG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_HALL"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.hallstahammar.sby",
+    "code": "SE_U_HALL_SB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_HALL"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.kping.odensvi",
+    "code": "SE_U_KPI_ODEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_KPI"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.kping.kolsva",
+    "code": "SE_U_KPI_KOLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_KPI"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.kping.munktorp",
+    "code": "SE_U_KPI_MUNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_KPI"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.kping.kolbck",
+    "code": "SE_U_KPI_KOLB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_KPI"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.kping.himmetabro",
+    "code": "SE_U_KPI_HIMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_KPI"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.kping.kping",
+    "code": "SE_U_KPI_KP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_KPI"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.arboga.medker",
+    "code": "SE_U_ARBO_MED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_ARBO"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.arboga.arbogalandsdistrikt",
+    "code": "SE_U_ARBO_ARLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_ARBO"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.arboga.arbogalandsdistrikt",
+    "code": "SE_U_ARBO_ARLA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_ARBO"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.arboga.arbogastadsdistrikt",
+    "code": "SE_U_ARBO_ARST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_ARBO"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.arboga.gtlunda",
+    "code": "SE_U_ARBO_GT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_ARBO"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.kungsr.bjrskog",
+    "code": "SE_U_KUNG_BJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_KUNG"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.kungsr.kungsbarkar",
+    "code": "SE_U_KUNG_KUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_KUNG"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.kungsr.torpa",
+    "code": "SE_U_KUNG_TORP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_KUNG"
+  },
+  {
+    "tenantId": "sweden.vstmanlandsln.kungsr.kungkarl",
+    "code": "SE_U_KUNG_KUKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "SE_U_KUNG"
+  }
+]

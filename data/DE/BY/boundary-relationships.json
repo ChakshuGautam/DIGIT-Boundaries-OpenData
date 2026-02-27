@@ -1,0 +1,730 @@
+[
+  {
+    "tenantId": "germany.bayern",
+    "code": "DE_BY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "DE"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern",
+    "code": "DE_BY_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DE_BY"
+  },
+  {
+    "tenantId": "germany.bayern.niederbayern",
+    "code": "DE_BY_NIED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DE_BY"
+  },
+  {
+    "tenantId": "germany.bayern.oberpfalz",
+    "code": "DE_BY_OBER2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DE_BY"
+  },
+  {
+    "tenantId": "germany.bayern.oberfranken",
+    "code": "DE_BY_OBER3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DE_BY"
+  },
+  {
+    "tenantId": "germany.bayern.mittelfranken",
+    "code": "DE_BY_MITT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DE_BY"
+  },
+  {
+    "tenantId": "germany.bayern.unterfranken",
+    "code": "DE_BY_UNTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DE_BY"
+  },
+  {
+    "tenantId": "germany.bayern.schwaben",
+    "code": "DE_BY_SCHW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DE_BY"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.ingolstadtkreisfreiestadt",
+    "code": "DE_BY_OBER_IKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.mnchenkreisfreiestadt",
+    "code": "DE_BY_OBER_MKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.rosenheimkreisfreiestadt",
+    "code": "DE_BY_OBER_RKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.alttting",
+    "code": "DE_BY_OBER_ALT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.berchtesgadenerland",
+    "code": "DE_BY_OBER_BELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.badtlzwolfratshausen",
+    "code": "DE_BY_OBER_BAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.dachau",
+    "code": "DE_BY_OBER_DACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.ebersberg",
+    "code": "DE_BY_OBER_EBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.eichsttt",
+    "code": "DE_BY_OBER_EICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.erding",
+    "code": "DE_BY_OBER_ERDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.freising",
+    "code": "DE_BY_OBER_FREI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.frstenfeldbruck",
+    "code": "DE_BY_OBER_FRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.garmischpartenkirchen",
+    "code": "DE_BY_OBER_GARM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.landsbergamlech",
+    "code": "DE_BY_OBER_LAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.miesbach",
+    "code": "DE_BY_OBER_MIES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.mhldorfainn",
+    "code": "DE_BY_OBER_MAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.mnchenlandkreis",
+    "code": "DE_BY_OBER_MLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.neuburgschrobenhausen",
+    "code": "DE_BY_OBER_NEUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.pfaffenhofenadilm",
+    "code": "DE_BY_OBER_PAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.rosenheimlandkreis",
+    "code": "DE_BY_OBER_ROLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.starnberg",
+    "code": "DE_BY_OBER_STAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.traunstein",
+    "code": "DE_BY_OBER_TRAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.oberbayern.weilheimschongau",
+    "code": "DE_BY_OBER_WEIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER"
+  },
+  {
+    "tenantId": "germany.bayern.niederbayern.landshutkreisfreiestadt",
+    "code": "DE_BY_NIED_LKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_NIED"
+  },
+  {
+    "tenantId": "germany.bayern.niederbayern.passaukreisfreiestadt",
+    "code": "DE_BY_NIED_PKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_NIED"
+  },
+  {
+    "tenantId": "germany.bayern.niederbayern.straubingkreisfreiestadt",
+    "code": "DE_BY_NIED_SKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_NIED"
+  },
+  {
+    "tenantId": "germany.bayern.niederbayern.deggendorf",
+    "code": "DE_BY_NIED_DEGG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_NIED"
+  },
+  {
+    "tenantId": "germany.bayern.niederbayern.freyunggrafenau",
+    "code": "DE_BY_NIED_FREY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_NIED"
+  },
+  {
+    "tenantId": "germany.bayern.niederbayern.kelheim",
+    "code": "DE_BY_NIED_KELH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_NIED"
+  },
+  {
+    "tenantId": "germany.bayern.niederbayern.landshutlandkreis",
+    "code": "DE_BY_NIED_LALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_NIED"
+  },
+  {
+    "tenantId": "germany.bayern.niederbayern.passaulandkreis",
+    "code": "DE_BY_NIED_PALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_NIED"
+  },
+  {
+    "tenantId": "germany.bayern.niederbayern.regen",
+    "code": "DE_BY_NIED_REGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_NIED"
+  },
+  {
+    "tenantId": "germany.bayern.niederbayern.rottalinn",
+    "code": "DE_BY_NIED_ROTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_NIED"
+  },
+  {
+    "tenantId": "germany.bayern.niederbayern.straubingbogen",
+    "code": "DE_BY_NIED_STRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_NIED"
+  },
+  {
+    "tenantId": "germany.bayern.niederbayern.dingolfinglandau",
+    "code": "DE_BY_NIED_DING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_NIED"
+  },
+  {
+    "tenantId": "germany.bayern.oberpfalz.ambergkreisfreiestadt",
+    "code": "DE_BY_OBER2_AKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER2"
+  },
+  {
+    "tenantId": "germany.bayern.oberpfalz.regensburgkreisfreiestadt",
+    "code": "DE_BY_OBER2_RKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER2"
+  },
+  {
+    "tenantId": "germany.bayern.oberpfalz.weidenidopfkreisfreiestadt",
+    "code": "DE_BY_OBER2_WIOK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER2"
+  },
+  {
+    "tenantId": "germany.bayern.oberpfalz.ambergsulzbach",
+    "code": "DE_BY_OBER2_AMBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER2"
+  },
+  {
+    "tenantId": "germany.bayern.oberpfalz.cham",
+    "code": "DE_BY_OBER2_CHAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER2"
+  },
+  {
+    "tenantId": "germany.bayern.oberpfalz.neumarktidopf",
+    "code": "DE_BY_OBER2_NIO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER2"
+  },
+  {
+    "tenantId": "germany.bayern.oberpfalz.neustadtadwaldnaab",
+    "code": "DE_BY_OBER2_NAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER2"
+  },
+  {
+    "tenantId": "germany.bayern.oberpfalz.regensburglandkreis",
+    "code": "DE_BY_OBER2_RELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER2"
+  },
+  {
+    "tenantId": "germany.bayern.oberpfalz.schwandorf",
+    "code": "DE_BY_OBER2_SCHW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER2"
+  },
+  {
+    "tenantId": "germany.bayern.oberpfalz.tirschenreuth",
+    "code": "DE_BY_OBER2_TIRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER2"
+  },
+  {
+    "tenantId": "germany.bayern.oberfranken.bambergkreisfreiestadt",
+    "code": "DE_BY_OBER3_BKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER3"
+  },
+  {
+    "tenantId": "germany.bayern.oberfranken.bayreuthkreisfreiestadt",
+    "code": "DE_BY_OBER3_BKS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER3"
+  },
+  {
+    "tenantId": "germany.bayern.oberfranken.coburgkreisfreiestadt",
+    "code": "DE_BY_OBER3_CKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER3"
+  },
+  {
+    "tenantId": "germany.bayern.oberfranken.hofkreisfreiestadt",
+    "code": "DE_BY_OBER3_HKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER3"
+  },
+  {
+    "tenantId": "germany.bayern.oberfranken.bamberglandkreis",
+    "code": "DE_BY_OBER3_BALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER3"
+  },
+  {
+    "tenantId": "germany.bayern.oberfranken.bayreuthlandkreis",
+    "code": "DE_BY_OBER3_BALA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER3"
+  },
+  {
+    "tenantId": "germany.bayern.oberfranken.coburglandkreis",
+    "code": "DE_BY_OBER3_COLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER3"
+  },
+  {
+    "tenantId": "germany.bayern.oberfranken.forchheim",
+    "code": "DE_BY_OBER3_FORC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER3"
+  },
+  {
+    "tenantId": "germany.bayern.oberfranken.hoflandkreis",
+    "code": "DE_BY_OBER3_HOLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER3"
+  },
+  {
+    "tenantId": "germany.bayern.oberfranken.kronach",
+    "code": "DE_BY_OBER3_KRON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER3"
+  },
+  {
+    "tenantId": "germany.bayern.oberfranken.kulmbach",
+    "code": "DE_BY_OBER3_KULM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER3"
+  },
+  {
+    "tenantId": "germany.bayern.oberfranken.lichtenfels",
+    "code": "DE_BY_OBER3_LICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER3"
+  },
+  {
+    "tenantId": "germany.bayern.oberfranken.wunsiedelifichtelgebirge",
+    "code": "DE_BY_OBER3_WIF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_OBER3"
+  },
+  {
+    "tenantId": "germany.bayern.mittelfranken.ansbachkreisfreiestadt",
+    "code": "DE_BY_MITT_AKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_MITT"
+  },
+  {
+    "tenantId": "germany.bayern.mittelfranken.erlangenkreisfreiestadt",
+    "code": "DE_BY_MITT_EKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_MITT"
+  },
+  {
+    "tenantId": "germany.bayern.mittelfranken.frthkreisfreiestadt",
+    "code": "DE_BY_MITT_FKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_MITT"
+  },
+  {
+    "tenantId": "germany.bayern.mittelfranken.nrnbergkreisfreiestadt",
+    "code": "DE_BY_MITT_NKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_MITT"
+  },
+  {
+    "tenantId": "germany.bayern.mittelfranken.schwabachkreisfreiestadt",
+    "code": "DE_BY_MITT_SKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_MITT"
+  },
+  {
+    "tenantId": "germany.bayern.mittelfranken.ansbachlandkreis",
+    "code": "DE_BY_MITT_ANLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_MITT"
+  },
+  {
+    "tenantId": "germany.bayern.mittelfranken.erlangenhchstadt",
+    "code": "DE_BY_MITT_ERLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_MITT"
+  },
+  {
+    "tenantId": "germany.bayern.mittelfranken.frthlandkreis",
+    "code": "DE_BY_MITT_FLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_MITT"
+  },
+  {
+    "tenantId": "germany.bayern.mittelfranken.nrnbergerland",
+    "code": "DE_BY_MITT_NLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_MITT"
+  },
+  {
+    "tenantId": "germany.bayern.mittelfranken.neustadtadaischbadwindsheim",
+    "code": "DE_BY_MITT_NAAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_MITT"
+  },
+  {
+    "tenantId": "germany.bayern.mittelfranken.roth",
+    "code": "DE_BY_MITT_ROTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_MITT"
+  },
+  {
+    "tenantId": "germany.bayern.mittelfranken.weienburggunzenhausen",
+    "code": "DE_BY_MITT_WEISS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_MITT"
+  },
+  {
+    "tenantId": "germany.bayern.unterfranken.aschaffenburgkreisfreiestadt",
+    "code": "DE_BY_UNTE_AKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_UNTE"
+  },
+  {
+    "tenantId": "germany.bayern.unterfranken.schweinfurtkreisfreiestadt",
+    "code": "DE_BY_UNTE_SKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_UNTE"
+  },
+  {
+    "tenantId": "germany.bayern.unterfranken.wrzburgkreisfreiestadt",
+    "code": "DE_BY_UNTE_WKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_UNTE"
+  },
+  {
+    "tenantId": "germany.bayern.unterfranken.aschaffenburglandkreis",
+    "code": "DE_BY_UNTE_ASLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_UNTE"
+  },
+  {
+    "tenantId": "germany.bayern.unterfranken.badkissingen",
+    "code": "DE_BY_UNTE_BAKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_UNTE"
+  },
+  {
+    "tenantId": "germany.bayern.unterfranken.rhngrabfeld",
+    "code": "DE_BY_UNTE_RHN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_UNTE"
+  },
+  {
+    "tenantId": "germany.bayern.unterfranken.haberge",
+    "code": "DE_BY_UNTE_HASSB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_UNTE"
+  },
+  {
+    "tenantId": "germany.bayern.unterfranken.kitzingen",
+    "code": "DE_BY_UNTE_KITZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_UNTE"
+  },
+  {
+    "tenantId": "germany.bayern.unterfranken.miltenberg",
+    "code": "DE_BY_UNTE_MILT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_UNTE"
+  },
+  {
+    "tenantId": "germany.bayern.unterfranken.mainspessart",
+    "code": "DE_BY_UNTE_MAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_UNTE"
+  },
+  {
+    "tenantId": "germany.bayern.unterfranken.schweinfurtlandkreis",
+    "code": "DE_BY_UNTE_SCLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_UNTE"
+  },
+  {
+    "tenantId": "germany.bayern.unterfranken.wrzburglandkreis",
+    "code": "DE_BY_UNTE_WLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_UNTE"
+  },
+  {
+    "tenantId": "germany.bayern.schwaben.augsburgkreisfreiestadt",
+    "code": "DE_BY_SCHW_AKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_SCHW"
+  },
+  {
+    "tenantId": "germany.bayern.schwaben.kaufbeurenkreisfreiestadt",
+    "code": "DE_BY_SCHW_KKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_SCHW"
+  },
+  {
+    "tenantId": "germany.bayern.schwaben.kemptenallgukreisfreiestadt",
+    "code": "DE_BY_SCHW_KKS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_SCHW"
+  },
+  {
+    "tenantId": "germany.bayern.schwaben.memmingenkreisfreiestadt",
+    "code": "DE_BY_SCHW_MKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_SCHW"
+  },
+  {
+    "tenantId": "germany.bayern.schwaben.aichachfriedberg",
+    "code": "DE_BY_SCHW_AICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_SCHW"
+  },
+  {
+    "tenantId": "germany.bayern.schwaben.augsburglandkreis",
+    "code": "DE_BY_SCHW_AULA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_SCHW"
+  },
+  {
+    "tenantId": "germany.bayern.schwaben.dillingenaddonau",
+    "code": "DE_BY_SCHW_DAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_SCHW"
+  },
+  {
+    "tenantId": "germany.bayern.schwaben.gnzburg",
+    "code": "DE_BY_SCHW_GNZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_SCHW"
+  },
+  {
+    "tenantId": "germany.bayern.schwaben.neuulm",
+    "code": "DE_BY_SCHW_NEU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_SCHW"
+  },
+  {
+    "tenantId": "germany.bayern.schwaben.lindaubodensee",
+    "code": "DE_BY_SCHW_LIB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_SCHW"
+  },
+  {
+    "tenantId": "germany.bayern.schwaben.ostallgu",
+    "code": "DE_BY_SCHW_OSTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_SCHW"
+  },
+  {
+    "tenantId": "germany.bayern.schwaben.unterallgu",
+    "code": "DE_BY_SCHW_UNTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_SCHW"
+  },
+  {
+    "tenantId": "germany.bayern.schwaben.donauries",
+    "code": "DE_BY_SCHW_DONA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_SCHW"
+  },
+  {
+    "tenantId": "germany.bayern.schwaben.oberallgu",
+    "code": "DE_BY_SCHW_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_BY_SCHW"
+  }
+]

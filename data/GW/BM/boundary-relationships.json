@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "guineabissau.biombo",
+    "code": "GW_BM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GW"
+  },
+  {
+    "tenantId": "guineabissau.biombo.setordeprabis",
+    "code": "GW_BM_SDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GW_BM"
+  },
+  {
+    "tenantId": "guineabissau.biombo.setordequinh",
+    "code": "GW_BM_SDQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GW_BM"
+  },
+  {
+    "tenantId": "guineabissau.biombo.setordesafim",
+    "code": "GW_BM_SDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GW_BM"
+  }
+]

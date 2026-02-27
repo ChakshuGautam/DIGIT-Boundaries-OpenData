@@ -1,0 +1,121 @@
+[
+  {
+    "tenantId": "germany.sachsen",
+    "code": "DE_SN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "DE"
+  },
+  {
+    "tenantId": "germany.sachsen.dresden",
+    "code": "DE_SN_DRES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DE_SN"
+  },
+  {
+    "tenantId": "germany.sachsen.chemnitz",
+    "code": "DE_SN_CHEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DE_SN"
+  },
+  {
+    "tenantId": "germany.sachsen.leipzig",
+    "code": "DE_SN_LEIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DE_SN"
+  },
+  {
+    "tenantId": "germany.sachsen.dresden.dresdenkreisfreiestadt",
+    "code": "DE_SN_DRES_DKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_SN_DRES"
+  },
+  {
+    "tenantId": "germany.sachsen.dresden.bautzen",
+    "code": "DE_SN_DRES_BAUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_SN_DRES"
+  },
+  {
+    "tenantId": "germany.sachsen.dresden.grlitz",
+    "code": "DE_SN_DRES_GRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_SN_DRES"
+  },
+  {
+    "tenantId": "germany.sachsen.dresden.meien",
+    "code": "DE_SN_DRES_MEISS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_SN_DRES"
+  },
+  {
+    "tenantId": "germany.sachsen.dresden.schsischeschweizosterzgebirge",
+    "code": "DE_SN_DRES_SSC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_SN_DRES"
+  },
+  {
+    "tenantId": "germany.sachsen.chemnitz.chemnitzkreisfreiestadt",
+    "code": "DE_SN_CHEM_CKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_SN_CHEM"
+  },
+  {
+    "tenantId": "germany.sachsen.chemnitz.erzgebirgskreis",
+    "code": "DE_SN_CHEM_ERZG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_SN_CHEM"
+  },
+  {
+    "tenantId": "germany.sachsen.chemnitz.mittelsachsen",
+    "code": "DE_SN_CHEM_MITT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_SN_CHEM"
+  },
+  {
+    "tenantId": "germany.sachsen.chemnitz.vogtlandkreis",
+    "code": "DE_SN_CHEM_VOGT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_SN_CHEM"
+  },
+  {
+    "tenantId": "germany.sachsen.chemnitz.zwickau",
+    "code": "DE_SN_CHEM_ZWIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_SN_CHEM"
+  },
+  {
+    "tenantId": "germany.sachsen.leipzig.leipzigkreisfreiestadt",
+    "code": "DE_SN_LEIP_LKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_SN_LEIP"
+  },
+  {
+    "tenantId": "germany.sachsen.leipzig.leipzig",
+    "code": "DE_SN_LEIP_LEIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_SN_LEIP"
+  },
+  {
+    "tenantId": "germany.sachsen.leipzig.nordsachsen",
+    "code": "DE_SN_LEIP_NORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_SN_LEIP"
+  }
+]

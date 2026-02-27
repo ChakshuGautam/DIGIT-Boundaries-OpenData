@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "guineabissau.oio",
+    "code": "GW_OI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "GW"
+  },
+  {
+    "tenantId": "guineabissau.oio.setordebissora",
+    "code": "GW_OI_SDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GW_OI"
+  },
+  {
+    "tenantId": "guineabissau.oio.setordefarim",
+    "code": "GW_OI_SDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GW_OI"
+  },
+  {
+    "tenantId": "guineabissau.oio.setordemansaba",
+    "code": "GW_OI_SDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GW_OI"
+  },
+  {
+    "tenantId": "guineabissau.oio.setordemansoa",
+    "code": "GW_OI_SDM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GW_OI"
+  },
+  {
+    "tenantId": "guineabissau.oio.setordenhacra",
+    "code": "GW_OI_SDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "GW_OI"
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "tenantId": "lithuania.tauragecounty",
+    "code": "LT_TA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "LT"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.tauragsrajonosavivaldyb",
+    "code": "LT_TA_TRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_TA"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.jurbarkorajonosavivaldyb",
+    "code": "LT_TA_JRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_TA"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.ilalsrajonosavivaldyb",
+    "code": "LT_TA_RS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_TA"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.paggisavivaldyb",
+    "code": "LT_TA_PASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_TA"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.tauragsrajonosavivaldyb.tauragsseninija",
+    "code": "LT_TA_TRS_TASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_TRS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.tauragsrajonosavivaldyb.tauragsmiestoseninija",
+    "code": "LT_TA_TRS_TMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_TRS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.tauragsrajonosavivaldyb.batakiseninija",
+    "code": "LT_TA_TRS_BASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_TRS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.tauragsrajonosavivaldyb.lauksargiseninija",
+    "code": "LT_TA_TRS_LASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_TRS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.tauragsrajonosavivaldyb.ygaiiseninija",
+    "code": "LT_TA_TRS_YSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_TRS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.tauragsrajonosavivaldyb.skaudvilsseninija",
+    "code": "LT_TA_TRS_SKSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_TRS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.tauragsrajonosavivaldyb.maonseninija",
+    "code": "LT_TA_TRS_MASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_TRS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.tauragsrajonosavivaldyb.gaursseninija",
+    "code": "LT_TA_TRS_GASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_TRS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.jurbarkorajonosavivaldyb.jurbarkomiestoseninija",
+    "code": "LT_TA_JRS_JMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_JRS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.jurbarkorajonosavivaldyb.serediausseninija",
+    "code": "LT_TA_JRS_SESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_JRS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.jurbarkorajonosavivaldyb.skirsnemunsseninija",
+    "code": "LT_TA_JRS_SKSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_JRS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.jurbarkorajonosavivaldyb.imkaiiseninija",
+    "code": "LT_TA_JRS_ISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_JRS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.jurbarkorajonosavivaldyb.smalininkseninija",
+    "code": "LT_TA_JRS_SMSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_JRS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.jurbarkorajonosavivaldyb.veliuonosseninija",
+    "code": "LT_TA_JRS_VESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_JRS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.jurbarkorajonosavivaldyb.juodaiiseninija",
+    "code": "LT_TA_JRS_JUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_JRS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.jurbarkorajonosavivaldyb.girdiseninija",
+    "code": "LT_TA_JRS_GISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_JRS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.jurbarkorajonosavivaldyb.ervilkoseninija",
+    "code": "LT_TA_JRS_ERSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_JRS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.jurbarkorajonosavivaldyb.raudonsseninija",
+    "code": "LT_TA_JRS_RASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_JRS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.jurbarkorajonosavivaldyb.vievilsseninija",
+    "code": "LT_TA_JRS_VISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_JRS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.jurbarkorajonosavivaldyb.jurbarkseninija",
+    "code": "LT_TA_JRS_JUSE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_JRS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.ilalsrajonosavivaldyb.ilalskaimikojiseninija",
+    "code": "LT_TA_RS_KS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_RS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.ilalsrajonosavivaldyb.kvdarnosseninija",
+    "code": "LT_TA_RS_KVSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_RS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.ilalsrajonosavivaldyb.bijotseninija",
+    "code": "LT_TA_RS_BISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_RS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.ilalsrajonosavivaldyb.didkiemioseninija",
+    "code": "LT_TA_RS_DISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_RS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.ilalsrajonosavivaldyb.kaltinnseninija",
+    "code": "LT_TA_RS_KASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_RS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.ilalsrajonosavivaldyb.laukuvosseninija",
+    "code": "LT_TA_RS_LASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_RS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.ilalsrajonosavivaldyb.palentinioseninija",
+    "code": "LT_TA_RS_PASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_RS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.ilalsrajonosavivaldyb.pajrioseninija",
+    "code": "LT_TA_RS_PASE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_RS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.ilalsrajonosavivaldyb.teneniseninija",
+    "code": "LT_TA_RS_TESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_RS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.ilalsrajonosavivaldyb.traksdioseninija",
+    "code": "LT_TA_RS_TRSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_RS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.ilalsrajonosavivaldyb.ilalsmiestoseninija",
+    "code": "LT_TA_RS_MS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_RS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.ilalsrajonosavivaldyb.adeikiseninija",
+    "code": "LT_TA_RS_ASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_RS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.ilalsrajonosavivaldyb.bilioniseninija",
+    "code": "LT_TA_RS_BISE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_RS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.ilalsrajonosavivaldyb.upynosseninija",
+    "code": "LT_TA_RS_UPSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_RS"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.paggisavivaldyb.lumpnseninija",
+    "code": "LT_TA_PASA_LUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_PASA"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.paggisavivaldyb.paggiseninija",
+    "code": "LT_TA_PASA_PASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_PASA"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.paggisavivaldyb.stonikiseninija",
+    "code": "LT_TA_PASA_STSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_PASA"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.paggisavivaldyb.vilkykiseninija",
+    "code": "LT_TA_PASA_VISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_PASA"
+  },
+  {
+    "tenantId": "lithuania.tauragecounty.paggisavivaldyb.natkikiseninija",
+    "code": "LT_TA_PASA_NASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TA_PASA"
+  }
+]

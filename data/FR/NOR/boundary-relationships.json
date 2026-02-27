@@ -1,0 +1,156 @@
+[
+  {
+    "tenantId": "france.normandie",
+    "code": "FR_NOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "FR"
+  },
+  {
+    "tenantId": "france.normandie.calvados",
+    "code": "FR_NOR_CALV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_NOR"
+  },
+  {
+    "tenantId": "france.normandie.eure",
+    "code": "FR_NOR_EURE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_NOR"
+  },
+  {
+    "tenantId": "france.normandie.manche",
+    "code": "FR_NOR_MANC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_NOR"
+  },
+  {
+    "tenantId": "france.normandie.orne",
+    "code": "FR_NOR_ORNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_NOR"
+  },
+  {
+    "tenantId": "france.normandie.seinemaritime",
+    "code": "FR_NOR_SEIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Department",
+    "parent": "FR_NOR"
+  },
+  {
+    "tenantId": "france.normandie.calvados.bayeux",
+    "code": "FR_NOR_CALV_BAYE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NOR_CALV"
+  },
+  {
+    "tenantId": "france.normandie.calvados.caen",
+    "code": "FR_NOR_CALV_CAEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NOR_CALV"
+  },
+  {
+    "tenantId": "france.normandie.calvados.lisieux",
+    "code": "FR_NOR_CALV_LISI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NOR_CALV"
+  },
+  {
+    "tenantId": "france.normandie.calvados.virenormandie",
+    "code": "FR_NOR_CALV_VINO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NOR_CALV"
+  },
+  {
+    "tenantId": "france.normandie.eure.lesandelys",
+    "code": "FR_NOR_EURE_LEAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NOR_EURE"
+  },
+  {
+    "tenantId": "france.normandie.eure.bernay",
+    "code": "FR_NOR_EURE_BERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NOR_EURE"
+  },
+  {
+    "tenantId": "france.normandie.eure.vreux",
+    "code": "FR_NOR_EURE_VRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NOR_EURE"
+  },
+  {
+    "tenantId": "france.normandie.manche.avranches",
+    "code": "FR_NOR_MANC_AVRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NOR_MANC"
+  },
+  {
+    "tenantId": "france.normandie.manche.cherbourgencotentin",
+    "code": "FR_NOR_MANC_CHER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NOR_MANC"
+  },
+  {
+    "tenantId": "france.normandie.manche.coutances",
+    "code": "FR_NOR_MANC_COUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NOR_MANC"
+  },
+  {
+    "tenantId": "france.normandie.manche.saintl",
+    "code": "FR_NOR_MANC_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NOR_MANC"
+  },
+  {
+    "tenantId": "france.normandie.orne.argentan",
+    "code": "FR_NOR_ORNE_ARGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NOR_ORNE"
+  },
+  {
+    "tenantId": "france.normandie.orne.mortagneauperche",
+    "code": "FR_NOR_ORNE_MORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NOR_ORNE"
+  },
+  {
+    "tenantId": "france.normandie.seinemaritime.dieppe",
+    "code": "FR_NOR_SEIN_DIEP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NOR_SEIN"
+  },
+  {
+    "tenantId": "france.normandie.seinemaritime.lehavre",
+    "code": "FR_NOR_SEIN_LEHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NOR_SEIN"
+  },
+  {
+    "tenantId": "france.normandie.seinemaritime.rouen",
+    "code": "FR_NOR_SEIN_ROUE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Arrondissement",
+    "parent": "FR_NOR_SEIN"
+  }
+]

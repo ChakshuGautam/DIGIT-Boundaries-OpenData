@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "colombia.archipilagodesanandrsprovidenciaysantacatalina",
+    "code": "CO_SAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CO"
+  },
+  {
+    "tenantId": "colombia.archipilagodesanandrsprovidenciaysantacatalina.sanandrs",
+    "code": "CO_SAP_SAAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_SAP"
+  },
+  {
+    "tenantId": "colombia.archipilagodesanandrsprovidenciaysantacatalina.providenciasantaisabel",
+    "code": "CO_SAP_PI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CO_SAP"
+  }
+]

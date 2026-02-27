@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "serbia.westbackadistrict",
+    "code": "RS_05",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "RS"
+  },
+  {
+    "tenantId": "serbia.westbackadistrict.somborcity",
+    "code": "RS_05_SOCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_05"
+  },
+  {
+    "tenantId": "serbia.westbackadistrict.apatinmunicipality",
+    "code": "RS_05_APMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_05"
+  },
+  {
+    "tenantId": "serbia.westbackadistrict.kulamunicipality",
+    "code": "RS_05_KUMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_05"
+  },
+  {
+    "tenantId": "serbia.westbackadistrict.odzacimunicipality",
+    "code": "RS_05_ODMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_05"
+  }
+]

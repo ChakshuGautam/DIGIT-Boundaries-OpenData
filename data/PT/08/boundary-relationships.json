@@ -1,0 +1,576 @@
+[
+  {
+    "tenantId": "portugal.faro",
+    "code": "PT_08",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PT"
+  },
+  {
+    "tenantId": "portugal.faro.viladobispo",
+    "code": "PT_08_VDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_08"
+  },
+  {
+    "tenantId": "portugal.faro.lagos",
+    "code": "PT_08_LAGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_08"
+  },
+  {
+    "tenantId": "portugal.faro.portimao",
+    "code": "PT_08_PORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_08"
+  },
+  {
+    "tenantId": "portugal.faro.lagoa",
+    "code": "PT_08_LAGO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_08"
+  },
+  {
+    "tenantId": "portugal.faro.alijezur",
+    "code": "PT_08_ALIJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_08"
+  },
+  {
+    "tenantId": "portugal.faro.monchique",
+    "code": "PT_08_MONC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_08"
+  },
+  {
+    "tenantId": "portugal.faro.silves",
+    "code": "PT_08_SILV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_08"
+  },
+  {
+    "tenantId": "portugal.faro.albufeira",
+    "code": "PT_08_ALBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_08"
+  },
+  {
+    "tenantId": "portugal.faro.loule",
+    "code": "PT_08_LOUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_08"
+  },
+  {
+    "tenantId": "portugal.faro.faro",
+    "code": "PT_08_FARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_08"
+  },
+  {
+    "tenantId": "portugal.faro.olhao",
+    "code": "PT_08_OLHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_08"
+  },
+  {
+    "tenantId": "portugal.faro.saobrasdealportel",
+    "code": "PT_08_SBDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_08"
+  },
+  {
+    "tenantId": "portugal.faro.tavira",
+    "code": "PT_08_TAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_08"
+  },
+  {
+    "tenantId": "portugal.faro.vilarealdesantoantonio",
+    "code": "PT_08_VRDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_08"
+  },
+  {
+    "tenantId": "portugal.faro.castromarim",
+    "code": "PT_08_CAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_08"
+  },
+  {
+    "tenantId": "portugal.faro.alcoutim",
+    "code": "PT_08_ALCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_08"
+  },
+  {
+    "tenantId": "portugal.faro.viladobispo.barodesomiguel",
+    "code": "PT_08_VDB_BDSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_VDB"
+  },
+  {
+    "tenantId": "portugal.faro.viladobispo.budens",
+    "code": "PT_08_VDB_BUDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_VDB"
+  },
+  {
+    "tenantId": "portugal.faro.viladobispo.sagres",
+    "code": "PT_08_VDB_SAGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_VDB"
+  },
+  {
+    "tenantId": "portugal.faro.viladobispo.viladobispoeraposeira",
+    "code": "PT_08_VDB_VDBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_VDB"
+  },
+  {
+    "tenantId": "portugal.faro.lagos.odixere",
+    "code": "PT_08_LAGO_ODI3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_LAGO"
+  },
+  {
+    "tenantId": "portugal.faro.lagos.sdogonalodelagos",
+    "code": "PT_08_LAGO_SGDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_LAGO"
+  },
+  {
+    "tenantId": "portugal.faro.lagos.uniodasfreguesiasdebensafrimebarnodes",
+    "code": "PT_08_LAGO_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_LAGO"
+  },
+  {
+    "tenantId": "portugal.faro.portimao.mexilhoeiragrande",
+    "code": "PT_08_PORT_MEGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_PORT"
+  },
+  {
+    "tenantId": "portugal.faro.portimao.portimmo",
+    "code": "PT_08_PORT_PORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_PORT"
+  },
+  {
+    "tenantId": "portugal.faro.portimao.alvor",
+    "code": "PT_08_PORT_ALVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_PORT"
+  },
+  {
+    "tenantId": "portugal.faro.lagoa.porches",
+    "code": "PT_08_LAGO2_PORC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_LAGO2"
+  },
+  {
+    "tenantId": "portugal.faro.lagoa.uniodasfreguesiasdeestembareparchal",
+    "code": "PT_08_LAGO2_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_LAGO2"
+  },
+  {
+    "tenantId": "portugal.faro.lagoa.uniodasfreguesiasdelagoaecarvoeiro",
+    "code": "PT_08_LAGO2_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_LAGO2"
+  },
+  {
+    "tenantId": "portugal.faro.lagoa.ferragudo",
+    "code": "PT_08_LAGO2_FERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_LAGO2"
+  },
+  {
+    "tenantId": "portugal.faro.alijezur.aljezur",
+    "code": "PT_08_ALIJ_ALJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_ALIJ"
+  },
+  {
+    "tenantId": "portugal.faro.alijezur.bordeira",
+    "code": "PT_08_ALIJ_BORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_ALIJ"
+  },
+  {
+    "tenantId": "portugal.faro.alijezur.odeceixe",
+    "code": "PT_08_ALIJ_ODEC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_ALIJ"
+  },
+  {
+    "tenantId": "portugal.faro.alijezur.rogil",
+    "code": "PT_08_ALIJ_ROGI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_ALIJ"
+  },
+  {
+    "tenantId": "portugal.faro.monchique.alferce",
+    "code": "PT_08_MONC_ALFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_MONC"
+  },
+  {
+    "tenantId": "portugal.faro.monchique.marmelete",
+    "code": "PT_08_MONC_MARM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_MONC"
+  },
+  {
+    "tenantId": "portugal.faro.monchique.monchique",
+    "code": "PT_08_MONC_MONC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_MONC"
+  },
+  {
+    "tenantId": "portugal.faro.silves.arma",
+    "code": "PT_08_SILV_ARMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_SILV"
+  },
+  {
+    "tenantId": "portugal.faro.silves.sdobartolomeudemessines",
+    "code": "PT_08_SILV_SBDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_SILV"
+  },
+  {
+    "tenantId": "portugal.faro.silves.sdomarcosdaserra",
+    "code": "PT_08_SILV_SMDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_SILV"
+  },
+  {
+    "tenantId": "portugal.faro.silves.silves",
+    "code": "PT_08_SILV_SILV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_SILV"
+  },
+  {
+    "tenantId": "portugal.faro.silves.uniodasfreguesiasdealcantarilhaepmra",
+    "code": "PT_08_SILV_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_SILV"
+  },
+  {
+    "tenantId": "portugal.faro.silves.uniodasfreguesiasdealgozetunes",
+    "code": "PT_08_SILV_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_SILV"
+  },
+  {
+    "tenantId": "portugal.faro.albufeira.ferreiras",
+    "code": "PT_08_ALBU_FERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_ALBU"
+  },
+  {
+    "tenantId": "portugal.faro.albufeira.guia",
+    "code": "PT_08_ALBU_GUIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_ALBU"
+  },
+  {
+    "tenantId": "portugal.faro.albufeira.albufeiraeolhosdegua",
+    "code": "PT_08_ALBU_AEOD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_ALBU"
+  },
+  {
+    "tenantId": "portugal.faro.albufeira.quarteira",
+    "code": "PT_08_ALBU_QUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_ALBU"
+  },
+  {
+    "tenantId": "portugal.faro.loule.almancil",
+    "code": "PT_08_LOUL_ALMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_LOUL"
+  },
+  {
+    "tenantId": "portugal.faro.loule.alte",
+    "code": "PT_08_LOUL_ALTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_LOUL"
+  },
+  {
+    "tenantId": "portugal.faro.loule.ameixial",
+    "code": "PT_08_LOUL_AMEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_LOUL"
+  },
+  {
+    "tenantId": "portugal.faro.loule.boliqueime",
+    "code": "PT_08_LOUL_BOLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_LOUL"
+  },
+  {
+    "tenantId": "portugal.faro.loule.loul",
+    "code": "PT_08_LOUL_LOUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_LOUL"
+  },
+  {
+    "tenantId": "portugal.faro.loule.loul",
+    "code": "PT_08_LOUL_LOUL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_LOUL"
+  },
+  {
+    "tenantId": "portugal.faro.loule.salir",
+    "code": "PT_08_LOUL_SALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_LOUL"
+  },
+  {
+    "tenantId": "portugal.faro.loule.uniodefreguesiasdequereneatlrebenafim",
+    "code": "PT_08_LOUL_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_LOUL"
+  },
+  {
+    "tenantId": "portugal.faro.faro.pech",
+    "code": "PT_08_FARO_PECH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_FARO"
+  },
+  {
+    "tenantId": "portugal.faro.faro.santabrbaradenexe",
+    "code": "PT_08_FARO_SBDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_FARO"
+  },
+  {
+    "tenantId": "portugal.faro.faro.uniodasfreguesiasdeconceiasoeestoi",
+    "code": "PT_08_FARO_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_FARO"
+  },
+  {
+    "tenantId": "portugal.faro.faro.uniodasfreguesiasdefarossescopedro",
+    "code": "PT_08_FARO_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_FARO"
+  },
+  {
+    "tenantId": "portugal.faro.faro.montenegro",
+    "code": "PT_08_FARO_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_FARO"
+  },
+  {
+    "tenantId": "portugal.faro.olhao.quelfes",
+    "code": "PT_08_OLHA_QUEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_OLHA"
+  },
+  {
+    "tenantId": "portugal.faro.olhao.uniodasfreguesiasdemoncarapachoefuseta",
+    "code": "PT_08_OLHA_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_OLHA"
+  },
+  {
+    "tenantId": "portugal.faro.olhao.olho",
+    "code": "PT_08_OLHA_OLH3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_OLHA"
+  },
+  {
+    "tenantId": "portugal.faro.saobrasdealportel.sdobrmsdealportel",
+    "code": "PT_08_SBDA_SBDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_SBDA"
+  },
+  {
+    "tenantId": "portugal.faro.tavira.cachopo",
+    "code": "PT_08_TAVI_CACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_TAVI"
+  },
+  {
+    "tenantId": "portugal.faro.tavira.santacatarinadafontedobispo",
+    "code": "PT_08_TAVI_SCDF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_TAVI"
+  },
+  {
+    "tenantId": "portugal.faro.tavira.santaluzia",
+    "code": "PT_08_TAVI_SALU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_TAVI"
+  },
+  {
+    "tenantId": "portugal.faro.tavira.uniodasfreguesiasdeconceiasoecabanasde",
+    "code": "PT_08_TAVI_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_TAVI"
+  },
+  {
+    "tenantId": "portugal.faro.tavira.uniodasfreguesiasdeluzdetaviraesantoest",
+    "code": "PT_08_TAVI_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_TAVI"
+  },
+  {
+    "tenantId": "portugal.faro.tavira.uniodasfreguesiasdetavirasantamariaesan",
+    "code": "PT_08_TAVI_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_TAVI"
+  },
+  {
+    "tenantId": "portugal.faro.vilarealdesantoantonio.altura",
+    "code": "PT_08_VRDS_ALTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_VRDS"
+  },
+  {
+    "tenantId": "portugal.faro.vilarealdesantoantonio.montegordo",
+    "code": "PT_08_VRDS_MOGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_VRDS"
+  },
+  {
+    "tenantId": "portugal.faro.vilarealdesantoantonio.vilanovadecacela",
+    "code": "PT_08_VRDS_VNDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_VRDS"
+  },
+  {
+    "tenantId": "portugal.faro.vilarealdesantoantonio.vilarealdesantoantnio",
+    "code": "PT_08_VRDS_VRDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_VRDS"
+  },
+  {
+    "tenantId": "portugal.faro.castromarim.azinhal",
+    "code": "PT_08_CAMA_AZIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_CAMA"
+  },
+  {
+    "tenantId": "portugal.faro.castromarim.castromarim",
+    "code": "PT_08_CAMA_CAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_CAMA"
+  },
+  {
+    "tenantId": "portugal.faro.castromarim.odeleite",
+    "code": "PT_08_CAMA_ODEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_CAMA"
+  },
+  {
+    "tenantId": "portugal.faro.alcoutim.gimes",
+    "code": "PT_08_ALCO_GIME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_ALCO"
+  },
+  {
+    "tenantId": "portugal.faro.alcoutim.martimlongo",
+    "code": "PT_08_ALCO_MALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_ALCO"
+  },
+  {
+    "tenantId": "portugal.faro.alcoutim.uniodasfreguesiasdealcoutimepereiro",
+    "code": "PT_08_ALCO_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_ALCO"
+  },
+  {
+    "tenantId": "portugal.faro.alcoutim.vaqueiros",
+    "code": "PT_08_ALCO_VAQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_08_ALCO"
+  }
+]

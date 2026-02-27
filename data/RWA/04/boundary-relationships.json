@@ -1,0 +1,730 @@
+[
+  {
+    "tenantId": "rwanda.westernprovince",
+    "code": "RWA_04",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Province",
+    "parent": "RWA"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.karongi",
+    "code": "RWA_04_KARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RWA_04"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rutsiro",
+    "code": "RWA_04_RUTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RWA_04"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rubavu",
+    "code": "RWA_04_RUBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RWA_04"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyabihu",
+    "code": "RWA_04_NYAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RWA_04"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.ngororero",
+    "code": "RWA_04_NGOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RWA_04"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rusizi",
+    "code": "RWA_04_RUSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RWA_04"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyamasheke",
+    "code": "RWA_04_NYAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RWA_04"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.karongi.bwishyura",
+    "code": "RWA_04_KARO_BWIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_KARO"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.karongi.gashari",
+    "code": "RWA_04_KARO_GASH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_KARO"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.karongi.gishyita",
+    "code": "RWA_04_KARO_GISH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_KARO"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.karongi.gitesi",
+    "code": "RWA_04_KARO_GITE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_KARO"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.karongi.mubuga",
+    "code": "RWA_04_KARO_MUBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_KARO"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.karongi.murambi",
+    "code": "RWA_04_KARO_MURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_KARO"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.karongi.murundi",
+    "code": "RWA_04_KARO_MURU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_KARO"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.karongi.mutuntu",
+    "code": "RWA_04_KARO_MUTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_KARO"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.karongi.rubengera",
+    "code": "RWA_04_KARO_RUBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_KARO"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.karongi.rugabano",
+    "code": "RWA_04_KARO_RUGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_KARO"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.karongi.ruganda",
+    "code": "RWA_04_KARO_RUGA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_KARO"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.karongi.rwankuba",
+    "code": "RWA_04_KARO_RWAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_KARO"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.karongi.twumba",
+    "code": "RWA_04_KARO_TWUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_KARO"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rutsiro.boneza",
+    "code": "RWA_04_RUTS_BONE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUTS"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rutsiro.gihango",
+    "code": "RWA_04_RUTS_GIHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUTS"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rutsiro.kigeyo",
+    "code": "RWA_04_RUTS_KIGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUTS"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rutsiro.kivumu",
+    "code": "RWA_04_RUTS_KIVU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUTS"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rutsiro.manihira",
+    "code": "RWA_04_RUTS_MANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUTS"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rutsiro.mukura",
+    "code": "RWA_04_RUTS_MUKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUTS"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rutsiro.murunda",
+    "code": "RWA_04_RUTS_MURU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUTS"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rutsiro.musasa",
+    "code": "RWA_04_RUTS_MUSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUTS"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rutsiro.mushonyi",
+    "code": "RWA_04_RUTS_MUSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUTS"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rutsiro.mushubati",
+    "code": "RWA_04_RUTS_MUSH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUTS"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rutsiro.nyabirasi",
+    "code": "RWA_04_RUTS_NYAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUTS"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rutsiro.ruhango",
+    "code": "RWA_04_RUTS_RUHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUTS"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rutsiro.rusebeya",
+    "code": "RWA_04_RUTS_RUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUTS"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rubavu.bugeshi",
+    "code": "RWA_04_RUBA_BUGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUBA"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rubavu.busasamana",
+    "code": "RWA_04_RUBA_BUSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUBA"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rubavu.cyanzarwe",
+    "code": "RWA_04_RUBA_CYAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUBA"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rubavu.gisenyi",
+    "code": "RWA_04_RUBA_GISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUBA"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rubavu.kanama",
+    "code": "RWA_04_RUBA_KANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUBA"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rubavu.kanzenze",
+    "code": "RWA_04_RUBA_KANZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUBA"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rubavu.mudende",
+    "code": "RWA_04_RUBA_MUDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUBA"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rubavu.nyakiriba",
+    "code": "RWA_04_RUBA_NYAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUBA"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rubavu.nyamyumba",
+    "code": "RWA_04_RUBA_NYAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUBA"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rubavu.nyundo",
+    "code": "RWA_04_RUBA_NYUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUBA"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rubavu.rubavu",
+    "code": "RWA_04_RUBA_RUBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUBA"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rubavu.rugerero",
+    "code": "RWA_04_RUBA_RUGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUBA"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyabihu.bigogwe",
+    "code": "RWA_04_NYAB_BIGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAB"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyabihu.jenda",
+    "code": "RWA_04_NYAB_JEND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAB"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyabihu.jomba",
+    "code": "RWA_04_NYAB_JOMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAB"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyabihu.kabatwa",
+    "code": "RWA_04_NYAB_KABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAB"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyabihu.karago",
+    "code": "RWA_04_NYAB_KARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAB"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyabihu.kintobo",
+    "code": "RWA_04_NYAB_KINT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAB"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyabihu.mukamira",
+    "code": "RWA_04_NYAB_MUKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAB"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyabihu.muringa",
+    "code": "RWA_04_NYAB_MURI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAB"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyabihu.rambura",
+    "code": "RWA_04_NYAB_RAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAB"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyabihu.rugera",
+    "code": "RWA_04_NYAB_RUGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAB"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyabihu.rurembo",
+    "code": "RWA_04_NYAB_RURE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAB"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyabihu.shyira",
+    "code": "RWA_04_NYAB_SHYI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAB"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.ngororero.bwira",
+    "code": "RWA_04_NGOR_BWIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NGOR"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.ngororero.gatumba",
+    "code": "RWA_04_NGOR_GATU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NGOR"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.ngororero.hindiro",
+    "code": "RWA_04_NGOR_HIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NGOR"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.ngororero.kabaya",
+    "code": "RWA_04_NGOR_KABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NGOR"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.ngororero.kageyo",
+    "code": "RWA_04_NGOR_KAGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NGOR"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.ngororero.kavumu",
+    "code": "RWA_04_NGOR_KAVU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NGOR"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.ngororero.matyazo",
+    "code": "RWA_04_NGOR_MATY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NGOR"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.ngororero.muhanda",
+    "code": "RWA_04_NGOR_MUHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NGOR"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.ngororero.muhororo",
+    "code": "RWA_04_NGOR_MUHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NGOR"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.ngororero.ndaro",
+    "code": "RWA_04_NGOR_NDAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NGOR"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.ngororero.ngororero",
+    "code": "RWA_04_NGOR_NGOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NGOR"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.ngororero.nyange",
+    "code": "RWA_04_NGOR_NYAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NGOR"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.ngororero.sovu",
+    "code": "RWA_04_NGOR_SOVU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NGOR"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rusizi.bugarama",
+    "code": "RWA_04_RUSI_BUGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUSI"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rusizi.butare",
+    "code": "RWA_04_RUSI_BUTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUSI"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rusizi.bweyeye",
+    "code": "RWA_04_RUSI_BWEY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUSI"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rusizi.gashonga",
+    "code": "RWA_04_RUSI_GASH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUSI"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rusizi.giheke",
+    "code": "RWA_04_RUSI_GIHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUSI"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rusizi.gihundwe",
+    "code": "RWA_04_RUSI_GIHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUSI"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rusizi.gikundamvura",
+    "code": "RWA_04_RUSI_GIKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUSI"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rusizi.gitambi",
+    "code": "RWA_04_RUSI_GITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUSI"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rusizi.kamembe",
+    "code": "RWA_04_RUSI_KAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUSI"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rusizi.muganza",
+    "code": "RWA_04_RUSI_MUGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUSI"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rusizi.mururu",
+    "code": "RWA_04_RUSI_MURU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUSI"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rusizi.nkanka",
+    "code": "RWA_04_RUSI_NKAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUSI"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rusizi.nkombo",
+    "code": "RWA_04_RUSI_NKOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUSI"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rusizi.nkungu",
+    "code": "RWA_04_RUSI_NKUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUSI"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rusizi.nyakarenzo",
+    "code": "RWA_04_RUSI_NYAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUSI"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rusizi.nzahaha",
+    "code": "RWA_04_RUSI_NZAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUSI"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.rusizi.rwimbogo",
+    "code": "RWA_04_RUSI_RWIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_RUSI"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyamasheke.nyakabuye",
+    "code": "RWA_04_NYAM_NYAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAM"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyamasheke.bushekeri",
+    "code": "RWA_04_NYAM_BUSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAM"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyamasheke.bushenge",
+    "code": "RWA_04_NYAM_BUSH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAM"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyamasheke.cyato",
+    "code": "RWA_04_NYAM_CYAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAM"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyamasheke.gihombo",
+    "code": "RWA_04_NYAM_GIHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAM"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyamasheke.kagano",
+    "code": "RWA_04_NYAM_KAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAM"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyamasheke.kanjongo",
+    "code": "RWA_04_NYAM_KANJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAM"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyamasheke.karambi",
+    "code": "RWA_04_NYAM_KARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAM"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyamasheke.karengera",
+    "code": "RWA_04_NYAM_KARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAM"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyamasheke.kirimbi",
+    "code": "RWA_04_NYAM_KIRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAM"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyamasheke.macuba",
+    "code": "RWA_04_NYAM_MACU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAM"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyamasheke.mahembe",
+    "code": "RWA_04_NYAM_MAHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAM"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyamasheke.nyabitekeri",
+    "code": "RWA_04_NYAM_NYAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAM"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyamasheke.rangiro",
+    "code": "RWA_04_NYAM_RANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAM"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyamasheke.ruharambuga",
+    "code": "RWA_04_NYAM_RUHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAM"
+  },
+  {
+    "tenantId": "rwanda.westernprovince.nyamasheke.shangi",
+    "code": "RWA_04_NYAM_SHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sector",
+    "parent": "RWA_04_NYAM"
+  }
+]

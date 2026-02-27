@@ -1,0 +1,996 @@
+[
+  {
+    "tenantId": "austria.krnten",
+    "code": "AT_2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "AT"
+  },
+  {
+    "tenantId": "austria.krnten.feldkirchen",
+    "code": "AT_2_FELD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_2"
+  },
+  {
+    "tenantId": "austria.krnten.hermagor",
+    "code": "AT_2_HERM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_2"
+  },
+  {
+    "tenantId": "austria.krnten.klagenfurtland",
+    "code": "AT_2_KLLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_2"
+  },
+  {
+    "tenantId": "austria.krnten.klagenfurtstadt",
+    "code": "AT_2_KLAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_2"
+  },
+  {
+    "tenantId": "austria.krnten.sanktveitanderglan",
+    "code": "AT_2_SVAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_2"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau",
+    "code": "AT_2_SADD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_2"
+  },
+  {
+    "tenantId": "austria.krnten.villachland",
+    "code": "AT_2_VILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_2"
+  },
+  {
+    "tenantId": "austria.krnten.villachstadt",
+    "code": "AT_2_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_2"
+  },
+  {
+    "tenantId": "austria.krnten.vlkermarkt",
+    "code": "AT_2_VLK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_2"
+  },
+  {
+    "tenantId": "austria.krnten.wolfsberg",
+    "code": "AT_2_WOLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "AT_2"
+  },
+  {
+    "tenantId": "austria.krnten.feldkirchen.albeck",
+    "code": "AT_2_FELD_ALBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_FELD"
+  },
+  {
+    "tenantId": "austria.krnten.feldkirchen.feldkircheninkrnten",
+    "code": "AT_2_FELD_FIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_FELD"
+  },
+  {
+    "tenantId": "austria.krnten.feldkirchen.glanegg",
+    "code": "AT_2_FELD_GLAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_FELD"
+  },
+  {
+    "tenantId": "austria.krnten.feldkirchen.gnesau",
+    "code": "AT_2_FELD_GNES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_FELD"
+  },
+  {
+    "tenantId": "austria.krnten.feldkirchen.himmelberg",
+    "code": "AT_2_FELD_HIMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_FELD"
+  },
+  {
+    "tenantId": "austria.krnten.feldkirchen.ossiach",
+    "code": "AT_2_FELD_OSSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_FELD"
+  },
+  {
+    "tenantId": "austria.krnten.feldkirchen.reichenau",
+    "code": "AT_2_FELD_REIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_FELD"
+  },
+  {
+    "tenantId": "austria.krnten.feldkirchen.sturban",
+    "code": "AT_2_FELD_STUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_FELD"
+  },
+  {
+    "tenantId": "austria.krnten.feldkirchen.steindorfamossiachersee",
+    "code": "AT_2_FELD_SAOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_FELD"
+  },
+  {
+    "tenantId": "austria.krnten.feldkirchen.steuerberg",
+    "code": "AT_2_FELD_STEU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_FELD"
+  },
+  {
+    "tenantId": "austria.krnten.hermagor.dellach",
+    "code": "AT_2_HERM_DELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_HERM"
+  },
+  {
+    "tenantId": "austria.krnten.hermagor.gitschtal",
+    "code": "AT_2_HERM_GITS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_HERM"
+  },
+  {
+    "tenantId": "austria.krnten.hermagor.hermagorpresseggersee",
+    "code": "AT_2_HERM_HESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_HERM"
+  },
+  {
+    "tenantId": "austria.krnten.hermagor.kirchbach",
+    "code": "AT_2_HERM_KIRC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_HERM"
+  },
+  {
+    "tenantId": "austria.krnten.hermagor.ktschachmauthen",
+    "code": "AT_2_HERM_KTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_HERM"
+  },
+  {
+    "tenantId": "austria.krnten.hermagor.lesachtal",
+    "code": "AT_2_HERM_LESA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_HERM"
+  },
+  {
+    "tenantId": "austria.krnten.hermagor.ststefanimgailtal",
+    "code": "AT_2_HERM_SSIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_HERM"
+  },
+  {
+    "tenantId": "austria.krnten.klagenfurtland.ebenthalinkrnten",
+    "code": "AT_2_KLLA_EIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_KLLA"
+  },
+  {
+    "tenantId": "austria.krnten.klagenfurtland.feistritzimrosental",
+    "code": "AT_2_KLLA_FIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_KLLA"
+  },
+  {
+    "tenantId": "austria.krnten.klagenfurtland.ferlach",
+    "code": "AT_2_KLLA_FERL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_KLLA"
+  },
+  {
+    "tenantId": "austria.krnten.klagenfurtland.grafenstein",
+    "code": "AT_2_KLLA_GRAF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_KLLA"
+  },
+  {
+    "tenantId": "austria.krnten.klagenfurtland.keutschachamsee",
+    "code": "AT_2_KLLA_KAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_KLLA"
+  },
+  {
+    "tenantId": "austria.krnten.klagenfurtland.kttmannsdorf",
+    "code": "AT_2_KLLA_KTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_KLLA"
+  },
+  {
+    "tenantId": "austria.krnten.klagenfurtland.krumpendorfamwrthersee",
+    "code": "AT_2_KLLA_KAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_KLLA"
+  },
+  {
+    "tenantId": "austria.krnten.klagenfurtland.ludmannsdorf",
+    "code": "AT_2_KLLA_LUDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_KLLA"
+  },
+  {
+    "tenantId": "austria.krnten.klagenfurtland.magdalensberg",
+    "code": "AT_2_KLLA_MAGD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_KLLA"
+  },
+  {
+    "tenantId": "austria.krnten.klagenfurtland.mariarain",
+    "code": "AT_2_KLLA_MARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_KLLA"
+  },
+  {
+    "tenantId": "austria.krnten.klagenfurtland.mariasaal",
+    "code": "AT_2_KLLA_MASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_KLLA"
+  },
+  {
+    "tenantId": "austria.krnten.klagenfurtland.mariawrth",
+    "code": "AT_2_KLLA_MAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_KLLA"
+  },
+  {
+    "tenantId": "austria.krnten.klagenfurtland.moosburg",
+    "code": "AT_2_KLLA_MOOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_KLLA"
+  },
+  {
+    "tenantId": "austria.krnten.klagenfurtland.poggersdorf",
+    "code": "AT_2_KLLA_POGG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_KLLA"
+  },
+  {
+    "tenantId": "austria.krnten.klagenfurtland.prtschachamwrthersee",
+    "code": "AT_2_KLLA_PAWS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_KLLA"
+  },
+  {
+    "tenantId": "austria.krnten.klagenfurtland.schieflingamwrthersee",
+    "code": "AT_2_KLLA_SAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_KLLA"
+  },
+  {
+    "tenantId": "austria.krnten.klagenfurtland.stmargaretenimrosental",
+    "code": "AT_2_KLLA_SMIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_KLLA"
+  },
+  {
+    "tenantId": "austria.krnten.klagenfurtland.techelsbergamwrthersee",
+    "code": "AT_2_KLLA_TAWS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_KLLA"
+  },
+  {
+    "tenantId": "austria.krnten.klagenfurtland.zell",
+    "code": "AT_2_KLLA_ZELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_KLLA"
+  },
+  {
+    "tenantId": "austria.krnten.klagenfurtstadt.klagenfurtamwrthersee",
+    "code": "AT_2_KLAG_KAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_KLAG"
+  },
+  {
+    "tenantId": "austria.krnten.sanktveitanderglan.althofen",
+    "code": "AT_2_SVAD_ALTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SVAD"
+  },
+  {
+    "tenantId": "austria.krnten.sanktveitanderglan.brckl",
+    "code": "AT_2_SVAD_BRC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SVAD"
+  },
+  {
+    "tenantId": "austria.krnten.sanktveitanderglan.deutschgriffen",
+    "code": "AT_2_SVAD_DEUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SVAD"
+  },
+  {
+    "tenantId": "austria.krnten.sanktveitanderglan.eberstein",
+    "code": "AT_2_SVAD_EBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SVAD"
+  },
+  {
+    "tenantId": "austria.krnten.sanktveitanderglan.frauenstein",
+    "code": "AT_2_SVAD_FRAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SVAD"
+  },
+  {
+    "tenantId": "austria.krnten.sanktveitanderglan.gldnitz",
+    "code": "AT_2_SVAD_GLD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SVAD"
+  },
+  {
+    "tenantId": "austria.krnten.sanktveitanderglan.gurk",
+    "code": "AT_2_SVAD_GURK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SVAD"
+  },
+  {
+    "tenantId": "austria.krnten.sanktveitanderglan.guttaring",
+    "code": "AT_2_SVAD_GUTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SVAD"
+  },
+  {
+    "tenantId": "austria.krnten.sanktveitanderglan.httenberg",
+    "code": "AT_2_SVAD_HTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SVAD"
+  },
+  {
+    "tenantId": "austria.krnten.sanktveitanderglan.kappelamkrappfeld",
+    "code": "AT_2_SVAD_KAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SVAD"
+  },
+  {
+    "tenantId": "austria.krnten.sanktveitanderglan.kleinstpaul",
+    "code": "AT_2_SVAD_KSP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SVAD"
+  },
+  {
+    "tenantId": "austria.krnten.sanktveitanderglan.liebenfels",
+    "code": "AT_2_SVAD_LIEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SVAD"
+  },
+  {
+    "tenantId": "austria.krnten.sanktveitanderglan.metnitz",
+    "code": "AT_2_SVAD_METN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SVAD"
+  },
+  {
+    "tenantId": "austria.krnten.sanktveitanderglan.micheldorf",
+    "code": "AT_2_SVAD_MICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SVAD"
+  },
+  {
+    "tenantId": "austria.krnten.sanktveitanderglan.mlbling",
+    "code": "AT_2_SVAD_MLB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SVAD"
+  },
+  {
+    "tenantId": "austria.krnten.sanktveitanderglan.mhlen",
+    "code": "AT_2_SVAD_MHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SVAD"
+  },
+  {
+    "tenantId": "austria.krnten.sanktveitanderglan.stgeorgenamlngsee",
+    "code": "AT_2_SVAD_SGAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SVAD"
+  },
+  {
+    "tenantId": "austria.krnten.sanktveitanderglan.stveitanderglan",
+    "code": "AT_2_SVAD_SVAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SVAD"
+  },
+  {
+    "tenantId": "austria.krnten.sanktveitanderglan.straburg",
+    "code": "AT_2_SVAD_STRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SVAD"
+  },
+  {
+    "tenantId": "austria.krnten.sanktveitanderglan.weitensfeldimgurktal",
+    "code": "AT_2_SVAD_WIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SVAD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.badkleinkirchheim",
+    "code": "AT_2_SADD_BAKL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.baldramsdorf",
+    "code": "AT_2_SADD_BALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.bergimdrautal",
+    "code": "AT_2_SADD_BID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.dellachimdrautal",
+    "code": "AT_2_SADD_DID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.flattach",
+    "code": "AT_2_SADD_FLAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.gmndinkrnten",
+    "code": "AT_2_SADD_GIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.greifenburg",
+    "code": "AT_2_SADD_GREI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.grokirchheim",
+    "code": "AT_2_SADD_GROSS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.heiligenblutamgroglockner",
+    "code": "AT_2_SADD_HAG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.irschen",
+    "code": "AT_2_SADD_IRSC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.kleblachlind",
+    "code": "AT_2_SADD_KLEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.kremsinkrnten",
+    "code": "AT_2_SADD_KIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.lendorf",
+    "code": "AT_2_SADD_LEND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.lurnfeld",
+    "code": "AT_2_SADD_LURN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.mallnitz",
+    "code": "AT_2_SADD_MALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.malta",
+    "code": "AT_2_SADD_MALT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.millstattamsee",
+    "code": "AT_2_SADD_MAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.mrtschach",
+    "code": "AT_2_SADD_MRT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.oberdrauburg",
+    "code": "AT_2_SADD_OBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.obervellach",
+    "code": "AT_2_SADD_OBER2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.radenthein",
+    "code": "AT_2_SADD_RADE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.rangersdorf",
+    "code": "AT_2_SADD_RANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.reieck",
+    "code": "AT_2_SADD_REISS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.rennwegamkatschberg",
+    "code": "AT_2_SADD_RAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.sachsenburg",
+    "code": "AT_2_SADD_SACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.seebodenammillstttersee",
+    "code": "AT_2_SADD_SAMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.spittalanderdrau",
+    "code": "AT_2_SADD_SADD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.stall",
+    "code": "AT_2_SADD_STAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.steinfeld",
+    "code": "AT_2_SADD_STEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.trebesing",
+    "code": "AT_2_SADD_TREB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.weiensee",
+    "code": "AT_2_SADD_WEISS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.spittalanderdrau.winklern",
+    "code": "AT_2_SADD_WINK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_SADD"
+  },
+  {
+    "tenantId": "austria.krnten.villachland.afritzamsee",
+    "code": "AT_2_VILA_AAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VILA"
+  },
+  {
+    "tenantId": "austria.krnten.villachland.arnoldstein",
+    "code": "AT_2_VILA_ARNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VILA"
+  },
+  {
+    "tenantId": "austria.krnten.villachland.arriach",
+    "code": "AT_2_VILA_ARRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VILA"
+  },
+  {
+    "tenantId": "austria.krnten.villachland.badbleiberg",
+    "code": "AT_2_VILA_BABL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VILA"
+  },
+  {
+    "tenantId": "austria.krnten.villachland.feistritzandergail",
+    "code": "AT_2_VILA_FADG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VILA"
+  },
+  {
+    "tenantId": "austria.krnten.villachland.feldamsee",
+    "code": "AT_2_VILA_FAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VILA"
+  },
+  {
+    "tenantId": "austria.krnten.villachland.ferndorf",
+    "code": "AT_2_VILA_FERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VILA"
+  },
+  {
+    "tenantId": "austria.krnten.villachland.finkensteinamfaakersee",
+    "code": "AT_2_VILA_FAFS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VILA"
+  },
+  {
+    "tenantId": "austria.krnten.villachland.fresach",
+    "code": "AT_2_VILA_FRES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VILA"
+  },
+  {
+    "tenantId": "austria.krnten.villachland.hohenthurn",
+    "code": "AT_2_VILA_HOHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VILA"
+  },
+  {
+    "tenantId": "austria.krnten.villachland.ntschimgailtal",
+    "code": "AT_2_VILA_NIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VILA"
+  },
+  {
+    "tenantId": "austria.krnten.villachland.paternion",
+    "code": "AT_2_VILA_PATE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VILA"
+  },
+  {
+    "tenantId": "austria.krnten.villachland.rosegg",
+    "code": "AT_2_VILA_ROSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VILA"
+  },
+  {
+    "tenantId": "austria.krnten.villachland.stjakobimrosental",
+    "code": "AT_2_VILA_SJIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VILA"
+  },
+  {
+    "tenantId": "austria.krnten.villachland.stockenboi",
+    "code": "AT_2_VILA_STOC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VILA"
+  },
+  {
+    "tenantId": "austria.krnten.villachland.treffenamossiachersee",
+    "code": "AT_2_VILA_TAOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VILA"
+  },
+  {
+    "tenantId": "austria.krnten.villachland.veldenamwrthersee",
+    "code": "AT_2_VILA_VAWS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VILA"
+  },
+  {
+    "tenantId": "austria.krnten.villachland.weienstein",
+    "code": "AT_2_VILA_WEISS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VILA"
+  },
+  {
+    "tenantId": "austria.krnten.villachland.wernberg",
+    "code": "AT_2_VILA_WERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VILA"
+  },
+  {
+    "tenantId": "austria.krnten.villachstadt.villach",
+    "code": "AT_2_VILL_VILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VILL"
+  },
+  {
+    "tenantId": "austria.krnten.vlkermarkt.bleiburg",
+    "code": "AT_2_VLK_BLEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VLK"
+  },
+  {
+    "tenantId": "austria.krnten.vlkermarkt.diex",
+    "code": "AT_2_VLK_DIEX",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VLK"
+  },
+  {
+    "tenantId": "austria.krnten.vlkermarkt.eberndorf",
+    "code": "AT_2_VLK_EBER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VLK"
+  },
+  {
+    "tenantId": "austria.krnten.vlkermarkt.eisenkappelvellach",
+    "code": "AT_2_VLK_EISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VLK"
+  },
+  {
+    "tenantId": "austria.krnten.vlkermarkt.feistritzobbleiburg",
+    "code": "AT_2_VLK_FOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VLK"
+  },
+  {
+    "tenantId": "austria.krnten.vlkermarkt.gallizien",
+    "code": "AT_2_VLK_GALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VLK"
+  },
+  {
+    "tenantId": "austria.krnten.vlkermarkt.globasnitz",
+    "code": "AT_2_VLK_GLOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VLK"
+  },
+  {
+    "tenantId": "austria.krnten.vlkermarkt.griffen",
+    "code": "AT_2_VLK_GRIF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VLK"
+  },
+  {
+    "tenantId": "austria.krnten.vlkermarkt.neuhaus",
+    "code": "AT_2_VLK_NEUH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VLK"
+  },
+  {
+    "tenantId": "austria.krnten.vlkermarkt.ruden",
+    "code": "AT_2_VLK_RUDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VLK"
+  },
+  {
+    "tenantId": "austria.krnten.vlkermarkt.sittersdorf",
+    "code": "AT_2_VLK_SITT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VLK"
+  },
+  {
+    "tenantId": "austria.krnten.vlkermarkt.stkanzianamklopeinersee",
+    "code": "AT_2_VLK_SKAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VLK"
+  },
+  {
+    "tenantId": "austria.krnten.vlkermarkt.vlkermarkt",
+    "code": "AT_2_VLK_VLK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_VLK"
+  },
+  {
+    "tenantId": "austria.krnten.wolfsberg.badstleonhardimlavanttal",
+    "code": "AT_2_WOLF_BSLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_WOLF"
+  },
+  {
+    "tenantId": "austria.krnten.wolfsberg.frantschachstgertraud",
+    "code": "AT_2_WOLF_FRGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_WOLF"
+  },
+  {
+    "tenantId": "austria.krnten.wolfsberg.lavamnd",
+    "code": "AT_2_WOLF_LAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_WOLF"
+  },
+  {
+    "tenantId": "austria.krnten.wolfsberg.preitenegg",
+    "code": "AT_2_WOLF_PREI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_WOLF"
+  },
+  {
+    "tenantId": "austria.krnten.wolfsberg.reichenfels",
+    "code": "AT_2_WOLF_REIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_WOLF"
+  },
+  {
+    "tenantId": "austria.krnten.wolfsberg.standr",
+    "code": "AT_2_WOLF_STAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_WOLF"
+  },
+  {
+    "tenantId": "austria.krnten.wolfsberg.stgeorgenimlavanttal",
+    "code": "AT_2_WOLF_SGIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_WOLF"
+  },
+  {
+    "tenantId": "austria.krnten.wolfsberg.stpaulimlavanttal",
+    "code": "AT_2_WOLF_SPIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_WOLF"
+  },
+  {
+    "tenantId": "austria.krnten.wolfsberg.wolfsberg",
+    "code": "AT_2_WOLF_WOLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "AT_2_WOLF"
+  }
+]

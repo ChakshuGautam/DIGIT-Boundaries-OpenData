@@ -1,0 +1,107 @@
+[
+  {
+    "tenantId": "finland.tavastiaproper",
+    "code": "FI_06",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "FI"
+  },
+  {
+    "tenantId": "finland.tavastiaproper.hmeenlinnanseutukunta",
+    "code": "FI_06_HSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_06"
+  },
+  {
+    "tenantId": "finland.tavastiaproper.riihimenseutukunta",
+    "code": "FI_06_RISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_06"
+  },
+  {
+    "tenantId": "finland.tavastiaproper.forssanseutukunta",
+    "code": "FI_06_FOSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_06"
+  },
+  {
+    "tenantId": "finland.tavastiaproper.hmeenlinnanseutukunta.hmeenlinna",
+    "code": "FI_06_HSE_HME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_06_HSE"
+  },
+  {
+    "tenantId": "finland.tavastiaproper.hmeenlinnanseutukunta.hattula",
+    "code": "FI_06_HSE_HATT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_06_HSE"
+  },
+  {
+    "tenantId": "finland.tavastiaproper.hmeenlinnanseutukunta.janakkala",
+    "code": "FI_06_HSE_JANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_06_HSE"
+  },
+  {
+    "tenantId": "finland.tavastiaproper.riihimenseutukunta.hausjrvi",
+    "code": "FI_06_RISE_HAUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_06_RISE"
+  },
+  {
+    "tenantId": "finland.tavastiaproper.riihimenseutukunta.riihimki",
+    "code": "FI_06_RISE_RIIH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_06_RISE"
+  },
+  {
+    "tenantId": "finland.tavastiaproper.riihimenseutukunta.loppi",
+    "code": "FI_06_RISE_LOPP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_06_RISE"
+  },
+  {
+    "tenantId": "finland.tavastiaproper.forssanseutukunta.ypj",
+    "code": "FI_06_FOSE_YPJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_06_FOSE"
+  },
+  {
+    "tenantId": "finland.tavastiaproper.forssanseutukunta.forssa",
+    "code": "FI_06_FOSE_FORS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_06_FOSE"
+  },
+  {
+    "tenantId": "finland.tavastiaproper.forssanseutukunta.humppila",
+    "code": "FI_06_FOSE_HUMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_06_FOSE"
+  },
+  {
+    "tenantId": "finland.tavastiaproper.forssanseutukunta.tammela",
+    "code": "FI_06_FOSE_TAMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_06_FOSE"
+  },
+  {
+    "tenantId": "finland.tavastiaproper.forssanseutukunta.jokioinen",
+    "code": "FI_06_FOSE_JOKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_06_FOSE"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "tenantId": "chile.regindeatacama",
+    "code": "CL_RDA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CL"
+  },
+  {
+    "tenantId": "chile.regindeatacama.provinciadehuasco",
+    "code": "CL_RDA2_PDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CL_RDA2"
+  },
+  {
+    "tenantId": "chile.regindeatacama.provinciadecopiap",
+    "code": "CL_RDA2_PDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CL_RDA2"
+  },
+  {
+    "tenantId": "chile.regindeatacama.provinciadechaaral",
+    "code": "CL_RDA2_PDC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CL_RDA2"
+  },
+  {
+    "tenantId": "chile.regindeatacama.provinciadehuasco.altodelcarmen",
+    "code": "CL_RDA2_PDH_ADC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDA2_PDH"
+  },
+  {
+    "tenantId": "chile.regindeatacama.provinciadehuasco.freirina",
+    "code": "CL_RDA2_PDH_FREI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDA2_PDH"
+  },
+  {
+    "tenantId": "chile.regindeatacama.provinciadehuasco.vallenar",
+    "code": "CL_RDA2_PDH_VALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDA2_PDH"
+  },
+  {
+    "tenantId": "chile.regindeatacama.provinciadehuasco.huasco",
+    "code": "CL_RDA2_PDH_HUAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDA2_PDH"
+  },
+  {
+    "tenantId": "chile.regindeatacama.provinciadecopiap.copiap",
+    "code": "CL_RDA2_PDC_COPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDA2_PDC"
+  },
+  {
+    "tenantId": "chile.regindeatacama.provinciadecopiap.caldera",
+    "code": "CL_RDA2_PDC_CALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDA2_PDC"
+  },
+  {
+    "tenantId": "chile.regindeatacama.provinciadecopiap.tierraamarilla",
+    "code": "CL_RDA2_PDC_TIAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDA2_PDC"
+  },
+  {
+    "tenantId": "chile.regindeatacama.provinciadechaaral.diegodealmagro",
+    "code": "CL_RDA2_PDC2_DDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDA2_PDC2"
+  },
+  {
+    "tenantId": "chile.regindeatacama.provinciadechaaral.taltal",
+    "code": "CL_RDA2_PDC2_TALT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDA2_PDC2"
+  },
+  {
+    "tenantId": "chile.regindeatacama.provinciadechaaral.chaaral",
+    "code": "CL_RDA2_PDC2_CHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDA2_PDC2"
+  }
+]

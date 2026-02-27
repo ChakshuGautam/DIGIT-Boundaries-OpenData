@@ -1,0 +1,58 @@
+[
+  {
+    "tenantId": "costarica",
+    "code": "CR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "costarica.provinciaheredia",
+    "code": "CR_H",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CR"
+  },
+  {
+    "tenantId": "costarica.provinciaguanacaste",
+    "code": "CR_G",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CR"
+  },
+  {
+    "tenantId": "costarica.provinciaalajuela",
+    "code": "CR_A",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CR"
+  },
+  {
+    "tenantId": "costarica.provinciasanjos",
+    "code": "CR_SJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CR"
+  },
+  {
+    "tenantId": "costarica.provinciapuntarenas",
+    "code": "CR_P",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CR"
+  },
+  {
+    "tenantId": "costarica.provinciacartago",
+    "code": "CR_C",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CR"
+  },
+  {
+    "tenantId": "costarica.provincialimn",
+    "code": "CR_L",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CR"
+  }
+]

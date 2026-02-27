@@ -1,0 +1,450 @@
+[
+  {
+    "tenantId": "germany.niedersachsen",
+    "code": "DE_NI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "DE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.bremen",
+    "code": "DE_NI_BREM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DE_NI"
+  },
+  {
+    "tenantId": "germany.niedersachsen.braunschweig",
+    "code": "DE_NI_BRAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DE_NI"
+  },
+  {
+    "tenantId": "germany.niedersachsen.hannover",
+    "code": "DE_NI_HANN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DE_NI"
+  },
+  {
+    "tenantId": "germany.niedersachsen.lneburg",
+    "code": "DE_NI_LNE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DE_NI"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems",
+    "code": "DE_NI_WESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DE_NI"
+  },
+  {
+    "tenantId": "germany.niedersachsen.bremen.bremenkreisfreiestadt",
+    "code": "DE_NI_BREM_BKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_BREM"
+  },
+  {
+    "tenantId": "germany.niedersachsen.bremen.bremerhavenkreisfreiestadt",
+    "code": "DE_NI_BREM_BKS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_BREM"
+  },
+  {
+    "tenantId": "germany.niedersachsen.bremen.bremenkreisfreiestadt",
+    "code": "DE_NI_BREM_BKS3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_BREM"
+  },
+  {
+    "tenantId": "germany.niedersachsen.bremen.bremerhavenkreisfreiestadt",
+    "code": "DE_NI_BREM_BKS4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_BREM"
+  },
+  {
+    "tenantId": "germany.niedersachsen.braunschweig.braunschweigkreisfreiestadt",
+    "code": "DE_NI_BRAU_BKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_BRAU"
+  },
+  {
+    "tenantId": "germany.niedersachsen.braunschweig.salzgitterkreisfreiestadt",
+    "code": "DE_NI_BRAU_SKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_BRAU"
+  },
+  {
+    "tenantId": "germany.niedersachsen.braunschweig.wolfsburgkreisfreiestadt",
+    "code": "DE_NI_BRAU_WKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_BRAU"
+  },
+  {
+    "tenantId": "germany.niedersachsen.braunschweig.gifhorn",
+    "code": "DE_NI_BRAU_GIFH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_BRAU"
+  },
+  {
+    "tenantId": "germany.niedersachsen.braunschweig.goslar",
+    "code": "DE_NI_BRAU_GOSL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_BRAU"
+  },
+  {
+    "tenantId": "germany.niedersachsen.braunschweig.helmstedt",
+    "code": "DE_NI_BRAU_HELM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_BRAU"
+  },
+  {
+    "tenantId": "germany.niedersachsen.braunschweig.northeim",
+    "code": "DE_NI_BRAU_NORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_BRAU"
+  },
+  {
+    "tenantId": "germany.niedersachsen.braunschweig.peine",
+    "code": "DE_NI_BRAU_PEIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_BRAU"
+  },
+  {
+    "tenantId": "germany.niedersachsen.braunschweig.wolfenbttel",
+    "code": "DE_NI_BRAU_WOLF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_BRAU"
+  },
+  {
+    "tenantId": "germany.niedersachsen.braunschweig.gttingen",
+    "code": "DE_NI_BRAU_GTT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_BRAU"
+  },
+  {
+    "tenantId": "germany.niedersachsen.hannover.diepholz",
+    "code": "DE_NI_HANN_DIEP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_HANN"
+  },
+  {
+    "tenantId": "germany.niedersachsen.hannover.hamelnpyrmont",
+    "code": "DE_NI_HANN_HAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_HANN"
+  },
+  {
+    "tenantId": "germany.niedersachsen.hannover.hildesheim",
+    "code": "DE_NI_HANN_HILD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_HANN"
+  },
+  {
+    "tenantId": "germany.niedersachsen.hannover.holzminden",
+    "code": "DE_NI_HANN_HOLZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_HANN"
+  },
+  {
+    "tenantId": "germany.niedersachsen.hannover.nienburgweser",
+    "code": "DE_NI_HANN_NIW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_HANN"
+  },
+  {
+    "tenantId": "germany.niedersachsen.hannover.schaumburg",
+    "code": "DE_NI_HANN_SCHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_HANN"
+  },
+  {
+    "tenantId": "germany.niedersachsen.hannover.regionhannover",
+    "code": "DE_NI_HANN_REHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_HANN"
+  },
+  {
+    "tenantId": "germany.niedersachsen.lneburg.celle",
+    "code": "DE_NI_LNE_CELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_LNE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.lneburg.cuxhaven",
+    "code": "DE_NI_LNE_CUXH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_LNE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.lneburg.harburg",
+    "code": "DE_NI_LNE_HARB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_LNE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.lneburg.lchowdannenberg",
+    "code": "DE_NI_LNE_LCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_LNE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.lneburg.lneburglandkreis",
+    "code": "DE_NI_LNE_LLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_LNE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.lneburg.osterholz",
+    "code": "DE_NI_LNE_OSTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_LNE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.lneburg.rotenburgwmme",
+    "code": "DE_NI_LNE_ROW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_LNE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.lneburg.heidekreis",
+    "code": "DE_NI_LNE_HEID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_LNE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.lneburg.stade",
+    "code": "DE_NI_LNE_STAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_LNE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.lneburg.uelzen",
+    "code": "DE_NI_LNE_UELZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_LNE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.lneburg.verden",
+    "code": "DE_NI_LNE_VERD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_LNE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.lneburg.cuxhaven",
+    "code": "DE_NI_LNE_CUXH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_LNE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.lneburg.stade",
+    "code": "DE_NI_LNE_STAD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_LNE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.lneburg.pinneberg",
+    "code": "DE_NI_LNE_PINN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_LNE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.delmenhorstkreisfreiestadt",
+    "code": "DE_NI_WESE_DKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.emdenkreisfreiestadt",
+    "code": "DE_NI_WESE_EKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.oldenburgoldenburgkreisfreiestadt",
+    "code": "DE_NI_WESE_OKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.osnabrckkreisfreiestadt",
+    "code": "DE_NI_WESE_OKS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.wilhelmshavenkreisfreiestadt",
+    "code": "DE_NI_WESE_WKS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.ammerland",
+    "code": "DE_NI_WESE_AMME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.aurich",
+    "code": "DE_NI_WESE_AURI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.cloppenburg",
+    "code": "DE_NI_WESE_CLOP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.emsland",
+    "code": "DE_NI_WESE_EMSL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.frieslandde",
+    "code": "DE_NI_WESE_FRD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.grafschaftbentheim",
+    "code": "DE_NI_WESE_GRBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.leer",
+    "code": "DE_NI_WESE_LEER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.oldenburglandkreis",
+    "code": "DE_NI_WESE_OLLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.osnabrcklandkreis",
+    "code": "DE_NI_WESE_OSLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.vechta",
+    "code": "DE_NI_WESE_VECH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.wesermarsch",
+    "code": "DE_NI_WESE_WESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.wittmund",
+    "code": "DE_NI_WESE_WITT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.emdenkreisfreiestadt",
+    "code": "DE_NI_WESE_EKS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.wilhelmshavenkreisfreiestadt",
+    "code": "DE_NI_WESE_WKS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.frieslandde",
+    "code": "DE_NI_WESE_FRD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.leer",
+    "code": "DE_NI_WESE_LEER2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.aurich",
+    "code": "DE_NI_WESE_AURI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  },
+  {
+    "tenantId": "germany.niedersachsen.weserems.wittmund",
+    "code": "DE_NI_WESE_WITT2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Municipality",
+    "parent": "DE_NI_WESE"
+  }
+]

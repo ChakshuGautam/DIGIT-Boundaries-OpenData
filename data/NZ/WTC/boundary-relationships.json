@@ -1,0 +1,100 @@
+[
+  {
+    "tenantId": "newzealand.westcoastregion",
+    "code": "NZ_WTC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NZ"
+  },
+  {
+    "tenantId": "newzealand.westcoastregion.bullerdistrict",
+    "code": "NZ_WTC_BUDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_WTC"
+  },
+  {
+    "tenantId": "newzealand.westcoastregion.greydistrict",
+    "code": "NZ_WTC_GRDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_WTC"
+  },
+  {
+    "tenantId": "newzealand.westcoastregion.westlanddistrict",
+    "code": "NZ_WTC_WEDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_WTC"
+  },
+  {
+    "tenantId": "newzealand.westcoastregion.bullerdistrict.seddonward",
+    "code": "NZ_WTC_BUDI_SEWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WTC_BUDI"
+  },
+  {
+    "tenantId": "newzealand.westcoastregion.bullerdistrict.inangahuaward",
+    "code": "NZ_WTC_BUDI_INWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WTC_BUDI"
+  },
+  {
+    "tenantId": "newzealand.westcoastregion.bullerdistrict.westportward",
+    "code": "NZ_WTC_BUDI_WEWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WTC_BUDI"
+  },
+  {
+    "tenantId": "newzealand.westcoastregion.greydistrict.northernward",
+    "code": "NZ_WTC_GRDI_NOWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WTC_GRDI"
+  },
+  {
+    "tenantId": "newzealand.westcoastregion.greydistrict.centralward",
+    "code": "NZ_WTC_GRDI_CEWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WTC_GRDI"
+  },
+  {
+    "tenantId": "newzealand.westcoastregion.greydistrict.southernward",
+    "code": "NZ_WTC_GRDI_SOWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WTC_GRDI"
+  },
+  {
+    "tenantId": "newzealand.westcoastregion.greydistrict.easternward",
+    "code": "NZ_WTC_GRDI_EAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WTC_GRDI"
+  },
+  {
+    "tenantId": "newzealand.westcoastregion.westlanddistrict.northernward",
+    "code": "NZ_WTC_WEDI_NOWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WTC_WEDI"
+  },
+  {
+    "tenantId": "newzealand.westcoastregion.westlanddistrict.hokitikaward",
+    "code": "NZ_WTC_WEDI_HOWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WTC_WEDI"
+  },
+  {
+    "tenantId": "newzealand.westcoastregion.westlanddistrict.southernward",
+    "code": "NZ_WTC_WEDI_SOWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_WTC_WEDI"
+  }
+]

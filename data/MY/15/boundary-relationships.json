@@ -1,0 +1,79 @@
+[
+  {
+    "tenantId": "malaysia.labuan",
+    "code": "MY_15",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MY"
+  },
+  {
+    "tenantId": "malaysia.labuan.marudi",
+    "code": "MY_15_MARU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_15"
+  },
+  {
+    "tenantId": "malaysia.labuan.labuan",
+    "code": "MY_15_LABU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MY_15"
+  },
+  {
+    "tenantId": "malaysia.labuan.marudi.apohlanddistrict",
+    "code": "MY_15_MARU_ALD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_15_MARU"
+  },
+  {
+    "tenantId": "malaysia.labuan.marudi.kamuntinglanddistrict",
+    "code": "MY_15_MARU_KLD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_15_MARU"
+  },
+  {
+    "tenantId": "malaysia.labuan.marudi.maruditowndistrict",
+    "code": "MY_15_MARU_MTD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_15_MARU"
+  },
+  {
+    "tenantId": "malaysia.labuan.marudi.tutohlanddistrict",
+    "code": "MY_15_MARU_TLD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_15_MARU"
+  },
+  {
+    "tenantId": "malaysia.labuan.marudi.puyutlanddistrict",
+    "code": "MY_15_MARU_PLD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_15_MARU"
+  },
+  {
+    "tenantId": "malaysia.labuan.marudi.luboknibongtowndistrict",
+    "code": "MY_15_MARU_LNTD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_15_MARU"
+  },
+  {
+    "tenantId": "malaysia.labuan.marudi.terajalanddistrict",
+    "code": "MY_15_MARU_TLD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_15_MARU"
+  },
+  {
+    "tenantId": "malaysia.labuan.labuan.bandar",
+    "code": "MY_15_LABU_BAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MY_15_LABU"
+  }
+]

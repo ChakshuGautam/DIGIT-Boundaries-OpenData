@@ -1,0 +1,289 @@
+[
+  {
+    "tenantId": "lithuania.telsiaicounty",
+    "code": "LT_TE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "LT"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.maeikirajonosavivaldyb",
+    "code": "LT_TE_MRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_TE"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.telirajonosavivaldyb",
+    "code": "LT_TE_TRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_TE"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.plungsrajonosavivaldyb",
+    "code": "LT_TE_PRS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_TE"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.rietavosavivaldyb",
+    "code": "LT_TE_RISA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "LT_TE"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.maeikirajonosavivaldyb.viekniseninija",
+    "code": "LT_TE_MRS_VISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_MRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.maeikirajonosavivaldyb.sedosseninija",
+    "code": "LT_TE_MRS_SESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_MRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.maeikirajonosavivaldyb.erknnseninija",
+    "code": "LT_TE_MRS_ESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_MRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.maeikirajonosavivaldyb.maeikiseninija",
+    "code": "LT_TE_MRS_MASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_MRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.maeikirajonosavivaldyb.reivyiseninija",
+    "code": "LT_TE_MRS_RESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_MRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.maeikirajonosavivaldyb.maeikiapylinksseninija",
+    "code": "LT_TE_MRS_MAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_MRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.maeikirajonosavivaldyb.idikseninija",
+    "code": "LT_TE_MRS_ISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_MRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.maeikirajonosavivaldyb.tirkliseninija",
+    "code": "LT_TE_MRS_TISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_MRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.maeikirajonosavivaldyb.laiuvosseninija",
+    "code": "LT_TE_MRS_LASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_MRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.telirajonosavivaldyb.gadnavoseninija",
+    "code": "LT_TE_TRS_GASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_TRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.telirajonosavivaldyb.degaiiseninija",
+    "code": "LT_TE_TRS_DESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_TRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.telirajonosavivaldyb.luoksseninija",
+    "code": "LT_TE_TRS_LUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_TRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.telirajonosavivaldyb.upynosseninija",
+    "code": "LT_TE_TRS_UPSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_TRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.telirajonosavivaldyb.telimiestoseninija",
+    "code": "LT_TE_TRS_TMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_TRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.telirajonosavivaldyb.trykiseninija",
+    "code": "LT_TE_TRS_TRSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_TRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.telirajonosavivaldyb.varniseninija",
+    "code": "LT_TE_TRS_VASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_TRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.telirajonosavivaldyb.vievnseninija",
+    "code": "LT_TE_TRS_VISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_TRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.telirajonosavivaldyb.arnseninija",
+    "code": "LT_TE_TRS_ASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_TRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.telirajonosavivaldyb.nevarnseninija",
+    "code": "LT_TE_TRS_NESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_TRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.telirajonosavivaldyb.ryknseninija",
+    "code": "LT_TE_TRS_RYSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_TRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.plungsrajonosavivaldyb.medingnseninija",
+    "code": "LT_TE_PRS_MESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_PRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.plungsrajonosavivaldyb.alsdiseninija",
+    "code": "LT_TE_PRS_ALSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_PRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.plungsrajonosavivaldyb.babrungoseninija",
+    "code": "LT_TE_PRS_BASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_PRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.plungsrajonosavivaldyb.nausodioseninija",
+    "code": "LT_TE_PRS_NASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_PRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.plungsrajonosavivaldyb.plateliseninija",
+    "code": "LT_TE_PRS_PLSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_PRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.plungsrajonosavivaldyb.plungsmiestoseninija",
+    "code": "LT_TE_PRS_PMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_PRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.plungsrajonosavivaldyb.ateikiseninija",
+    "code": "LT_TE_PRS_ASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_PRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.plungsrajonosavivaldyb.stalgnseninija",
+    "code": "LT_TE_PRS_STSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_PRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.plungsrajonosavivaldyb.emaiikalvarijosseninija",
+    "code": "LT_TE_PRS_KS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_PRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.plungsrajonosavivaldyb.kuliseninija",
+    "code": "LT_TE_PRS_KUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_PRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.plungsrajonosavivaldyb.pauktakiseninija",
+    "code": "LT_TE_PRS_PASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_PRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.plungsrajonosavivaldyb.libinseninija",
+    "code": "LT_TE_PRS_LSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_PRS"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.rietavosavivaldyb.daugdseninija",
+    "code": "LT_TE_RISA_DASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_RISA"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.rietavosavivaldyb.tverseninija",
+    "code": "LT_TE_RISA_TVSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_RISA"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.rietavosavivaldyb.rietavoseninija",
+    "code": "LT_TE_RISA_RISE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_RISA"
+  },
+  {
+    "tenantId": "lithuania.telsiaicounty.rietavosavivaldyb.rietavomiestoseninija",
+    "code": "LT_TE_RISA_RMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "LT_TE_RISA"
+  }
+]

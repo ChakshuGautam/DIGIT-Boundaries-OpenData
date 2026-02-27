@@ -1,0 +1,198 @@
+[
+  {
+    "tenantId": "finland.lapland",
+    "code": "FI_10",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "FI"
+  },
+  {
+    "tenantId": "finland.lapland.rovaniemenseutukunta",
+    "code": "FI_10_ROSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_10"
+  },
+  {
+    "tenantId": "finland.lapland.kemitornionseutukunta",
+    "code": "FI_10_KESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_10"
+  },
+  {
+    "tenantId": "finland.lapland.itlapinseutukunta",
+    "code": "FI_10_ITSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_10"
+  },
+  {
+    "tenantId": "finland.lapland.torniolaaksonseutukunta",
+    "code": "FI_10_TOSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_10"
+  },
+  {
+    "tenantId": "finland.lapland.pohjoislapinseutukunta",
+    "code": "FI_10_POSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_10"
+  },
+  {
+    "tenantId": "finland.lapland.tunturilapinseutukunta",
+    "code": "FI_10_TUSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_10"
+  },
+  {
+    "tenantId": "finland.lapland.rovaniemenseutukunta.ranua",
+    "code": "FI_10_ROSE_RANU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_10_ROSE"
+  },
+  {
+    "tenantId": "finland.lapland.rovaniemenseutukunta.rovaniemi",
+    "code": "FI_10_ROSE_ROVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_10_ROSE"
+  },
+  {
+    "tenantId": "finland.lapland.kemitornionseutukunta.tervola",
+    "code": "FI_10_KESE_TERV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_10_KESE"
+  },
+  {
+    "tenantId": "finland.lapland.kemitornionseutukunta.tornio",
+    "code": "FI_10_KESE_TORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_10_KESE"
+  },
+  {
+    "tenantId": "finland.lapland.kemitornionseutukunta.keminmaa",
+    "code": "FI_10_KESE_KEMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_10_KESE"
+  },
+  {
+    "tenantId": "finland.lapland.kemitornionseutukunta.kemi",
+    "code": "FI_10_KESE_KEMI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_10_KESE"
+  },
+  {
+    "tenantId": "finland.lapland.kemitornionseutukunta.simo",
+    "code": "FI_10_KESE_SIMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_10_KESE"
+  },
+  {
+    "tenantId": "finland.lapland.itlapinseutukunta.kemijrvi",
+    "code": "FI_10_ITSE_KEMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_10_ITSE"
+  },
+  {
+    "tenantId": "finland.lapland.itlapinseutukunta.savukoski",
+    "code": "FI_10_ITSE_SAVU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_10_ITSE"
+  },
+  {
+    "tenantId": "finland.lapland.itlapinseutukunta.posio",
+    "code": "FI_10_ITSE_POSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_10_ITSE"
+  },
+  {
+    "tenantId": "finland.lapland.itlapinseutukunta.pelkosenniemi",
+    "code": "FI_10_ITSE_PELK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_10_ITSE"
+  },
+  {
+    "tenantId": "finland.lapland.itlapinseutukunta.salla",
+    "code": "FI_10_ITSE_SALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_10_ITSE"
+  },
+  {
+    "tenantId": "finland.lapland.torniolaaksonseutukunta.pello",
+    "code": "FI_10_TOSE_PELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_10_TOSE"
+  },
+  {
+    "tenantId": "finland.lapland.torniolaaksonseutukunta.ylitornio",
+    "code": "FI_10_TOSE_YLIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_10_TOSE"
+  },
+  {
+    "tenantId": "finland.lapland.pohjoislapinseutukunta.sodankyl",
+    "code": "FI_10_POSE_SODA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_10_POSE"
+  },
+  {
+    "tenantId": "finland.lapland.pohjoislapinseutukunta.inari",
+    "code": "FI_10_POSE_INAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_10_POSE"
+  },
+  {
+    "tenantId": "finland.lapland.pohjoislapinseutukunta.utsjoki",
+    "code": "FI_10_POSE_UTSJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_10_POSE"
+  },
+  {
+    "tenantId": "finland.lapland.tunturilapinseutukunta.kittil",
+    "code": "FI_10_TUSE_KITT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_10_TUSE"
+  },
+  {
+    "tenantId": "finland.lapland.tunturilapinseutukunta.kolari",
+    "code": "FI_10_TUSE_KOLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_10_TUSE"
+  },
+  {
+    "tenantId": "finland.lapland.tunturilapinseutukunta.enonteki",
+    "code": "FI_10_TUSE_ENON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_10_TUSE"
+  },
+  {
+    "tenantId": "finland.lapland.tunturilapinseutukunta.muonio",
+    "code": "FI_10_TUSE_MUON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_10_TUSE"
+  }
+]

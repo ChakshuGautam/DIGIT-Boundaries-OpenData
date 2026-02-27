@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "bulgaria.sliven",
+    "code": "BG_20",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BG"
+  },
+  {
+    "tenantId": "bulgaria.sliven.kotel",
+    "code": "BG_20_KOTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BG_20"
+  },
+  {
+    "tenantId": "bulgaria.sliven.sliven",
+    "code": "BG_20_SLIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BG_20"
+  },
+  {
+    "tenantId": "bulgaria.sliven.tvarditsa",
+    "code": "BG_20_TVAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BG_20"
+  },
+  {
+    "tenantId": "bulgaria.sliven.novazagora",
+    "code": "BG_20_NOZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BG_20"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "tenantId": "finland.keskipohjanmaa",
+    "code": "FI_07",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "FI"
+  },
+  {
+    "tenantId": "finland.keskipohjanmaa.kaustisenseutukunta",
+    "code": "FI_07_KASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_07"
+  },
+  {
+    "tenantId": "finland.keskipohjanmaa.kokkolanseutukunta",
+    "code": "FI_07_KOSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "FI_07"
+  },
+  {
+    "tenantId": "finland.keskipohjanmaa.kaustisenseutukunta.halsua",
+    "code": "FI_07_KASE_HALS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_07_KASE"
+  },
+  {
+    "tenantId": "finland.keskipohjanmaa.kaustisenseutukunta.kaustinen",
+    "code": "FI_07_KASE_KAUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_07_KASE"
+  },
+  {
+    "tenantId": "finland.keskipohjanmaa.kaustisenseutukunta.toholampi",
+    "code": "FI_07_KASE_TOHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_07_KASE"
+  },
+  {
+    "tenantId": "finland.keskipohjanmaa.kaustisenseutukunta.veteli",
+    "code": "FI_07_KASE_VETE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_07_KASE"
+  },
+  {
+    "tenantId": "finland.keskipohjanmaa.kaustisenseutukunta.perho",
+    "code": "FI_07_KASE_PERH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_07_KASE"
+  },
+  {
+    "tenantId": "finland.keskipohjanmaa.kaustisenseutukunta.lestijrvi",
+    "code": "FI_07_KASE_LEST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_07_KASE"
+  },
+  {
+    "tenantId": "finland.keskipohjanmaa.kokkolanseutukunta.kannus",
+    "code": "FI_07_KOSE_KANN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_07_KOSE"
+  },
+  {
+    "tenantId": "finland.keskipohjanmaa.kokkolanseutukunta.kokkola",
+    "code": "FI_07_KOSE_KOKK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "FI_07_KOSE"
+  }
+]

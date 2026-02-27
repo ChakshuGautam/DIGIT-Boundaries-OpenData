@@ -1,0 +1,37 @@
+[
+  {
+    "tenantId": "eswatini",
+    "code": "SZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "eswatini.manzini",
+    "code": "SZ_MA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SZ"
+  },
+  {
+    "tenantId": "eswatini.lubombo",
+    "code": "SZ_LU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SZ"
+  },
+  {
+    "tenantId": "eswatini.shiselweni",
+    "code": "SZ_SH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SZ"
+  },
+  {
+    "tenantId": "eswatini.hhohho",
+    "code": "SZ_HH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "SZ"
+  }
+]

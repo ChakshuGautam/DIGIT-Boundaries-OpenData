@@ -1,0 +1,415 @@
+[
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago",
+    "code": "CL_RMDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CL"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago",
+    "code": "CL_RMDS_PDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CL_RMDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadecordillera",
+    "code": "CL_RMDS_PDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CL_RMDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadechacabuco",
+    "code": "CL_RMDS_PDC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CL_RMDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadetalagante",
+    "code": "CL_RMDS_PDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CL_RMDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciademelipilla",
+    "code": "CL_RMDS_PDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CL_RMDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciademaipo",
+    "code": "CL_RMDS_PDM2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CL_RMDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.sanjoaqun",
+    "code": "CL_RMDS_PDS_SAJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.sanmiguel",
+    "code": "CL_RMDS_PDS_SAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.sanramn",
+    "code": "CL_RMDS_PDS_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.independencia",
+    "code": "CL_RMDS_PDS_INDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.lacisterna",
+    "code": "CL_RMDS_PDS_LACI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.pealoln",
+    "code": "CL_RMDS_PDS_PEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.providencia",
+    "code": "CL_RMDS_PDS_PROV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.lareina",
+    "code": "CL_RMDS_PDS_LARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.santiago",
+    "code": "CL_RMDS_PDS_SANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.huechuraba",
+    "code": "CL_RMDS_PDS_HUEC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.cerrillos",
+    "code": "CL_RMDS_PDS_CERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.cerronavia",
+    "code": "CL_RMDS_PDS_CENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.vitacura",
+    "code": "CL_RMDS_PDS_VITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.conchal",
+    "code": "CL_RMDS_PDS_CONC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.elbosque",
+    "code": "CL_RMDS_PDS_ELBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.estacincentral",
+    "code": "CL_RMDS_PDS_ESCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.laflorida",
+    "code": "CL_RMDS_PDS_LAFL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.lagranja",
+    "code": "CL_RMDS_PDS_LAGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.lapintana",
+    "code": "CL_RMDS_PDS_LAPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.lascondes",
+    "code": "CL_RMDS_PDS_LACO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.lobarnechea",
+    "code": "CL_RMDS_PDS_LOBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.loespejo",
+    "code": "CL_RMDS_PDS_LOES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.loprado",
+    "code": "CL_RMDS_PDS_LOPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.macul",
+    "code": "CL_RMDS_PDS_MACU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.maip",
+    "code": "CL_RMDS_PDS_MAIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.uoa",
+    "code": "CL_RMDS_PDS_UO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.pedroaguirrecerda",
+    "code": "CL_RMDS_PDS_PAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.pudahuel",
+    "code": "CL_RMDS_PDS_PUDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.quilicura",
+    "code": "CL_RMDS_PDS_QUIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.quintanormal",
+    "code": "CL_RMDS_PDS_QUNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.recoleta",
+    "code": "CL_RMDS_PDS_RECO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadesantiago.renca",
+    "code": "CL_RMDS_PDS_RENC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDS"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadecordillera.pirque",
+    "code": "CL_RMDS_PDC_PIRQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDC"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadecordillera.puentealto",
+    "code": "CL_RMDS_PDC_PUAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDC"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadecordillera.sanjosdemaipo",
+    "code": "CL_RMDS_PDC_SJDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDC"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadechacabuco.colina",
+    "code": "CL_RMDS_PDC2_COLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDC2"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadechacabuco.lampa",
+    "code": "CL_RMDS_PDC2_LAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDC2"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadechacabuco.tiltil",
+    "code": "CL_RMDS_PDC2_TILT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDC2"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadetalagante.elmonte",
+    "code": "CL_RMDS_PDT_ELMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDT"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadetalagante.padrehurtado",
+    "code": "CL_RMDS_PDT_PAHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDT"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadetalagante.peaflor",
+    "code": "CL_RMDS_PDT_PEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDT"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadetalagante.talagante",
+    "code": "CL_RMDS_PDT_TALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDT"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciadetalagante.islademaipo",
+    "code": "CL_RMDS_PDT_IDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDT"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciademelipilla.curacav",
+    "code": "CL_RMDS_PDM_CURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDM"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciademelipilla.marapinto",
+    "code": "CL_RMDS_PDM_MAPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDM"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciademelipilla.melipilla",
+    "code": "CL_RMDS_PDM_MELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDM"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciademelipilla.sanpedro",
+    "code": "CL_RMDS_PDM_SAPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDM"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciademelipilla.alhu",
+    "code": "CL_RMDS_PDM_ALHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDM"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciademaipo.caleradetango",
+    "code": "CL_RMDS_PDM2_CDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDM2"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciademaipo.sanbernardo",
+    "code": "CL_RMDS_PDM2_SABE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDM2"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciademaipo.paine",
+    "code": "CL_RMDS_PDM2_PAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDM2"
+  },
+  {
+    "tenantId": "chile.reginmetropolitanadesantiago.provinciademaipo.buin",
+    "code": "CL_RMDS_PDM2_BUIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RMDS_PDM2"
+  }
+]

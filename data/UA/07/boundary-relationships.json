@@ -1,0 +1,2970 @@
+[
+  {
+    "tenantId": "ukraine.volynoblast",
+    "code": "UA_07",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "UA"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi",
+    "code": "UA_07_MANE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_07"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi",
+    "code": "UA_07_KIVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_07"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liubeshiv",
+    "code": "UA_07_LIUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_07"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk",
+    "code": "UA_07_LUTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_07"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv",
+    "code": "UA_07_HORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_07"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi",
+    "code": "UA_07_IVAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_07"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lokachi",
+    "code": "UA_07_LOKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_07"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.rozhyshche",
+    "code": "UA_07_ROZH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_07"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.volodymyr",
+    "code": "UA_07_VOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_07"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.turiisk",
+    "code": "UA_07_TURI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_07"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel",
+    "code": "UA_07_KOVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_07"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml",
+    "code": "UA_07_LIUB2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_07"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka",
+    "code": "UA_07_STVY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_07"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi",
+    "code": "UA_07_KAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_07"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne",
+    "code": "UA_07_RATN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_07"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.shatsk",
+    "code": "UA_07_SHAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "UA_07"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.prylisnenska",
+    "code": "UA_07_MANE_PRYL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.okonska",
+    "code": "UA_07_MANE_OKON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.starochortoryiska",
+    "code": "UA_07_MANE_STAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.kulykovychivska",
+    "code": "UA_07_MANE_KULY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.kuklynska",
+    "code": "UA_07_MANE_KUKL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.tsminivska",
+    "code": "UA_07_MANE_TSMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.dovzhytska",
+    "code": "UA_07_MANE_DOVZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.lyshnivska",
+    "code": "UA_07_MANE_LYSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.karasynska",
+    "code": "UA_07_MANE_KARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.velykoosnytska",
+    "code": "UA_07_MANE_VELY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.kostiukhnivska",
+    "code": "UA_07_MANE_KOST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.novorudska",
+    "code": "UA_07_MANE_NOVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.krasnovilska",
+    "code": "UA_07_MANE_KRAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.velykovedmezka",
+    "code": "UA_07_MANE_VELY2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.lisivska",
+    "code": "UA_07_MANE_LISI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.budkivska",
+    "code": "UA_07_MANE_BUDK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.horodotska",
+    "code": "UA_07_MANE_HORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.starosilska",
+    "code": "UA_07_MANE_STAR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.polytska",
+    "code": "UA_07_MANE_POLY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.starorafalivska",
+    "code": "UA_07_MANE_STAR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.balakhovytska",
+    "code": "UA_07_MANE_BALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.zabolottivska",
+    "code": "UA_07_MANE_ZABO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.komarivska",
+    "code": "UA_07_MANE_KOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.kuznetsovska",
+    "code": "UA_07_MANE_KUZN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.kolkivska",
+    "code": "UA_07_MANE_KOLK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.manevychi.manevytska",
+    "code": "UA_07_MANE_MANE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_MANE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.trostianetska",
+    "code": "UA_07_KIVE_TROS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.pokashchivska",
+    "code": "UA_07_KIVE_POKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.hodomychivska",
+    "code": "UA_07_KIVE_HODO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.omelnenska",
+    "code": "UA_07_KIVE_OMEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.didychivska",
+    "code": "UA_07_KIVE_DIDY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.borovychivska",
+    "code": "UA_07_KIVE_BORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.sokyrychivska",
+    "code": "UA_07_KIVE_SOKY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.rudnykivska",
+    "code": "UA_07_KIVE_RUDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.ozerska",
+    "code": "UA_07_KIVE_OZER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.horaimivska",
+    "code": "UA_07_KIVE_HORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.dubyshchenska",
+    "code": "UA_07_KIVE_DUBY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.kholonevychivska",
+    "code": "UA_07_KIVE_KHOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.karpylivska",
+    "code": "UA_07_KIVE_KARP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.berestianska",
+    "code": "UA_07_KIVE_BERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.dernivska",
+    "code": "UA_07_KIVE_DERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.chornyzhivska",
+    "code": "UA_07_KIVE_CHOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.hremiachenska",
+    "code": "UA_07_KIVE_HREM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.sylnenska",
+    "code": "UA_07_KIVE_SYLN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.zhornyshchenska",
+    "code": "UA_07_KIVE_ZHOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.zhuravychivska",
+    "code": "UA_07_KIVE_ZHUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.chetvertnianska",
+    "code": "UA_07_KIVE_CHET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.radukhivska",
+    "code": "UA_07_KIVE_RADU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.tsumanska",
+    "code": "UA_07_KIVE_TSUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kivertsi.olytska",
+    "code": "UA_07_KIVE_OLYT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KIVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liubeshiv.dolska",
+    "code": "UA_07_LIUB_DOLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liubeshiv.tsyrska",
+    "code": "UA_07_LIUB_TSYR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liubeshiv.zarudchivska",
+    "code": "UA_07_LIUB_ZARU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liubeshiv.berezychivska",
+    "code": "UA_07_LIUB_BERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liubeshiv.khotsunska",
+    "code": "UA_07_LIUB_KHOT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liubeshiv.hirkivska",
+    "code": "UA_07_LIUB_HIRK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liubeshiv.liubeshivskovolianska",
+    "code": "UA_07_LIUB_LIUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liubeshiv.liubiazivska",
+    "code": "UA_07_LIUB_LIUB2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liubeshiv.velykokurinska",
+    "code": "UA_07_LIUB_VELY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liubeshiv.omytska",
+    "code": "UA_07_LIUB_OMYT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liubeshiv.liubeshivska",
+    "code": "UA_07_LIUB_LIUB3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.buianivska",
+    "code": "UA_07_LUTS_BUIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.zavitnenska",
+    "code": "UA_07_LUTS_ZAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.suska",
+    "code": "UA_07_LUTS_SUSK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.rudnianska",
+    "code": "UA_07_LUTS_RUDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.oderadivska",
+    "code": "UA_07_LUTS_ODER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.radomyshlska",
+    "code": "UA_07_LUTS_RADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.maiakivska",
+    "code": "UA_07_LUTS_MAIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.hirkopolonkivska",
+    "code": "UA_07_LUTS_HIRK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.ratnivska",
+    "code": "UA_07_LUTS_RATN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.khorlupivska",
+    "code": "UA_07_LUTS_KHOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.ivanchytsivska",
+    "code": "UA_07_LUTS_IVAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.boratynska",
+    "code": "UA_07_LUTS_BORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.korshivska",
+    "code": "UA_07_LUTS_KORS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.veselivska",
+    "code": "UA_07_LUTS_VESE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.zvirivska",
+    "code": "UA_07_LUTS_ZVIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.nesvichivska",
+    "code": "UA_07_LUTS_NESV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.shepelska",
+    "code": "UA_07_LUTS_SHEP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.bakivtsivska",
+    "code": "UA_07_LUTS_BAKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.kobchenska",
+    "code": "UA_07_LUTS_KOBC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.charukivska",
+    "code": "UA_07_LUTS_CHAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.romanivska",
+    "code": "UA_07_LUTS_ROMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.lyshchenska",
+    "code": "UA_07_LUTS_LYSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.pidhaitsivska",
+    "code": "UA_07_LUTS_PIDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.ulianykivska",
+    "code": "UA_07_LUTS_ULIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.piddubtsivska",
+    "code": "UA_07_LUTS_PIDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.prylutska",
+    "code": "UA_07_LUTS_PRYL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.ozertsivska",
+    "code": "UA_07_LUTS_OZER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.prominska",
+    "code": "UA_07_LUTS_PROM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.kopachivska",
+    "code": "UA_07_LUTS_KOPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.lavrivska",
+    "code": "UA_07_LUTS_LAVR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.zhydychynska",
+    "code": "UA_07_LUTS_ZHYD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.boholiubska",
+    "code": "UA_07_LUTS_BOHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.borokhivska",
+    "code": "UA_07_LUTS_BORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.lypynska",
+    "code": "UA_07_LUTS_LYPY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.nosachevychivska",
+    "code": "UA_07_LUTS_NOSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.zaborolska",
+    "code": "UA_07_LUTS_ZABO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.baivska",
+    "code": "UA_07_LUTS_BAIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.novosilkivska",
+    "code": "UA_07_LUTS_NOVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.yaroslavytska",
+    "code": "UA_07_LUTS_YARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.malovanska",
+    "code": "UA_07_LUTS_MALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.ostrozhetska",
+    "code": "UA_07_LUTS_OSTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.torchynska",
+    "code": "UA_07_LUTS_TORC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.lutska",
+    "code": "UA_07_LUTS_LUTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.kivertsivska",
+    "code": "UA_07_LUTS_KIVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lutsk.rokynivska",
+    "code": "UA_07_LUTS_ROKY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LUTS"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.kvasivska",
+    "code": "UA_07_HORO_KVAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.pustomytivska",
+    "code": "UA_07_HORO_PUST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.myrnenska",
+    "code": "UA_07_HORO_MYRN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.novosilkivska",
+    "code": "UA_07_HORO_NOVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.lemeshivska",
+    "code": "UA_07_HORO_LEME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.uhrynivska",
+    "code": "UA_07_HORO_UHRY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.myrkivska",
+    "code": "UA_07_HORO_MYRK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.bilostotska",
+    "code": "UA_07_HORO_BILO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.pidberezivska",
+    "code": "UA_07_HORO_PIDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.tsehivska",
+    "code": "UA_07_HORO_TSEH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.voiutynska",
+    "code": "UA_07_HORO_VOIU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.horodyshchenska",
+    "code": "UA_07_HORO_HORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.skryhivska",
+    "code": "UA_07_HORO_SKRY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.berezhankivska",
+    "code": "UA_07_HORO_BERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.branivska",
+    "code": "UA_07_HORO_BRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.tereshkivtsivska",
+    "code": "UA_07_HORO_TERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.zhuravnykivska",
+    "code": "UA_07_HORO_ZHUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.kolodezhenska",
+    "code": "UA_07_HORO_KOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.shklynska",
+    "code": "UA_07_HORO_SHKL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.kolpytivska",
+    "code": "UA_07_HORO_KOLP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.peremylska",
+    "code": "UA_07_HORO_PERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.zvyniachenska",
+    "code": "UA_07_HORO_ZVYN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.lobachivska",
+    "code": "UA_07_HORO_LOBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.kholonivska",
+    "code": "UA_07_HORO_KHOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.mykhlynska",
+    "code": "UA_07_HORO_MYKH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.zhabchenska",
+    "code": "UA_07_HORO_ZHAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.pirvanchenska",
+    "code": "UA_07_HORO_PIRV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.vilkhivska",
+    "code": "UA_07_HORO_VILK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.hubynskapersha",
+    "code": "UA_07_HORO_HUPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.horishnenska",
+    "code": "UA_07_HORO_HORI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.skobelkivska",
+    "code": "UA_07_HORO_SKOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.smoliavska",
+    "code": "UA_07_HORO_SMOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.halychanska",
+    "code": "UA_07_HORO_HALY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.buzhanivska",
+    "code": "UA_07_HORO_BUZH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.skirchenska",
+    "code": "UA_07_HORO_SKIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.rachynska",
+    "code": "UA_07_HORO_RACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.mykolaivska",
+    "code": "UA_07_HORO_MYKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.kulykivska",
+    "code": "UA_07_HORO_KULY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.barylivska",
+    "code": "UA_07_HORO_BARY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.stoianivska",
+    "code": "UA_07_HORO_STOI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.uvynska",
+    "code": "UA_07_HORO_UVYN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.stremilchenska",
+    "code": "UA_07_HORO_STRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.synkivska",
+    "code": "UA_07_HORO_SYNK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.verbenska",
+    "code": "UA_07_HORO_VERB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.zolochivska",
+    "code": "UA_07_HORO_ZOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.boremelska",
+    "code": "UA_07_HORO_BORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.pliashevska",
+    "code": "UA_07_HORO_PLIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.berestechkivska",
+    "code": "UA_07_HORO_BERE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.mervynska",
+    "code": "UA_07_HORO_MERV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.piskivska",
+    "code": "UA_07_HORO_PISK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.senkevychivska",
+    "code": "UA_07_HORO_SENK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.horokhivska",
+    "code": "UA_07_HORO_HORO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.horokhiv.marianivska",
+    "code": "UA_07_HORO_MARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_HORO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.kozlivska",
+    "code": "UA_07_IVAN_KOZL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.pavlivska",
+    "code": "UA_07_IVAN_PAVL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.rykovychivska",
+    "code": "UA_07_IVAN_RYKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.zarichanska",
+    "code": "UA_07_IVAN_ZARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.sosnynska",
+    "code": "UA_07_IVAN_SOSN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.hrybovytska",
+    "code": "UA_07_IVAN_HRYB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.buzhankivska",
+    "code": "UA_07_IVAN_BUZH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.zhashkovychivska",
+    "code": "UA_07_IVAN_ZHAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.lukovychivska",
+    "code": "UA_07_IVAN_LUKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.zastavnenska",
+    "code": "UA_07_IVAN_ZAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.kolonska",
+    "code": "UA_07_IVAN_KOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.zaiachytsivska",
+    "code": "UA_07_IVAN_ZAIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.koniukhivska",
+    "code": "UA_07_IVAN_KONI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.zamlychivska",
+    "code": "UA_07_IVAN_ZAML",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.bilopilska",
+    "code": "UA_07_IVAN_BILO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.krukhynychivska",
+    "code": "UA_07_IVAN_KRUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.lytovezka",
+    "code": "UA_07_IVAN_LYTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.radovychivska",
+    "code": "UA_07_IVAN_RADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.pryvitnenska",
+    "code": "UA_07_IVAN_PRYV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.laskivska",
+    "code": "UA_07_IVAN_LASK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.starolishnianska",
+    "code": "UA_07_IVAN_STAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.myliatynska",
+    "code": "UA_07_IVAN_MYLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.zabolottsivska",
+    "code": "UA_07_IVAN_ZABO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.staroporytska",
+    "code": "UA_07_IVAN_STAR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.myshivska",
+    "code": "UA_07_IVAN_MYSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.dorohynychivska",
+    "code": "UA_07_IVAN_DORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.hriadivska",
+    "code": "UA_07_IVAN_HRIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.zavydivska",
+    "code": "UA_07_IVAN_ZAVY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.starozahorivska",
+    "code": "UA_07_IVAN_STAR3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.topylyshchenska",
+    "code": "UA_07_IVAN_TOPY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.pereslavychivska",
+    "code": "UA_07_IVAN_PERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.skomorokhivska",
+    "code": "UA_07_IVAN_SKOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.lokachynska",
+    "code": "UA_07_IVAN_LOKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.novovolynska",
+    "code": "UA_07_IVAN_NOVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.blahodatna",
+    "code": "UA_07_IVAN_BLAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ivanychi.ivanychivska",
+    "code": "UA_07_IVAN_IVAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_IVAN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lokachi.vichynivska",
+    "code": "UA_07_LOKA_VICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LOKA"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lokachi.horodynivska",
+    "code": "UA_07_LOKA_HORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LOKA"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lokachi.zubylnenska",
+    "code": "UA_07_LOKA_ZUBY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LOKA"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lokachi.sadivska",
+    "code": "UA_07_LOKA_SADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LOKA"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lokachi.oziutychivska",
+    "code": "UA_07_LOKA_OZIU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LOKA"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lokachi.bubnivska",
+    "code": "UA_07_LOKA_BUBN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LOKA"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lokachi.berezolukivska",
+    "code": "UA_07_LOKA_BERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LOKA"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lokachi.vatynska",
+    "code": "UA_07_LOKA_VATY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LOKA"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lokachi.shelvivska",
+    "code": "UA_07_LOKA_SHEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LOKA"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lokachi.kysylynska",
+    "code": "UA_07_LOKA_KYSY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LOKA"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lokachi.bereska",
+    "code": "UA_07_LOKA_BERE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LOKA"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lokachi.markovychivska",
+    "code": "UA_07_LOKA_MARK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LOKA"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lokachi.smolyhivska",
+    "code": "UA_07_LOKA_SMOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LOKA"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lokachi.shchurynska",
+    "code": "UA_07_LOKA_SHCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LOKA"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lokachi.voronchynska",
+    "code": "UA_07_LOKA_VORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LOKA"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lokachi.zaturtsivska",
+    "code": "UA_07_LOKA_ZATU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LOKA"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lokachi.dorosynivska",
+    "code": "UA_07_LOKA_DORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LOKA"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.lokachi.kholopychivska",
+    "code": "UA_07_LOKA_KHOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LOKA"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.rozhyshche.tykhotynska",
+    "code": "UA_07_ROZH_TYKH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_ROZH"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.rozhyshche.cherevakhivska",
+    "code": "UA_07_ROZH_CHER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_ROZH"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.rozhyshche.pozharkivska",
+    "code": "UA_07_ROZH_POZH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_ROZH"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.rozhyshche.rudkokozynska",
+    "code": "UA_07_ROZH_RUDK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_ROZH"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.rozhyshche.zalistsivska",
+    "code": "UA_07_ROZH_ZALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_ROZH"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.rozhyshche.navizka",
+    "code": "UA_07_ROZH_NAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_ROZH"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.rozhyshche.velytska",
+    "code": "UA_07_ROZH_VELY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_ROZH"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.rozhyshche.topilnenska",
+    "code": "UA_07_ROZH_TOPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_ROZH"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.rozhyshche.kremenetska",
+    "code": "UA_07_ROZH_KREM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_ROZH"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.rozhyshche.kopyllivska",
+    "code": "UA_07_ROZH_KOPY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_ROZH"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.rozhyshche.sokilska",
+    "code": "UA_07_ROZH_SOKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_ROZH"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.rozhyshche.mylska",
+    "code": "UA_07_ROZH_MYLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_ROZH"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.rozhyshche.lukivska",
+    "code": "UA_07_ROZH_LUKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_ROZH"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.rozhyshche.liubchenska",
+    "code": "UA_07_ROZH_LIUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_ROZH"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.rozhyshche.perespivska",
+    "code": "UA_07_ROZH_PERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_ROZH"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.rozhyshche.nemyrska",
+    "code": "UA_07_ROZH_NEMY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_ROZH"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.rozhyshche.litohoshchanska",
+    "code": "UA_07_ROZH_LITO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_ROZH"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.rozhyshche.dubyshchenska",
+    "code": "UA_07_ROZH_DUBY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_ROZH"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.rozhyshche.rozhyshchenska",
+    "code": "UA_07_ROZH_ROZH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_ROZH"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.volodymyr.halynivska",
+    "code": "UA_07_VOLO_HALY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_VOLO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.volodymyr.boblivska",
+    "code": "UA_07_VOLO_BOBL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_VOLO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.volodymyr.khmelivkivska",
+    "code": "UA_07_VOLO_KHME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_VOLO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.volodymyr.khobultivska",
+    "code": "UA_07_VOLO_KHOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_VOLO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.volodymyr.ovadnivska",
+    "code": "UA_07_VOLO_OVAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_VOLO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.volodymyr.bilynska",
+    "code": "UA_07_VOLO_BILY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_VOLO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.volodymyr.mokretska",
+    "code": "UA_07_VOLO_MOKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_VOLO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.volodymyr.haikivska",
+    "code": "UA_07_VOLO_HAIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_VOLO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.volodymyr.zymnivska",
+    "code": "UA_07_VOLO_ZYMN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_VOLO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.volodymyr.krasnostavska",
+    "code": "UA_07_VOLO_KRAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_VOLO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.volodymyr.viinytska",
+    "code": "UA_07_VOLO_VIIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_VOLO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.volodymyr.berezovychivska",
+    "code": "UA_07_VOLO_BERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_VOLO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.volodymyr.volodymyrvolynska",
+    "code": "UA_07_VOLO_VOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_VOLO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.volodymyr.poromivska",
+    "code": "UA_07_VOLO_PORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_VOLO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.volodymyr.morozovychivska",
+    "code": "UA_07_VOLO_MORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_VOLO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.volodymyr.ustyluzka",
+    "code": "UA_07_VOLO_USTY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_VOLO"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.turiisk.ruzhynska",
+    "code": "UA_07_TURI_RUZH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_TURI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.turiisk.ozerianska",
+    "code": "UA_07_TURI_OZER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_TURI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.turiisk.novodvirska",
+    "code": "UA_07_TURI_NOVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_TURI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.turiisk.tulychivska",
+    "code": "UA_07_TURI_TULY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_TURI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.turiisk.yasenivska",
+    "code": "UA_07_TURI_YASE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_TURI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.turiisk.makovychivska",
+    "code": "UA_07_TURI_MAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_TURI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.turiisk.bilashivska",
+    "code": "UA_07_TURI_BILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_TURI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.turiisk.kupychivska",
+    "code": "UA_07_TURI_KUPY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_TURI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.turiisk.seletska",
+    "code": "UA_07_TURI_SELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_TURI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.turiisk.kulchynska",
+    "code": "UA_07_TURI_KULC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_TURI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.turiisk.mylianovychivska",
+    "code": "UA_07_TURI_MYLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_TURI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.turiisk.kliuska",
+    "code": "UA_07_TURI_KLIU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_TURI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.turiisk.dulibivska",
+    "code": "UA_07_TURI_DULI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_TURI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.turiisk.solovychivska",
+    "code": "UA_07_TURI_SOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_TURI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.turiisk.turiiska",
+    "code": "UA_07_TURI_TURI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_TURI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.radoshynska",
+    "code": "UA_07_KOVE_RADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.drozdnivska",
+    "code": "UA_07_KOVE_DROZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.karasynska",
+    "code": "UA_07_KOVE_KARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.sekunska",
+    "code": "UA_07_KOVE_SEKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.troianivska",
+    "code": "UA_07_KOVE_TROI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.kolodiazhnenska",
+    "code": "UA_07_KOVE_KOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.povorska",
+    "code": "UA_07_KOVE_POVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.skulynska",
+    "code": "UA_07_KOVE_SKUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.dorotyshchenska",
+    "code": "UA_07_KOVE_DORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.zelenska",
+    "code": "UA_07_KOVE_ZELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.toikutska",
+    "code": "UA_07_KOVE_TOIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.oblapska",
+    "code": "UA_07_KOVE_OBLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.dubivska",
+    "code": "UA_07_KOVE_DUBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.liubytivska",
+    "code": "UA_07_KOVE_LIUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.kozlynychivska",
+    "code": "UA_07_KOVE_KOZL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.ukhovetska",
+    "code": "UA_07_KOVE_UKHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.krychevychivska",
+    "code": "UA_07_KOVE_KRYC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.stobykhivska",
+    "code": "UA_07_KOVE_STOB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.bilynska",
+    "code": "UA_07_KOVE_BILY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.sytovychivska",
+    "code": "UA_07_KOVE_SYTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.pisochnenska",
+    "code": "UA_07_KOVE_PISO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.holobska",
+    "code": "UA_07_KOVE_HOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kovel.kovelska",
+    "code": "UA_07_KOVE_KOVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KOVE"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.novosilkivska",
+    "code": "UA_07_LIUB2_NOVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.stolynskosmoliarska",
+    "code": "UA_07_LIUB2_STOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.khvorostivska",
+    "code": "UA_07_LIUB2_KHVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.zabolottivska",
+    "code": "UA_07_LIUB2_ZABO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.perevalivska",
+    "code": "UA_07_LIUB2_PERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.rudnianska",
+    "code": "UA_07_LIUB2_RUDN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.zghoranska",
+    "code": "UA_07_LIUB2_ZGHO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.oleska",
+    "code": "UA_07_LIUB2_OLES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.pochapivska",
+    "code": "UA_07_LIUB2_POCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.vyshnivska",
+    "code": "UA_07_LIUB2_VYSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.polapivska",
+    "code": "UA_07_LIUB2_POLA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.ovlochynska",
+    "code": "UA_07_LIUB2_OVLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.kusnyshchanska",
+    "code": "UA_07_LIUB2_KUSN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.nudyzhenska",
+    "code": "UA_07_LIUB2_NUDY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.radekhivska",
+    "code": "UA_07_LIUB2_RADE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.zachernetska",
+    "code": "UA_07_LIUB2_ZACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.pidhorodnenska",
+    "code": "UA_07_LIUB2_PIDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.mashivska",
+    "code": "UA_07_LIUB2_MASH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.zapilska",
+    "code": "UA_07_LIUB2_ZAPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.somynska",
+    "code": "UA_07_LIUB2_SOMY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.birkivska",
+    "code": "UA_07_LIUB2_BIRK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.starohutivska",
+    "code": "UA_07_LIUB2_STAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.dolska",
+    "code": "UA_07_LIUB2_DOLS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.lukivska",
+    "code": "UA_07_LIUB2_LUKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.holovnenska",
+    "code": "UA_07_LIUB2_HOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.liubomlska",
+    "code": "UA_07_LIUB2_LIUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.shtunska",
+    "code": "UA_07_LIUB2_SHTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.ladynska",
+    "code": "UA_07_LIUB2_LADY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.rymachivska",
+    "code": "UA_07_LIUB2_RYMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.hushchanska",
+    "code": "UA_07_LIUB2_HUSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.liuboml.rivnenska",
+    "code": "UA_07_LIUB2_RIVN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_LIUB2"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.serekhovychivska",
+    "code": "UA_07_STVY_SERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.halynovilska",
+    "code": "UA_07_STVY_HALY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.sokolyshchenska",
+    "code": "UA_07_STVY_SOKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.myzivska",
+    "code": "UA_07_STVY_MYZI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.kachynska",
+    "code": "UA_07_STVY_KACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.solovivska",
+    "code": "UA_07_STVY_SOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.zabrodivska",
+    "code": "UA_07_STVY_ZABR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.zhuravlynska",
+    "code": "UA_07_STVY_ZHUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.velymchenska",
+    "code": "UA_07_STVY_VELY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.synivska",
+    "code": "UA_07_STVY_SYNI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.postupelska",
+    "code": "UA_07_STVY_POST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.zamshanivska",
+    "code": "UA_07_STVY_ZAMS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.novovyzhvivska",
+    "code": "UA_07_STVY_NOVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.butsynska",
+    "code": "UA_07_STVY_BUTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.zdomyshelska",
+    "code": "UA_07_STVY_ZDOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.hlukhivska",
+    "code": "UA_07_STVY_HLUK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.datynska",
+    "code": "UA_07_STVY_DATY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.soshychnenska",
+    "code": "UA_07_STVY_SOSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.poliska",
+    "code": "UA_07_STVY_POLI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.sedlyshchenska",
+    "code": "UA_07_STVY_SEDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.vydranytska",
+    "code": "UA_07_STVY_VYDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.lychynivska",
+    "code": "UA_07_STVY_LYCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.horodyshchenska",
+    "code": "UA_07_STVY_HORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.dubechnenska",
+    "code": "UA_07_STVY_DUBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.smidynska",
+    "code": "UA_07_STVY_SMID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.liublynetska",
+    "code": "UA_07_STVY_LIUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.staravyzhivka.starovyzhivska",
+    "code": "UA_07_STVY_STAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_STVY"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.velykoobzyrska",
+    "code": "UA_07_KAMI_VELY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.cherchenska",
+    "code": "UA_07_KAMI_CHER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.nuinivska",
+    "code": "UA_07_KAMI_NUIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.bronytska",
+    "code": "UA_07_KAMI_BRON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.bykhivska",
+    "code": "UA_07_KAMI_BYKH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.novochervyshchanska",
+    "code": "UA_07_KAMI_NOVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.hutoborovenska",
+    "code": "UA_07_KAMI_HUTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.birkivska",
+    "code": "UA_07_KAMI_BIRK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.osivtsivska",
+    "code": "UA_07_KAMI_OSIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.verkhivska",
+    "code": "UA_07_KAMI_VERK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.olenynenska",
+    "code": "UA_07_KAMI_OLEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.derevkivska",
+    "code": "UA_07_KAMI_DERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.tobolivska",
+    "code": "UA_07_KAMI_TOBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.zaliska",
+    "code": "UA_07_KAMI_ZALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.klitytska",
+    "code": "UA_07_KAMI_KLIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.sedlyshchenska",
+    "code": "UA_07_KAMI_SEDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.hrudkivska",
+    "code": "UA_07_KAMI_HRUD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.borovnenska",
+    "code": "UA_07_KAMI_BORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.pishchanska",
+    "code": "UA_07_KAMI_PISH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.vorokomlivska",
+    "code": "UA_07_KAMI_VORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.polytsivska",
+    "code": "UA_07_KAMI_POLY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.vydertska",
+    "code": "UA_07_KAMI_VYDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.pnivnenska",
+    "code": "UA_07_KAMI_PNIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.voiehoshchanska",
+    "code": "UA_07_KAMI_VOIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.zalazzivska",
+    "code": "UA_07_KAMI_ZALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.kaminkashyrska",
+    "code": "UA_07_KAMI_KAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.kaminkashyrskyi.vetlivska",
+    "code": "UA_07_KAMI_VETL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_KAMI"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.samarivska",
+    "code": "UA_07_RATN_SAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.dobrenska",
+    "code": "UA_07_RATN_DOBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.zalukhivska",
+    "code": "UA_07_RATN_ZALU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.buzakivska",
+    "code": "UA_07_RATN_BUZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.velykohlushanska",
+    "code": "UA_07_RATN_VELY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.zaliska",
+    "code": "UA_07_RATN_ZALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.richytska",
+    "code": "UA_07_RATN_RICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.prokhidska",
+    "code": "UA_07_RATN_PROK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.shchedrohirska",
+    "code": "UA_07_RATN_SHCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.zhyrychivska",
+    "code": "UA_07_RATN_ZHYR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.melnykomostyshchenska",
+    "code": "UA_07_RATN_MELN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.vydrychivska",
+    "code": "UA_07_RATN_VYDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.shchytynska",
+    "code": "UA_07_RATN_SHCH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.khoteshivska",
+    "code": "UA_07_RATN_KHOT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.mlynivska",
+    "code": "UA_07_RATN_MLYN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.korteliska",
+    "code": "UA_07_RATN_KORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.samaryorikhivska",
+    "code": "UA_07_RATN_SAMA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.malohlushanska",
+    "code": "UA_07_RATN_MALO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.turska",
+    "code": "UA_07_RATN_TURS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.rakovoliska",
+    "code": "UA_07_RATN_RAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.mezhysytivska",
+    "code": "UA_07_RATN_MEZH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.hirnykivska",
+    "code": "UA_07_RATN_HIRN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.vysochnenska",
+    "code": "UA_07_RATN_VYSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.ratne.ratnivska",
+    "code": "UA_07_RATN_RATN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_RATN"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.shatsk.rostanska",
+    "code": "UA_07_SHAT_ROST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_SHAT"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.shatsk.liubokhynivska",
+    "code": "UA_07_SHAT_LIUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_SHAT"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.shatsk.krymnenska",
+    "code": "UA_07_SHAT_KRYM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_SHAT"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.shatsk.pishchanska",
+    "code": "UA_07_SHAT_PISH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_SHAT"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.shatsk.hutianska",
+    "code": "UA_07_SHAT_HUTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_SHAT"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.shatsk.svitiazka",
+    "code": "UA_07_SHAT_SVIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_SHAT"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.shatsk.shatska",
+    "code": "UA_07_SHAT_SHAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_SHAT"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.shatsk.zabolottivska",
+    "code": "UA_07_SHAT_ZABO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_SHAT"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.shatsk.hrabivska",
+    "code": "UA_07_SHAT_HRAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_SHAT"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.shatsk.zabuzka",
+    "code": "UA_07_SHAT_ZABU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_SHAT"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.shatsk.pulmivska",
+    "code": "UA_07_SHAT_PULM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_SHAT"
+  },
+  {
+    "tenantId": "ukraine.volynoblast.shatsk.pulemetska",
+    "code": "UA_07_SHAT_PULE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "UA_07_SHAT"
+  }
+]

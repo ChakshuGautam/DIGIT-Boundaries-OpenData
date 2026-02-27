@@ -1,0 +1,1339 @@
+[
+  {
+    "tenantId": "portugal.vianadocastelo",
+    "code": "PT_16",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PT"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima",
+    "code": "PT_16_PDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_16"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo",
+    "code": "PT_16_VDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_16"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedabarca",
+    "code": "PT_16_PDB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_16"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.caminha",
+    "code": "PT_16_CAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_16"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vilanovadecerveira",
+    "code": "PT_16_VNDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_16"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.paredesdecoura",
+    "code": "PT_16_PDC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_16"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez",
+    "code": "PT_16_ADV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_16"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.valenca",
+    "code": "PT_16_VALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_16"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.moncao",
+    "code": "PT_16_MONC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_16"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.melgaco",
+    "code": "PT_16_MELG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PT_16"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.agualonga",
+    "code": "PT_16_PDL_AGUA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.anais",
+    "code": "PT_16_PDL_ANAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.arcaepontedelima",
+    "code": "PT_16_PDL_AEPD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.ardegdofreixoemato",
+    "code": "PT_16_PDL_AFEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.bdrrioecepes",
+    "code": "PT_16_PDL_BEC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.beiraldolima",
+    "code": "PT_16_PDL_BDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.bertiandos",
+    "code": "PT_16_PDL_BERT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.brandara",
+    "code": "PT_16_PDL_BRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.caba",
+    "code": "PT_16_PDL_CABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.cabradmoemoreiradolima",
+    "code": "PT_16_PDL_CEMD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.calheiros",
+    "code": "PT_16_PDL_CALH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.correlh",
+    "code": "PT_16_PDL_CORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.facha",
+    "code": "PT_16_PDL_FACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.feitosa",
+    "code": "PT_16_PDL_FEIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.font",
+    "code": "PT_16_PDL_FONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.fornelosequeijada",
+    "code": "PT_16_PDL_FEQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.friastelas",
+    "code": "PT_16_PDL_FRIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.gemieira",
+    "code": "PT_16_PDL_GEMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.gondufe",
+    "code": "PT_16_PDL_GOND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.joldasopaio",
+    "code": "PT_16_PDL_JP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.labruja",
+    "code": "PT_16_PDL_LABR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.labrujmrendufeevilardomonte",
+    "code": "PT_16_PDL_LREV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.navi",
+    "code": "PT_16_PDL_NAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.rebordmessantamaria",
+    "code": "PT_16_PDL_RM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.rebordmessouto",
+    "code": "PT_16_PDL_RES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.sd",
+    "code": "PT_16_PDL_SD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.santacruzdolima",
+    "code": "PT_16_PDL_SCDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.sdopedrodarcos",
+    "code": "PT_16_PDL_SPD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.seara",
+    "code": "PT_16_PDL_SEAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.serdedelo",
+    "code": "PT_16_PDL_SERD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedelima.vitorinodasdonas",
+    "code": "PT_16_PDL_VDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDL"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.afife",
+    "code": "PT_16_VDC_AFIF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.alvardes",
+    "code": "PT_16_VDC_ALVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.amonde",
+    "code": "PT_16_VDC_AMON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.anha",
+    "code": "PT_16_VDC_ANHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.carredo",
+    "code": "PT_16_VDC_CARR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.chaf",
+    "code": "PT_16_VDC_CHAF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.darque",
+    "code": "PT_16_VDC_DARQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.freixieirodesoutelo",
+    "code": "PT_16_VDC_FDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.lanheses",
+    "code": "PT_16_VDC_LANH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.montaria",
+    "code": "PT_16_VDC_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.mujes",
+    "code": "PT_16_VDC_MUJ3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.perre",
+    "code": "PT_16_VDC_PERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.santamartadeportuzelo",
+    "code": "PT_16_VDC_SMDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.uniodasfreguesiasdecardieloseserreleis",
+    "code": "PT_16_VDC_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.uniodasfreguesiasdegerazdolimasantamari",
+    "code": "PT_16_VDC_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.uniodasfreguesiasdemazarefesevilafria",
+    "code": "PT_16_VDC_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.uniodasfreguesiasdenogueirameixedoevilar",
+    "code": "PT_16_VDC_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.uniodasfreguesiasdesubporteladeocristeep",
+    "code": "PT_16_VDC_UDFD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.uniodasfreguesiasdetorreevilamou",
+    "code": "PT_16_VDC_UDFD6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.viladepunhe",
+    "code": "PT_16_VDC_VDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.vilafranca",
+    "code": "PT_16_VDC_VIFR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.areosa",
+    "code": "PT_16_VDC_AREO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vianadocastelo.uniodasfreguesiasdevianadocastelosantam",
+    "code": "PT_16_VDC_UDFD7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedabarca.azias",
+    "code": "PT_16_PDB_AZIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDB"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedabarca.boiv",
+    "code": "PT_16_PDB_BOIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDB"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedabarca.brav",
+    "code": "PT_16_PDB_BRAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDB"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedabarca.britelo",
+    "code": "PT_16_PDB_BRIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDB"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedabarca.cuidedevilaverde",
+    "code": "PT_16_PDB_CDVV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDB"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedabarca.lavradas",
+    "code": "PT_16_PDB_LAVR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDB"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedabarca.lindoso",
+    "code": "PT_16_PDB_LIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDB"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedabarca.sampriz",
+    "code": "PT_16_PDB_SAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDB"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedabarca.uniodasfreguesiasdecrastoruivosegrovelas",
+    "code": "PT_16_PDB_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDB"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedabarca.uniodasfreguesiasdeentreambososriosermi",
+    "code": "PT_16_PDB_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDB"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedabarca.uniodasfreguesiasdepontedabarcavilanova",
+    "code": "PT_16_PDB_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDB"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedabarca.uniodasfreguesiasdes",
+    "code": "PT_16_PDB_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDB"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedabarca.uniodasfreguesiasdesoutoetabaia",
+    "code": "PT_16_PDB_UDFD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDB"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedabarca.uniodasfreguesiasdetouvedoslolourenhoe",
+    "code": "PT_16_PDB_UDFD6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDB"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedabarca.uniodasfreguesiasdevilachcsrojocobap",
+    "code": "PT_16_PDB_UDFD7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDB"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.pontedabarca.vadesotom",
+    "code": "PT_16_PDB_VT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDB"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.caminha.ancora",
+    "code": "PT_16_CAMI_ANCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_CAMI"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.caminha.argela",
+    "code": "PT_16_CAMI_ARGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_CAMI"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.caminha.dem",
+    "code": "PT_16_CAMI_DEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_CAMI"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.caminha.lanhelas",
+    "code": "PT_16_CAMI_LANH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_CAMI"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.caminha.ribadencora",
+    "code": "PT_16_CAMI_RD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_CAMI"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.caminha.uniodasfreguesiasdeargabaixocimaesoo",
+    "code": "PT_16_CAMI_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_CAMI"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.caminha.uniodasfreguesiasdecaminhamatrizevilare",
+    "code": "PT_16_CAMI_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_CAMI"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.caminha.uniodasfreguesiasdegondareorbaccm",
+    "code": "PT_16_CAMI_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_CAMI"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.caminha.uniodasfreguesiasdemoledoecristelo",
+    "code": "PT_16_CAMI_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_CAMI"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.caminha.uniodasfreguesiasdevenadeeazevedo",
+    "code": "PT_16_CAMI_UDFD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_CAMI"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.caminha.vilapraiadencora",
+    "code": "PT_16_CAMI_VPD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_CAMI"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.caminha.vilardemouros",
+    "code": "PT_16_CAMI_VDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_CAMI"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.caminha.vile",
+    "code": "PT_16_CAMI_VILE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_CAMI"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vilanovadecerveira.cornes",
+    "code": "PT_16_VNDC_CORN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VNDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vilanovadecerveira.coura",
+    "code": "PT_16_VNDC_COUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VNDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vilanovadecerveira.covas",
+    "code": "PT_16_VNDC_COVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VNDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vilanovadecerveira.gondarmm",
+    "code": "PT_16_VNDC_GOND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VNDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vilanovadecerveira.loivo",
+    "code": "PT_16_VNDC_LOIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VNDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vilanovadecerveira.mentrestido",
+    "code": "PT_16_VNDC_MENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VNDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vilanovadecerveira.sapardos",
+    "code": "PT_16_VNDC_SAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VNDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vilanovadecerveira.sopo",
+    "code": "PT_16_VNDC_SOPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VNDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vilanovadecerveira.uniodasfreguesiasdecamposevilame",
+    "code": "PT_16_VNDC_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VNDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vilanovadecerveira.uniodasfreguesiasdecandemilegondar",
+    "code": "PT_16_VNDC_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VNDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vilanovadecerveira.uniodasfreguesiasdereboredaenogueira",
+    "code": "PT_16_VNDC_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VNDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vilanovadecerveira.uniodasfreguesiasdes",
+    "code": "PT_16_VNDC_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VNDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.vilanovadecerveira.uniodasfreguesiasdevilanovadecerveirael",
+    "code": "PT_16_VNDC_UDFD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VNDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.paredesdecoura.infesta",
+    "code": "PT_16_PDC_INFE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.paredesdecoura.padornelo",
+    "code": "PT_16_PDC_PADO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.paredesdecoura.romariges",
+    "code": "PT_16_PDC_ROMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.paredesdecoura.rubi",
+    "code": "PT_16_PDC_RUBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.paredesdecoura.uniodasfreguesiasdebicoecristelo",
+    "code": "PT_16_PDC_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.paredesdecoura.uniodasfreguesiasdecossouradoelinhares",
+    "code": "PT_16_PDC_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.paredesdecoura.uniodasfreguesiasdeformarizeferreira",
+    "code": "PT_16_PDC_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.paredesdecoura.uniodasfreguesiasdeinsaldeeporreiras",
+    "code": "PT_16_PDC_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.paredesdecoura.uniodasfreguesiasdeparedesdecouraeresend",
+    "code": "PT_16_PDC_UDFD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.paredesdecoura.vasc",
+    "code": "PT_16_PDC_VASC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_PDC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.aboimdaschoas",
+    "code": "PT_16_ADV_ADC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.agui",
+    "code": "PT_16_ADV_AGUI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.azere",
+    "code": "PT_16_ADV_AZER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.cabanamaior",
+    "code": "PT_16_ADV_CAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.cabreiro",
+    "code": "PT_16_ADV_CABR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.cambeses",
+    "code": "PT_16_ADV_CAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.cendufe",
+    "code": "PT_16_ADV_CEND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.couto",
+    "code": "PT_16_ADV_COUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.gavieira",
+    "code": "PT_16_ADV_GAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.gondoriz",
+    "code": "PT_16_ADV_GOND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.miranda",
+    "code": "PT_16_ADV_MIRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.monteredondo",
+    "code": "PT_16_ADV_MORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.pam",
+    "code": "PT_16_ADV_PAM3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.padroso",
+    "code": "PT_16_ADV_PADR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.prozelo",
+    "code": "PT_16_ADV_PROZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.refiosdolima",
+    "code": "PT_16_ADV_RDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.riofrio",
+    "code": "PT_16_ADV_RIFR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.sabadim",
+    "code": "PT_16_ADV_SABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.senharei",
+    "code": "PT_16_ADV_SENH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.sistelo",
+    "code": "PT_16_ADV_SIST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.soajo",
+    "code": "PT_16_ADV_SOAJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.uniodasfreguesiasdealvoraeloureda",
+    "code": "PT_16_ADV_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.uniodasfreguesiasdeanheeseluzio",
+    "code": "PT_16_ADV_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.uniodasfreguesiasdearcosdevaldevezsalvad",
+    "code": "PT_16_ADV_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.uniodasfreguesiasdearcosdevaldevezsaop",
+    "code": "PT_16_ADV_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.uniodasfreguesiasdeeirasemei",
+    "code": "PT_16_ADV_UDFD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.uniodasfreguesiasdegradeecarralcova",
+    "code": "PT_16_ADV_UDFD6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.uniodasfreguesiasdeguilhadesesesantar",
+    "code": "PT_16_ADV_UDFD7",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.uniodasfreguesiasdejoldamadalenaerioca",
+    "code": "PT_16_ADV_UDFD8",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.uniodasfreguesiasdepadreirosalvadoresant",
+    "code": "PT_16_ADV_UDFD9",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.uniodasfreguesiasdeportelaeextremo",
+    "code": "PT_16_ADV_UDFD10",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.uniodasfreguesiasdet",
+    "code": "PT_16_ADV_UDFD11",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.uniodasfreguesiasdevilelassocosmeesoo",
+    "code": "PT_16_ADV_UDFD12",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.arcosdevaldevez.vale",
+    "code": "PT_16_ADV_VALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_ADV"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.valenca.boiv",
+    "code": "PT_16_VALE_BOIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VALE"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.valenca.cerdal",
+    "code": "PT_16_VALE_CERD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VALE"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.valenca.fontoura",
+    "code": "PT_16_VALE_FONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VALE"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.valenca.friestas",
+    "code": "PT_16_VALE_FRIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VALE"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.valenca.ganfei",
+    "code": "PT_16_VALE_GANF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VALE"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.valenca.sdopedrodatorre",
+    "code": "PT_16_VALE_SPDT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VALE"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.valenca.uniodasfreguesiasdegandraetaieo",
+    "code": "PT_16_VALE_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VALE"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.valenca.uniodasfreguesiasdegondomilesanfins",
+    "code": "PT_16_VALE_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VALE"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.valenca.uniodasfreguesiasdevalenfacristelocovoe",
+    "code": "PT_16_VALE_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VALE"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.valenca.verdoejo",
+    "code": "PT_16_VALE_VERD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_VALE"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.moncao.abedim",
+    "code": "PT_16_MONC_ABED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MONC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.moncao.barbeita",
+    "code": "PT_16_MONC_BARB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MONC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.moncao.barrodasetaias",
+    "code": "PT_16_MONC_BET",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MONC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.moncao.bela",
+    "code": "PT_16_MONC_BELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MONC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.moncao.lara",
+    "code": "PT_16_MONC_LARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MONC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.moncao.longosvales",
+    "code": "PT_16_MONC_LOVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MONC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.moncao.merufe",
+    "code": "PT_16_MONC_MERU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MONC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.moncao.pinheiros",
+    "code": "PT_16_MONC_PINH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MONC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.moncao.podame",
+    "code": "PT_16_MONC_PODA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MONC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.moncao.portela",
+    "code": "PT_16_MONC_PORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MONC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.moncao.ribademouro",
+    "code": "PT_16_MONC_RDM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MONC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.moncao.segude",
+    "code": "PT_16_MONC_SEGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MONC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.moncao.tangil",
+    "code": "PT_16_MONC_TANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MONC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.moncao.trute",
+    "code": "PT_16_MONC_TRUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MONC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.moncao.uniodasfreguesiasdeceiviesebadim",
+    "code": "PT_16_MONC_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MONC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.moncao.uniodasfreguesiasdemazedoecortes",
+    "code": "PT_16_MONC_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MONC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.moncao.uniodasfreguesiasdemessegmesvaladareses",
+    "code": "PT_16_MONC_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MONC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.moncao.uniodasfreguesiasdemonedoetroviscoso",
+    "code": "PT_16_MONC_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MONC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.moncao.uniodasfreguesiasdesagolordeloeparada",
+    "code": "PT_16_MONC_UDFD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MONC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.moncao.uniodasfreguesiasdetroporizelapela",
+    "code": "PT_16_MONC_UDFD6",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MONC"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.melgaco.alvaredo",
+    "code": "PT_16_MELG_ALVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MELG"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.melgaco.cousso",
+    "code": "PT_16_MELG_COUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MELG"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.melgaco.gave",
+    "code": "PT_16_MELG_GAVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MELG"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.melgaco.penso",
+    "code": "PT_16_MELG_PENS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MELG"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.melgaco.uniodasfreguesiasdecastrolaboreiroelamas",
+    "code": "PT_16_MELG_UDFD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MELG"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.melgaco.uniodasfreguesiasdechavieesepaaos",
+    "code": "PT_16_MELG_UDFD2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MELG"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.melgaco.uniodasfreguesiasdeparadadomonteecubalh",
+    "code": "PT_16_MELG_UDFD3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MELG"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.melgaco.uniodasfreguesiasdepradoeremotes",
+    "code": "PT_16_MELG_UDFD4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MELG"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.melgaco.uniodasfreguesiasdevilaeroussas",
+    "code": "PT_16_MELG_UDFD5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MELG"
+  },
+  {
+    "tenantId": "portugal.vianadocastelo.melgaco.cristoval",
+    "code": "PT_16_MELG_CRIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "PT_16_MELG"
+  }
+]

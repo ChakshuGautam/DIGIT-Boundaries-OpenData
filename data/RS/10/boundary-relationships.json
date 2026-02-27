@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "serbia.podunavljedistrict",
+    "code": "RS_10",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "RS"
+  },
+  {
+    "tenantId": "serbia.podunavljedistrict.smederevocity",
+    "code": "RS_10_SMCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_10"
+  },
+  {
+    "tenantId": "serbia.podunavljedistrict.smederevskapalankamunicipal",
+    "code": "RS_10_SPM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_10"
+  },
+  {
+    "tenantId": "serbia.podunavljedistrict.velikaplanamunicipality",
+    "code": "RS_10_VPM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "RS_10"
+  }
+]

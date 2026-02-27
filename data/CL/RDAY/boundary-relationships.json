@@ -1,0 +1,51 @@
+[
+  {
+    "tenantId": "chile.regindearicayparinacota",
+    "code": "CL_RDAY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CL"
+  },
+  {
+    "tenantId": "chile.regindearicayparinacota.provinciadearica",
+    "code": "CL_RDAY_PDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CL_RDAY"
+  },
+  {
+    "tenantId": "chile.regindearicayparinacota.provinciadeparinacota",
+    "code": "CL_RDAY_PDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CL_RDAY"
+  },
+  {
+    "tenantId": "chile.regindearicayparinacota.provinciadearica.camarones",
+    "code": "CL_RDAY_PDA_CAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDAY_PDA"
+  },
+  {
+    "tenantId": "chile.regindearicayparinacota.provinciadearica.arica",
+    "code": "CL_RDAY_PDA_ARIC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDAY_PDA"
+  },
+  {
+    "tenantId": "chile.regindearicayparinacota.provinciadeparinacota.putre",
+    "code": "CL_RDAY_PDP_PUTR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDAY_PDP"
+  },
+  {
+    "tenantId": "chile.regindearicayparinacota.provinciadeparinacota.generallagos",
+    "code": "CL_RDAY_PDP_GELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CL_RDAY_PDP"
+  }
+]

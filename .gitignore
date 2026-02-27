@@ -2,3 +2,7 @@ node_modules/
 dist/
 *.tsbuildinfo
 .DS_Store
+
+# Polygon GeoJSON files are too large for git (3.5GB+)
+# Download via geoBoundaries API or run scripts/fill-polygons.py
+**/boundaries-polygons*.geojson

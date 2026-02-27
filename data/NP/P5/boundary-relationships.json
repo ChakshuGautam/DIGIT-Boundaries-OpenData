@@ -1,0 +1,898 @@
+[
+  {
+    "tenantId": "nepal.lumbini",
+    "code": "NP_P5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NP"
+  },
+  {
+    "tenantId": "nepal.lumbini.nawalapur",
+    "code": "NP_P5_NAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P5"
+  },
+  {
+    "tenantId": "nepal.lumbini.palpa",
+    "code": "NP_P5_PALP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P5"
+  },
+  {
+    "tenantId": "nepal.lumbini.kapilbastu",
+    "code": "NP_P5_KAPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P5"
+  },
+  {
+    "tenantId": "nepal.lumbini.arghakhanchi",
+    "code": "NP_P5_ARGH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P5"
+  },
+  {
+    "tenantId": "nepal.lumbini.gulmi",
+    "code": "NP_P5_GULM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P5"
+  },
+  {
+    "tenantId": "nepal.lumbini.dang",
+    "code": "NP_P5_DANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P5"
+  },
+  {
+    "tenantId": "nepal.lumbini.pyuthan",
+    "code": "NP_P5_PYUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P5"
+  },
+  {
+    "tenantId": "nepal.lumbini.rolpa",
+    "code": "NP_P5_ROLP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P5"
+  },
+  {
+    "tenantId": "nepal.lumbini.rukume",
+    "code": "NP_P5_RUKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P5"
+  },
+  {
+    "tenantId": "nepal.lumbini.banke",
+    "code": "NP_P5_BANK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P5"
+  },
+  {
+    "tenantId": "nepal.lumbini.bardiya",
+    "code": "NP_P5_BARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NP_P5"
+  },
+  {
+    "tenantId": "nepal.lumbini.nawalapur.butwal",
+    "code": "NP_P5_NAWA_BUTW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_NAWA"
+  },
+  {
+    "tenantId": "nepal.lumbini.nawalapur.gaidahawa",
+    "code": "NP_P5_NAWA_GAID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_NAWA"
+  },
+  {
+    "tenantId": "nepal.lumbini.nawalapur.kanchan",
+    "code": "NP_P5_NAWA_KANC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_NAWA"
+  },
+  {
+    "tenantId": "nepal.lumbini.nawalapur.kotahimai",
+    "code": "NP_P5_NAWA_KOTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_NAWA"
+  },
+  {
+    "tenantId": "nepal.lumbini.nawalapur.lumbinisanskritik",
+    "code": "NP_P5_NAWA_LUSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_NAWA"
+  },
+  {
+    "tenantId": "nepal.lumbini.nawalapur.marchawari",
+    "code": "NP_P5_NAWA_MARC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_NAWA"
+  },
+  {
+    "tenantId": "nepal.lumbini.nawalapur.mayadevi",
+    "code": "NP_P5_NAWA_MAYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_NAWA"
+  },
+  {
+    "tenantId": "nepal.lumbini.nawalapur.omsatiya",
+    "code": "NP_P5_NAWA_OMSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_NAWA"
+  },
+  {
+    "tenantId": "nepal.lumbini.nawalapur.sainamaina",
+    "code": "NP_P5_NAWA_SAIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_NAWA"
+  },
+  {
+    "tenantId": "nepal.lumbini.nawalapur.sammarimai",
+    "code": "NP_P5_NAWA_SAMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_NAWA"
+  },
+  {
+    "tenantId": "nepal.lumbini.nawalapur.siddharthanagar",
+    "code": "NP_P5_NAWA_SIDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_NAWA"
+  },
+  {
+    "tenantId": "nepal.lumbini.nawalapur.siyari",
+    "code": "NP_P5_NAWA_SIYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_NAWA"
+  },
+  {
+    "tenantId": "nepal.lumbini.nawalapur.sudhdhodhan",
+    "code": "NP_P5_NAWA_SUDH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_NAWA"
+  },
+  {
+    "tenantId": "nepal.lumbini.nawalapur.tillotama",
+    "code": "NP_P5_NAWA_TILL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_NAWA"
+  },
+  {
+    "tenantId": "nepal.lumbini.nawalapur.lumbinisanskritikdevelopmentarea",
+    "code": "NP_P5_NAWA_LSDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_NAWA"
+  },
+  {
+    "tenantId": "nepal.lumbini.nawalapur.palhinandan",
+    "code": "NP_P5_NAWA_PANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_NAWA"
+  },
+  {
+    "tenantId": "nepal.lumbini.nawalapur.rohini",
+    "code": "NP_P5_NAWA_ROHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_NAWA"
+  },
+  {
+    "tenantId": "nepal.lumbini.palpa.chapakot",
+    "code": "NP_P5_PALP_CHAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_PALP"
+  },
+  {
+    "tenantId": "nepal.lumbini.palpa.galyang",
+    "code": "NP_P5_PALP_GALY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_PALP"
+  },
+  {
+    "tenantId": "nepal.lumbini.palpa.kaligandagi",
+    "code": "NP_P5_PALP_KALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_PALP"
+  },
+  {
+    "tenantId": "nepal.lumbini.palpa.bagnaskali",
+    "code": "NP_P5_PALP_BAGN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_PALP"
+  },
+  {
+    "tenantId": "nepal.lumbini.palpa.mathagadhi",
+    "code": "NP_P5_PALP_MATH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_PALP"
+  },
+  {
+    "tenantId": "nepal.lumbini.palpa.nisdi",
+    "code": "NP_P5_PALP_NISD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_PALP"
+  },
+  {
+    "tenantId": "nepal.lumbini.palpa.purbakhola",
+    "code": "NP_P5_PALP_PURB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_PALP"
+  },
+  {
+    "tenantId": "nepal.lumbini.palpa.rainadevichhahara",
+    "code": "NP_P5_PALP_RACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_PALP"
+  },
+  {
+    "tenantId": "nepal.lumbini.palpa.rambha",
+    "code": "NP_P5_PALP_RAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_PALP"
+  },
+  {
+    "tenantId": "nepal.lumbini.palpa.rampur",
+    "code": "NP_P5_PALP_RAMP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_PALP"
+  },
+  {
+    "tenantId": "nepal.lumbini.palpa.ribdikot",
+    "code": "NP_P5_PALP_RIBD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_PALP"
+  },
+  {
+    "tenantId": "nepal.lumbini.palpa.tansen",
+    "code": "NP_P5_PALP_TANS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_PALP"
+  },
+  {
+    "tenantId": "nepal.lumbini.palpa.tinau",
+    "code": "NP_P5_PALP_TINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_PALP"
+  },
+  {
+    "tenantId": "nepal.lumbini.kapilbastu.banganga",
+    "code": "NP_P5_KAPI_BANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_KAPI"
+  },
+  {
+    "tenantId": "nepal.lumbini.kapilbastu.bijayanagar",
+    "code": "NP_P5_KAPI_BIJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_KAPI"
+  },
+  {
+    "tenantId": "nepal.lumbini.kapilbastu.buddhabhumi",
+    "code": "NP_P5_KAPI_BUDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_KAPI"
+  },
+  {
+    "tenantId": "nepal.lumbini.kapilbastu.kapilbastu",
+    "code": "NP_P5_KAPI_KAPI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_KAPI"
+  },
+  {
+    "tenantId": "nepal.lumbini.kapilbastu.krishnanagar",
+    "code": "NP_P5_KAPI_KRIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_KAPI"
+  },
+  {
+    "tenantId": "nepal.lumbini.kapilbastu.maharajgunj",
+    "code": "NP_P5_KAPI_MAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_KAPI"
+  },
+  {
+    "tenantId": "nepal.lumbini.kapilbastu.mayadevi",
+    "code": "NP_P5_KAPI_MAYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_KAPI"
+  },
+  {
+    "tenantId": "nepal.lumbini.kapilbastu.shivaraj",
+    "code": "NP_P5_KAPI_SHIV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_KAPI"
+  },
+  {
+    "tenantId": "nepal.lumbini.kapilbastu.suddhodhan",
+    "code": "NP_P5_KAPI_SUDD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_KAPI"
+  },
+  {
+    "tenantId": "nepal.lumbini.kapilbastu.yashodhara",
+    "code": "NP_P5_KAPI_YASH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_KAPI"
+  },
+  {
+    "tenantId": "nepal.lumbini.kapilbastu.sitganga",
+    "code": "NP_P5_KAPI_SITG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_KAPI"
+  },
+  {
+    "tenantId": "nepal.lumbini.arghakhanchi.bhumekasthan",
+    "code": "NP_P5_ARGH_BHUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_ARGH"
+  },
+  {
+    "tenantId": "nepal.lumbini.arghakhanchi.chhatradev",
+    "code": "NP_P5_ARGH_CHHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_ARGH"
+  },
+  {
+    "tenantId": "nepal.lumbini.arghakhanchi.malarani",
+    "code": "NP_P5_ARGH_MALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_ARGH"
+  },
+  {
+    "tenantId": "nepal.lumbini.arghakhanchi.panini",
+    "code": "NP_P5_ARGH_PANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_ARGH"
+  },
+  {
+    "tenantId": "nepal.lumbini.arghakhanchi.sandhikharka",
+    "code": "NP_P5_ARGH_SAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_ARGH"
+  },
+  {
+    "tenantId": "nepal.lumbini.gulmi.badigad",
+    "code": "NP_P5_GULM_BADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_GULM"
+  },
+  {
+    "tenantId": "nepal.lumbini.gulmi.bareng",
+    "code": "NP_P5_GULM_BARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_GULM"
+  },
+  {
+    "tenantId": "nepal.lumbini.gulmi.chandrakot",
+    "code": "NP_P5_GULM_CHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_GULM"
+  },
+  {
+    "tenantId": "nepal.lumbini.gulmi.chatrakot",
+    "code": "NP_P5_GULM_CHAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_GULM"
+  },
+  {
+    "tenantId": "nepal.lumbini.gulmi.dhurkot",
+    "code": "NP_P5_GULM_DHUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_GULM"
+  },
+  {
+    "tenantId": "nepal.lumbini.gulmi.gulmidarbar",
+    "code": "NP_P5_GULM_GULM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_GULM"
+  },
+  {
+    "tenantId": "nepal.lumbini.gulmi.isma",
+    "code": "NP_P5_GULM_ISMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_GULM"
+  },
+  {
+    "tenantId": "nepal.lumbini.gulmi.kaligandaki",
+    "code": "NP_P5_GULM_KALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_GULM"
+  },
+  {
+    "tenantId": "nepal.lumbini.gulmi.madane",
+    "code": "NP_P5_GULM_MADA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_GULM"
+  },
+  {
+    "tenantId": "nepal.lumbini.gulmi.malika",
+    "code": "NP_P5_GULM_MALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_GULM"
+  },
+  {
+    "tenantId": "nepal.lumbini.gulmi.musikot",
+    "code": "NP_P5_GULM_MUSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_GULM"
+  },
+  {
+    "tenantId": "nepal.lumbini.gulmi.resunga",
+    "code": "NP_P5_GULM_RESU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_GULM"
+  },
+  {
+    "tenantId": "nepal.lumbini.gulmi.ruru",
+    "code": "NP_P5_GULM_RURU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_GULM"
+  },
+  {
+    "tenantId": "nepal.lumbini.gulmi.satyawati",
+    "code": "NP_P5_GULM_SATY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_GULM"
+  },
+  {
+    "tenantId": "nepal.lumbini.gulmi.gaumukhi",
+    "code": "NP_P5_GULM_GAUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_GULM"
+  },
+  {
+    "tenantId": "nepal.lumbini.dang.babai",
+    "code": "NP_P5_DANG_BABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_DANG"
+  },
+  {
+    "tenantId": "nepal.lumbini.dang.banglachuli",
+    "code": "NP_P5_DANG_BANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_DANG"
+  },
+  {
+    "tenantId": "nepal.lumbini.dang.dangisharan",
+    "code": "NP_P5_DANG_DANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_DANG"
+  },
+  {
+    "tenantId": "nepal.lumbini.dang.gadhawa",
+    "code": "NP_P5_DANG_GADH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_DANG"
+  },
+  {
+    "tenantId": "nepal.lumbini.dang.ghorahi",
+    "code": "NP_P5_DANG_GHOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_DANG"
+  },
+  {
+    "tenantId": "nepal.lumbini.dang.lamahi",
+    "code": "NP_P5_DANG_LAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_DANG"
+  },
+  {
+    "tenantId": "nepal.lumbini.dang.rajpur",
+    "code": "NP_P5_DANG_RAJP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_DANG"
+  },
+  {
+    "tenantId": "nepal.lumbini.dang.rapti",
+    "code": "NP_P5_DANG_RAPT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_DANG"
+  },
+  {
+    "tenantId": "nepal.lumbini.dang.shantinagar",
+    "code": "NP_P5_DANG_SHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_DANG"
+  },
+  {
+    "tenantId": "nepal.lumbini.dang.tulsipur",
+    "code": "NP_P5_DANG_TULS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_DANG"
+  },
+  {
+    "tenantId": "nepal.lumbini.pyuthan.ayirabati",
+    "code": "NP_P5_PYUT_AYIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_PYUT"
+  },
+  {
+    "tenantId": "nepal.lumbini.pyuthan.jhimruk",
+    "code": "NP_P5_PYUT_JHIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_PYUT"
+  },
+  {
+    "tenantId": "nepal.lumbini.pyuthan.mallarani",
+    "code": "NP_P5_PYUT_MALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_PYUT"
+  },
+  {
+    "tenantId": "nepal.lumbini.pyuthan.mandavi",
+    "code": "NP_P5_PYUT_MAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_PYUT"
+  },
+  {
+    "tenantId": "nepal.lumbini.pyuthan.naubahini",
+    "code": "NP_P5_PYUT_NAUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_PYUT"
+  },
+  {
+    "tenantId": "nepal.lumbini.pyuthan.pyuthan",
+    "code": "NP_P5_PYUT_PYUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_PYUT"
+  },
+  {
+    "tenantId": "nepal.lumbini.pyuthan.sarumarani",
+    "code": "NP_P5_PYUT_SARU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_PYUT"
+  },
+  {
+    "tenantId": "nepal.lumbini.pyuthan.sworgadwary",
+    "code": "NP_P5_PYUT_SWOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_PYUT"
+  },
+  {
+    "tenantId": "nepal.lumbini.rolpa.duikholi",
+    "code": "NP_P5_ROLP_DUIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_ROLP"
+  },
+  {
+    "tenantId": "nepal.lumbini.rolpa.lungri",
+    "code": "NP_P5_ROLP_LUNG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_ROLP"
+  },
+  {
+    "tenantId": "nepal.lumbini.rolpa.madi",
+    "code": "NP_P5_ROLP_MADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_ROLP"
+  },
+  {
+    "tenantId": "nepal.lumbini.rolpa.rolpa",
+    "code": "NP_P5_ROLP_ROLP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_ROLP"
+  },
+  {
+    "tenantId": "nepal.lumbini.rolpa.runtigadi",
+    "code": "NP_P5_ROLP_RUNT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_ROLP"
+  },
+  {
+    "tenantId": "nepal.lumbini.rolpa.sukidaha",
+    "code": "NP_P5_ROLP_SUKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_ROLP"
+  },
+  {
+    "tenantId": "nepal.lumbini.rolpa.sunchhahari",
+    "code": "NP_P5_ROLP_SUNC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_ROLP"
+  },
+  {
+    "tenantId": "nepal.lumbini.rolpa.suwarnabati",
+    "code": "NP_P5_ROLP_SUWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_ROLP"
+  },
+  {
+    "tenantId": "nepal.lumbini.rolpa.thawang",
+    "code": "NP_P5_ROLP_THAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_ROLP"
+  },
+  {
+    "tenantId": "nepal.lumbini.rolpa.tribeni",
+    "code": "NP_P5_ROLP_TRIB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_ROLP"
+  },
+  {
+    "tenantId": "nepal.lumbini.rolpa.musikot",
+    "code": "NP_P5_ROLP_MUSI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_ROLP"
+  },
+  {
+    "tenantId": "nepal.lumbini.rukume.aathbiskot",
+    "code": "NP_P5_RUKU_AATH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_RUKU"
+  },
+  {
+    "tenantId": "nepal.lumbini.rukume.banfikot",
+    "code": "NP_P5_RUKU_BANF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_RUKU"
+  },
+  {
+    "tenantId": "nepal.lumbini.rukume.chaurjahari",
+    "code": "NP_P5_RUKU_CHAU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_RUKU"
+  },
+  {
+    "tenantId": "nepal.lumbini.rukume.sanibheri",
+    "code": "NP_P5_RUKU_SABH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_RUKU"
+  },
+  {
+    "tenantId": "nepal.lumbini.rukume.tribeni",
+    "code": "NP_P5_RUKU_TRIB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_RUKU"
+  },
+  {
+    "tenantId": "nepal.lumbini.rukume.bhume",
+    "code": "NP_P5_RUKU_BHUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_RUKU"
+  },
+  {
+    "tenantId": "nepal.lumbini.rukume.puthauttarganga",
+    "code": "NP_P5_RUKU_PUUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_RUKU"
+  },
+  {
+    "tenantId": "nepal.lumbini.rukume.sisne",
+    "code": "NP_P5_RUKU_SISN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_RUKU"
+  },
+  {
+    "tenantId": "nepal.lumbini.rukume.dhorpatanhuntingreserve",
+    "code": "NP_P5_RUKU_DHR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_RUKU"
+  },
+  {
+    "tenantId": "nepal.lumbini.banke.baijanath",
+    "code": "NP_P5_BANK_BAIJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_BANK"
+  },
+  {
+    "tenantId": "nepal.lumbini.banke.duduwa",
+    "code": "NP_P5_BANK_DUDU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_BANK"
+  },
+  {
+    "tenantId": "nepal.lumbini.banke.janki",
+    "code": "NP_P5_BANK_JANK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_BANK"
+  },
+  {
+    "tenantId": "nepal.lumbini.banke.khajura",
+    "code": "NP_P5_BANK_KHAJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_BANK"
+  },
+  {
+    "tenantId": "nepal.lumbini.banke.kohalpur",
+    "code": "NP_P5_BANK_KOHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_BANK"
+  },
+  {
+    "tenantId": "nepal.lumbini.banke.narainapur",
+    "code": "NP_P5_BANK_NARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_BANK"
+  },
+  {
+    "tenantId": "nepal.lumbini.banke.nepalgunj",
+    "code": "NP_P5_BANK_NEPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_BANK"
+  },
+  {
+    "tenantId": "nepal.lumbini.banke.raptisonari",
+    "code": "NP_P5_BANK_RASO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_BANK"
+  },
+  {
+    "tenantId": "nepal.lumbini.bardiya.badhaiyatal",
+    "code": "NP_P5_BARD_BADH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_BARD"
+  },
+  {
+    "tenantId": "nepal.lumbini.bardiya.bansagadhi",
+    "code": "NP_P5_BARD_BANS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_BARD"
+  },
+  {
+    "tenantId": "nepal.lumbini.bardiya.barbardiya",
+    "code": "NP_P5_BARD_BARB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_BARD"
+  },
+  {
+    "tenantId": "nepal.lumbini.bardiya.geruwa",
+    "code": "NP_P5_BARD_GERU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_BARD"
+  },
+  {
+    "tenantId": "nepal.lumbini.bardiya.gulariya",
+    "code": "NP_P5_BARD_GULA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_BARD"
+  },
+  {
+    "tenantId": "nepal.lumbini.bardiya.madhuwan",
+    "code": "NP_P5_BARD_MADH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_BARD"
+  },
+  {
+    "tenantId": "nepal.lumbini.bardiya.rajapur",
+    "code": "NP_P5_BARD_RAJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_BARD"
+  },
+  {
+    "tenantId": "nepal.lumbini.bardiya.thakurbaba",
+    "code": "NP_P5_BARD_THAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_BARD"
+  },
+  {
+    "tenantId": "nepal.lumbini.bardiya.bardiyanationalpark",
+    "code": "NP_P5_BARD_BNP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NP_P5_BARD"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "stateofpalestine",
+    "code": "PS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Country",
+    "parent": null
+  },
+  {
+    "tenantId": "stateofpalestine.westbank",
+    "code": "PS_WBK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PS"
+  },
+  {
+    "tenantId": "stateofpalestine.gaza",
+    "code": "PS_GZZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PS"
+  }
+]

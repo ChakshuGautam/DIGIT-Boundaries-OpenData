@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "chad.borkou",
+    "code": "TD_BO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "TD"
+  },
+  {
+    "tenantId": "chad.borkou.borkou",
+    "code": "TD_BO_BORK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_BO"
+  },
+  {
+    "tenantId": "chad.borkou.borkouyala",
+    "code": "TD_BO_BOYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "TD_BO"
+  }
+]

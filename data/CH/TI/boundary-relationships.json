@@ -1,0 +1,884 @@
+[
+  {
+    "tenantId": "switzerland.ticino",
+    "code": "CH_TI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CH"
+  },
+  {
+    "tenantId": "switzerland.ticino.bellinzona",
+    "code": "CH_TI_BELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_TI"
+  },
+  {
+    "tenantId": "switzerland.ticino.blenio",
+    "code": "CH_TI_BLEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_TI"
+  },
+  {
+    "tenantId": "switzerland.ticino.leventina",
+    "code": "CH_TI_LEVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_TI"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno",
+    "code": "CH_TI_LOCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_TI"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano",
+    "code": "CH_TI_LUGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_TI"
+  },
+  {
+    "tenantId": "switzerland.ticino.mendrisio",
+    "code": "CH_TI_MEND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_TI"
+  },
+  {
+    "tenantId": "switzerland.ticino.riviera",
+    "code": "CH_TI_RIVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_TI"
+  },
+  {
+    "tenantId": "switzerland.ticino.vallemaggia",
+    "code": "CH_TI_VALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CH_TI"
+  },
+  {
+    "tenantId": "switzerland.ticino.bellinzona.bellinzona",
+    "code": "CH_TI_BELL_BELL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_BELL"
+  },
+  {
+    "tenantId": "switzerland.ticino.bellinzona.arbedocastione",
+    "code": "CH_TI_BELL_ARBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_BELL"
+  },
+  {
+    "tenantId": "switzerland.ticino.bellinzona.lumino",
+    "code": "CH_TI_BELL_LUMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_BELL"
+  },
+  {
+    "tenantId": "switzerland.ticino.bellinzona.cadenazzo",
+    "code": "CH_TI_BELL_CADE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_BELL"
+  },
+  {
+    "tenantId": "switzerland.ticino.bellinzona.santantonino",
+    "code": "CH_TI_BELL_SANT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_BELL"
+  },
+  {
+    "tenantId": "switzerland.ticino.bellinzona.pontecapriasca",
+    "code": "CH_TI_BELL_POCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_BELL"
+  },
+  {
+    "tenantId": "switzerland.ticino.bellinzona.comunanzacadenazzomonteceneri",
+    "code": "CH_TI_BELL_COCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_BELL"
+  },
+  {
+    "tenantId": "switzerland.ticino.blenio.blenio",
+    "code": "CH_TI_BLEN_BLEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_BLEN"
+  },
+  {
+    "tenantId": "switzerland.ticino.blenio.serravalle",
+    "code": "CH_TI_BLEN_SERR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_BLEN"
+  },
+  {
+    "tenantId": "switzerland.ticino.blenio.acquarossa",
+    "code": "CH_TI_BLEN_ACQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_BLEN"
+  },
+  {
+    "tenantId": "switzerland.ticino.leventina.faido",
+    "code": "CH_TI_LEVE_FAID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LEVE"
+  },
+  {
+    "tenantId": "switzerland.ticino.leventina.airolo",
+    "code": "CH_TI_LEVE_AIRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LEVE"
+  },
+  {
+    "tenantId": "switzerland.ticino.leventina.quinto",
+    "code": "CH_TI_LEVE_QUIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LEVE"
+  },
+  {
+    "tenantId": "switzerland.ticino.leventina.bedretto",
+    "code": "CH_TI_LEVE_BEDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LEVE"
+  },
+  {
+    "tenantId": "switzerland.ticino.leventina.personico",
+    "code": "CH_TI_LEVE_PERS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LEVE"
+  },
+  {
+    "tenantId": "switzerland.ticino.leventina.giornico",
+    "code": "CH_TI_LEVE_GIOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LEVE"
+  },
+  {
+    "tenantId": "switzerland.ticino.leventina.pratoleventina",
+    "code": "CH_TI_LEVE_PRL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LEVE"
+  },
+  {
+    "tenantId": "switzerland.ticino.leventina.dalpe",
+    "code": "CH_TI_LEVE_DALP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LEVE"
+  },
+  {
+    "tenantId": "switzerland.ticino.leventina.bodio",
+    "code": "CH_TI_LEVE_BODI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LEVE"
+  },
+  {
+    "tenantId": "switzerland.ticino.leventina.pollegio",
+    "code": "CH_TI_LEVE_POLL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LEVE"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno.verzasca",
+    "code": "CH_TI_LOCA_VERZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LOCA"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno.onsernone",
+    "code": "CH_TI_LOCA_ONSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LOCA"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno.gambarogno",
+    "code": "CH_TI_LOCA_GAMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LOCA"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno.centovalli",
+    "code": "CH_TI_LOCA_CENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LOCA"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno.brissago",
+    "code": "CH_TI_LOCA_BRIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LOCA"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno.cugnascogerra",
+    "code": "CH_TI_LOCA_CUGN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LOCA"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno.locarno",
+    "code": "CH_TI_LOCA_LOCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LOCA"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno.mergoscia",
+    "code": "CH_TI_LOCA_MERG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LOCA"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno.ascona",
+    "code": "CH_TI_LOCA_ASCO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LOCA"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno.terredipedemonte",
+    "code": "CH_TI_LOCA_TDP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LOCA"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno.locarno",
+    "code": "CH_TI_LOCA_LOCA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LOCA"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno.losone",
+    "code": "CH_TI_LOCA_LOSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LOCA"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno.roncosopraascona",
+    "code": "CH_TI_LOCA_RSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LOCA"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno.minusio",
+    "code": "CH_TI_LOCA_MINU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LOCA"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno.gordola",
+    "code": "CH_TI_LOCA_GORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LOCA"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno.tenerocontra",
+    "code": "CH_TI_LOCA_TENE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LOCA"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno.brionesopraminusio",
+    "code": "CH_TI_LOCA_BSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LOCA"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno.orselina",
+    "code": "CH_TI_LOCA_ORSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LOCA"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno.lavertezzo",
+    "code": "CH_TI_LOCA_LAVE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LOCA"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno.muralto",
+    "code": "CH_TI_LOCA_MURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LOCA"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno.brissago",
+    "code": "CH_TI_LOCA_BRIS2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LOCA"
+  },
+  {
+    "tenantId": "switzerland.ticino.locarno.tenerocontra",
+    "code": "CH_TI_LOCA_TENE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LOCA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.lugano",
+    "code": "CH_TI_LUGA_LUGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.capriasca",
+    "code": "CH_TI_LUGA_CAPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.monteceneri",
+    "code": "CH_TI_LUGA_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.altomalcantone",
+    "code": "CH_TI_LUGA_ALMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.isone",
+    "code": "CH_TI_LUGA_ISON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.tresa",
+    "code": "CH_TI_LUGA_TRES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.mezzovicovira",
+    "code": "CH_TI_LUGA_MEZZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.arogno",
+    "code": "CH_TI_LUGA_AROG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.collinadoro",
+    "code": "CH_TI_LUGA_COD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.bioggio",
+    "code": "CH_TI_LUGA_BIOG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.brusinoarsizio",
+    "code": "CH_TI_LUGA_BRAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.valmara",
+    "code": "CH_TI_LUGA_VAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.morcote",
+    "code": "CH_TI_LUGA_MORC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.torricellataverne",
+    "code": "CH_TI_LUGA_TORR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.melide",
+    "code": "CH_TI_LUGA_MELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.miglieglia",
+    "code": "CH_TI_LUGA_MIGL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.caslano",
+    "code": "CH_TI_LUGA_CASL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.novaggio",
+    "code": "CH_TI_LUGA_NOVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.cademario",
+    "code": "CH_TI_LUGA_CADE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.astano",
+    "code": "CH_TI_LUGA_ASTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.bissone",
+    "code": "CH_TI_LUGA_BISS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.pura",
+    "code": "CH_TI_LUGA_PURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.agno",
+    "code": "CH_TI_LUGA_AGNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.campioneditalia",
+    "code": "CH_TI_LUGA_CAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.aranno",
+    "code": "CH_TI_LUGA_ARAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.bedigliora",
+    "code": "CH_TI_LUGA_BEDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.vicomorcote",
+    "code": "CH_TI_LUGA_VIMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.manno",
+    "code": "CH_TI_LUGA_MANN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.paradiso",
+    "code": "CH_TI_LUGA_PARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.curio",
+    "code": "CH_TI_LUGA_CURI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.origlio",
+    "code": "CH_TI_LUGA_ORIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.comano",
+    "code": "CH_TI_LUGA_COMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.bedano",
+    "code": "CH_TI_LUGA_BEDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.lamone",
+    "code": "CH_TI_LUGA_LAMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.pontecapriasca",
+    "code": "CH_TI_LUGA_POCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.magliaso",
+    "code": "CH_TI_LUGA_MAGL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.muzzano",
+    "code": "CH_TI_LUGA_MUZZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.porza",
+    "code": "CH_TI_LUGA_PORZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.vernate",
+    "code": "CH_TI_LUGA_VERN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.vezia",
+    "code": "CH_TI_LUGA_VEZI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.canobbio",
+    "code": "CH_TI_LUGA_CANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.cureglia",
+    "code": "CH_TI_LUGA_CURE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.mezzovicovira",
+    "code": "CH_TI_LUGA_MEZZ2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.neggio",
+    "code": "CH_TI_LUGA_NEGG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.sorengo",
+    "code": "CH_TI_LUGA_SORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.cadempino",
+    "code": "CH_TI_LUGA_CADE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.savosa",
+    "code": "CH_TI_LUGA_SAVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.massagno",
+    "code": "CH_TI_LUGA_MASS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.gravesano",
+    "code": "CH_TI_LUGA_GRAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.grancia",
+    "code": "CH_TI_LUGA_GRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.curio",
+    "code": "CH_TI_LUGA_CURI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.bedigliora",
+    "code": "CH_TI_LUGA_BEDI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.comunanzacapriascalugano",
+    "code": "CH_TI_LUGA_COCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.lugano.capriasca",
+    "code": "CH_TI_LUGA_CAPR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_LUGA"
+  },
+  {
+    "tenantId": "switzerland.ticino.mendrisio.mendrisio",
+    "code": "CH_TI_MEND_MEND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_MEND"
+  },
+  {
+    "tenantId": "switzerland.ticino.mendrisio.breggia",
+    "code": "CH_TI_MEND_BREG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_MEND"
+  },
+  {
+    "tenantId": "switzerland.ticino.mendrisio.castelsanpietro",
+    "code": "CH_TI_MEND_CSP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_MEND"
+  },
+  {
+    "tenantId": "switzerland.ticino.mendrisio.rivasanvitale",
+    "code": "CH_TI_MEND_RSV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_MEND"
+  },
+  {
+    "tenantId": "switzerland.ticino.mendrisio.chiasso",
+    "code": "CH_TI_MEND_CHIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_MEND"
+  },
+  {
+    "tenantId": "switzerland.ticino.mendrisio.novazzano",
+    "code": "CH_TI_MEND_NOVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_MEND"
+  },
+  {
+    "tenantId": "switzerland.ticino.mendrisio.balerna",
+    "code": "CH_TI_MEND_BALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_MEND"
+  },
+  {
+    "tenantId": "switzerland.ticino.mendrisio.coldrerio",
+    "code": "CH_TI_MEND_COLD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_MEND"
+  },
+  {
+    "tenantId": "switzerland.ticino.mendrisio.morbioinferiore",
+    "code": "CH_TI_MEND_MOIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_MEND"
+  },
+  {
+    "tenantId": "switzerland.ticino.mendrisio.stabio",
+    "code": "CH_TI_MEND_STAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_MEND"
+  },
+  {
+    "tenantId": "switzerland.ticino.mendrisio.vacallo",
+    "code": "CH_TI_MEND_VACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_MEND"
+  },
+  {
+    "tenantId": "switzerland.ticino.riviera.riviera",
+    "code": "CH_TI_RIVI_RIVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_RIVI"
+  },
+  {
+    "tenantId": "switzerland.ticino.riviera.biasca",
+    "code": "CH_TI_RIVI_BIAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_RIVI"
+  },
+  {
+    "tenantId": "switzerland.ticino.vallemaggia.lavizzara",
+    "code": "CH_TI_VALL_LAVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_VALL"
+  },
+  {
+    "tenantId": "switzerland.ticino.vallemaggia.cevio",
+    "code": "CH_TI_VALL_CEVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_VALL"
+  },
+  {
+    "tenantId": "switzerland.ticino.vallemaggia.maggia",
+    "code": "CH_TI_VALL_MAGG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_VALL"
+  },
+  {
+    "tenantId": "switzerland.ticino.vallemaggia.campovallemaggia",
+    "code": "CH_TI_VALL_CAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_VALL"
+  },
+  {
+    "tenantId": "switzerland.ticino.vallemaggia.avegnogordevio",
+    "code": "CH_TI_VALL_AVGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_VALL"
+  },
+  {
+    "tenantId": "switzerland.ticino.vallemaggia.boscogurin",
+    "code": "CH_TI_VALL_BOSC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_VALL"
+  },
+  {
+    "tenantId": "switzerland.ticino.vallemaggia.cerentino",
+    "code": "CH_TI_VALL_CERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_VALL"
+  },
+  {
+    "tenantId": "switzerland.ticino.vallemaggia.linescio",
+    "code": "CH_TI_VALL_LINE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CH_TI_VALL"
+  }
+]

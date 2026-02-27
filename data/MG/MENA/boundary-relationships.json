@@ -1,0 +1,401 @@
+[
+  {
+    "tenantId": "madagascar.menabe",
+    "code": "MG_MENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MG"
+  },
+  {
+    "tenantId": "madagascar.menabe.manja",
+    "code": "MG_MENA_MANJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_MENA"
+  },
+  {
+    "tenantId": "madagascar.menabe.morondava",
+    "code": "MG_MENA_MORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_MENA"
+  },
+  {
+    "tenantId": "madagascar.menabe.mahabo",
+    "code": "MG_MENA_MAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_MENA"
+  },
+  {
+    "tenantId": "madagascar.menabe.belosurtsiribihina",
+    "code": "MG_MENA_BST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_MENA"
+  },
+  {
+    "tenantId": "madagascar.menabe.miandrivazo",
+    "code": "MG_MENA_MIAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_MENA"
+  },
+  {
+    "tenantId": "madagascar.menabe.manja.manja",
+    "code": "MG_MENA_MANJ_MANJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MANJ"
+  },
+  {
+    "tenantId": "madagascar.menabe.manja.beharona",
+    "code": "MG_MENA_MANJ_BEHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MANJ"
+  },
+  {
+    "tenantId": "madagascar.menabe.manja.anontsibecentre",
+    "code": "MG_MENA_MANJ_ANCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MANJ"
+  },
+  {
+    "tenantId": "madagascar.menabe.manja.soaserana",
+    "code": "MG_MENA_MANJ_SOAS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MANJ"
+  },
+  {
+    "tenantId": "madagascar.menabe.manja.ankiliabo",
+    "code": "MG_MENA_MANJ_ANKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MANJ"
+  },
+  {
+    "tenantId": "madagascar.menabe.manja.andranopasy",
+    "code": "MG_MENA_MANJ_ANDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MANJ"
+  },
+  {
+    "tenantId": "madagascar.menabe.morondava.morondava",
+    "code": "MG_MENA_MORO_MORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MORO"
+  },
+  {
+    "tenantId": "madagascar.menabe.morondava.bemanonga",
+    "code": "MG_MENA_MORO_BEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MORO"
+  },
+  {
+    "tenantId": "madagascar.menabe.morondava.analaiva",
+    "code": "MG_MENA_MORO_ANAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MORO"
+  },
+  {
+    "tenantId": "madagascar.menabe.morondava.befasy",
+    "code": "MG_MENA_MORO_BEFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MORO"
+  },
+  {
+    "tenantId": "madagascar.menabe.morondava.belosurmer",
+    "code": "MG_MENA_MORO_BSM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MORO"
+  },
+  {
+    "tenantId": "madagascar.menabe.mahabo.mahabo",
+    "code": "MG_MENA_MAHA_MAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MAHA"
+  },
+  {
+    "tenantId": "madagascar.menabe.mahabo.ankilivalo",
+    "code": "MG_MENA_MAHA_ANKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MAHA"
+  },
+  {
+    "tenantId": "madagascar.menabe.mahabo.analamitsivalana",
+    "code": "MG_MENA_MAHA_ANAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MAHA"
+  },
+  {
+    "tenantId": "madagascar.menabe.mahabo.befotaka",
+    "code": "MG_MENA_MAHA_BEFO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MAHA"
+  },
+  {
+    "tenantId": "madagascar.menabe.mahabo.ampanihy",
+    "code": "MG_MENA_MAHA_AMPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MAHA"
+  },
+  {
+    "tenantId": "madagascar.menabe.mahabo.ankilizato",
+    "code": "MG_MENA_MAHA_ANKI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MAHA"
+  },
+  {
+    "tenantId": "madagascar.menabe.mahabo.ambia",
+    "code": "MG_MENA_MAHA_AMBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MAHA"
+  },
+  {
+    "tenantId": "madagascar.menabe.mahabo.mandabe",
+    "code": "MG_MENA_MAHA_MAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MAHA"
+  },
+  {
+    "tenantId": "madagascar.menabe.mahabo.malaimbandy",
+    "code": "MG_MENA_MAHA_MALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MAHA"
+  },
+  {
+    "tenantId": "madagascar.menabe.mahabo.beronono",
+    "code": "MG_MENA_MAHA_BERO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MAHA"
+  },
+  {
+    "tenantId": "madagascar.menabe.mahabo.mazavasoa",
+    "code": "MG_MENA_MAHA_MAZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MAHA"
+  },
+  {
+    "tenantId": "madagascar.menabe.belosurtsiribihina.belosurtsiribihina",
+    "code": "MG_MENA_BST_BST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_BST"
+  },
+  {
+    "tenantId": "madagascar.menabe.belosurtsiribihina.andimakymanambolo",
+    "code": "MG_MENA_BST_ANMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_BST"
+  },
+  {
+    "tenantId": "madagascar.menabe.belosurtsiribihina.bemarivoankirondro",
+    "code": "MG_MENA_BST_BEAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_BST"
+  },
+  {
+    "tenantId": "madagascar.menabe.belosurtsiribihina.tsimafana",
+    "code": "MG_MENA_BST_TSIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_BST"
+  },
+  {
+    "tenantId": "madagascar.menabe.belosurtsiribihina.berobokanord",
+    "code": "MG_MENA_BST_BENO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_BST"
+  },
+  {
+    "tenantId": "madagascar.menabe.belosurtsiribihina.tsaraotana",
+    "code": "MG_MENA_BST_TSAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_BST"
+  },
+  {
+    "tenantId": "madagascar.menabe.belosurtsiribihina.masoarivo",
+    "code": "MG_MENA_BST_MASO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_BST"
+  },
+  {
+    "tenantId": "madagascar.menabe.belosurtsiribihina.aboalimena",
+    "code": "MG_MENA_BST_ABOA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_BST"
+  },
+  {
+    "tenantId": "madagascar.menabe.belosurtsiribihina.ankalalobe",
+    "code": "MG_MENA_BST_ANKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_BST"
+  },
+  {
+    "tenantId": "madagascar.menabe.belosurtsiribihina.ambiky",
+    "code": "MG_MENA_BST_AMBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_BST"
+  },
+  {
+    "tenantId": "madagascar.menabe.belosurtsiribihina.berevo",
+    "code": "MG_MENA_BST_BERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_BST"
+  },
+  {
+    "tenantId": "madagascar.menabe.belosurtsiribihina.antsoha",
+    "code": "MG_MENA_BST_ANTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_BST"
+  },
+  {
+    "tenantId": "madagascar.menabe.belosurtsiribihina.belinta",
+    "code": "MG_MENA_BST_BELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_BST"
+  },
+  {
+    "tenantId": "madagascar.menabe.belosurtsiribihina.ankiroroky",
+    "code": "MG_MENA_BST_ANKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_BST"
+  },
+  {
+    "tenantId": "madagascar.menabe.miandrivazo.miandrivazo",
+    "code": "MG_MENA_MIAN_MIAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MIAN"
+  },
+  {
+    "tenantId": "madagascar.menabe.miandrivazo.dabolava",
+    "code": "MG_MENA_MIAN_DABO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MIAN"
+  },
+  {
+    "tenantId": "madagascar.menabe.miandrivazo.bemahatazana",
+    "code": "MG_MENA_MIAN_BEMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MIAN"
+  },
+  {
+    "tenantId": "madagascar.menabe.miandrivazo.ampanihy",
+    "code": "MG_MENA_MIAN_AMPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MIAN"
+  },
+  {
+    "tenantId": "madagascar.menabe.miandrivazo.anosimena",
+    "code": "MG_MENA_MIAN_ANOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MIAN"
+  },
+  {
+    "tenantId": "madagascar.menabe.miandrivazo.manandaza",
+    "code": "MG_MENA_MIAN_MANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MIAN"
+  },
+  {
+    "tenantId": "madagascar.menabe.miandrivazo.ankotrofotsy",
+    "code": "MG_MENA_MIAN_ANKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MIAN"
+  },
+  {
+    "tenantId": "madagascar.menabe.miandrivazo.isalo",
+    "code": "MG_MENA_MIAN_ISAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MIAN"
+  },
+  {
+    "tenantId": "madagascar.menabe.miandrivazo.ambatolahy",
+    "code": "MG_MENA_MIAN_AMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MIAN"
+  },
+  {
+    "tenantId": "madagascar.menabe.miandrivazo.manambina",
+    "code": "MG_MENA_MIAN_MANA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MIAN"
+  },
+  {
+    "tenantId": "madagascar.menabe.miandrivazo.itondy",
+    "code": "MG_MENA_MIAN_ITON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MIAN"
+  },
+  {
+    "tenantId": "madagascar.menabe.miandrivazo.ankavandra",
+    "code": "MG_MENA_MIAN_ANKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MIAN"
+  },
+  {
+    "tenantId": "madagascar.menabe.miandrivazo.soaloka",
+    "code": "MG_MENA_MIAN_SOAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MIAN"
+  },
+  {
+    "tenantId": "madagascar.menabe.miandrivazo.betsipolitra",
+    "code": "MG_MENA_MIAN_BETS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MIAN"
+  },
+  {
+    "tenantId": "madagascar.menabe.miandrivazo.ankondromena",
+    "code": "MG_MENA_MIAN_ANKO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_MENA_MIAN"
+  }
+]

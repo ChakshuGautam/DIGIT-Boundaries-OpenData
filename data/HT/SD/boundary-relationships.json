@@ -1,0 +1,170 @@
+[
+  {
+    "tenantId": "haiti.suddepartment",
+    "code": "HT_SD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "HT"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementdaquin",
+    "code": "HT_SD_ARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_SD"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementdeschardonnires",
+    "code": "HT_SD_ADC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_SD"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementdescteaux",
+    "code": "HT_SD_ADC2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_SD"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementportsalut",
+    "code": "HT_SD_ARPO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_SD"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementdescayes",
+    "code": "HT_SD_ADC3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "HT_SD"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementdaquin.aquin",
+    "code": "HT_SD_ARD_AQUI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SD_ARD"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementdaquin.cavaillon",
+    "code": "HT_SD_ARD_CAVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SD_ARD"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementdeschardonnires.chardonnieres",
+    "code": "HT_SD_ADC_CHAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SD_ADC"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementdeschardonnires.lesanglais",
+    "code": "HT_SD_ADC_LEAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SD_ADC"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementdeschardonnires.tiburon",
+    "code": "HT_SD_ADC_TIBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SD_ADC"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementdescteaux.coteaux",
+    "code": "HT_SD_ADC2_COTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SD_ADC2"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementdescteaux.portapiment",
+    "code": "HT_SD_ADC2_PAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SD_ADC2"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementdescteaux.rocheabateaux",
+    "code": "HT_SD_ADC2_RAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SD_ADC2"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementportsalut.portsalut",
+    "code": "HT_SD_ARPO_POSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SD_ARPO"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementportsalut.saintjeandusud",
+    "code": "HT_SD_ARPO_SDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SD_ARPO"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementportsalut.arniquet",
+    "code": "HT_SD_ARPO_ARNI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SD_ARPO"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementdescayes.lescayes",
+    "code": "HT_SD_ADC3_LECA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SD_ADC3"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementdescayes.torbeck",
+    "code": "HT_SD_ADC3_TORB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SD_ADC3"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementdescayes.chantal",
+    "code": "HT_SD_ADC3_CHAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SD_ADC3"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementdescayes.campperrin",
+    "code": "HT_SD_ADC3_CAPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SD_ADC3"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementdescayes.maniche",
+    "code": "HT_SD_ADC3_MANI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SD_ADC3"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementdescayes.ileavache",
+    "code": "HT_SD_ADC3_IAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SD_ADC3"
+  },
+  {
+    "tenantId": "haiti.suddepartment.arrondissementdescayes.saintlouisdusud",
+    "code": "HT_SD_ADC3_SDS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "HT_SD_ADC3"
+  }
+]

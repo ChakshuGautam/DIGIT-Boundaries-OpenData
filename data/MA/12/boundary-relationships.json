@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "morocco.dakhlaouededdahab",
+    "code": "MA_12",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MA"
+  },
+  {
+    "tenantId": "morocco.dakhlaouededdahab.provincedaousserd",
+    "code": "MA_12_PD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MA_12"
+  },
+  {
+    "tenantId": "morocco.dakhlaouededdahab.ouededdahabprovince",
+    "code": "MA_12_OEP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MA_12"
+  }
+]

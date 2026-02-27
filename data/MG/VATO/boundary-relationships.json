@@ -1,0 +1,884 @@
+[
+  {
+    "tenantId": "madagascar.vatovavyfitovinany",
+    "code": "MG_VATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "MG"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ifanadiana",
+    "code": "MG_VATO_IFAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_VATO"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.nosyvarika",
+    "code": "MG_VATO_NOSY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_VATO"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary",
+    "code": "MG_VATO_MANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_VATO"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo",
+    "code": "MG_VATO_MAAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_VATO"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ikongo",
+    "code": "MG_VATO_IKON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "MG_VATO"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ifanadiana.ifanadiana",
+    "code": "MG_VATO_IFAN_IFAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IFAN"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ifanadiana.antaretra",
+    "code": "MG_VATO_IFAN_ANTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IFAN"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ifanadiana.tsaratanana",
+    "code": "MG_VATO_IFAN_TSAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IFAN"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ifanadiana.ranomafana",
+    "code": "MG_VATO_IFAN_RANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IFAN"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ifanadiana.kelilalina",
+    "code": "MG_VATO_IFAN_KELI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IFAN"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ifanadiana.androrangavola",
+    "code": "MG_VATO_IFAN_ANDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IFAN"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ifanadiana.marotoko",
+    "code": "MG_VATO_IFAN_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IFAN"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ifanadiana.ambohimiera",
+    "code": "MG_VATO_IFAN_AMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IFAN"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ifanadiana.antsindra",
+    "code": "MG_VATO_IFAN_ANTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IFAN"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ifanadiana.ambohimangadusud",
+    "code": "MG_VATO_IFAN_ADS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IFAN"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ifanadiana.analampasina",
+    "code": "MG_VATO_IFAN_ANAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IFAN"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ifanadiana.fasintsara",
+    "code": "MG_VATO_IFAN_FASI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IFAN"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ifanadiana.maroharatra",
+    "code": "MG_VATO_IFAN_MARO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IFAN"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.nosyvarika.nosyvarika",
+    "code": "MG_VATO_NOSY_NOVA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_NOSY"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.nosyvarika.ambahy",
+    "code": "MG_VATO_NOSY_AMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_NOSY"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.nosyvarika.andara",
+    "code": "MG_VATO_NOSY_ANDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_NOSY"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.nosyvarika.fiadanana",
+    "code": "MG_VATO_NOSY_FIAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_NOSY"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.nosyvarika.ambodirianisahafary",
+    "code": "MG_VATO_NOSY_AMSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_NOSY"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.nosyvarika.sahavato",
+    "code": "MG_VATO_NOSY_SAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_NOSY"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.nosyvarika.vohilava",
+    "code": "MG_VATO_NOSY_VOHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_NOSY"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.nosyvarika.vohitrandriana",
+    "code": "MG_VATO_NOSY_VOHI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_NOSY"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.nosyvarika.vohidroa",
+    "code": "MG_VATO_NOSY_VOHI3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_NOSY"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.nosyvarika.ambakobe",
+    "code": "MG_VATO_NOSY_AMBA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_NOSY"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.nosyvarika.soavina",
+    "code": "MG_VATO_NOSY_SOAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_NOSY"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.nosyvarika.ambodilafa",
+    "code": "MG_VATO_NOSY_AMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_NOSY"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.nosyvarika.androrangavola",
+    "code": "MG_VATO_NOSY_ANDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_NOSY"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.nosyvarika.ampasinambo",
+    "code": "MG_VATO_NOSY_AMPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_NOSY"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.nosyvarika.antanambao",
+    "code": "MG_VATO_NOSY_ANTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_NOSY"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.nosyvarika.angodongodona",
+    "code": "MG_VATO_NOSY_ANGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_NOSY"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.nosyvarika.befody",
+    "code": "MG_VATO_NOSY_BEFO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_NOSY"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.nosyvarika.ambodiara",
+    "code": "MG_VATO_NOSY_AMBO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_NOSY"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.mananjary",
+    "code": "MG_VATO_MANA_MANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.tsaravary",
+    "code": "MG_VATO_MANA_TSAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.ankatafana",
+    "code": "MG_VATO_MANA_ANKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.mahatsarasud",
+    "code": "MG_VATO_MANA_MASU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.tsiatosika",
+    "code": "MG_VATO_MANA_TSIA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.mahatsaraiefaka",
+    "code": "MG_VATO_MANA_MAIE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.marokarima",
+    "code": "MG_VATO_MANA_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.morafeno",
+    "code": "MG_VATO_MANA_MORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.antsenavolo",
+    "code": "MG_VATO_MANA_ANTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.marosangy",
+    "code": "MG_VATO_MANA_MARO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.ambohimiarinaii",
+    "code": "MG_VATO_MANA_AMII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.andranambolava",
+    "code": "MG_VATO_MANA_ANDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.vohilava",
+    "code": "MG_VATO_MANA_VOHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.mahela",
+    "code": "MG_VATO_MANA_MAHE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.ambohitsaraest",
+    "code": "MG_VATO_MANA_AMES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.mahavokynord",
+    "code": "MG_VATO_MANA_MANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.andonabe",
+    "code": "MG_VATO_MANA_ANDO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.ambohinihaonana",
+    "code": "MG_VATO_MANA_AMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.marofototra",
+    "code": "MG_VATO_MANA_MARO3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.andranomavo",
+    "code": "MG_VATO_MANA_ANDR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.vatohandrina",
+    "code": "MG_VATO_MANA_VATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.ambalahosynord",
+    "code": "MG_VATO_MANA_AMNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.ambodinonoka",
+    "code": "MG_VATO_MANA_AMBO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.antaretra",
+    "code": "MG_VATO_MANA_ANTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.kianjavato",
+    "code": "MG_VATO_MANA_KIAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.sandrohy",
+    "code": "MG_VATO_MANA_SAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.anosimparihy",
+    "code": "MG_VATO_MANA_ANOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.manakananord",
+    "code": "MG_VATO_MANA_MANO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.mananjary.namorona",
+    "code": "MG_VATO_MANA_NAMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MANA"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.manakara",
+    "code": "MG_VATO_MAAT_MANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.tataho",
+    "code": "MG_VATO_MAAT_TATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.mangatsiotra",
+    "code": "MG_VATO_MAAT_MANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.marofarihy",
+    "code": "MG_VATO_MAAT_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.anosiala",
+    "code": "MG_VATO_MAAT_ANOS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.ambila",
+    "code": "MG_VATO_MAAT_AMBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.sorombo",
+    "code": "MG_VATO_MAAT_SORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.mizilogara",
+    "code": "MG_VATO_MAAT_MIGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.ambohitsaram",
+    "code": "MG_VATO_MAAT_AMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.sahasinaka",
+    "code": "MG_VATO_MAAT_SAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.sahanambohitra",
+    "code": "MG_VATO_MAAT_SAHA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.ambahatrazo",
+    "code": "MG_VATO_MAAT_AMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.amboanjo",
+    "code": "MG_VATO_MAAT_AMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.anorombato",
+    "code": "MG_VATO_MAAT_ANOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.vohimasy",
+    "code": "MG_VATO_MAAT_VOHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.lokomby",
+    "code": "MG_VATO_MAAT_LOKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.vatana",
+    "code": "MG_VATO_MAAT_VATA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.sakoana",
+    "code": "MG_VATO_MAAT_SAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.ambahive",
+    "code": "MG_VATO_MAAT_AMBA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.ambandrika",
+    "code": "MG_VATO_MAAT_AMBA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.ambalaroka",
+    "code": "MG_VATO_MAAT_AMBA4",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.vohimanitra",
+    "code": "MG_VATO_MAAT_VOHI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.mitanty",
+    "code": "MG_VATO_MAAT_MITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.analavory",
+    "code": "MG_VATO_MAAT_ANAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.bekatra",
+    "code": "MG_VATO_MAAT_BEKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.vinanitelo",
+    "code": "MG_VATO_MAAT_VINA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.ampasimanjeva",
+    "code": "MG_VATO_MAAT_AMPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.ambotaka",
+    "code": "MG_VATO_MAAT_AMBO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.nihaonana",
+    "code": "MG_VATO_MAAT_NIHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.mavorano",
+    "code": "MG_VATO_MAAT_MAVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.vohimasinanord",
+    "code": "MG_VATO_MAAT_VONO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.vohimasinasud",
+    "code": "MG_VATO_MAAT_VOSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.betampona",
+    "code": "MG_VATO_MAAT_BETA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.vohilava",
+    "code": "MG_VATO_MAAT_VOHI3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.fenomby",
+    "code": "MG_VATO_MAAT_FENO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.ambalavero",
+    "code": "MG_VATO_MAAT_AMBA5",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.amborondra",
+    "code": "MG_VATO_MAAT_AMBO3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.mahabako",
+    "code": "MG_VATO_MAAT_MAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.onilahy",
+    "code": "MG_VATO_MAAT_ONIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.mahamaibe",
+    "code": "MG_VATO_MAAT_MAHA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.kianjanomby",
+    "code": "MG_VATO_MAAT_KIAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.ampasimpotsysud",
+    "code": "MG_VATO_MAAT_AMSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.anteza",
+    "code": "MG_VATO_MAAT_ANTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.saharefo",
+    "code": "MG_VATO_MAAT_SAHA3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.manakaraatsimo.ampasimboraka",
+    "code": "MG_VATO_MAAT_AMPA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_MAAT"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ikongo.ankarimbelo",
+    "code": "MG_VATO_IKON_ANKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IKON"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ikongo.antodinga",
+    "code": "MG_VATO_IKON_ANTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IKON"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ikongo.kalafotsy",
+    "code": "MG_VATO_IKON_KALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IKON"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ikongo.ikongo",
+    "code": "MG_VATO_IKON_IKON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IKON"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ikongo.ambolomadinika",
+    "code": "MG_VATO_IKON_AMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IKON"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ikongo.ambatofotsy",
+    "code": "MG_VATO_IKON_AMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IKON"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ikongo.belemoka",
+    "code": "MG_VATO_IKON_BELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IKON"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ikongo.maromiandra",
+    "code": "MG_VATO_IKON_MARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IKON"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ikongo.manampatrana",
+    "code": "MG_VATO_IKON_MANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IKON"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ikongo.ambinanitromby",
+    "code": "MG_VATO_IKON_AMBI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IKON"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ikongo.ifanirea",
+    "code": "MG_VATO_IKON_IFAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IKON"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ikongo.tanakambana",
+    "code": "MG_VATO_IKON_TANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IKON"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ikongo.sahalanona",
+    "code": "MG_VATO_IKON_SAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IKON"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ikongo.tolongoina",
+    "code": "MG_VATO_IKON_TOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IKON"
+  },
+  {
+    "tenantId": "madagascar.vatovavyfitovinany.ikongo.ambohimisafy",
+    "code": "MG_VATO_IKON_AMBO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "MG_VATO_IKON"
+  }
+]

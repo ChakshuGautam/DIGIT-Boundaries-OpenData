@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "dominicanrepublic.peravia",
+    "code": "DO_17",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "DO"
+  },
+  {
+    "tenantId": "dominicanrepublic.peravia.ban",
+    "code": "DO_17_BAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DO_17"
+  },
+  {
+    "tenantId": "dominicanrepublic.peravia.nizao",
+    "code": "DO_17_NIZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DO_17"
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "tenantId": "newzealand.canterburyregion",
+    "code": "NZ_CAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "NZ"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.kaikouradistrict",
+    "code": "NZ_CAN_KADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_CAN"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.hurunuidistrict",
+    "code": "NZ_CAN_HUDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_CAN"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.waimakariridistrict",
+    "code": "NZ_CAN_WADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_CAN"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.christchurchcity",
+    "code": "NZ_CAN_CHCI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_CAN"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.selwyndistrict",
+    "code": "NZ_CAN_SEDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_CAN"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.ashburtondistrict",
+    "code": "NZ_CAN_ASDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_CAN"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.timarudistrict",
+    "code": "NZ_CAN_TIDI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_CAN"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.mackenziedistrict",
+    "code": "NZ_CAN_MADI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_CAN"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.waimatedistrict",
+    "code": "NZ_CAN_WADI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_CAN"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.waitakidistrict",
+    "code": "NZ_CAN_WADI3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "NZ_CAN"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.kaikouradistrict.areaoutsideward",
+    "code": "NZ_CAN_KADI_AOW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_KADI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.hurunuidistrict.hanmerspringsward",
+    "code": "NZ_CAN_HUDI_HSW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_HUDI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.hurunuidistrict.amurihurunuiward",
+    "code": "NZ_CAN_HUDI_AMWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_HUDI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.hurunuidistrict.cheviotward",
+    "code": "NZ_CAN_HUDI_CHWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_HUDI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.hurunuidistrict.glenmarkward",
+    "code": "NZ_CAN_HUDI_GLWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_HUDI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.hurunuidistrict.amberleyward",
+    "code": "NZ_CAN_HUDI_AMWA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_HUDI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.waimakariridistrict.oxfordohokaward",
+    "code": "NZ_CAN_WADI_OXWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_WADI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.waimakariridistrict.rangioraashleyward",
+    "code": "NZ_CAN_WADI_RAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_WADI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.waimakariridistrict.kaiapoiwoodendward",
+    "code": "NZ_CAN_WADI_KAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_WADI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.christchurchcity.harewoodward",
+    "code": "NZ_CAN_CHCI_HAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_CHCI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.christchurchcity.waimairiward",
+    "code": "NZ_CAN_CHCI_WAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_CHCI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.christchurchcity.papanuiward",
+    "code": "NZ_CAN_CHCI_PAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_CHCI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.christchurchcity.fendaltonward",
+    "code": "NZ_CAN_CHCI_FEWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_CHCI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.christchurchcity.innesward",
+    "code": "NZ_CAN_CHCI_INWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_CHCI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.christchurchcity.burwoodward",
+    "code": "NZ_CAN_CHCI_BUWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_CHCI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.christchurchcity.coastalward",
+    "code": "NZ_CAN_CHCI_COWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_CHCI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.christchurchcity.hornbyward",
+    "code": "NZ_CAN_CHCI_HOWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_CHCI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.christchurchcity.halswellward",
+    "code": "NZ_CAN_CHCI_HAWA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_CHCI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.christchurchcity.riccartonward",
+    "code": "NZ_CAN_CHCI_RIWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_CHCI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.christchurchcity.spreydonward",
+    "code": "NZ_CAN_CHCI_SPWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_CHCI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.christchurchcity.centralward",
+    "code": "NZ_CAN_CHCI_CEWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_CHCI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.christchurchcity.cashmereward",
+    "code": "NZ_CAN_CHCI_CAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_CHCI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.christchurchcity.linwoodward",
+    "code": "NZ_CAN_CHCI_LIWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_CHCI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.christchurchcity.heathcoteward",
+    "code": "NZ_CAN_CHCI_HEWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_CHCI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.christchurchcity.bankspeninsulaward",
+    "code": "NZ_CAN_CHCI_BPW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_CHCI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.selwyndistrict.malvernward",
+    "code": "NZ_CAN_SEDI_MAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_SEDI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.selwyndistrict.selwyncentralward",
+    "code": "NZ_CAN_SEDI_SCW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_SEDI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.selwyndistrict.ellesmereward",
+    "code": "NZ_CAN_SEDI_ELWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_SEDI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.selwyndistrict.springsward",
+    "code": "NZ_CAN_SEDI_SPWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_SEDI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.ashburtondistrict.westernward",
+    "code": "NZ_CAN_ASDI_WEWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_ASDI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.ashburtondistrict.easternward",
+    "code": "NZ_CAN_ASDI_EAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_ASDI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.ashburtondistrict.ashburtonward",
+    "code": "NZ_CAN_ASDI_ASWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_ASDI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.timarudistrict.pleasantpointtemukaward",
+    "code": "NZ_CAN_TIDI_PPW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_TIDI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.timarudistrict.timaruward",
+    "code": "NZ_CAN_TIDI_TIWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_TIDI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.mackenziedistrict.geraldineward",
+    "code": "NZ_CAN_MADI_GEWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_MADI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.mackenziedistrict.pukakiward",
+    "code": "NZ_CAN_MADI_PUWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_MADI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.mackenziedistrict.opuhaward",
+    "code": "NZ_CAN_MADI_OPWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_MADI"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.waimatedistrict.hakatarameawaihaorungaward",
+    "code": "NZ_CAN_WADI2_HAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_WADI2"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.waimatedistrict.pareoraotaiomakikihiward",
+    "code": "NZ_CAN_WADI2_PAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_WADI2"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.waimatedistrict.lowerwaihaoward",
+    "code": "NZ_CAN_WADI2_LWW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_WADI2"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.waimatedistrict.waimateward",
+    "code": "NZ_CAN_WADI2_WAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_WADI2"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.waimatedistrict.oamaruward",
+    "code": "NZ_CAN_WADI2_OAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_WADI2"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.waitakidistrict.ahuririward",
+    "code": "NZ_CAN_WADI3_AHWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_WADI3"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.waitakidistrict.waihemoward",
+    "code": "NZ_CAN_WADI3_WAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_WADI3"
+  },
+  {
+    "tenantId": "newzealand.canterburyregion.waitakidistrict.corriedaleward",
+    "code": "NZ_CAN_WADI3_COWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "NZ_CAN_WADI3"
+  }
+]

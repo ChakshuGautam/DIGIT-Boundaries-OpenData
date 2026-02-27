@@ -1,0 +1,44 @@
+[
+  {
+    "tenantId": "stateofpalestine.gaza",
+    "code": "PS_GZZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "PS"
+  },
+  {
+    "tenantId": "stateofpalestine.gaza.rafah",
+    "code": "PS_GZZ_RAFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PS_GZZ"
+  },
+  {
+    "tenantId": "stateofpalestine.gaza.northgaza",
+    "code": "PS_GZZ_NOGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PS_GZZ"
+  },
+  {
+    "tenantId": "stateofpalestine.gaza.gaza",
+    "code": "PS_GZZ_GAZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PS_GZZ"
+  },
+  {
+    "tenantId": "stateofpalestine.gaza.khanyunis",
+    "code": "PS_GZZ_KHYU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PS_GZZ"
+  },
+  {
+    "tenantId": "stateofpalestine.gaza.deiralbalah",
+    "code": "PS_GZZ_DAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "PS_GZZ"
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz",
+    "code": "BO_S",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BO"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.andrsibez",
+    "code": "BO_S_ANIB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BO_S"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.chiquitos",
+    "code": "BO_S_CHIQ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BO_S"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.cordillera",
+    "code": "BO_S_CORD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BO_S"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.florida",
+    "code": "BO_S_FLOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BO_S"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.germnbusch",
+    "code": "BO_S_GEBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BO_S"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.guarayos",
+    "code": "BO_S_GUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BO_S"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.ichilo",
+    "code": "BO_S_ICHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BO_S"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.manuelmaracaballero",
+    "code": "BO_S_MMC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BO_S"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.uflodechvez",
+    "code": "BO_S_DC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BO_S"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.obisposantistban",
+    "code": "BO_S_OBSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BO_S"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.sara",
+    "code": "BO_S_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BO_S"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.vallegrande",
+    "code": "BO_S_VALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BO_S"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.velasco",
+    "code": "BO_S_VELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BO_S"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.warnes",
+    "code": "BO_S_WARN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BO_S"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.angelsandoval",
+    "code": "BO_S_ANSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BO_S"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.andrsibez.laguardia",
+    "code": "BO_S_ANIB_LAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_ANIB"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.andrsibez.eltorno",
+    "code": "BO_S_ANIB_ELTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_ANIB"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.andrsibez.porongo",
+    "code": "BO_S_ANIB_PORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_ANIB"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.andrsibez.santacruzdelasierra",
+    "code": "BO_S_ANIB_SCDL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_ANIB"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.andrsibez.cotoca",
+    "code": "BO_S_ANIB_COTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_ANIB"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.chiquitos.pailn",
+    "code": "BO_S_CHIQ_PAIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_CHIQ"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.chiquitos.robor",
+    "code": "BO_S_CHIQ_ROBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_CHIQ"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.chiquitos.sanjos",
+    "code": "BO_S_CHIQ_SAJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_CHIQ"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.cordillera.lagunillas",
+    "code": "BO_S_CORD_LAGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_CORD"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.cordillera.boyuibe",
+    "code": "BO_S_CORD_BOYU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_CORD"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.cordillera.cuevo",
+    "code": "BO_S_CORD_CUEV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_CORD"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.cordillera.camiri",
+    "code": "BO_S_CORD_CAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_CORD"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.cordillera.gutirrez",
+    "code": "BO_S_CORD_GUTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_CORD"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.cordillera.cabezas",
+    "code": "BO_S_CORD_CABE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_CORD"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.cordillera.charagua",
+    "code": "BO_S_CORD_CHAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_CORD"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.florida.samaipata",
+    "code": "BO_S_FLOR_SAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_FLOR"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.florida.quirusillas",
+    "code": "BO_S_FLOR_QUIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_FLOR"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.florida.pampagrande",
+    "code": "BO_S_FLOR_PAGR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_FLOR"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.florida.mairana",
+    "code": "BO_S_FLOR_MAIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_FLOR"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.germnbusch.puertoquijarro",
+    "code": "BO_S_GEBU_PUQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_GEBU"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.germnbusch.puertosuarez",
+    "code": "BO_S_GEBU_PUSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_GEBU"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.germnbusch.elcarmenriverotrrez",
+    "code": "BO_S_GEBU_ECRT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_GEBU"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.guarayos.ascencindeguarayos",
+    "code": "BO_S_GUAR_ADG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_GUAR"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.guarayos.urubicha",
+    "code": "BO_S_GUAR_URUB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_GUAR"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.guarayos.elpuente",
+    "code": "BO_S_GUAR_ELPU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_GUAR"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.ichilo.sanjuan",
+    "code": "BO_S_ICHI_SAJU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_ICHI"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.ichilo.buenavista",
+    "code": "BO_S_ICHI_BUVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_ICHI"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.ichilo.sancarlos",
+    "code": "BO_S_ICHI_SACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_ICHI"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.ichilo.yapacan",
+    "code": "BO_S_ICHI_YAPA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_ICHI"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.manuelmaracaballero.saipina",
+    "code": "BO_S_MMC_SAIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_MMC"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.manuelmaracaballero.comarapa",
+    "code": "BO_S_MMC_COMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_MMC"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.uflodechvez.concepcin",
+    "code": "BO_S_DC_CONC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_DC"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.uflodechvez.cuatrocaadas",
+    "code": "BO_S_DC_CUCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_DC"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.uflodechvez.sanramn",
+    "code": "BO_S_DC_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_DC"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.uflodechvez.sanjavier",
+    "code": "BO_S_DC_SAJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_DC"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.uflodechvez.sanantoniodelomerio",
+    "code": "BO_S_DC_SADL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_DC"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.uflodechvez.sanjulin",
+    "code": "BO_S_DC_SAJU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_DC"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.obisposantistban.sanpedro",
+    "code": "BO_S_OBSA_SAPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_OBSA"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.obisposantistban.montero",
+    "code": "BO_S_OBSA_MONT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_OBSA"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.obisposantistban.generalsaavedra",
+    "code": "BO_S_OBSA_GESA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_OBSA"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.obisposantistban.fernndezalonso",
+    "code": "BO_S_OBSA_FEAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_OBSA"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.obisposantistban.mineros",
+    "code": "BO_S_OBSA_MINE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_OBSA"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.sara.santarosa",
+    "code": "BO_S_SARA_SARO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_SARA"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.sara.portachuelo",
+    "code": "BO_S_SARA_PORT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_SARA"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.sara.colpablgica",
+    "code": "BO_S_SARA_COB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_SARA"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.vallegrande.moromoro",
+    "code": "BO_S_VALL_MORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_VALL"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.vallegrande.pucar",
+    "code": "BO_S_VALL_PUCA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_VALL"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.vallegrande.vallegrande",
+    "code": "BO_S_VALL_VALL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_VALL"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.vallegrande.postrervalle",
+    "code": "BO_S_VALL_POST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_VALL"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.vallegrande.trigal",
+    "code": "BO_S_VALL_TRIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_VALL"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.velasco.sanmiguel",
+    "code": "BO_S_VELA_SAMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_VELA"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.velasco.sanrafael",
+    "code": "BO_S_VELA_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_VELA"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.velasco.sanignacio",
+    "code": "BO_S_VELA_SAIG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_VELA"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.warnes.okinawauno",
+    "code": "BO_S_WARN_OKUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_WARN"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.warnes.warnes",
+    "code": "BO_S_WARN_WARN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_WARN"
+  },
+  {
+    "tenantId": "boliviaplurinationalstateof.santacruz.angelsandoval.sanmatas",
+    "code": "BO_S_ANSA_SAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "BO_S_ANSA"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "burundi.bujumburamairie",
+    "code": "BI_BM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "BI"
+  },
+  {
+    "tenantId": "burundi.bujumburamairie.muha",
+    "code": "BI_BM_MUHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BI_BM"
+  },
+  {
+    "tenantId": "burundi.bujumburamairie.mukaza",
+    "code": "BI_BM_MUKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BI_BM"
+  },
+  {
+    "tenantId": "burundi.bujumburamairie.ntahangwa",
+    "code": "BI_BM_NTAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "BI_BM"
+  }
+]

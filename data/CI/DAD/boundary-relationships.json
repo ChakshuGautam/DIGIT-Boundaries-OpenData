@@ -1,0 +1,51 @@
+[
+  {
+    "tenantId": "ctedivoire.districtautonomedabidjan",
+    "code": "CI_DAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "CI"
+  },
+  {
+    "tenantId": "ctedivoire.districtautonomedabidjan.districtautonomedabidjan",
+    "code": "CI_DAD_DAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "CI_DAD"
+  },
+  {
+    "tenantId": "ctedivoire.districtautonomedabidjan.districtautonomedabidjan.abidjan",
+    "code": "CI_DAD_DAD_ABID",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_DAD_DAD"
+  },
+  {
+    "tenantId": "ctedivoire.districtautonomedabidjan.districtautonomedabidjan.anyama",
+    "code": "CI_DAD_DAD_ANYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_DAD_DAD"
+  },
+  {
+    "tenantId": "ctedivoire.districtautonomedabidjan.districtautonomedabidjan.bingerville",
+    "code": "CI_DAD_DAD_BING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_DAD_DAD"
+  },
+  {
+    "tenantId": "ctedivoire.districtautonomedabidjan.districtautonomedabidjan.brofodoum",
+    "code": "CI_DAD_DAD_BROF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_DAD_DAD"
+  },
+  {
+    "tenantId": "ctedivoire.districtautonomedabidjan.districtautonomedabidjan.songon",
+    "code": "CI_DAD_DAD_SONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-District",
+    "parent": "CI_DAD_DAD"
+  }
+]

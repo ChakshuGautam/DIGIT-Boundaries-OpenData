@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "dominicanrepublic.hermanas",
+    "code": "DO_19",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "State",
+    "parent": "DO"
+  },
+  {
+    "tenantId": "dominicanrepublic.hermanas.salcedo",
+    "code": "DO_19_SALC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DO_19"
+  },
+  {
+    "tenantId": "dominicanrepublic.hermanas.tenares",
+    "code": "DO_19_TENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DO_19"
+  },
+  {
+    "tenantId": "dominicanrepublic.hermanas.villatapia",
+    "code": "DO_19_VITA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "District",
+    "parent": "DO_19"
+  }
+]
