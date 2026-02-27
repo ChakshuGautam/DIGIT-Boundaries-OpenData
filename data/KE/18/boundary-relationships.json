@@ -1,0 +1,338 @@
+[
+  {
+    "tenantId": "kenya.kitui",
+    "code": "KE_18",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "KE"
+  },
+  {
+    "tenantId": "kenya.kitui.kituicentral",
+    "code": "KE_18_KICE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_18"
+  },
+  {
+    "tenantId": "kenya.kitui.kituieast",
+    "code": "KE_18_KIEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_18"
+  },
+  {
+    "tenantId": "kenya.kitui.kituirural",
+    "code": "KE_18_KIRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_18"
+  },
+  {
+    "tenantId": "kenya.kitui.kituisouth",
+    "code": "KE_18_KISO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_18"
+  },
+  {
+    "tenantId": "kenya.kitui.kituiwest",
+    "code": "KE_18_KIWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_18"
+  },
+  {
+    "tenantId": "kenya.kitui.mwingieast",
+    "code": "KE_18_MWEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_18"
+  },
+  {
+    "tenantId": "kenya.kitui.mwinginorth",
+    "code": "KE_18_MWNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_18"
+  },
+  {
+    "tenantId": "kenya.kitui.mwingiwest",
+    "code": "KE_18_MWWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_18"
+  },
+  {
+    "tenantId": "kenya.kitui.kituicentral.mulango",
+    "code": "KE_18_KICE_MULA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KICE"
+  },
+  {
+    "tenantId": "kenya.kitui.kituicentral.miambani",
+    "code": "KE_18_KICE_MIAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KICE"
+  },
+  {
+    "tenantId": "kenya.kitui.kituicentral.kyangwithyawest",
+    "code": "KE_18_KICE_KYWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KICE"
+  },
+  {
+    "tenantId": "kenya.kitui.kituicentral.township",
+    "code": "KE_18_KICE_TOWN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KICE"
+  },
+  {
+    "tenantId": "kenya.kitui.kituicentral.kyangwithyaeast",
+    "code": "KE_18_KICE_KYEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KICE"
+  },
+  {
+    "tenantId": "kenya.kitui.kituieast.nzambani",
+    "code": "KE_18_KIEA_NZAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KIEA"
+  },
+  {
+    "tenantId": "kenya.kitui.kituieast.vookyamatu",
+    "code": "KE_18_KIEA_VOO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KIEA"
+  },
+  {
+    "tenantId": "kenya.kitui.kituieast.mutitokaliku",
+    "code": "KE_18_KIEA_MUTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KIEA"
+  },
+  {
+    "tenantId": "kenya.kitui.kituieast.endaumalalani",
+    "code": "KE_18_KIEA_ENDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KIEA"
+  },
+  {
+    "tenantId": "kenya.kitui.kituieast.zombemwitika",
+    "code": "KE_18_KIEA_ZOMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KIEA"
+  },
+  {
+    "tenantId": "kenya.kitui.kituieast.chuluni",
+    "code": "KE_18_KIEA_CHUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KIEA"
+  },
+  {
+    "tenantId": "kenya.kitui.kituirural.kanyangi",
+    "code": "KE_18_KIRU_KANY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KIRU"
+  },
+  {
+    "tenantId": "kenya.kitui.kituirural.kisasi",
+    "code": "KE_18_KIRU_KISA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KIRU"
+  },
+  {
+    "tenantId": "kenya.kitui.kituirural.mbitini",
+    "code": "KE_18_KIRU_MBIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KIRU"
+  },
+  {
+    "tenantId": "kenya.kitui.kituisouth.athi",
+    "code": "KE_18_KISO_ATHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KISO"
+  },
+  {
+    "tenantId": "kenya.kitui.kituisouth.mutha",
+    "code": "KE_18_KISO_MUTH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KISO"
+  },
+  {
+    "tenantId": "kenya.kitui.kituisouth.ikangakyatune",
+    "code": "KE_18_KISO_IKAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KISO"
+  },
+  {
+    "tenantId": "kenya.kitui.kituisouth.mutomo",
+    "code": "KE_18_KISO_MUTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KISO"
+  },
+  {
+    "tenantId": "kenya.kitui.kituisouth.kanziko",
+    "code": "KE_18_KISO_KANZ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KISO"
+  },
+  {
+    "tenantId": "kenya.kitui.kituisouth.ikutha",
+    "code": "KE_18_KISO_IKUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KISO"
+  },
+  {
+    "tenantId": "kenya.kitui.kituiwest.kauwi",
+    "code": "KE_18_KIWE_KAUW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KIWE"
+  },
+  {
+    "tenantId": "kenya.kitui.kituiwest.mutonguni",
+    "code": "KE_18_KIWE_MUTO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KIWE"
+  },
+  {
+    "tenantId": "kenya.kitui.kituiwest.matinyani",
+    "code": "KE_18_KIWE_MATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KIWE"
+  },
+  {
+    "tenantId": "kenya.kitui.kituiwest.kwamutongakithumula",
+    "code": "KE_18_KIWE_KWMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_KIWE"
+  },
+  {
+    "tenantId": "kenya.kitui.mwingieast.nuu",
+    "code": "KE_18_MWEA_NUU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_MWEA"
+  },
+  {
+    "tenantId": "kenya.kitui.mwingieast.waita",
+    "code": "KE_18_MWEA_WAIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_MWEA"
+  },
+  {
+    "tenantId": "kenya.kitui.mwingieast.kivou",
+    "code": "KE_18_MWEA_KIVO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_MWEA"
+  },
+  {
+    "tenantId": "kenya.kitui.mwingieast.nguni",
+    "code": "KE_18_MWEA_NGUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_MWEA"
+  },
+  {
+    "tenantId": "kenya.kitui.mwingieast.mui",
+    "code": "KE_18_MWEA_MUI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_MWEA"
+  },
+  {
+    "tenantId": "kenya.kitui.mwinginorth.kyuso",
+    "code": "KE_18_MWNO_KYUS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_MWNO"
+  },
+  {
+    "tenantId": "kenya.kitui.mwinginorth.tharaka",
+    "code": "KE_18_MWNO_THAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_MWNO"
+  },
+  {
+    "tenantId": "kenya.kitui.mwinginorth.mumoni",
+    "code": "KE_18_MWNO_MUMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_MWNO"
+  },
+  {
+    "tenantId": "kenya.kitui.mwinginorth.tseikuru",
+    "code": "KE_18_MWNO_TSEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_MWNO"
+  },
+  {
+    "tenantId": "kenya.kitui.mwinginorth.ngomeni",
+    "code": "KE_18_MWNO_NGOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_MWNO"
+  },
+  {
+    "tenantId": "kenya.kitui.mwingiwest.kiomokyethani",
+    "code": "KE_18_MWWE_KIOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_MWWE"
+  },
+  {
+    "tenantId": "kenya.kitui.mwingiwest.central",
+    "code": "KE_18_MWWE_CENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_MWWE"
+  },
+  {
+    "tenantId": "kenya.kitui.mwingiwest.kyomethaana",
+    "code": "KE_18_MWWE_KYOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_MWWE"
+  },
+  {
+    "tenantId": "kenya.kitui.mwingiwest.nguutani",
+    "code": "KE_18_MWWE_NGUU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_MWWE"
+  },
+  {
+    "tenantId": "kenya.kitui.mwingiwest.migwani",
+    "code": "KE_18_MWWE_MIGW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_18_MWWE"
+  }
+]

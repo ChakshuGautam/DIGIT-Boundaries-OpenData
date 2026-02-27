@@ -1,0 +1,387 @@
+[
+  {
+    "tenantId": "kenya.kisii",
+    "code": "KE_16",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "KE"
+  },
+  {
+    "tenantId": "kenya.kisii.bobasi",
+    "code": "KE_16_BOBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_16"
+  },
+  {
+    "tenantId": "kenya.kisii.bomachogeborabu",
+    "code": "KE_16_BOBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_16"
+  },
+  {
+    "tenantId": "kenya.kisii.bomachogechache",
+    "code": "KE_16_BOCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_16"
+  },
+  {
+    "tenantId": "kenya.kisii.bonchari",
+    "code": "KE_16_BONC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_16"
+  },
+  {
+    "tenantId": "kenya.kisii.kitutuchachenorth",
+    "code": "KE_16_KCN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_16"
+  },
+  {
+    "tenantId": "kenya.kisii.kitutuchachesouth",
+    "code": "KE_16_KCS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_16"
+  },
+  {
+    "tenantId": "kenya.kisii.nyaribarichache",
+    "code": "KE_16_NYCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_16"
+  },
+  {
+    "tenantId": "kenya.kisii.nyaribarimasaba",
+    "code": "KE_16_NYMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_16"
+  },
+  {
+    "tenantId": "kenya.kisii.southmugirango",
+    "code": "KE_16_SOMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_16"
+  },
+  {
+    "tenantId": "kenya.kisii.bobasi.masigewest",
+    "code": "KE_16_BOBA_MAWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_BOBA"
+  },
+  {
+    "tenantId": "kenya.kisii.bobasi.bobasiboitangare",
+    "code": "KE_16_BOBA_BOBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_BOBA"
+  },
+  {
+    "tenantId": "kenya.kisii.bobasi.sametamokwerero",
+    "code": "KE_16_BOBA_SAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_BOBA"
+  },
+  {
+    "tenantId": "kenya.kisii.bobasi.masigeeast",
+    "code": "KE_16_BOBA_MAEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_BOBA"
+  },
+  {
+    "tenantId": "kenya.kisii.bobasi.bobasibogetaorio",
+    "code": "KE_16_BOBA_BOBO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_BOBA"
+  },
+  {
+    "tenantId": "kenya.kisii.bobasi.bobasicentral",
+    "code": "KE_16_BOBA_BOCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_BOBA"
+  },
+  {
+    "tenantId": "kenya.kisii.bobasi.nyacheki",
+    "code": "KE_16_BOBA_NYAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_BOBA"
+  },
+  {
+    "tenantId": "kenya.kisii.bobasi.bobasichache",
+    "code": "KE_16_BOBA_BOCH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_BOBA"
+  },
+  {
+    "tenantId": "kenya.kisii.bomachogeborabu.bombababorabu",
+    "code": "KE_16_BOBO_BOBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_BOBO"
+  },
+  {
+    "tenantId": "kenya.kisii.bomachogeborabu.boochiborabu",
+    "code": "KE_16_BOBO_BOBO2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_BOBO"
+  },
+  {
+    "tenantId": "kenya.kisii.bomachogeborabu.bokimonge",
+    "code": "KE_16_BOBO_BOKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_BOBO"
+  },
+  {
+    "tenantId": "kenya.kisii.bomachogeborabu.magenche",
+    "code": "KE_16_BOBO_MAGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_BOBO"
+  },
+  {
+    "tenantId": "kenya.kisii.bomachogechache.majoge",
+    "code": "KE_16_BOCH_MAJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_BOCH"
+  },
+  {
+    "tenantId": "kenya.kisii.bomachogechache.bosotisengera",
+    "code": "KE_16_BOCH_BOSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_BOCH"
+  },
+  {
+    "tenantId": "kenya.kisii.bomachogechache.boochitendere",
+    "code": "KE_16_BOCH_BOOC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_BOCH"
+  },
+  {
+    "tenantId": "kenya.kisii.bonchari.bomariba",
+    "code": "KE_16_BONC_BOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_BONC"
+  },
+  {
+    "tenantId": "kenya.kisii.bonchari.riana",
+    "code": "KE_16_BONC_RIAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_BONC"
+  },
+  {
+    "tenantId": "kenya.kisii.bonchari.bogiakumu",
+    "code": "KE_16_BONC_BOGI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_BONC"
+  },
+  {
+    "tenantId": "kenya.kisii.bonchari.bomorenda",
+    "code": "KE_16_BONC_BOMO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_BONC"
+  },
+  {
+    "tenantId": "kenya.kisii.kitutuchachenorth.marani",
+    "code": "KE_16_KCN_MARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_KCN"
+  },
+  {
+    "tenantId": "kenya.kisii.kitutuchachenorth.monyerero",
+    "code": "KE_16_KCN_MONY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_KCN"
+  },
+  {
+    "tenantId": "kenya.kisii.kitutuchachenorth.kegogi",
+    "code": "KE_16_KCN_KEGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_KCN"
+  },
+  {
+    "tenantId": "kenya.kisii.kitutuchachenorth.sensi",
+    "code": "KE_16_KCN_SENS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_KCN"
+  },
+  {
+    "tenantId": "kenya.kisii.kitutuchachesouth.bogeka",
+    "code": "KE_16_KCS_BOGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_KCS"
+  },
+  {
+    "tenantId": "kenya.kisii.kitutuchachesouth.nyatieko",
+    "code": "KE_16_KCS_NYAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_KCS"
+  },
+  {
+    "tenantId": "kenya.kisii.kitutuchachesouth.nyakoe",
+    "code": "KE_16_KCS_NYAK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_KCS"
+  },
+  {
+    "tenantId": "kenya.kisii.kitutuchachesouth.bogusero",
+    "code": "KE_16_KCS_BOGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_KCS"
+  },
+  {
+    "tenantId": "kenya.kisii.nyaribarichache.ibeno",
+    "code": "KE_16_NYCH_IBEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_NYCH"
+  },
+  {
+    "tenantId": "kenya.kisii.nyaribarichache.bobaracho",
+    "code": "KE_16_NYCH_BOBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_NYCH"
+  },
+  {
+    "tenantId": "kenya.kisii.nyaribarichache.kitutucentral",
+    "code": "KE_16_NYCH_KICE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_NYCH"
+  },
+  {
+    "tenantId": "kenya.kisii.nyaribarichache.birongo",
+    "code": "KE_16_NYCH_BIRO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_NYCH"
+  },
+  {
+    "tenantId": "kenya.kisii.nyaribarichache.keumbu",
+    "code": "KE_16_NYCH_KEUM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_NYCH"
+  },
+  {
+    "tenantId": "kenya.kisii.nyaribarichache.kiogoro",
+    "code": "KE_16_NYCH_KIOG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_NYCH"
+  },
+  {
+    "tenantId": "kenya.kisii.nyaribarichache.kisiicentral",
+    "code": "KE_16_NYCH_KICE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_NYCH"
+  },
+  {
+    "tenantId": "kenya.kisii.nyaribarimasaba.ichuni",
+    "code": "KE_16_NYMA_ICHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_NYMA"
+  },
+  {
+    "tenantId": "kenya.kisii.nyaribarimasaba.masimba",
+    "code": "KE_16_NYMA_MASI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_NYMA"
+  },
+  {
+    "tenantId": "kenya.kisii.nyaribarimasaba.kiamokama",
+    "code": "KE_16_NYMA_KIAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_NYMA"
+  },
+  {
+    "tenantId": "kenya.kisii.nyaribarimasaba.nyamasibi",
+    "code": "KE_16_NYMA_NYAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_NYMA"
+  },
+  {
+    "tenantId": "kenya.kisii.nyaribarimasaba.gesusu",
+    "code": "KE_16_NYMA_GESU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_NYMA"
+  },
+  {
+    "tenantId": "kenya.kisii.southmugirango.getenga",
+    "code": "KE_16_SOMU_GETE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_SOMU"
+  },
+  {
+    "tenantId": "kenya.kisii.southmugirango.moticho",
+    "code": "KE_16_SOMU_MOTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_SOMU"
+  },
+  {
+    "tenantId": "kenya.kisii.southmugirango.bogetenga",
+    "code": "KE_16_SOMU_BOGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_SOMU"
+  },
+  {
+    "tenantId": "kenya.kisii.southmugirango.borabuchitago",
+    "code": "KE_16_SOMU_BORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_SOMU"
+  },
+  {
+    "tenantId": "kenya.kisii.southmugirango.boikanga",
+    "code": "KE_16_SOMU_BOIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_SOMU"
+  },
+  {
+    "tenantId": "kenya.kisii.southmugirango.tabaka",
+    "code": "KE_16_SOMU_TABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_16_SOMU"
+  }
+]

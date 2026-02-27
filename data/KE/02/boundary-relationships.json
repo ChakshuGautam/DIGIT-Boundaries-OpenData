@@ -1,0 +1,275 @@
+[
+  {
+    "tenantId": "kenya.bomet",
+    "code": "KE_02",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "KE"
+  },
+  {
+    "tenantId": "kenya.bomet.bometcentral",
+    "code": "KE_02_BOCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_02"
+  },
+  {
+    "tenantId": "kenya.bomet.bometeast",
+    "code": "KE_02_BOEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_02"
+  },
+  {
+    "tenantId": "kenya.bomet.buret",
+    "code": "KE_02_BURE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_02"
+  },
+  {
+    "tenantId": "kenya.bomet.chepalungu",
+    "code": "KE_02_CHEP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_02"
+  },
+  {
+    "tenantId": "kenya.bomet.konoin",
+    "code": "KE_02_KONO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_02"
+  },
+  {
+    "tenantId": "kenya.bomet.sotik",
+    "code": "KE_02_SOTI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_02"
+  },
+  {
+    "tenantId": "kenya.bomet.bometcentral.silibwettownship",
+    "code": "KE_02_BOCE_SITO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_BOCE"
+  },
+  {
+    "tenantId": "kenya.bomet.bometcentral.singorwet",
+    "code": "KE_02_BOCE_SING",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_BOCE"
+  },
+  {
+    "tenantId": "kenya.bomet.bometcentral.ndaraweta",
+    "code": "KE_02_BOCE_NDAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_BOCE"
+  },
+  {
+    "tenantId": "kenya.bomet.bometcentral.mutarakwa",
+    "code": "KE_02_BOCE_MUTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_BOCE"
+  },
+  {
+    "tenantId": "kenya.bomet.bometcentral.chesoen",
+    "code": "KE_02_BOCE_CHES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_BOCE"
+  },
+  {
+    "tenantId": "kenya.bomet.bometeast.kembu",
+    "code": "KE_02_BOEA_KEMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_BOEA"
+  },
+  {
+    "tenantId": "kenya.bomet.bometeast.merigi",
+    "code": "KE_02_BOEA_MERI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_BOEA"
+  },
+  {
+    "tenantId": "kenya.bomet.bometeast.longisa",
+    "code": "KE_02_BOEA_LONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_BOEA"
+  },
+  {
+    "tenantId": "kenya.bomet.bometeast.chemaner",
+    "code": "KE_02_BOEA_CHEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_BOEA"
+  },
+  {
+    "tenantId": "kenya.bomet.bometeast.kipreres",
+    "code": "KE_02_BOEA_KIPR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_BOEA"
+  },
+  {
+    "tenantId": "kenya.bomet.buret.litein",
+    "code": "KE_02_BURE_LITE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_BURE"
+  },
+  {
+    "tenantId": "kenya.bomet.buret.cheplanget",
+    "code": "KE_02_BURE_CHEP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_BURE"
+  },
+  {
+    "tenantId": "kenya.bomet.buret.cheboin",
+    "code": "KE_02_BURE_CHEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_BURE"
+  },
+  {
+    "tenantId": "kenya.bomet.buret.chemosot",
+    "code": "KE_02_BURE_CHEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_BURE"
+  },
+  {
+    "tenantId": "kenya.bomet.buret.tebesonik",
+    "code": "KE_02_BURE_TEBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_BURE"
+  },
+  {
+    "tenantId": "kenya.bomet.buret.kapkatet",
+    "code": "KE_02_BURE_KAPK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_BURE"
+  },
+  {
+    "tenantId": "kenya.bomet.buret.kisiara",
+    "code": "KE_02_BURE_KISI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_BURE"
+  },
+  {
+    "tenantId": "kenya.bomet.chepalungu.sigor",
+    "code": "KE_02_CHEP_SIGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_CHEP"
+  },
+  {
+    "tenantId": "kenya.bomet.chepalungu.nyangores",
+    "code": "KE_02_CHEP_NYAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_CHEP"
+  },
+  {
+    "tenantId": "kenya.bomet.chepalungu.siongiroi",
+    "code": "KE_02_CHEP_SION",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_CHEP"
+  },
+  {
+    "tenantId": "kenya.bomet.chepalungu.chebunyo",
+    "code": "KE_02_CHEP_CHEB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_CHEP"
+  },
+  {
+    "tenantId": "kenya.bomet.chepalungu.kongasis",
+    "code": "KE_02_CHEP_KONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_CHEP"
+  },
+  {
+    "tenantId": "kenya.bomet.konoin.mogogosiek",
+    "code": "KE_02_KONO_MOGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_KONO"
+  },
+  {
+    "tenantId": "kenya.bomet.konoin.embomos",
+    "code": "KE_02_KONO_EMBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_KONO"
+  },
+  {
+    "tenantId": "kenya.bomet.konoin.boito",
+    "code": "KE_02_KONO_BOIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_KONO"
+  },
+  {
+    "tenantId": "kenya.bomet.konoin.kimulot",
+    "code": "KE_02_KONO_KIMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_KONO"
+  },
+  {
+    "tenantId": "kenya.bomet.konoin.chepchabas",
+    "code": "KE_02_KONO_CHEP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_KONO"
+  },
+  {
+    "tenantId": "kenya.bomet.sotik.chemagel",
+    "code": "KE_02_SOTI_CHEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_SOTI"
+  },
+  {
+    "tenantId": "kenya.bomet.sotik.kipsonoi",
+    "code": "KE_02_SOTI_KIPS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_SOTI"
+  },
+  {
+    "tenantId": "kenya.bomet.sotik.kapletundo",
+    "code": "KE_02_SOTI_KAPL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_SOTI"
+  },
+  {
+    "tenantId": "kenya.bomet.sotik.rongenamanaret",
+    "code": "KE_02_SOTI_RONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_SOTI"
+  },
+  {
+    "tenantId": "kenya.bomet.sotik.ndanaiabosi",
+    "code": "KE_02_SOTI_NDAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_02_SOTI"
+  }
+]

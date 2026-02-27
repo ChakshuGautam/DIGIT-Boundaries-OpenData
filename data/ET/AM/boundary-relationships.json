@@ -1,0 +1,982 @@
+[
+  {
+    "tenantId": "ethiopia.amhara",
+    "code": "ET_AM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "ET"
+  },
+  {
+    "tenantId": "ethiopia.amhara.awiagew",
+    "code": "ET_AM_AWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Zone",
+    "parent": "ET_AM"
+  },
+  {
+    "tenantId": "ethiopia.amhara.eastgojam",
+    "code": "ET_AM_EAGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Zone",
+    "parent": "ET_AM"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northgonder",
+    "code": "ET_AM_NOGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Zone",
+    "parent": "ET_AM"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar",
+    "code": "ET_AM_NOSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Zone",
+    "parent": "ET_AM"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northwollo",
+    "code": "ET_AM_NOWO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Zone",
+    "parent": "ET_AM"
+  },
+  {
+    "tenantId": "ethiopia.amhara.oromia",
+    "code": "ET_AM_OROM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Zone",
+    "parent": "ET_AM"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southgonder",
+    "code": "ET_AM_SOGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Zone",
+    "parent": "ET_AM"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southwollo",
+    "code": "ET_AM_SOWO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Zone",
+    "parent": "ET_AM"
+  },
+  {
+    "tenantId": "ethiopia.amhara.specialworeda",
+    "code": "ET_AM_SPWO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Zone",
+    "parent": "ET_AM"
+  },
+  {
+    "tenantId": "ethiopia.amhara.waghimra",
+    "code": "ET_AM_WAHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Zone",
+    "parent": "ET_AM"
+  },
+  {
+    "tenantId": "ethiopia.amhara.westgojam",
+    "code": "ET_AM_WEGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Zone",
+    "parent": "ET_AM"
+  },
+  {
+    "tenantId": "ethiopia.amhara.awiagew.ankasha",
+    "code": "ET_AM_AWI_ANKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_AWI"
+  },
+  {
+    "tenantId": "ethiopia.amhara.awiagew.banja",
+    "code": "ET_AM_AWI_BANJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_AWI"
+  },
+  {
+    "tenantId": "ethiopia.amhara.awiagew.dangila",
+    "code": "ET_AM_AWI_DANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_AWI"
+  },
+  {
+    "tenantId": "ethiopia.amhara.awiagew.fagtalakoma",
+    "code": "ET_AM_AWI_FALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_AWI"
+  },
+  {
+    "tenantId": "ethiopia.amhara.awiagew.guagusashikudad",
+    "code": "ET_AM_AWI_GUSH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_AWI"
+  },
+  {
+    "tenantId": "ethiopia.amhara.awiagew.guangua",
+    "code": "ET_AM_AWI_GUAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_AWI"
+  },
+  {
+    "tenantId": "ethiopia.amhara.awiagew.jawi",
+    "code": "ET_AM_AWI_JAWI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_AWI"
+  },
+  {
+    "tenantId": "ethiopia.amhara.eastgojam.aneded",
+    "code": "ET_AM_EAGO_ANED",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_EAGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.eastgojam.awabel",
+    "code": "ET_AM_EAGO_AWAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_EAGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.eastgojam.basoliben",
+    "code": "ET_AM_EAGO_BALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_EAGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.eastgojam.bibugn",
+    "code": "ET_AM_EAGO_BIBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_EAGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.eastgojam.debaytelatgen",
+    "code": "ET_AM_EAGO_DETE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_EAGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.eastgojam.debreelias",
+    "code": "ET_AM_EAGO_DEEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_EAGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.eastgojam.dejen",
+    "code": "ET_AM_EAGO_DEJE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_EAGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.eastgojam.enarjenawga",
+    "code": "ET_AM_EAGO_ENEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_EAGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.eastgojam.enbisesarmidir",
+    "code": "ET_AM_EAGO_ESM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_EAGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.eastgojam.enemay",
+    "code": "ET_AM_EAGO_ENEM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_EAGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.eastgojam.gonchasisoenese",
+    "code": "ET_AM_EAGO_GSE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_EAGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.eastgojam.gonje",
+    "code": "ET_AM_EAGO_GONJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_EAGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.eastgojam.guzamn",
+    "code": "ET_AM_EAGO_GUZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_EAGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.eastgojam.huletejenese",
+    "code": "ET_AM_EAGO_HEE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_EAGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.eastgojam.michakel",
+    "code": "ET_AM_EAGO_MICH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_EAGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.eastgojam.senan",
+    "code": "ET_AM_EAGO_SENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_EAGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.eastgojam.shebelbereta",
+    "code": "ET_AM_EAGO_SHBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_EAGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northgonder.alfa",
+    "code": "ET_AM_NOGO_ALFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northgonder.beyeda",
+    "code": "ET_AM_NOGO_BEYE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northgonder.chilga",
+    "code": "ET_AM_NOGO_CHIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northgonder.dabat",
+    "code": "ET_AM_NOGO_DABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northgonder.debark",
+    "code": "ET_AM_NOGO_DEBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northgonder.dembia",
+    "code": "ET_AM_NOGO_DEMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northgonder.eastbelesa",
+    "code": "ET_AM_NOGO_EABE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northgonder.gonderzuria",
+    "code": "ET_AM_NOGO_GOZU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northgonder.janamora",
+    "code": "ET_AM_NOGO_JANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northgonder.layarmacho",
+    "code": "ET_AM_NOGO_LAAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northgonder.metema",
+    "code": "ET_AM_NOGO_METE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northgonder.mirabarmacho",
+    "code": "ET_AM_NOGO_MIAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northgonder.quara",
+    "code": "ET_AM_NOGO_QUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northgonder.tacharmacho",
+    "code": "ET_AM_NOGO_TAAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northgonder.takusa",
+    "code": "ET_AM_NOGO_TAKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northgonder.wegera",
+    "code": "ET_AM_NOGO_WEGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northgonder.westbelesa",
+    "code": "ET_AM_NOGO_WEBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northgonder.tsegede",
+    "code": "ET_AM_NOGO_TSEG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northgonder.addiarekay",
+    "code": "ET_AM_NOGO_ADAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northgonder.tselemt",
+    "code": "ET_AM_NOGO_TSEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar.angolelanatera",
+    "code": "ET_AM_NOSH_ANTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOSH"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar.ankober",
+    "code": "ET_AM_NOSH_ANKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOSH"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar.antsokiya",
+    "code": "ET_AM_NOSH_ANTS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOSH"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar.assagirt",
+    "code": "ET_AM_NOSH_ASSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOSH"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar.berehet",
+    "code": "ET_AM_NOSH_BERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOSH"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar.eferatanagidem",
+    "code": "ET_AM_NOSH_EFGI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOSH"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar.menzgeramidir",
+    "code": "ET_AM_NOSH_MGM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOSH"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar.gisherabel",
+    "code": "ET_AM_NOSH_GIRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOSH"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar.hageremariam",
+    "code": "ET_AM_NOSH_HAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOSH"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar.kewet",
+    "code": "ET_AM_NOSH_KEWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOSH"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar.menzkeyagabriel",
+    "code": "ET_AM_NOSH_MKG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOSH"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar.menzlalomidir",
+    "code": "ET_AM_NOSH_MLM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOSH"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar.menzmamamidir",
+    "code": "ET_AM_NOSH_MMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOSH"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar.merahbete",
+    "code": "ET_AM_NOSH_MERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOSH"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar.mimoweremo",
+    "code": "ET_AM_NOSH_MIWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOSH"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar.minjarshenkora",
+    "code": "ET_AM_NOSH_MISH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOSH"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar.mojanwedera",
+    "code": "ET_AM_NOSH_MOWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOSH"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar.moretnajiru",
+    "code": "ET_AM_NOSH_MOJI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOSH"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar.siyadebirnawayu",
+    "code": "ET_AM_NOSH_SDW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOSH"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar.taremaber",
+    "code": "ET_AM_NOSH_TABE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOSH"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar.basonaworena",
+    "code": "ET_AM_NOSH_BAWO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOSH"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northshewar.ensaro",
+    "code": "ET_AM_NOSH_ENSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOSH"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northwollo.bugna",
+    "code": "ET_AM_NOWO_BUGN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northwollo.dawunt",
+    "code": "ET_AM_NOWO_DAWU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northwollo.delanta",
+    "code": "ET_AM_NOWO_DELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northwollo.gidan",
+    "code": "ET_AM_NOWO_GIDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northwollo.gubalafto",
+    "code": "ET_AM_NOWO_GULA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northwollo.habru",
+    "code": "ET_AM_NOWO_HABR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northwollo.lasta",
+    "code": "ET_AM_NOWO_LAST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northwollo.meket",
+    "code": "ET_AM_NOWO_MEKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northwollo.wadla",
+    "code": "ET_AM_NOWO_WADL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.northwollo.kobo",
+    "code": "ET_AM_NOWO_KOBO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_NOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.oromia.bati",
+    "code": "ET_AM_OROM_BATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_OROM"
+  },
+  {
+    "tenantId": "ethiopia.amhara.oromia.dewacheffa",
+    "code": "ET_AM_OROM_DECH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_OROM"
+  },
+  {
+    "tenantId": "ethiopia.amhara.oromia.jilletimuga",
+    "code": "ET_AM_OROM_JITI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_OROM"
+  },
+  {
+    "tenantId": "ethiopia.amhara.oromia.artumafursi",
+    "code": "ET_AM_OROM_ARFU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_OROM"
+  },
+  {
+    "tenantId": "ethiopia.amhara.oromia.dewaharewa",
+    "code": "ET_AM_OROM_DEHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_OROM"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southgonder.dera",
+    "code": "ET_AM_SOGO_DERA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southgonder.eastesite",
+    "code": "ET_AM_SOGO_EAES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southgonder.ebenat",
+    "code": "ET_AM_SOGO_EBEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southgonder.farta",
+    "code": "ET_AM_SOGO_FART",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southgonder.fogera",
+    "code": "ET_AM_SOGO_FOGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southgonder.laygayint",
+    "code": "ET_AM_SOGO_LAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southgonder.libokemkem",
+    "code": "ET_AM_SOGO_LIKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southgonder.simada",
+    "code": "ET_AM_SOGO_SIMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southgonder.tachgayint",
+    "code": "ET_AM_SOGO_TAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southgonder.westesite",
+    "code": "ET_AM_SOGO_WEES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southwollo.albuko",
+    "code": "ET_AM_SOWO_ALBU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southwollo.ambasel",
+    "code": "ET_AM_SOWO_AMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southwollo.debresina",
+    "code": "ET_AM_SOWO_DEBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southwollo.dessiezuria",
+    "code": "ET_AM_SOWO_DEZU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southwollo.jama",
+    "code": "ET_AM_SOWO_JAMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southwollo.kalu",
+    "code": "ET_AM_SOWO_KALU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southwollo.kelela",
+    "code": "ET_AM_SOWO_KELE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southwollo.kutaber",
+    "code": "ET_AM_SOWO_KUTA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southwollo.legambo",
+    "code": "ET_AM_SOWO_LEGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southwollo.legehida",
+    "code": "ET_AM_SOWO_LEGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southwollo.mehalsayint",
+    "code": "ET_AM_SOWO_MESA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southwollo.mekdela",
+    "code": "ET_AM_SOWO_MEKD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southwollo.sayint",
+    "code": "ET_AM_SOWO_SAYI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southwollo.tenta",
+    "code": "ET_AM_SOWO_TENT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southwollo.thehulederie",
+    "code": "ET_AM_SOWO_THEH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southwollo.wegde",
+    "code": "ET_AM_SOWO_WEGD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southwollo.wereilu",
+    "code": "ET_AM_SOWO_WEIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.southwollo.worebabu",
+    "code": "ET_AM_SOWO_WORE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SOWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.specialworeda.argoba",
+    "code": "ET_AM_SPWO_ARGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_SPWO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.waghimra.dehana",
+    "code": "ET_AM_WAHI_DEHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_WAHI"
+  },
+  {
+    "tenantId": "ethiopia.amhara.waghimra.gazgibla",
+    "code": "ET_AM_WAHI_GAGI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_WAHI"
+  },
+  {
+    "tenantId": "ethiopia.amhara.waghimra.sahla",
+    "code": "ET_AM_WAHI_SAHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_WAHI"
+  },
+  {
+    "tenantId": "ethiopia.amhara.waghimra.ziquala",
+    "code": "ET_AM_WAHI_ZIQU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_WAHI"
+  },
+  {
+    "tenantId": "ethiopia.amhara.waghimra.abergele",
+    "code": "ET_AM_WAHI_ABER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_WAHI"
+  },
+  {
+    "tenantId": "ethiopia.amhara.waghimra.sekota",
+    "code": "ET_AM_WAHI_SEKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_WAHI"
+  },
+  {
+    "tenantId": "ethiopia.amhara.westgojam.debubachefer",
+    "code": "ET_AM_WEGO_DEAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_WEGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.westgojam.bahirdarzuria",
+    "code": "ET_AM_WEGO_BAZU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_WEGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.westgojam.bure",
+    "code": "ET_AM_WEGO_BURE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_WEGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.westgojam.degadamot",
+    "code": "ET_AM_WEGO_DEDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_WEGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.westgojam.dembecha",
+    "code": "ET_AM_WEGO_DEMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_WEGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.westgojam.jabitehnan",
+    "code": "ET_AM_WEGO_JATE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_WEGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.westgojam.mecha",
+    "code": "ET_AM_WEGO_MECH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_WEGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.westgojam.quarit",
+    "code": "ET_AM_WEGO_QUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_WEGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.westgojam.sekela",
+    "code": "ET_AM_WEGO_SEKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_WEGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.westgojam.semenachefer",
+    "code": "ET_AM_WEGO_SEAC",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_WEGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.westgojam.wemberma",
+    "code": "ET_AM_WEGO_WEMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_WEGO"
+  },
+  {
+    "tenantId": "ethiopia.amhara.westgojam.yilmanadensa",
+    "code": "ET_AM_WEGO_YIDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_AM_WEGO"
+  }
+]

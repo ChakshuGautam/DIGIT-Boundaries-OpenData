@@ -1,0 +1,443 @@
+[
+  {
+    "tenantId": "ethiopia.somali",
+    "code": "ET_SO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "ET"
+  },
+  {
+    "tenantId": "ethiopia.somali.afder",
+    "code": "ET_SO_AFDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Zone",
+    "parent": "ET_SO"
+  },
+  {
+    "tenantId": "ethiopia.somali.doolo",
+    "code": "ET_SO_DOOL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Zone",
+    "parent": "ET_SO"
+  },
+  {
+    "tenantId": "ethiopia.somali.fafan",
+    "code": "ET_SO_FAFA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Zone",
+    "parent": "ET_SO"
+  },
+  {
+    "tenantId": "ethiopia.somali.jarar",
+    "code": "ET_SO_JARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Zone",
+    "parent": "ET_SO"
+  },
+  {
+    "tenantId": "ethiopia.somali.korahe",
+    "code": "ET_SO_KORA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Zone",
+    "parent": "ET_SO"
+  },
+  {
+    "tenantId": "ethiopia.somali.liben",
+    "code": "ET_SO_LIBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Zone",
+    "parent": "ET_SO"
+  },
+  {
+    "tenantId": "ethiopia.somali.nogob",
+    "code": "ET_SO_NOGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Zone",
+    "parent": "ET_SO"
+  },
+  {
+    "tenantId": "ethiopia.somali.shabelle",
+    "code": "ET_SO_SHAB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Zone",
+    "parent": "ET_SO"
+  },
+  {
+    "tenantId": "ethiopia.somali.siti",
+    "code": "ET_SO_SITI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Zone",
+    "parent": "ET_SO"
+  },
+  {
+    "tenantId": "ethiopia.somali.afder.gorobaqaqsa",
+    "code": "ET_SO_AFDE_GOBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_AFDE"
+  },
+  {
+    "tenantId": "ethiopia.somali.afder.sererelkere",
+    "code": "ET_SO_AFDE_SERE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_AFDE"
+  },
+  {
+    "tenantId": "ethiopia.somali.afder.bare",
+    "code": "ET_SO_AFDE_BARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_AFDE"
+  },
+  {
+    "tenantId": "ethiopia.somali.afder.cheretiweyib",
+    "code": "ET_SO_AFDE_CHER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_AFDE"
+  },
+  {
+    "tenantId": "ethiopia.somali.afder.afder",
+    "code": "ET_SO_AFDE_AFDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_AFDE"
+  },
+  {
+    "tenantId": "ethiopia.somali.afder.dolobay",
+    "code": "ET_SO_AFDE_DOLO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_AFDE"
+  },
+  {
+    "tenantId": "ethiopia.somali.afder.guradamole",
+    "code": "ET_SO_AFDE_GURA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_AFDE"
+  },
+  {
+    "tenantId": "ethiopia.somali.afder.westimi",
+    "code": "ET_SO_AFDE_WEIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_AFDE"
+  },
+  {
+    "tenantId": "ethiopia.somali.afder.hargele",
+    "code": "ET_SO_AFDE_HARG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_AFDE"
+  },
+  {
+    "tenantId": "ethiopia.somali.doolo.geladin",
+    "code": "ET_SO_DOOL_GELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_DOOL"
+  },
+  {
+    "tenantId": "ethiopia.somali.doolo.danot",
+    "code": "ET_SO_DOOL_DANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_DOOL"
+  },
+  {
+    "tenantId": "ethiopia.somali.doolo.boh",
+    "code": "ET_SO_DOOL_BOH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_DOOL"
+  },
+  {
+    "tenantId": "ethiopia.somali.doolo.warder",
+    "code": "ET_SO_DOOL_WARD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_DOOL"
+  },
+  {
+    "tenantId": "ethiopia.somali.fafan.awbare",
+    "code": "ET_SO_FAFA_AWB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_FAFA"
+  },
+  {
+    "tenantId": "ethiopia.somali.fafan.jijiga",
+    "code": "ET_SO_FAFA_JIJI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_FAFA"
+  },
+  {
+    "tenantId": "ethiopia.somali.fafan.kebribeyah",
+    "code": "ET_SO_FAFA_KEBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_FAFA"
+  },
+  {
+    "tenantId": "ethiopia.somali.fafan.hareshen",
+    "code": "ET_SO_FAFA_HARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_FAFA"
+  },
+  {
+    "tenantId": "ethiopia.somali.fafan.gursum",
+    "code": "ET_SO_FAFA_GURS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_FAFA"
+  },
+  {
+    "tenantId": "ethiopia.somali.fafan.babile",
+    "code": "ET_SO_FAFA_BABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_FAFA"
+  },
+  {
+    "tenantId": "ethiopia.somali.jarar.degehabur",
+    "code": "ET_SO_JARA_DEGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_JARA"
+  },
+  {
+    "tenantId": "ethiopia.somali.jarar.gashamo",
+    "code": "ET_SO_JARA_GASH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_JARA"
+  },
+  {
+    "tenantId": "ethiopia.somali.jarar.degehamedo",
+    "code": "ET_SO_JARA_DEGE2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_JARA"
+  },
+  {
+    "tenantId": "ethiopia.somali.jarar.gunagado",
+    "code": "ET_SO_JARA_GUNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_JARA"
+  },
+  {
+    "tenantId": "ethiopia.somali.jarar.aware",
+    "code": "ET_SO_JARA_AWAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_JARA"
+  },
+  {
+    "tenantId": "ethiopia.somali.korahe.shekosh",
+    "code": "ET_SO_KORA_SHEK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_KORA"
+  },
+  {
+    "tenantId": "ethiopia.somali.korahe.kebridehar",
+    "code": "ET_SO_KORA_KEBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_KORA"
+  },
+  {
+    "tenantId": "ethiopia.somali.korahe.shilabo",
+    "code": "ET_SO_KORA_SHIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_KORA"
+  },
+  {
+    "tenantId": "ethiopia.somali.korahe.debeweyin",
+    "code": "ET_SO_KORA_DEBE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_KORA"
+  },
+  {
+    "tenantId": "ethiopia.somali.liben.moyale",
+    "code": "ET_SO_LIBE_MOYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_LIBE"
+  },
+  {
+    "tenantId": "ethiopia.somali.liben.doloodo",
+    "code": "ET_SO_LIBE_DOOD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_LIBE"
+  },
+  {
+    "tenantId": "ethiopia.somali.liben.hudet",
+    "code": "ET_SO_LIBE_HUDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_LIBE"
+  },
+  {
+    "tenantId": "ethiopia.somali.liben.filtu",
+    "code": "ET_SO_LIBE_FILT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_LIBE"
+  },
+  {
+    "tenantId": "ethiopia.somali.nogob.dihun",
+    "code": "ET_SO_NOGO_DIHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.somali.nogob.fik",
+    "code": "ET_SO_NOGO_FIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.somali.nogob.hamero",
+    "code": "ET_SO_NOGO_HAME",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.somali.nogob.segeg",
+    "code": "ET_SO_NOGO_SEGE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.somali.nogob.gerbo",
+    "code": "ET_SO_NOGO_GERB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.somali.nogob.lagahida",
+    "code": "ET_SO_NOGO_LAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.somali.nogob.meyumuluka",
+    "code": "ET_SO_NOGO_MEYU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.somali.nogob.selahad",
+    "code": "ET_SO_NOGO_SELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_NOGO"
+  },
+  {
+    "tenantId": "ethiopia.somali.shabelle.gode",
+    "code": "ET_SO_SHAB_GODE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_SHAB"
+  },
+  {
+    "tenantId": "ethiopia.somali.shabelle.kelafo",
+    "code": "ET_SO_SHAB_KELA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_SHAB"
+  },
+  {
+    "tenantId": "ethiopia.somali.shabelle.mustahil",
+    "code": "ET_SO_SHAB_MUST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_SHAB"
+  },
+  {
+    "tenantId": "ethiopia.somali.shabelle.ferfer",
+    "code": "ET_SO_SHAB_FERF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_SHAB"
+  },
+  {
+    "tenantId": "ethiopia.somali.shabelle.adadle",
+    "code": "ET_SO_SHAB_ADAD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_SHAB"
+  },
+  {
+    "tenantId": "ethiopia.somali.shabelle.eastimi",
+    "code": "ET_SO_SHAB_EAIM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_SHAB"
+  },
+  {
+    "tenantId": "ethiopia.somali.shabelle.denan",
+    "code": "ET_SO_SHAB_DENA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_SHAB"
+  },
+  {
+    "tenantId": "ethiopia.somali.siti.ayisha",
+    "code": "ET_SO_SITI_AYIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_SITI"
+  },
+  {
+    "tenantId": "ethiopia.somali.siti.erer",
+    "code": "ET_SO_SITI_ERER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_SITI"
+  },
+  {
+    "tenantId": "ethiopia.somali.siti.afdem",
+    "code": "ET_SO_SITI_AFDE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_SITI"
+  },
+  {
+    "tenantId": "ethiopia.somali.siti.shinile",
+    "code": "ET_SO_SITI_SHIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_SITI"
+  },
+  {
+    "tenantId": "ethiopia.somali.siti.dembel",
+    "code": "ET_SO_SITI_DEMB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_SITI"
+  },
+  {
+    "tenantId": "ethiopia.somali.siti.miesso",
+    "code": "ET_SO_SITI_MIES",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_SO_SITI"
+  }
+]

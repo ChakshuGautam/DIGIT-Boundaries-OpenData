@@ -1,0 +1,345 @@
+[
+  {
+    "tenantId": "kenya.migori",
+    "code": "KE_27",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "KE"
+  },
+  {
+    "tenantId": "kenya.migori.awendo",
+    "code": "KE_27_AWEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_27"
+  },
+  {
+    "tenantId": "kenya.migori.kuriaeast",
+    "code": "KE_27_KUEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_27"
+  },
+  {
+    "tenantId": "kenya.migori.kuriawest",
+    "code": "KE_27_KUWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_27"
+  },
+  {
+    "tenantId": "kenya.migori.nyatike",
+    "code": "KE_27_NYAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_27"
+  },
+  {
+    "tenantId": "kenya.migori.rongo",
+    "code": "KE_27_RONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_27"
+  },
+  {
+    "tenantId": "kenya.migori.sunaeast",
+    "code": "KE_27_SUEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_27"
+  },
+  {
+    "tenantId": "kenya.migori.sunawest",
+    "code": "KE_27_SUWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_27"
+  },
+  {
+    "tenantId": "kenya.migori.uriri",
+    "code": "KE_27_URIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_27"
+  },
+  {
+    "tenantId": "kenya.migori.awendo.centralsakwa",
+    "code": "KE_27_AWEN_CESA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_AWEN"
+  },
+  {
+    "tenantId": "kenya.migori.awendo.northsakwa",
+    "code": "KE_27_AWEN_NOSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_AWEN"
+  },
+  {
+    "tenantId": "kenya.migori.awendo.southsakwa",
+    "code": "KE_27_AWEN_SOSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_AWEN"
+  },
+  {
+    "tenantId": "kenya.migori.awendo.westsakwa",
+    "code": "KE_27_AWEN_WESA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_AWEN"
+  },
+  {
+    "tenantId": "kenya.migori.kuriaeast.ntimarueast",
+    "code": "KE_27_KUEA_NTEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_KUEA"
+  },
+  {
+    "tenantId": "kenya.migori.kuriaeast.nyabasiwest",
+    "code": "KE_27_KUEA_NYWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_KUEA"
+  },
+  {
+    "tenantId": "kenya.migori.kuriaeast.nyabasieast",
+    "code": "KE_27_KUEA_NYEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_KUEA"
+  },
+  {
+    "tenantId": "kenya.migori.kuriaeast.ntimaruwest",
+    "code": "KE_27_KUEA_NTWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_KUEA"
+  },
+  {
+    "tenantId": "kenya.migori.kuriawest.gokeharakagetambwega",
+    "code": "KE_27_KUWE_GOKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_KUWE"
+  },
+  {
+    "tenantId": "kenya.migori.kuriawest.tagare",
+    "code": "KE_27_KUWE_TAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_KUWE"
+  },
+  {
+    "tenantId": "kenya.migori.kuriawest.bukiracentrlikerege",
+    "code": "KE_27_KUWE_BUCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_KUWE"
+  },
+  {
+    "tenantId": "kenya.migori.kuriawest.nyamosensekomosoko",
+    "code": "KE_27_KUWE_NYAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_KUWE"
+  },
+  {
+    "tenantId": "kenya.migori.kuriawest.masaba",
+    "code": "KE_27_KUWE_MASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_KUWE"
+  },
+  {
+    "tenantId": "kenya.migori.kuriawest.makerero",
+    "code": "KE_27_KUWE_MAKE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_KUWE"
+  },
+  {
+    "tenantId": "kenya.migori.kuriawest.bukiraeast",
+    "code": "KE_27_KUWE_BUEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_KUWE"
+  },
+  {
+    "tenantId": "kenya.migori.kuriawest.isibania",
+    "code": "KE_27_KUWE_ISIB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_KUWE"
+  },
+  {
+    "tenantId": "kenya.migori.nyatike.kachieng",
+    "code": "KE_27_NYAT_KACH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_NYAT"
+  },
+  {
+    "tenantId": "kenya.migori.nyatike.kaler",
+    "code": "KE_27_NYAT_KALE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_NYAT"
+  },
+  {
+    "tenantId": "kenya.migori.nyatike.kanyasa",
+    "code": "KE_27_NYAT_KANY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_NYAT"
+  },
+  {
+    "tenantId": "kenya.migori.nyatike.northkadem",
+    "code": "KE_27_NYAT_NOKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_NYAT"
+  },
+  {
+    "tenantId": "kenya.migori.nyatike.gotkachola",
+    "code": "KE_27_NYAT_GOKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_NYAT"
+  },
+  {
+    "tenantId": "kenya.migori.nyatike.muhuru",
+    "code": "KE_27_NYAT_MUHU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_NYAT"
+  },
+  {
+    "tenantId": "kenya.migori.nyatike.macalderkanyarwanda",
+    "code": "KE_27_NYAT_MACA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_NYAT"
+  },
+  {
+    "tenantId": "kenya.migori.rongo.northkamagambo",
+    "code": "KE_27_RONG_NOKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_RONG"
+  },
+  {
+    "tenantId": "kenya.migori.rongo.centralkamagambo",
+    "code": "KE_27_RONG_CEKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_RONG"
+  },
+  {
+    "tenantId": "kenya.migori.rongo.southkamagambo",
+    "code": "KE_27_RONG_SOKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_RONG"
+  },
+  {
+    "tenantId": "kenya.migori.rongo.eastkamagambo",
+    "code": "KE_27_RONG_EAKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_RONG"
+  },
+  {
+    "tenantId": "kenya.migori.sunaeast.godjope",
+    "code": "KE_27_SUEA_GOJO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_SUEA"
+  },
+  {
+    "tenantId": "kenya.migori.sunaeast.kakrao",
+    "code": "KE_27_SUEA_KAKR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_SUEA"
+  },
+  {
+    "tenantId": "kenya.migori.sunaeast.sunacentral",
+    "code": "KE_27_SUEA_SUCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_SUEA"
+  },
+  {
+    "tenantId": "kenya.migori.sunaeast.kwa",
+    "code": "KE_27_SUEA_KWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_SUEA"
+  },
+  {
+    "tenantId": "kenya.migori.sunawest.wiga",
+    "code": "KE_27_SUWE_WIGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_SUWE"
+  },
+  {
+    "tenantId": "kenya.migori.sunawest.raganaoruba",
+    "code": "KE_27_SUWE_RAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_SUWE"
+  },
+  {
+    "tenantId": "kenya.migori.sunawest.wasimbete",
+    "code": "KE_27_SUWE_WASI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_SUWE"
+  },
+  {
+    "tenantId": "kenya.migori.sunawest.waswetaii",
+    "code": "KE_27_SUWE_WAII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_SUWE"
+  },
+  {
+    "tenantId": "kenya.migori.uriri.northkanyamkago",
+    "code": "KE_27_URIR_NOKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_URIR"
+  },
+  {
+    "tenantId": "kenya.migori.uriri.westkanyamkago",
+    "code": "KE_27_URIR_WEKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_URIR"
+  },
+  {
+    "tenantId": "kenya.migori.uriri.centralkanyamkago",
+    "code": "KE_27_URIR_CEKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_URIR"
+  },
+  {
+    "tenantId": "kenya.migori.uriri.southkanyamkago",
+    "code": "KE_27_URIR_SOKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_URIR"
+  },
+  {
+    "tenantId": "kenya.migori.uriri.eastkanyamkago",
+    "code": "KE_27_URIR_EAKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_27_URIR"
+  }
+]

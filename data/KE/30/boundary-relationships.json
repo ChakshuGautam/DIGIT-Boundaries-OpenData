@@ -1,0 +1,730 @@
+[
+  {
+    "tenantId": "kenya.nairobi",
+    "code": "KE_30",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "KE"
+  },
+  {
+    "tenantId": "kenya.nairobi.dagoretti",
+    "code": "KE_30_DAGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_30"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasicentral",
+    "code": "KE_30_EMCE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_30"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasieast",
+    "code": "KE_30_EMEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_30"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasinorth",
+    "code": "KE_30_EMNO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_30"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasisouth",
+    "code": "KE_30_EMSO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_30"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasiwest",
+    "code": "KE_30_EMWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_30"
+  },
+  {
+    "tenantId": "kenya.nairobi.kamukunji",
+    "code": "KE_30_KAMU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_30"
+  },
+  {
+    "tenantId": "kenya.nairobi.kasarani",
+    "code": "KE_30_KASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_30"
+  },
+  {
+    "tenantId": "kenya.nairobi.kibra",
+    "code": "KE_30_KIBR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_30"
+  },
+  {
+    "tenantId": "kenya.nairobi.kilimani",
+    "code": "KE_30_KILI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_30"
+  },
+  {
+    "tenantId": "kenya.nairobi.langata",
+    "code": "KE_30_LANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_30"
+  },
+  {
+    "tenantId": "kenya.nairobi.makadara",
+    "code": "KE_30_MAKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_30"
+  },
+  {
+    "tenantId": "kenya.nairobi.mathare",
+    "code": "KE_30_MATH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_30"
+  },
+  {
+    "tenantId": "kenya.nairobi.roysambu",
+    "code": "KE_30_ROYS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_30"
+  },
+  {
+    "tenantId": "kenya.nairobi.ruaraka",
+    "code": "KE_30_RUAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_30"
+  },
+  {
+    "tenantId": "kenya.nairobi.starehe",
+    "code": "KE_30_STAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_30"
+  },
+  {
+    "tenantId": "kenya.nairobi.westlands",
+    "code": "KE_30_WEST",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_30"
+  },
+  {
+    "tenantId": "kenya.nairobi.dagoretti.riruta",
+    "code": "KE_30_DAGO_RIRU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_DAGO"
+  },
+  {
+    "tenantId": "kenya.nairobi.dagoretti.ngando",
+    "code": "KE_30_DAGO_NGAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_DAGO"
+  },
+  {
+    "tenantId": "kenya.nairobi.dagoretti.uthiruruthimitu",
+    "code": "KE_30_DAGO_UTHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_DAGO"
+  },
+  {
+    "tenantId": "kenya.nairobi.dagoretti.mutuini",
+    "code": "KE_30_DAGO_MUTU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_DAGO"
+  },
+  {
+    "tenantId": "kenya.nairobi.dagoretti.waithaka",
+    "code": "KE_30_DAGO_WAIT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_DAGO"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasicentral.kayolenorth",
+    "code": "KE_30_EMCE_KANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMCE"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasicentral.komarock",
+    "code": "KE_30_EMCE_KOMA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMCE"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasicentral.kayolesouth",
+    "code": "KE_30_EMCE_KASO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMCE"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasicentral.matopeni",
+    "code": "KE_30_EMCE_MATO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMCE"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasicentral.kayolecentral",
+    "code": "KE_30_EMCE_KACE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMCE"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasieast.lowersavannah",
+    "code": "KE_30_EMEA_LOSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMEA"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasieast.mihango",
+    "code": "KE_30_EMEA_MIHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMEA"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasieast.utawala",
+    "code": "KE_30_EMEA_UTAW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMEA"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasieast.uppersavannah",
+    "code": "KE_30_EMEA_UPSA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMEA"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasieast.embakasi",
+    "code": "KE_30_EMEA_EMBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMEA"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasinorth.korogocho",
+    "code": "KE_30_EMNO_KORO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMNO"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasinorth.dandoraareaiii",
+    "code": "KE_30_EMNO_DAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMNO"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasinorth.dandoraareaii",
+    "code": "KE_30_EMNO_DAI2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMNO"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasinorth.dandoraareai",
+    "code": "KE_30_EMNO_DAI3",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMNO"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasinorth.kariobanginorth",
+    "code": "KE_30_EMNO_KANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMNO"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasisouth.kwanjenga",
+    "code": "KE_30_EMSO_KWNJ",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMSO"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasisouth.imaradaima",
+    "code": "KE_30_EMSO_IMDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMSO"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasisouth.kwareuben",
+    "code": "KE_30_EMSO_KWRE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMSO"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasisouth.kware",
+    "code": "KE_30_EMSO_KWAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMSO"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasisouth.pipeline",
+    "code": "KE_30_EMSO_PIPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMSO"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasiwest.umojaii",
+    "code": "KE_30_EMWE_UMII",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMWE"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasiwest.umojai",
+    "code": "KE_30_EMWE_UMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMWE"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasiwest.mowlem",
+    "code": "KE_30_EMWE_MOWL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMWE"
+  },
+  {
+    "tenantId": "kenya.nairobi.embakasiwest.kariobangisouth",
+    "code": "KE_30_EMWE_KASO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_EMWE"
+  },
+  {
+    "tenantId": "kenya.nairobi.kamukunji.mlangokubwa",
+    "code": "KE_30_KAMU_MLKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_KAMU"
+  },
+  {
+    "tenantId": "kenya.nairobi.kamukunji.california",
+    "code": "KE_30_KAMU_CALI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_KAMU"
+  },
+  {
+    "tenantId": "kenya.nairobi.kamukunji.eastleighnorth",
+    "code": "KE_30_KAMU_EANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_KAMU"
+  },
+  {
+    "tenantId": "kenya.nairobi.kamukunji.airbase",
+    "code": "KE_30_KAMU_AIRB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_KAMU"
+  },
+  {
+    "tenantId": "kenya.nairobi.kamukunji.mabatini",
+    "code": "KE_30_KAMU_MABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_KAMU"
+  },
+  {
+    "tenantId": "kenya.nairobi.kamukunji.pumwani",
+    "code": "KE_30_KAMU_PUMW",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_KAMU"
+  },
+  {
+    "tenantId": "kenya.nairobi.kasarani.ruai",
+    "code": "KE_30_KASA_RUAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_KASA"
+  },
+  {
+    "tenantId": "kenya.nairobi.kasarani.dandoraareaiv",
+    "code": "KE_30_KASA_DAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_KASA"
+  },
+  {
+    "tenantId": "kenya.nairobi.kasarani.njiru",
+    "code": "KE_30_KASA_NJIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_KASA"
+  },
+  {
+    "tenantId": "kenya.nairobi.kasarani.mwiki",
+    "code": "KE_30_KASA_MWIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_KASA"
+  },
+  {
+    "tenantId": "kenya.nairobi.kasarani.claycity",
+    "code": "KE_30_KASA_CLAY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_KASA"
+  },
+  {
+    "tenantId": "kenya.nairobi.kasarani.mwiki",
+    "code": "KE_30_KASA_MWIK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_KASA"
+  },
+  {
+    "tenantId": "kenya.nairobi.kibra.woodleykenyattagolf",
+    "code": "KE_30_KIBR_WOGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_KIBR"
+  },
+  {
+    "tenantId": "kenya.nairobi.kibra.makina",
+    "code": "KE_30_KIBR_MAKI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_KIBR"
+  },
+  {
+    "tenantId": "kenya.nairobi.kilimani.kileleshwa",
+    "code": "KE_30_KILI_KILE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_KILI"
+  },
+  {
+    "tenantId": "kenya.nairobi.kilimani.kilimani",
+    "code": "KE_30_KILI_KILI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_KILI"
+  },
+  {
+    "tenantId": "kenya.nairobi.kilimani.gatina",
+    "code": "KE_30_KILI_GATI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_KILI"
+  },
+  {
+    "tenantId": "kenya.nairobi.kilimani.kabiro",
+    "code": "KE_30_KILI_KABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_KILI"
+  },
+  {
+    "tenantId": "kenya.nairobi.kilimani.kawangware",
+    "code": "KE_30_KILI_KAWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_KILI"
+  },
+  {
+    "tenantId": "kenya.nairobi.langata.nairobiwest",
+    "code": "KE_30_LANG_NAWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_LANG"
+  },
+  {
+    "tenantId": "kenya.nairobi.langata.nyayohighrise",
+    "code": "KE_30_LANG_NYHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_LANG"
+  },
+  {
+    "tenantId": "kenya.nairobi.langata.lindi",
+    "code": "KE_30_LANG_LIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_LANG"
+  },
+  {
+    "tenantId": "kenya.nairobi.langata.lainisaba",
+    "code": "KE_30_LANG_LASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_LANG"
+  },
+  {
+    "tenantId": "kenya.nairobi.langata.sarangombe",
+    "code": "KE_30_LANG_SARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_LANG"
+  },
+  {
+    "tenantId": "kenya.nairobi.langata.mugumoini",
+    "code": "KE_30_LANG_MUGU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_LANG"
+  },
+  {
+    "tenantId": "kenya.nairobi.langata.karen",
+    "code": "KE_30_LANG_KARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_LANG"
+  },
+  {
+    "tenantId": "kenya.nairobi.langata.southc",
+    "code": "KE_30_LANG_SOUT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_LANG"
+  },
+  {
+    "tenantId": "kenya.nairobi.makadara.viwandani",
+    "code": "KE_30_MAKA_VIWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_MAKA"
+  },
+  {
+    "tenantId": "kenya.nairobi.makadara.harambee",
+    "code": "KE_30_MAKA_HARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_MAKA"
+  },
+  {
+    "tenantId": "kenya.nairobi.makadara.eastleighsouth",
+    "code": "KE_30_MAKA_EASO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_MAKA"
+  },
+  {
+    "tenantId": "kenya.nairobi.makadara.maringohamza",
+    "code": "KE_30_MAKA_MARI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_MAKA"
+  },
+  {
+    "tenantId": "kenya.nairobi.makadara.makongeni",
+    "code": "KE_30_MAKA_MAKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_MAKA"
+  },
+  {
+    "tenantId": "kenya.nairobi.mathare.huruma",
+    "code": "KE_30_MATH_HURU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_MATH"
+  },
+  {
+    "tenantId": "kenya.nairobi.mathare.ngei",
+    "code": "KE_30_MATH_NGEI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_MATH"
+  },
+  {
+    "tenantId": "kenya.nairobi.mathare.hospital",
+    "code": "KE_30_MATH_HOSP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_MATH"
+  },
+  {
+    "tenantId": "kenya.nairobi.mathare.kiamaiko",
+    "code": "KE_30_MATH_KIAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_MATH"
+  },
+  {
+    "tenantId": "kenya.nairobi.mathare.matharenorth",
+    "code": "KE_30_MATH_MANO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_MATH"
+  },
+  {
+    "tenantId": "kenya.nairobi.roysambu.githurai",
+    "code": "KE_30_ROYS_GITH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_ROYS"
+  },
+  {
+    "tenantId": "kenya.nairobi.roysambu.kahawa",
+    "code": "KE_30_ROYS_KAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_ROYS"
+  },
+  {
+    "tenantId": "kenya.nairobi.roysambu.zimmerman",
+    "code": "KE_30_ROYS_ZIMM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_ROYS"
+  },
+  {
+    "tenantId": "kenya.nairobi.roysambu.kahawawest",
+    "code": "KE_30_ROYS_KAWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_ROYS"
+  },
+  {
+    "tenantId": "kenya.nairobi.roysambu.roysambu",
+    "code": "KE_30_ROYS_ROYS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_ROYS"
+  },
+  {
+    "tenantId": "kenya.nairobi.ruaraka.kasarani",
+    "code": "KE_30_RUAR_KASA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_RUAR"
+  },
+  {
+    "tenantId": "kenya.nairobi.ruaraka.utalii",
+    "code": "KE_30_RUAR_UTAL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_RUAR"
+  },
+  {
+    "tenantId": "kenya.nairobi.ruaraka.babadogo",
+    "code": "KE_30_RUAR_BABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_RUAR"
+  },
+  {
+    "tenantId": "kenya.nairobi.ruaraka.luckysummer",
+    "code": "KE_30_RUAR_LUSU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_RUAR"
+  },
+  {
+    "tenantId": "kenya.nairobi.starehe.ziwanikariokor",
+    "code": "KE_30_STAR_ZIWA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_STAR"
+  },
+  {
+    "tenantId": "kenya.nairobi.starehe.landimawe",
+    "code": "KE_30_STAR_LAND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_STAR"
+  },
+  {
+    "tenantId": "kenya.nairobi.starehe.ngara",
+    "code": "KE_30_STAR_NGAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_STAR"
+  },
+  {
+    "tenantId": "kenya.nairobi.starehe.nairobisouth",
+    "code": "KE_30_STAR_NASO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_STAR"
+  },
+  {
+    "tenantId": "kenya.nairobi.starehe.nairobicentral",
+    "code": "KE_30_STAR_NACE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_STAR"
+  },
+  {
+    "tenantId": "kenya.nairobi.starehe.pangani",
+    "code": "KE_30_STAR_PANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_STAR"
+  },
+  {
+    "tenantId": "kenya.nairobi.westlands.parklandshighridge",
+    "code": "KE_30_WEST_PARK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_WEST"
+  },
+  {
+    "tenantId": "kenya.nairobi.westlands.kangemi",
+    "code": "KE_30_WEST_KANG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_WEST"
+  },
+  {
+    "tenantId": "kenya.nairobi.westlands.mountainview",
+    "code": "KE_30_WEST_MOVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_WEST"
+  },
+  {
+    "tenantId": "kenya.nairobi.westlands.karura",
+    "code": "KE_30_WEST_KARU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_WEST"
+  },
+  {
+    "tenantId": "kenya.nairobi.westlands.kitisuru",
+    "code": "KE_30_WEST_KITI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_30_WEST"
+  }
+]

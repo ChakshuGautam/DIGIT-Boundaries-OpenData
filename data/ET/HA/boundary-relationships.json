@@ -1,0 +1,23 @@
+[
+  {
+    "tenantId": "ethiopia.hareri",
+    "code": "ET_HA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "ET"
+  },
+  {
+    "tenantId": "ethiopia.hareri.hareri",
+    "code": "ET_HA_HARE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Zone",
+    "parent": "ET_HA"
+  },
+  {
+    "tenantId": "ethiopia.hareri.hareri.harar",
+    "code": "ET_HA_HARE_HARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_HA_HARE"
+  }
+]

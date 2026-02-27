@@ -1,0 +1,93 @@
+[
+  {
+    "tenantId": "kenya.lamu",
+    "code": "KE_21",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "County",
+    "parent": "KE"
+  },
+  {
+    "tenantId": "kenya.lamu.lamueast",
+    "code": "KE_21_LAEA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_21"
+  },
+  {
+    "tenantId": "kenya.lamu.lamuwest",
+    "code": "KE_21_LAWE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Sub-County",
+    "parent": "KE_21"
+  },
+  {
+    "tenantId": "kenya.lamu.lamueast.kiunga",
+    "code": "KE_21_LAEA_KIUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_21_LAEA"
+  },
+  {
+    "tenantId": "kenya.lamu.lamueast.basuba",
+    "code": "KE_21_LAEA_BASU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_21_LAEA"
+  },
+  {
+    "tenantId": "kenya.lamu.lamueast.faza",
+    "code": "KE_21_LAEA_FAZA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_21_LAEA"
+  },
+  {
+    "tenantId": "kenya.lamu.lamuwest.hongwe",
+    "code": "KE_21_LAWE_HONG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_21_LAWE"
+  },
+  {
+    "tenantId": "kenya.lamu.lamuwest.mkomani",
+    "code": "KE_21_LAWE_MKOM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_21_LAWE"
+  },
+  {
+    "tenantId": "kenya.lamu.lamuwest.shella",
+    "code": "KE_21_LAWE_SHEL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_21_LAWE"
+  },
+  {
+    "tenantId": "kenya.lamu.lamuwest.hindi",
+    "code": "KE_21_LAWE_HIND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_21_LAWE"
+  },
+  {
+    "tenantId": "kenya.lamu.lamuwest.witu",
+    "code": "KE_21_LAWE_WITU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_21_LAWE"
+  },
+  {
+    "tenantId": "kenya.lamu.lamuwest.bahari",
+    "code": "KE_21_LAWE_BAHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_21_LAWE"
+  },
+  {
+    "tenantId": "kenya.lamu.lamuwest.mkunumbi",
+    "code": "KE_21_LAWE_MKUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "KE_21_LAWE"
+  }
+]

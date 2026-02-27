@@ -1,0 +1,30 @@
+[
+  {
+    "tenantId": "ethiopia.diredawa",
+    "code": "ET_DD",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Region",
+    "parent": "ET"
+  },
+  {
+    "tenantId": "ethiopia.diredawa.diredawa",
+    "code": "ET_DD_DIDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Zone",
+    "parent": "ET_DD"
+  },
+  {
+    "tenantId": "ethiopia.diredawa.diredawa.diredawatown",
+    "code": "ET_DD_DIDA_DIDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_DD_DIDA"
+  },
+  {
+    "tenantId": "ethiopia.diredawa.diredawa.diredawa",
+    "code": "ET_DD_DIDA_DIDA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Woreda",
+    "parent": "ET_DD_DIDA"
+  }
+]
