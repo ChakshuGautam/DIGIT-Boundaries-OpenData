@@ -1,0 +1,793 @@
+[
+  {
+    "tenantId": "in.uttarpradesh.lko",
+    "code": "UP_LKO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "City",
+    "parent": "IN_UP"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.sarojninagarpart1",
+    "code": "UP_LKO_SAROJN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.sarojninagarpart2",
+    "code": "UP_LKO_SAROJN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.airport",
+    "code": "UP_LKO_AIRPOR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.rajabijlipasi",
+    "code": "UP_LKO_RAJABI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.shardanagar",
+    "code": "UP_LKO_SHARDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.ibrahimpur",
+    "code": "UP_LKO_IBRAHI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.kharika",
+    "code": "UP_LKO_KHARIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.vidyavati1st",
+    "code": "UP_LKO_VIDYAV",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.vidyavati2nd",
+    "code": "UP_LKO_VIDYAV2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.hindnagar",
+    "code": "UP_LKO_HINDNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.chitraguptnagar",
+    "code": "UP_LKO_CHITRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.kesrikheda",
+    "code": "UP_LKO_KESRIK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.ramjilalnagar",
+    "code": "UP_LKO_RAMJIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.gurunanaknagar",
+    "code": "UP_LKO_GURUNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.geetapalli",
+    "code": "UP_LKO_GEETAP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.gurugovindsinghward",
+    "code": "UP_LKO_GURUGO",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.omnagar",
+    "code": "UP_LKO_OMNAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.babukunjbiharilalward",
+    "code": "UP_LKO_BABUKU",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.sardarpatelnagar",
+    "code": "UP_LKO_SARDAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.alamnagar",
+    "code": "UP_LKO_ALAMNA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.shahdatganj",
+    "code": "UP_LKO_SHAHDA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.haidarganj2nd",
+    "code": "UP_LKO_HAIDAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.haidarganj1st",
+    "code": "UP_LKO_HAIDAR2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.kanhaiyamadhopur",
+    "code": "UP_LKO_KANHAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.rajajipuram",
+    "code": "UP_LKO_RAJAJI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.ambedkarnagar2nd",
+    "code": "UP_LKO_AMBEDK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.chandrabhanguptnagar",
+    "code": "UP_LKO_CHANDR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.babubanarsidas",
+    "code": "UP_LKO_BABUBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.vikramaditya",
+    "code": "UP_LKO_VIKRAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.ramtirath",
+    "code": "UP_LKO_RAMTIR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.mahatmagandhi",
+    "code": "UP_LKO_MAHATM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.lalkuan",
+    "code": "UP_LKO_LALKUA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.yadhunathsanyal",
+    "code": "UP_LKO_YADHUN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.ganeshganj",
+    "code": "UP_LKO_GANESH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.motilalnehru",
+    "code": "UP_LKO_MOTILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.kunwerjyotiprasad2nd",
+    "code": "UP_LKO_KUNWER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.hardeenrainagar",
+    "code": "UP_LKO_HARDEE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.kashmirimohalla",
+    "code": "UP_LKO_KASHMI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.labourcolony",
+    "code": "UP_LKO_LABOUR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.ambedkarnagar1st",
+    "code": "UP_LKO_AMBEDK2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.malviyanagar",
+    "code": "UP_LKO_MALVIY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.sheetladevi",
+    "code": "UP_LKO_SHEETL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.bhawaniganj",
+    "code": "UP_LKO_BHAWAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.aishbagh",
+    "code": "UP_LKO_AISHBA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.rajendranagar",
+    "code": "UP_LKO_RAJEND",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.basheeratganj",
+    "code": "UP_LKO_BASHEE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.tilaknagar",
+    "code": "UP_LKO_TILAKN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.kundrirakabganj",
+    "code": "UP_LKO_KUNDRI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.moulviyaganj",
+    "code": "UP_LKO_MOULVI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.ranilaxmibai",
+    "code": "UP_LKO_RANILA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.nazerbagh",
+    "code": "UP_LKO_NAZERB",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.jagdishchandrabose",
+    "code": "UP_LKO_JAGDIS",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.hazaratganj",
+    "code": "UP_LKO_HAZARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.rajarammohanrai",
+    "code": "UP_LKO_RAJARA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.maulanakalbeyabid2nd",
+    "code": "UP_LKO_MAULAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.gadipeerkhan",
+    "code": "UP_LKO_GADIPE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.ambarganj",
+    "code": "UP_LKO_AMBARG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.maulanakalbeyabid1st",
+    "code": "UP_LKO_MAULAN2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.asharfabad",
+    "code": "UP_LKO_ASHARF",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.rajabazar",
+    "code": "UP_LKO_RAJABA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.yahiyaganj",
+    "code": "UP_LKO_YAHIYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.balaganj",
+    "code": "UP_LKO_BALAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.mallahitola1st",
+    "code": "UP_LKO_MALLAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.mallahitola2nd",
+    "code": "UP_LKO_MALLAH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.daulatganj",
+    "code": "UP_LKO_DAULAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.acharyanarendradev",
+    "code": "UP_LKO_ACHARY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.hussainabad",
+    "code": "UP_LKO_HUSSAI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.chowkkalijibazar",
+    "code": "UP_LKO_CHOWKK",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.netajisubhashchandrabose",
+    "code": "UP_LKO_NETAJI",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.mashkganj",
+    "code": "UP_LKO_MASHKG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.wazeerganj",
+    "code": "UP_LKO_WAZEER",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.golaganjpeerjaleel",
+    "code": "UP_LKO_GOLAGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.faizullahganj2nd",
+    "code": "UP_LKO_FAIZUL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.faizullahganj1st",
+    "code": "UP_LKO_FAIZUL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.ayodhyadas",
+    "code": "UP_LKO_AYODHY",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.kadamrasul",
+    "code": "UP_LKO_KADAMR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.triveninagar",
+    "code": "UP_LKO_TRIVEN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.rafiahmadkidwai",
+    "code": "UP_LKO_RAFIAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.rajivgandhi1st",
+    "code": "UP_LKO_RAJIVG",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.rajivgandhi2nd",
+    "code": "UP_LKO_RAJIVG2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.chinhat",
+    "code": "UP_LKO_CHINHA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.papermillcolony",
+    "code": "UP_LKO_PAPERM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.nishatganj",
+    "code": "UP_LKO_NISHAT",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.colvincollege",
+    "code": "UP_LKO_COLVIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.niralanagar",
+    "code": "UP_LKO_NIRALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.mankameshwar",
+    "code": "UP_LKO_MANKAM",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.daliganj",
+    "code": "UP_LKO_DALIGA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.mahakavijaishankarprasad",
+    "code": "UP_LKO_MAHAKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.aliganjward",
+    "code": "UP_LKO_ALIGAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.vivekanandpuri",
+    "code": "UP_LKO_VIVEKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.mahanagar",
+    "code": "UP_LKO_MAHANA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.jankipuram1st",
+    "code": "UP_LKO_JANKIP",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.jankipuram2nd",
+    "code": "UP_LKO_JANKIP2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.bhartenduharishchandra",
+    "code": "UP_LKO_BHARTE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.bajrangbali",
+    "code": "UP_LKO_BAJRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.begumhazratmehal",
+    "code": "UP_LKO_BEGUMH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.lalalajpatrai",
+    "code": "UP_LKO_LALALA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.shankarpurwa1st",
+    "code": "UP_LKO_SHANKA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.shankarpurwa2nd",
+    "code": "UP_LKO_SHANKA2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.lohiyanagar",
+    "code": "UP_LKO_LOHIYA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.lalbahadurshastri1st",
+    "code": "UP_LKO_LALBAH",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.lalbahadurshastri2nd",
+    "code": "UP_LKO_LALBAH2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.gomtinagar",
+    "code": "UP_LKO_GOMTIN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.maithlisharangupt",
+    "code": "UP_LKO_MAITHL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.indranagar",
+    "code": "UP_LKO_INDRAN",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.babujagjivanram",
+    "code": "UP_LKO_BABUJA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.indirapriyadarshini",
+    "code": "UP_LKO_INDIRA",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.ismailganj2nd",
+    "code": "UP_LKO_ISMAIL",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.ismailganj1st",
+    "code": "UP_LKO_ISMAIL2",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.shaheedbhagatsingh",
+    "code": "UP_LKO_SHAHEE",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.kunwarjyotiprasad1st",
+    "code": "UP_LKO_KUNWAR",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  },
+  {
+    "tenantId": "in.uttarpradesh.lko.cantonment",
+    "code": "UP_LKO_CANTON",
+    "hierarchyType": "ADMIN",
+    "boundaryType": "Ward",
+    "parent": "UP_LKO"
+  }
+]

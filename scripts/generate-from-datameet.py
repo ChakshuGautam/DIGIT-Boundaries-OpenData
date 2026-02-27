@@ -269,6 +269,173 @@ def generate_state(state_iso, state_name, state_tenant, districts_geojson):
     return len(features)
 
 
+# ---------------------------------------------------------------------------
+# City / Ward generation
+# ---------------------------------------------------------------------------
+
+# city_folder → (state_iso, city_code, city_name)
+MUNICIPAL_CITIES = {
+    "Ahmedabad":     ("GJ", "AMD", "Ahmedabad"),
+    "Bangalore":     ("KA", "BLR", "Bengaluru"),
+    "Bhopal":        ("MP", "BPL", "Bhopal"),
+    "Bhubaneswar":   ("OR", "BBR", "Bhubaneswar"),
+    "Bodh_Gaya":     ("BR", "BGY", "Bodh Gaya"),
+    "Chandigarh":    ("CH", "CHD", "Chandigarh"),
+    "Chennai":       ("TN", "CHN", "Chennai"),
+    "Coimbatore":    ("TN", "CBE", "Coimbatore"),
+    "Delhi":         ("DL", "DEL", "Delhi"),
+    "Faridabad":     ("HR", "FBD", "Faridabad"),
+    "Hyderabad":     ("TG", "HYD", "Hyderabad"),
+    "Jaipur":        ("RJ", "JPR", "Jaipur"),
+    "Kanpur":        ("UP", "KNP", "Kanpur"),
+    "Katihar":       ("BR", "KTH", "Katihar"),
+    "Kishangarh":    ("RJ", "KSG", "Kishangarh"),
+    "Kolkata":       ("WB", "KOL", "Kolkata"),
+    "Lucknow":       ("UP", "LKO", "Lucknow"),
+    "Mumbai":        ("MH", "MUM", "Mumbai"),
+    "NMMC":          ("MH", "NMC", "Navi Mumbai"),
+    "PCMC":          ("MH", "PCM", "Pimpri Chinchwad"),
+    "Pune":          ("MH", "PNE", "Pune"),
+    "Purnia":        ("BR", "PRN", "Purnia"),
+    "Vadodara":      ("GJ", "VAD", "Vadodara"),
+    "Vijayawada":    ("AP", "VJA", "Vijayawada"),
+}
+
+# Priority order for extracting ward name from properties
+WARD_NAME_KEYS = [
+    "Ward_Name", "Ward_name", "KGISWardName", "Ward Name",
+    "name", "Name", "Name1", "WARD",
+]
+WARD_NO_KEYS = [
+    "Ward_No", "Ward_no", "ward_no", "Ward No", "Ward Num",
+    "KGISWardNo", "wardno", "wardnum", "WARD_NO", "Ward_Number",
+    "Ward_Number", "2011WardNumbers", "sno", "sn", "OBJECTID",
+    "objectid", "gid", "id",
+]
+
+
+def get_ward_name(props):
+    """Extract ward name from feature properties, trying multiple keys."""
+    for key in WARD_NAME_KEYS:
+        val = props.get(key)
+        if val and str(val).strip() and str(val).strip() != "None":
+            return str(val).strip()
+    # Fall back to ward number
+    for key in WARD_NO_KEYS:
+        val = props.get(key)
+        if val is not None and str(val).strip():
+            return f"Ward {str(val).strip()}"
+    return "Unknown Ward"
+
+
+def generate_city(state_iso, city_code, city_name, wards_geojson_path):
+    """Generate DIGIT files for a city from its ward polygon GeoJSON."""
+    city_dir = os.path.join(DATA_DIR, "IN", state_iso, city_code)
+    os.makedirs(city_dir, exist_ok=True)
+
+    with open(wards_geojson_path) as f:
+        wards_data = json.load(f)
+
+    features = wards_data.get("features", [])
+    if not features:
+        return 0
+
+    state_info = STATE_INFO.get(state_iso)
+    if not state_info:
+        return 0
+    _, state_tenant = state_info
+
+    city_code_full = f"{state_iso}_{city_code}"
+    city_tenant = f"in.{state_tenant}.{city_code.lower()}"
+
+    boundaries = []
+    relationships = []
+    used_codes = set()
+    all_lons, all_lats = [], []
+
+    for feat in features:
+        props = feat["properties"]
+        ward_name = get_ward_name(props)
+
+        c = centroid(feat["geometry"])
+        all_lons.append(c[0])
+        all_lats.append(c[1])
+
+        # Generate ward code
+        clean_name = re.sub(r'[^a-zA-Z0-9]', '', ward_name)
+        ward_abbr = clean_name[:6].upper() if clean_name else "W"
+        code = f"{city_code_full}_{ward_abbr}"
+        base_code = code
+        i = 2
+        while code in used_codes:
+            code = f"{base_code}{i}"
+            i += 1
+        used_codes.add(code)
+
+        # Ward tenant ID
+        ward_clean = re.sub(r'[^a-zA-Z0-9]', '', ward_name.lower())
+        tenant = f"{city_tenant}.{ward_clean}" if ward_clean else f"{city_tenant}.ward"
+
+        boundaries.append({
+            "code": code,
+            "tenantId": tenant,
+            "geometry": {"type": "Point", "coordinates": c}
+        })
+        relationships.append({
+            "tenantId": tenant,
+            "code": code,
+            "hierarchyType": "ADMIN",
+            "boundaryType": "Ward",
+            "parent": city_code_full
+        })
+
+    # City centroid
+    city_centroid = [
+        round(sum(all_lons) / len(all_lons), 6),
+        round(sum(all_lats) / len(all_lats), 6)
+    ] if all_lons else [0, 0]
+
+    # Prepend city entry
+    boundaries.insert(0, {
+        "code": city_code_full,
+        "tenantId": city_tenant,
+        "geometry": {"type": "Point", "coordinates": city_centroid}
+    })
+    relationships.insert(0, {
+        "tenantId": city_tenant,
+        "code": city_code_full,
+        "hierarchyType": "ADMIN",
+        "boundaryType": "City",
+        "parent": f"IN_{state_iso}"
+    })
+
+    with open(os.path.join(city_dir, "boundaries-flat.json"), "w") as f:
+        json.dump(boundaries, f, indent=2)
+
+    with open(os.path.join(city_dir, "boundary-relationships.json"), "w") as f:
+        json.dump(relationships, f, indent=2)
+
+    metadata = {
+        "name": city_name,
+        "code": city_code_full,
+        "level": "city",
+        "parentCode": f"IN_{state_iso}",
+        "tenantId": city_tenant,
+        "generatedAt": NOW,
+        "sources": [
+            {
+                "name": "datameet/Municipal_Spatial_Data - City Ward Boundaries",
+                "url": "https://github.com/datameet/Municipal_Spatial_Data",
+                "accessedAt": NOW
+            }
+        ]
+    }
+    with open(os.path.join(city_dir, "metadata.json"), "w") as f:
+        json.dump(metadata, f, indent=2)
+
+    return len(features)
+
+
 def main():
     print("=" * 60)
     print("Generating DIGIT files from datameet shapefiles")
@@ -369,11 +536,31 @@ def main():
     # Ladakh (LA) - not in datameet, part of old J&K
     # Telangana (TG) - only assembly constituencies in datameet, no districts
 
+    # --- City / Ward generation ---
     print()
     print("=" * 60)
-    print(f"Generated: {total_states} states, {total_districts} districts")
-    print(f"Skipped (already has agent data): {skipped_existing}")
-    print(f"Skipped (no datameet data): {skipped_nodata}")
+    print("Generating city ward boundaries from Municipal_Spatial_Data")
+    print("=" * 60)
+
+    total_cities = 0
+    total_wards = 0
+
+    for city_folder, (state_iso, city_code, city_name) in sorted(MUNICIPAL_CITIES.items(), key=lambda x: x[1][1]):
+        ward_path = os.path.join(DATA_DIR, "IN", state_iso, city_code, "boundaries-polygons-wards.geojson")
+        if not os.path.exists(ward_path):
+            print(f"  SKIP {city_code} ({city_name}): no ward polygon file")
+            continue
+
+        n = generate_city(state_iso, city_code, city_name, ward_path)
+        print(f"  {city_code} {city_name} ({state_iso}): {n} wards")
+        total_cities += 1
+        total_wards += n
+
+    print()
+    print("=" * 60)
+    print(f"States:  {total_states} generated, {total_districts} districts")
+    print(f"Cities:  {total_cities} generated, {total_wards} wards")
+    print(f"Skipped: {skipped_nodata} (no datameet data)")
     print("=" * 60)
 
 
